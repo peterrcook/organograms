@@ -32,7 +32,10 @@
 
       <img src="img/moj.jpg" onclick="showChart('moj')" />
     </div>
-    <canvas id="chart" width="800px" height="800px" />
+    <div id="chart">
+      <canvas id="chart-canvas" width="800px" height="800px"></canvas>
+      <div class="close-button" onclick="closeChart()">CLOSE</div>
+    </div>
   </div>
 
   <script src="js/d3.min.js"></script>

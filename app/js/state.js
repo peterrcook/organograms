@@ -14,6 +14,10 @@ function action(type, args) {
         state.selectedId = args.id;
         loadData();
         break;
+    case 'deselect':
+        state.selectedId = null;
+        update();
+        break;
     case 'newData':
         state.data = args.data;
         state.root = getRoot(state.data);

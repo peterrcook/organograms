@@ -12,4 +12,8 @@ function showChart(id) {
     action('selectDepartment', {id: id});
 }
 
+function closeChart() {
+    action('deselect');
+}
+
 action('resize');

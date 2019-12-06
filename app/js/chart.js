@@ -2,7 +2,7 @@ let allIds, allParentIds;
 
 let size = 400;
 
-const canvas = d3.select('#chart').node();
+const canvas = d3.select('#chart-canvas').node();
 const ctx = canvas.getContext('2d');
 
 function radToDeg(a) {
@@ -30,11 +30,13 @@ function update() {
 
     d3.select('#chart')
         .style('display', 'inline')
-        .attr('width', state.width)
-        .attr('height', state.height)
         .transition()
         .duration(1000)
         .style('opacity', 1);
+
+    d3.select('#chart-canvas')
+        .attr('width', state.width)
+        .attr('height', state.height);
 
 
     const padding = 20;
