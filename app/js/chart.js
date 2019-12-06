@@ -17,6 +17,7 @@ function ptFromAngDis(a, d) {
 }
 
 function update() {
+    console.time('update');
     if(!state.selectedId) {
         d3.select('#chart')
             .transition()
@@ -30,8 +31,8 @@ function update() {
 
     d3.select('#chart')
         .style('display', 'inline')
-        .transition()
-        .duration(1000)
+        // .transition()
+        // .duration(1000)
         .style('opacity', 1);
 
     d3.select('#chart-canvas')
@@ -46,10 +47,20 @@ function update() {
     treeLayout(state.root);
 
     ctx.fillStyle = "#aaa";
+    ctx.lineWidth = 1;
 
     ctx.save();
 
     ctx.clearRect(0, 0, 2 * size, 2 * size);
+
+    if(state.zoomTransform) {
+        var t = state.zoomTransform;
+        ctx.translate(t.x, t.y);
+        ctx.scale(t.k, t.k);
+
+        ctx.lineWidth = 1 / t.k;
+    }
+
     ctx.translate(size, size);
 
     // Nodes
@@ -85,5 +96,7 @@ function update() {
     });
 
     ctx.restore();
+
+    console.timeEnd('update');
 }
 

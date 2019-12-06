@@ -4,7 +4,9 @@ var state = {
 
     selectedId: null,
     data: null,
-    root: null
+    root: null,
+
+    zoomTransform: null
 }
 
 function action(type, args) {
@@ -21,6 +23,10 @@ function action(type, args) {
     case 'newData':
         state.data = args.data;
         state.root = getRoot(state.data);
+        update();
+        break;
+    case 'updateZoomTransform':
+        state.zoomTransform = args.transform;
         update();
         break;
     case 'resize':
