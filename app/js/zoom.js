@@ -1,8 +1,8 @@
 var zoom = d3.zoom()
-    .scaleExtent([0.5, 20])
+    .scaleExtent([1, 20])
     .on("zoom", handleZoom);
 
-d3.select('#chart-canvas')
+d3.select('#chart')
     .call(zoom);
 
 function handleZoom() {

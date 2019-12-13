@@ -30,10 +30,20 @@ body {
 }
 
 #chart .close-button {
-    position: absolute;
+    position: fixed;
     top: 1rem;
     right: 2rem;
     text-align: right;
+}
+
+canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+#vector-canvas {
+    display: none;
 }
 
 @media screen and (min-width: 30em) and (max-width: 60em) {

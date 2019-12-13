@@ -6,7 +6,12 @@ var state = {
     data: null,
     root: null,
 
-    zoomTransform: null
+    bitmapTransform: d3.zoomIdentity,
+    vectorTransform: d3.zoomIdentity,
+
+    size: 400,
+
+    vectorUpdateTimer: null
 }
 
 function action(type, args) {
@@ -18,21 +23,30 @@ function action(type, args) {
         break;
     case 'deselect':
         state.selectedId = null;
-        update();
+        state.bitmapTransform = d3.zoomIdentity;
+        state.vectorTransform = d3.zoomIdentity;
+        updateBitmapCanvas();
+        updateGallery();
         break;
     case 'newData':
         state.data = args.data;
         state.root = getRoot(state.data);
-        update();
+        updateAndCopyVectorCanvas();
+        updateGallery();
         break;
     case 'updateZoomTransform':
-        state.zoomTransform = args.transform;
-        update();
+        state.bitmapTransform = args.transform;
+        updateBitmapCanvas();
+
+        window.clearTimeout(state.vectorUpdateTimer);
+        state.vectorUpdateTimer = window.setTimeout(updateAndCopyVectorCanvas, 500);
         break;
     case 'resize':
         state.width = window.innerWidth;
         state.height = window.innerHeight;
-        update();
+        break;
+    case 'setVectorTransform':
+        state.vectorTransform = args.transform;
         break;
     default:
         console.log('Unknown action', type);
