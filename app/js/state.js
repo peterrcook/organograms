@@ -45,7 +45,7 @@ function action(type, args) {
         updateBitmapCanvas();
 
         window.clearTimeout(state.vectorUpdateTimer);
-        state.vectorUpdateTimer = window.setTimeout(updateAndCopyVectorCanvas, 1500);
+        state.vectorUpdateTimer = window.setTimeout(updateAndCopyVectorCanvas, 500);
         break;
     case 'resize':
         state.width = window.innerWidth;
