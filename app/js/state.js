@@ -5,6 +5,7 @@ var state = {
     selectedId: null,
     data: null,
     root: null,
+    links: [],
 
     bitmapTransform: d3.zoomIdentity,
     vectorTransform: d3.zoomIdentity,
@@ -31,6 +32,11 @@ function action(type, args) {
     case 'newData':
         state.data = args.data;
         state.root = getRoot(state.data);
+        applyTreeLayout(state.root);
+
+        state.nodes = state.root.descendants();
+        state.links = computeLinkPositions(state.root);
+
         updateAndCopyVectorCanvas();
         updateGallery();
         break;
@@ -39,7 +45,7 @@ function action(type, args) {
         updateBitmapCanvas();
 
         window.clearTimeout(state.vectorUpdateTimer);
-        state.vectorUpdateTimer = window.setTimeout(updateAndCopyVectorCanvas, 500);
+        state.vectorUpdateTimer = window.setTimeout(updateAndCopyVectorCanvas, 1500);
         break;
     case 'resize':
         state.width = window.innerWidth;

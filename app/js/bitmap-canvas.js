@@ -2,9 +2,10 @@ var bitmapCanvas = d3.select('#bitmap-canvas').node();
 var bitmapCtx = bitmapCanvas.getContext('2d');
 
 function updateBitmapCanvas() {
+    console.time('updateBitmapCanvas');
     if(!state.selectedId) {
         d3.select('#chart')
-            .transition()
+            // .transition()
             .style('opacity', 0)
             .on('end', function() {
                 d3.select(this)
@@ -58,5 +59,6 @@ function updateBitmapCanvas() {
 
    
     bitmapCtx.drawImage(vectorCanvas, 0, 0, state.width, state.height, x, y, state.width * k, state.height * k);
+    console.timeEnd('updateBitmapCanvas');
 }
 
