@@ -1,334 +1,334 @@
-date,level,id,parentId
-,,root,
-Sep-13,Senior,10000,root
-Sep-13,Senior,11000,10000
-Sep-13,Senior,11100,11000
-Sep-13,Senior,11101,11000
-Sep-13,Senior,11102,11000
-Sep-13,Senior,11103,11000
-Sep-13,Senior,11104,11000
-Sep-13,Senior,11106,11000
-Sep-13,Senior,11107,11000
-Sep-13,Senior,11109,11000
-Sep-13,Senior,11110,11000
-Sep-13,Senior,11112,11000
-Sep-13,Senior,11200,11000
-Sep-13,Senior,11201,11000
-Sep-13,Senior,11202,11000
-Sep-13,Senior,11203,11000
-Sep-13,Senior,11204,11000
-Sep-13,Senior,11205,10000
-Sep-13,Senior,11300,11000
-Sep-13,Senior,11301,11000
-Sep-13,Senior,11302,11000
-Sep-13,Senior,11304,11000
-Sep-13,Senior,11305,11000
-Sep-13,Senior,11306,11000
-Sep-13,Senior,11307,11000
-Sep-13,Senior,11308,11000
-Sep-13,Senior,11310,11000
-Sep-13,Senior,11311,11000
-Sep-13,Senior,11312,11000
-Sep-13,Senior,11313,11000
-Sep-13,Senior,11314,11000
-Sep-13,Senior,11315,11000
-Sep-13,Senior,11316,11000
-Sep-13,Senior,11317,13000
-Sep-13,Senior,11401,11000
-Sep-13,Senior,11402,11000
-Sep-13,Senior,11403,11000
-Sep-13,Senior,12000,10000
-Sep-13,Senior,12200,12000
-Sep-13,Senior,12201,12000
-Sep-13,Senior,12202,12000
-Sep-13,Senior,12203,12000
-Sep-13,Senior,12204,12000
-Sep-13,Senior,12205,12000
-Sep-13,Senior,12206,12000
-Sep-13,Senior,12207,12000
-Sep-13,Senior,12208,12000
-Sep-13,Senior,12209,12000
-Sep-13,Senior,12210,12000
-Sep-13,Senior,12301,12000
-Sep-13,Senior,12406,12000
-Sep-13,Senior,12500,12000
-Sep-13,Senior,12501,12000
-Sep-13,Senior,12600,12000
-Sep-13,Senior,12700,12000
-Sep-13,Senior,13000,10000
-Sep-13,Senior,13200,13000
-Sep-13,Senior,13201,13000
-Sep-13,Senior,13202,13000
-Sep-13,Senior,13203,13000
-Sep-13,Senior,13204,13000
-Sep-13,Senior,13205,13000
-Sep-13,Senior,13206,13000
-Sep-13,Senior,13207,13000
-Sep-13,Senior,13208,13000
-Sep-13,Senior,13300,13000
-Sep-13,Senior,13301,13000
-Sep-13,Senior,13302,13000
-Sep-13,Senior,13303,13000
-Sep-13,Senior,13304,13000
-Sep-13,Senior,13305,13000
-Sep-13,Senior,13306,13000
-Sep-13,Senior,13307,13000
-Sep-13,Senior,13308,13000
-Sep-13,Senior,13310,13000
-Sep-13,Senior,13312,13000
-Sep-13,Senior,13313,13000
-Sep-13,Senior,13314,13000
-Sep-13,Senior,13315,13000
-Sep-13,Senior,13316,13000
-Sep-13,Senior,13317,13000
-Sep-13,Senior,13318,13000
-Sep-13,Senior,13319,13000
-Sep-13,Senior,13320,13000
-Sep-13,Senior,13322,13000
-Sep-13,Senior,13323,13000
-Sep-13,Senior,13400,13000
-Sep-13,Senior,13401,13000
-Sep-13,Senior,13402,13000
-Sep-13,Senior,13403,13000
-Sep-13,Senior,13404,13000
-Sep-13,Senior,13405,13000
-Sep-13,Senior,13406,13000
-Sep-13,Senior,13407,13000
-Sep-13,Senior,13408,13000
-Sep-13,Senior,13409,13000
-Sep-13,Senior,13410,13000
-Sep-13,Senior,13411,13000
-Sep-13,Senior,13412,13000
-Sep-13,Senior,13413,13000
-Sep-13,Senior,13500,13000
-Sep-13,Senior,13700,13000
-Sep-13,Senior,14000,10000
-Sep-13,Senior,14100,14000
-Sep-13,Senior,14300,14000
-Sep-13,Senior,14400,14000
-Sep-13,Senior,14500,14000
-Sep-13,Senior,15000,10000
-Sep-13,Senior,16000,10000
-Sep-13,Senior,16100,16000
-Sep-13,Senior,16200,16000
-Sep-13,Senior,16300,16000
-Sep-13,Senior,17000,16000
-Sep-13,Senior,18000,10000
-Sep-13,Senior,18001,root
-Sep-13,Senior,18002,18001
-Sep-13,Senior,19100,10000
-Sep-13,Senior,19300,10000
-Sep-13,Senior,19400,10000
-Sep-13,Senior,20000,10000
-Sep-13,Senior,13701,10000
-Sep-13,Senior,A,14100
-Sep-13,Senior,B,14100
-Sep-13,Senior,C,14100
-Sep-13,Senior,D,14100
-Sep-13,Senior,E,14100
-Sep-13,Senior,F,14100
-Sep-13,Senior,G,14100
-Sep-13,Senior,H,14100
-Sep-13,Senior,I,14100
-Sep-13,Senior,J,14100
-Sep-13,Senior,K,14100
-Sep-13,Junior,,12000
-Sep-13,Junior,,12000
-Sep-13,Junior,,12000
-Sep-13,Junior,,12000
-Sep-13,Junior,,12000
-Sep-13,Junior,,12000
-Sep-13,Junior,,12000
-Sep-13,Junior,,12000
-Sep-13,Junior,,12000
-Sep-13,Junior,,12000
-Sep-13,Junior,,12000
-Sep-13,Junior,,12000
-Sep-13,Junior,,12000
-Sep-13,Junior,,12000
-Sep-13,Junior,,12000
-Sep-13,Junior,,13000
-Sep-13,Junior,,13000
-Sep-13,Junior,,13000
-Sep-13,Junior,,13000
-Sep-13,Junior,,13000
-Sep-13,Junior,,13000
-Sep-13,Junior,,13000
-Sep-13,Junior,,13000
-Sep-13,Junior,,13000
-Sep-13,Junior,,13000
-Sep-13,Junior,,13000
-Sep-13,Junior,,13000
-Sep-13,Junior,,13000
-Sep-13,Junior,,13000
-Sep-13,Junior,,13000
-Sep-13,Junior,,13000
-Sep-13,Junior,,13000
-Sep-13,Junior,,13000
-Sep-13,Junior,,13000
-Sep-13,Junior,,13000
-Sep-13,Junior,,13000
-Sep-13,Junior,,13000
-Sep-13,Junior,,13000
-Sep-13,Junior,,13000
-Sep-13,Junior,,13000
-Sep-13,Junior,,13000
-Sep-13,Junior,,13000
-Sep-13,Junior,,13000
-Sep-13,Junior,,13000
-Sep-13,Junior,,13000
-Sep-13,Junior,,13000
-Sep-13,Junior,,13000
-Sep-13,Junior,,13000
-Sep-13,Junior,,13000
-Sep-13,Junior,,13000
-Sep-13,Junior,,13000
-Sep-13,Junior,,13000
-Sep-13,Junior,,13000
-Sep-13,Junior,,13000
-Sep-13,Junior,,13000
-Sep-13,Junior,,13000
-Sep-13,Junior,,13000
-Sep-13,Junior,,13000
-Sep-13,Junior,,13000
-Sep-13,Junior,,13000
-Sep-13,Junior,,14000
-Sep-13,Junior,,14000
-Sep-13,Junior,,14000
-Sep-13,Junior,,14000
-Sep-13,Junior,,14000
-Sep-13,Junior,,14000
-Sep-13,Junior,,14000
-Sep-13,Junior,,14000
-Sep-13,Junior,,14000
-Sep-13,Junior,,14000
-Sep-13,Junior,,14000
-Sep-13,Junior,,14000
-Sep-13,Junior,,14000
-Sep-13,Junior,,14000
-Sep-13,Junior,,14000
-Sep-13,Junior,,14000
-Sep-13,Junior,,14000
-Sep-13,Junior,,14000
-Sep-13,Junior,,14000
-Sep-13,Junior,,14000
-Sep-13,Junior,,14000
-Sep-13,Junior,,14000
-Sep-13,Junior,,14000
-Sep-13,Junior,,14000
-Sep-13,Junior,,14000
-Sep-13,Junior,,14000
-Sep-13,Junior,,14000
-Sep-13,Junior,,14000
-Sep-13,Junior,,14000
-Sep-13,Junior,,14000
-Sep-13,Junior,,14000
-Sep-13,Junior,,14000
-Sep-13,Junior,,14000
-Sep-13,Junior,,14000
-Sep-13,Junior,,14000
-Sep-13,Junior,,14000
-Sep-13,Junior,,18000
-Sep-13,Junior,,18000
-Sep-13,Junior,,18000
-Sep-13,Junior,,18000
-Sep-13,Junior,,18000
-Sep-13,Junior,,18000
-Sep-13,Junior,,18000
-Sep-13,Junior,,14000
-Sep-13,Junior,,14000
-Sep-13,Junior,,14000
-Sep-13,Junior,,14000
-Sep-13,Junior,,14000
-Sep-13,Junior,,14000
-Sep-13,Junior,,14000
-Sep-13,Junior,,10000
-Sep-13,Junior,,10000
-Sep-13,Junior,,10000
-Sep-13,Junior,,10000
-Sep-13,Junior,,10000
-Sep-13,Junior,,10000
-Sep-13,Junior,,10000
-Sep-13,Junior,,11000
-Sep-13,Junior,,11000
-Sep-13,Junior,,11000
-Sep-13,Junior,,11000
-Sep-13,Junior,,11000
-Sep-13,Junior,,11000
-Sep-13,Junior,,11000
-Sep-13,Junior,,11000
-Sep-13,Junior,,11000
-Sep-13,Junior,,11000
-Sep-13,Junior,,11000
-Sep-13,Junior,,11000
-Sep-13,Junior,,11000
-Sep-13,Junior,,11000
-Sep-13,Junior,,11000
-Sep-13,Junior,,11000
-Sep-13,Junior,,11000
-Sep-13,Junior,,11000
-Sep-13,Junior,,11000
-Sep-13,Junior,,11000
-Sep-13,Junior,,11000
-Sep-13,Junior,,11000
-Sep-13,Junior,,11000
-Sep-13,Junior,,11000
-Sep-13,Junior,,11000
-Sep-13,Junior,,12000
-Sep-13,Junior,,12000
-Sep-13,Junior,,12000
-Sep-13,Junior,,12000
-Sep-13,Junior,,12000
-Sep-13,Junior,,12000
-Sep-13,Junior,,12000
-Sep-13,Junior,,12000
-Sep-13,Junior,,12000
-Sep-13,Junior,,12000
-Sep-13,Junior,,12000
-Sep-13,Junior,,12000
-Sep-13,Junior,,12000
-Sep-13,Junior,,12000
-Sep-13,Junior,,12000
-Sep-13,Junior,,12000
-Sep-13,Junior,,14000
-Sep-13,Junior,,14000
-Sep-13,Junior,,14000
-Sep-13,Junior,,14000
-Sep-13,Junior,,14000
-Sep-13,Junior,,14000
-Sep-13,Junior,,14000
-Sep-13,Junior,,14000
-Sep-13,Junior,,14000
-Sep-13,Junior,,14000
-Sep-13,Junior,,14000
-Sep-13,Junior,,14000
-Sep-13,Junior,,14000
-Sep-13,Junior,,14000
-Sep-13,Junior,,14000
-Sep-13,Junior,,14000
-Sep-13,Junior,,14000
-Sep-13,Junior,,14000
-Sep-13,Junior,,14000
-Sep-13,Junior,,14000
-Sep-13,Junior,,14000
-Sep-13,Junior,,11000
-Sep-13,Junior,,11000
-Sep-13,Junior,,11000
-Sep-13,Junior,,11000
-Sep-13,Junior,,11000
-Sep-13,Junior,,11000
-Sep-13,Junior,,11000
-Sep-13,Junior,,11000
-Sep-13,Junior,,11000
-Sep-13,Junior,,11000
-Sep-13,Junior,,11000
-Sep-13,Junior,,11000
-Sep-13,Junior,,11000
-Sep-13,Junior,,11000
-Sep-13,Junior,,20000
-Sep-13,Junior,,20000
-Sep-13,Junior,,20000
-Sep-13,Junior,,20000
-Sep-13,Junior,,20000
-Sep-13,Junior,,20000
-Sep-13,Junior,,20000
+id,parentId,date,level,name,grade,jobTitle,unit,salaryCostOfReports,payFloor,payCeil,professionalOccupationalGroup
+root,,,,,,,,,,,
+10000,root,Sep-13,Senior,Simon Fraser,SCS4,Permanent Under-Secretary and Head of the Diplomatic Service,PUS,0,"180,000","184,999",
+11000,10000,Sep-13,Senior,Simon Gass,SCS3,Director General Political,DG Political,0,"135,000","139,999",
+11100,11000,Sep-13,Senior,Richard Crompton,SCS2,Director South Asia and Afghanistan,South Asia & Afghanistan Directorate,0,"90,000","94,999",
+11101,11000,Sep-13,Senior,Charles Stagg,SCS3,HMA Kabul,South Asia & Afghanistan Directorate,0,"140,000","144,999",
+11102,11000,Sep-13,Senior,James Bevan,SCS3,BHC New Delhi,South Asia & Afghanistan Directorate,0,"135,000","139,999",
+11103,11000,Sep-13,Senior,Adam Thomson,SCS3,BHC Islamabad,South Asia & Afghanistan Directorate,0,"130,000","134,999",
+11104,11000,Sep-13,Senior,Robert Gibson,SCS2,BHC Dhaka,South Asia & Afghanistan Directorate,0,"85,000","89,999",
+11106,11000,Sep-13,Senior,John Rankin,SCS2,BHC Colombo,South Asia & Afghanistan Directorate,0,"85,000","89,999",
+11107,11000,Sep-13,Senior,Robert Chatterton-Dickson,SCS2,DHM Kabul,South Asia & Afghanistan Directorate,0,"85,000","89,999",
+11109,11000,Sep-13,Senior,Alison Blake,SCS2,DHM Islamabad,South Asia & Afghanistan Directorate,0,"85,000","89,999",
+11110,11000,Sep-13,Senior,Catherine Royle,SCS2,Kabul - General,South Asia & Afghanistan Directorate,0,"85,000","89,999",
+11112,11000,Sep-13,Senior,Peter Beckingham,SCS2,DHC Mumbai,South Asia & Afghanistan Directorate,0,"85,000","89,999",
+11200,11000,Sep-13,Senior,Paul Arkwright,SCS2,Director International Institutions,International Institutions Directorate,0,"85,000","89,999",
+11201,11000,Sep-13,Senior,Alison Leslie,SCS3,HMA and Permanent Representative to NATO,International Institutions Directorate,0,"120,000","124,999",
+11202,11000,Sep-13,Senior,Mark Lyall Grant,SCS3,Permanent Representative and Ambassador to the United Nations,International Institutions Directorate,0,"145,000","149,999",
+11203,11000,Sep-13,Senior,Patrick Turner,SCS2,Deputy Permanent Representative to NATO,International Institutions Directorate,0,"85,000","89,999",
+11204,11000,Sep-13,Senior,Post Deleted,SCS2,HMA and Deputy Permanent Representative to the United Nations,International Institutions Directorate,0,0,0,
+11205,10000,Sep-13,Senior,Peter Wilson,SCS2,General - Permanent Representative to United Nations,International Institutions Directorate,0,"85,000","89,999",
+11300,11000,Sep-13,Senior,David Quarrey,SCS2,Director Middle East & North Africa,Middle East & North Africa Directorate,0,"85,000","89,999",
+11301,11000,Sep-13,Senior,Simon Collis,SCS2,HMA Baghdad,Middle East & North Africa Directorate,0,"85,000","89,999",
+11302,11000,Sep-13,Senior,John Jenkins,SCS3,HMA Riyadh,Middle East & North Africa Directorate,0,"125,000","129,999",
+11304,11000,Sep-13,Senior,James Watt,SCS2,HMA Cairo,Middle East & North Africa Directorate,0,"90,000","94,999",
+11305,11000,Sep-13,Senior,Francis Baker,SCS2,HMA Kuwait,Middle East & North Africa Directorate,0,"90,000","94,999",
+11306,11000,Sep-13,Senior,Vacant,SCS2,HMA Damascus,Middle East & North Africa Directorate,0,0,0,
+11307,11000,Sep-13,Senior,Vincent Fean,SCS2,"Head of Post, Jerusalem",Middle East & North Africa Directorate,0,"85,000","89,999",
+11308,11000,Sep-13,Senior,Matthew Gould,SCS2,HMA Tel Aviv,Middle East & North Africa Directorate,0,"90,000","94,999",
+11310,11000,Sep-13,Senior,Dominic Jermey,SCS2,HMA United Arab Emirates,Middle East & North Africa Directorate,0,"90,000","94,999",
+11311,11000,Sep-13,Senior,Peter Millett,SCS2,HMA Amman,Middle East & North Africa Directorate,0,"90,000","94,999",
+11312,11000,Sep-13,Senior,Michael Aron,SCS3,HMA Tripoli,Middle East & North Africa Directorate,0,"95,000","99,999",
+11313,11000,Sep-13,Senior,Nick Hopton,SCS2,HMA Doha,Middle East & North Africa Directorate,0,"85,000","89,999",
+11314,11000,Sep-13,Senior,Edward Oakden,SCS2,Additional Director Middle East & North Africa,Middle East & North Africa Directorate,0,"105,000","109,999",
+11315,11000,Sep-13,Senior,Jonathan Davies,SCS2,Additional Director Middle East & North Africa,Middle East & North Africa Directorate,0,"85,000","89,999",
+11316,11000,Sep-13,Senior,Philip Parham,SCS2,Additional Director Middle East & North Africa,Middle East & North Africa Directorate,0,"90,000","94,999",
+11317,13000,Sep-13,Senior,Thomas Fletcher,SCS2,HMA Beirut,Middle East & North Africa Directorate,0,"85,000","89,999",
+11401,11000,Sep-13,Senior,Timothy Barrow,SCS3,HMA Moscow,Eastern Europe and Central Asia Directorate,0,"125,000","129,999",
+11402,11000,Sep-13,Senior,Denis Keefe,SCS2,DHM Moscow,Eastern Europe and Central Asia Directorate,0,"85,000","89,999",
+11403,11000,Sep-13,Senior,Simon Smith,SCS2,HMA Kyiv,Eastern Europe and Central Asia Directorate,0,"95,000","99,999",
+12000,10000,Sep-13,Senior,Robert Hannigan,SCS3,Director General Defence & Intelligence,DG Defence & Intelligence,0,"130,000","134,999",
+12200,12000,Sep-13,Senior,Katherine Smith,SCS2,Director Americas,Americas Directorate,0,"85,000","89,999",
+12201,12000,Sep-13,Senior,Peter Westmacott,SCS4,HMA Washington,Americas Directorate,0,"170,000","174,999",
+12202,12000,Sep-13,Senior,Alex Ellis,SCS3,HMA Brasilia,Americas Directorate,0,"105,000","109,999",
+12203,12000,Sep-13,Senior,Partick Davis,SCS2,DHM Washington,Americas Directorate,0,"85,000","89,999",
+12204,12000,Sep-13,Senior,Daniel Lopez,SCS2,British Consul General and Director General Trade and Investment USA,Americas Directorate,0,"120,000","124,999",
+12205,12000,Sep-13,Senior,Lindsay Croisdale-Appleby,SCS2,HMA Bogota,Americas Directorate,0,"85,000","89,999",
+12206,12000,Sep-13,Senior,David Fitton,SCS2,HMA Kingston,Americas Directorate,0,"85,000","89,999",
+12207,12000,Sep-13,Senior,Duncan Talyor,SCS2,HMA Mexico City,Americas Directorate,0,"90,000","94,999",
+12208,12000,Sep-13,Senior,John Freeman,SCS2,HMA Buenos Aires,Americas Directorate,0,"90,000","94,999",
+12209,12000,Sep-13,Senior,Catherine Nettleton,SCS2,HMA Caracas,Americas Directorate,0,"85,000","89,999",
+12210,12000,Sep-13,Senior,Howard Drake,SCS2,BHC Ottawa,Americas Directorate,0,"90,000","94,999",
+12301,12000,Sep-13,Senior,Susan D'Allegeershecque,SCS2,HMA Vienna and UK Permanent Representative to the UN and other International Organisations in Vienna,Defence and Strategic Threats Directorate,0,"85,000","89,999",
+12406,12000,Sep-13,Senior,Peter Hayes,SCS2,OT - Director,Overseas Territories Directorate,0,"85,000","89,999",
+12500,12000,Sep-13,Senior,Laurence Bristow,SCS2,Director National Security,National Security Directorate,0,"85,000","89,999",
+12501,12000,Sep-13,Senior,Timothy Dowse,SCS2,Director National Security,National Security Directorate,0,"85,000","89,999",
+12600,12000,Sep-13,Senior,Sarah Macintosh,SCS2,Director Defence & International Security,Defence and International Security Directorate,0,"85,000","89,999",
+12700,12000,Sep-13,Senior,Vacant,SCS2,Director Cyber Poilicy,Cyber Policy Directorate,0,0,0,
+13000,10000,Sep-13,Senior,Barbara Woodward,SCS3,DG Economic and Consular,DG Europe & Globalisation,0,"120,000","124,999",
+13200,13000,Sep-13,Senior,Nicolas Hailey,SCS2,Director Africa,Africa Directorate,0,"85,000","89,999",
+13201,13000,Sep-13,Senior,Deborah Bronnert,SCS2,HMA Harare,Africa Directorate,0,"85,000","89,999",
+13202,13000,Sep-13,Senior,Nicola Brewer,SCS3,BHC Pretoria,Africa Directorate,0,"135,000","139,999",
+13203,13000,Sep-13,Senior,Andrew Pocock,SCS3,BHC Abuja,Africa Directorate,0,"105,000","109,999",
+13204,13000,Sep-13,Senior,Peter Tibber,SCS2,HMA Khartoum,Africa Directorate,0,"90,000","94,999",
+13205,13000,Sep-13,Senior,Gregory Dorey,SCS2,HMA Addis Ababa,Africa Directorate,0,"90,000","94,999",
+13206,13000,Sep-13,Senior,Christian Turner,SCS2,BHC Nairobi,Africa Directorate,0,"85,000","89,999",
+13207,13000,Sep-13,Senior,Peter Jones,SCS2,BHC Accra,Africa Directorate,0,"85,000","89,999",
+13208,13000,Sep-13,Senior,John Dennis,SCS2,ADS - General,Africa Directorate,0,"85,000","89,999",
+13300,13000,Sep-13,Senior,Vijay Rangarajan,SCS2,Director Europe,Europe Directorate,0,"85,000","89,999",
+13301,13000,Sep-13,Senior,Jon Cunliffe,SCS4,UK Permanent Representative to the EU,Europe Directorate,0,"170,000","174,999",
+13302,13000,Sep-13,Senior,Shan Morgan,SCS3,Deputy Permanent Representative to the EU,Europe Directorate,0,"115,000","119,999",
+13303,13000,Sep-13,Senior,Simon Mcdonald,SCS3,HMA Berlin,Europe Directorate,0,"130,000","134,999",
+13304,13000,Sep-13,Senior,Giles Paxman,SCS3,HMA Madrid,Europe Directorate,0,"115,000","119,999",
+13305,13000,Sep-13,Senior,David Reddaway,SCS3,HMA Ankara,Europe Directorate,0,"115,000","119,999",
+13306,13000,Sep-13,Senior,Peter Ricketts,SCS4,HMA Paris,Europe Directorate,0,"170,000","174,999",
+13307,13000,Sep-13,Senior,Geoffrey Adams,SCS2,HMA The Hague,Europe Directorate,0,"130,000","134,999",
+13308,13000,Sep-13,Senior,Julian Braithwaite,SCS2,Political and Security Committee Ambassador to the EU,Europe Directorate,0,"85,000","89,999",
+13310,13000,Sep-13,Senior,Vacant,SCS2,HMA Belgrade,Europe Directorate,0,0,0,
+13312,13000,Sep-13,Senior,Karen Pierce,SCS2,Head of Post UKMIS Geneva,Europe Directorate,0,"90,000","94,999",
+13313,13000,Sep-13,Senior,Adrian Johns,SCS2,"Governor and Commander-in-Chief, Gibraltar",Europe Directorate,0,"130,000","134,999",
+13314,13000,Sep-13,Senior,Matthew Kidd,SCS2,BHC Nicosia,Europe Directorate,0,"85,000","89,999",
+13315,13000,Sep-13,Senior,Dominick Chilcott,SCS2,HMA Dublin,Europe Directorate,0,"90,000","94,999",
+13316,13000,Sep-13,Senior,John Kittmer,SCS2,HMA Athens,Europe Directorate,0,"85,000","89,999",
+13317,13000,Sep-13,Senior,Paul Johnston,SCS2,HMA Stockholm,Europe Directorate,0,"90,000","94,999",
+13318,13000,Sep-13,Senior,Christopher Prentice,SCS2,HMA Rome,Europe Directorate,0,"115,000","119,999",
+13319,13000,Sep-13,Senior,Robin Barnett,SCS2,HMA Warsaw,Europe Directorate,0,"90,000","94,999",
+13320,13000,Sep-13,Senior,Andrew Noble,SCS2,DHM Berlin,Europe Directorate,0,"90,000","94,999",
+13322,13000,Sep-13,Senior,Robert Turner,SCS2,British Consul General Istanbul,Europe Directorate,0,"90,000","94,999",
+13323,13000,Sep-13,Senior,Jill Morris,SCS2,Director EU - General,Europe Directorate,0,"85,000","89,999",
+13400,13000,Sep-13,Senior,Stephen Lille,SCS2,Director Asia Pacific,Asia Pacific Directorate,0,"85,000","89,999",
+13401,13000,Sep-13,Senior,Timothy Hitchens,SCS3,HMA Tokyo,Asia Pacific Directorate,0,"125,000","129,999",
+13402,13000,Sep-13,Senior,James Wood,SCS3,HMA Beijing,Asia Pacific Directorate,0,"135,000","139,999",
+13403,13000,Sep-13,Senior,Mark Kent,SCS2,HMA Bangkok,Asia Pacific Directorate,0,"85,000","89,999",
+13404,13000,Sep-13,Senior,Simon Featherstone,SCS2,BHC Kuala Lumpur,Asia Pacific Directorate,0,"90,000","94,999",
+13405,13000,Sep-13,Senior,Julia Longbottom,SCS2,DHM Tokyo,Asia Pacific Directorate,0,"85,000","89,999",
+13406,13000,Sep-13,Senior,Mark Canning,SCS2,HMA Jakarta,Asia Pacific Directorate,0,"85,000","89,999",
+13407,13000,Sep-13,Senior,Paul Madden,SCS2,BHC Canberra,Asia Pacific Directorate,0,"90,000","94,999",
+13408,13000,Sep-13,Senior,Caroline Wilson,SCS2,British Consul General to Hong Kong and Macao,Asia Pacific Directorate,0,"85,000","89,999",
+13409,13000,Sep-13,Senior,Andrew Wightman,SCS2,HMA Seoul,Asia Pacific Directorate,0,"95,000","99,999",
+13410,13000,Sep-13,Senior,Andrew Key,SCS2,DHM Beijing,Asia Pacific Directorate,0,"85,000","89,999",
+13411,13000,Sep-13,Senior,Antony Phillipson,SCS2,BHC Singapore,Asia Pacific Directorate,0,"85,000","89,999",
+13412,13000,Sep-13,Senior,Christopher Wood,SCS2,Taipei - General,Asia Pacific Directorate,0,"85,000","89,999",
+13413,13000,Sep-13,Senior,Asif Ahmad,SCS2,HMA Manila,Asia Pacific Directorate,0,"85,000","89,999",
+13500,13000,Sep-13,Senior,Charles Hay,SCS2,Director Consular,Consular Directorate,0,"85,000","89,999",
+13700,13000,Sep-13,Senior,Andrew Mitchell,SCS2,Director Prosperity,Prosperity Directorate,0,"90,000","94,999",
+14000,10000,Sep-13,Senior,Matthew Rycroft,SCS3,Director General Operations,DG Operations (Formerly C&D),0,"125,000","129,999",
+14100,14000,Sep-13,Senior,Menna Rawlings,SCS2,Director Human Resources,Human Resources Directorate,0,"85,000","89,999",
+14300,14000,Sep-13,Senior,Iain Walker,SCS2,Director Finance,Finance Directorate,0,"95,000","99,999",
+14400,14000,Sep-13,Senior,David Cairns,SCS2,Director Estates and Security,Estates & Security Directorate,0,"85,000","89,999",
+14500,14000,Sep-13,Senior,Colin Martin-Reynolds,SCS2,Chief Information Officer,Information & Technology Directorate,0,"85,000","89,999",
+15000,10000,Sep-13,Senior,Neil Morisetti,SCS3,Special Representative for Climate Change,PUS,0,"120,000","124,999",
+16000,10000,Sep-13,Senior,Iain Macleod,SCS3,Legal Adviser,PUS,0,"125,000","129,999",
+16100,16000,Sep-13,Senior,Catherine Adams,SCS2,Deputy Legal Adviser,PUS,0,"90,000","94,999",
+16200,16000,Sep-13,Senior,John Grainger,SCS2,Deputy Legal Adviser,PUS,0,"95,000","99,999",
+16300,16000,Sep-13,Senior,Christopher Whomersley,SCS2,Deputy Legal Adviser,PUS,0,"100,000","104,999",
+17000,16000,Sep-13,Senior,Robin Grimes,SCS3,Chief Scientific Adviser,PUS,0,"125,000","129,999",
+18000,10000,Sep-13,Senior,Nicholas Baird,SCS3,Chief Executive UKTI,UK Trade & Investment,0,"135,000","139,999",
+18001,root,Sep-13,Senior,Catherine Raines,SCS2,UKTI Beijing,UK Trade & Investment,0,"130,000","134,999",
+18002,18001,Sep-13,Senior,Kumar Iyer,SCS2,UKTI Mumbai,UK Trade & Investment,0,"90,000","94,999",
+19100,10000,Sep-13,Senior,Hugh Elliott,SCS2,Director Communications,Communications Directorate,0,"85,000","89,999",
+19300,10000,Sep-13,Senior,Tom Drew,SCS2,Principal Private Secretary,Central Units,0,"85,000","89,999",
+19400,10000,Sep-13,Senior,Gregor Irwin,SCS2,Chief Economist,PUS,0,0,0,
+20000,10000,Sep-13,Senior,Richard Burge,SCS2,Director Wilton Park,Wilton Park,0,"115,000","119,999",
+13701,10000,Sep-13,Senior,Dominic Martin,SCS2,Director Prosperity ,Prosperity Directorate,0,"85,000","89,999",
+A,14100,Sep-13,Senior,Alastair McPhail,SCS2,FTLT - Other,Human Resources Directorate,0,"60,000","64,999",
+B,14100,Sep-13,Senior,Anwar Choudhury,SCS2,Corporate Position,Human Resources Directorate,0,"90,000","94,999",
+C,14100,Sep-13,Senior,Catriona Laing,SCS2,Corporate Position,Human Resources Directorate,0,"85,000","89,999",
+D,14100,Sep-13,Senior,James Dutton,SCS2,Corporate Position,Human Resources Directorate,0,"130,000","134,999",
+E,14100,Sep-13,Senior,Judith Macgregor,SCS2,Corporate Position,Human Resources Directorate,0,"90,000","94,999",
+F,14100,Sep-13,Senior,Michael Angus O'Neill,SCS2,Corporate Position,Human Resources Directorate,0,"85,000","89,999",
+G,14100,Sep-13,Senior,Peter Hill,SCS2,Corporate Position,Human Resources Directorate,0,"85,000","89,999",
+H,14100,Sep-13,Senior,Philip Barton,SCS2,Corporate Position,Human Resources Directorate,0,"85,000","89,999",
+I,14100,Sep-13,Senior,Simon Manley,SCS3,FTLT - Other,Human Resources Directorate,0,"90,000","94,999",
+J,14100,Sep-13,Senior,Susannah Simon,SCS2,Corporate Position,Human Resources Directorate,0,"85,000","89,999",
+K,14100,Sep-13,Senior,William Harrison,SCS2,Corporate Position,Human Resources Directorate,0,"85,000","89,999",
+,12000,Sep-13,Junior,,SMS1,Policy Adviser,National Security Directorate,0,"60,000","117,800",Policy
+,12000,Sep-13,Junior,,D7,Policy Adviser,National Security Directorate,0,"54,883","68,539",Policy
+,12000,Sep-13,Junior,,D6,Policy Adviser,National Security Directorate,0,"43,514","56,339",Policy
+,12000,Sep-13,Junior,,C5,Policy Adviser,National Security Directorate,0,"33,075","40,905",Policy
+,12000,Sep-13,Junior,,C4,Policy Adviser,National Security Directorate,0,"26,363","32,834",Policy
+,12000,Sep-13,Junior,,B3,Policy Adviser,National Security Directorate,0,"21,646","28,118",Policy
+,12000,Sep-13,Junior,,A2,Policy Adviser,National Security Directorate,0,"19,437","21,912",Policy
+,12000,Sep-13,Junior,,A1,Policy Adviser,National Security Directorate,0,"18,156","18,156",Policy
+,12000,Sep-13,Junior,,SMS1,Policy Adviser,Defence and International Security Directorate,0,"60,000","117,800",Policy
+,12000,Sep-13,Junior,,D7,Policy Adviser,Defence and International Security Directorate,0,"54,883","68,539",Policy
+,12000,Sep-13,Junior,,D6,Policy Adviser,Defence and International Security Directorate,0,"43,514","56,339",Policy
+,12000,Sep-13,Junior,,C5,Policy Adviser,Defence and International Security Directorate,0,"33,075","40,905",Policy
+,12000,Sep-13,Junior,,C4,Policy Adviser,Defence and International Security Directorate,0,"26,363","32,834",Policy
+,12000,Sep-13,Junior,,B3,Policy Adviser,Defence and International Security Directorate,0,"21,646","28,118",Policy
+,12000,Sep-13,Junior,,A2,Policy Adviser,Defence and International Security Directorate,0,"19,437","21,912",Policy
+,13000,Sep-13,Junior,,C4,Policy Adviser,DG Europe & Globalisation,0,"26,363","32,834",Policy
+,13000,Sep-13,Junior,,B3,Policy Adviser,DG Europe & Globalisation,0,"21,646","28,118",Policy
+,13000,Sep-13,Junior,,SMS1,Policy Adviser,Africa Directorate,0,"60,000","117,800",Policy
+,13000,Sep-13,Junior,,D7,Policy Adviser,Africa Directorate,0,"54,883","68,539",Policy
+,13000,Sep-13,Junior,,D6,Policy Adviser,Africa Directorate,0,"43,514","56,339",Policy
+,13000,Sep-13,Junior,,C5,Policy Adviser,Africa Directorate,0,"33,075","40,905",Policy
+,13000,Sep-13,Junior,,C4,Policy Adviser,Africa Directorate,0,"26,363","32,834",Policy
+,13000,Sep-13,Junior,,B3,Policy Adviser,Africa Directorate,0,"21,646","28,118",Policy
+,13000,Sep-13,Junior,,A2,Policy Adviser,Africa Directorate,0,"19,437","21,912",Policy
+,13000,Sep-13,Junior,,SMS1,Policy Adviser,Migration Directorate,0,"60,000","117,800",Policy
+,13000,Sep-13,Junior,,D7,Policy Adviser,Migration Directorate,0,"54,883","68,539",Policy
+,13000,Sep-13,Junior,,D6,Policy Adviser,Migration Directorate,0,"43,514","56,339",Policy
+,13000,Sep-13,Junior,,C5,Policy Adviser,Migration Directorate,0,"33,075","40,905",Policy
+,13000,Sep-13,Junior,,C4,Policy Adviser,Migration Directorate,0,"26,363","32,834",Policy
+,13000,Sep-13,Junior,,B3,Policy Adviser,Migration Directorate,0,"21,646","28,118",Policy
+,13000,Sep-13,Junior,,A2,Policy Adviser,Migration Directorate,0,"19,437","21,912",Policy
+,13000,Sep-13,Junior,,SMS1,Policy Adviser,Europe Directorate,0,"60,000","117,800",Policy
+,13000,Sep-13,Junior,,D7,Policy Adviser,Europe Directorate,0,"54,883","68,539",Policy
+,13000,Sep-13,Junior,,D6,Policy Adviser,Europe Directorate,0,"43,514","56,339",Policy
+,13000,Sep-13,Junior,,C5,Policy Adviser,Europe Directorate,0,"33,075","40,905",Policy
+,13000,Sep-13,Junior,,C4,Policy Adviser,Europe Directorate,0,"26,363","32,834",Policy
+,13000,Sep-13,Junior,,B3,Policy Adviser,Europe Directorate,0,"21,646","28,118",Policy
+,13000,Sep-13,Junior,,A2,Policy Adviser,Europe Directorate,0,"19,437","21,912",Policy
+,13000,Sep-13,Junior,,SMS1,Policy Adviser,Asia Pacific Directorate,0,"60,000","117,800",Policy
+,13000,Sep-13,Junior,,D7,Policy Adviser,Asia Pacific Directorate,0,"54,883","68,539",Policy
+,13000,Sep-13,Junior,,D6,Policy Adviser,Asia Pacific Directorate,0,"43,514","56,339",Policy
+,13000,Sep-13,Junior,,C5,Policy Adviser,Asia Pacific Directorate,0,"33,075","40,905",Policy
+,13000,Sep-13,Junior,,C4,Policy Adviser,Asia Pacific Directorate,0,"26,363","32,834",Policy
+,13000,Sep-13,Junior,,B3,Policy Adviser,Asia Pacific Directorate,0,"21,646","28,118",Policy
+,13000,Sep-13,Junior,,A2,Policy Adviser,Asia Pacific Directorate,0,"19,437","21,912",Policy
+,13000,Sep-13,Junior,,SMS1,Operational Manager,Consular Directorate,0,"60,000","117,800",Operational Delivery
+,13000,Sep-13,Junior,,D7,Operational Manager,Consular Directorate,0,"54,883","68,539",Operational Delivery
+,13000,Sep-13,Junior,,D6,Operational Manager,Consular Directorate,0,"43,514","56,339",Operational Delivery
+,13000,Sep-13,Junior,,C5,Operational Manager,Consular Directorate,0,"33,075","40,905",Operational Delivery
+,13000,Sep-13,Junior,,C4,Operational Manager,Consular Directorate,0,"26,363","32,834",Operational Delivery
+,13000,Sep-13,Junior,,B3,Operational Manager,Consular Directorate,0,"21,646","28,118",Operational Delivery
+,13000,Sep-13,Junior,,A2,Policy Adviser,Consular Directorate,0,"19,437","21,912",Operational Delivery
+,13000,Sep-13,Junior,,A1,Policy Adviser,Consular Directorate,0,"18,156","18,156",Operational Delivery
+,13000,Sep-13,Junior,,SMS1,Policy Adviser,Prosperity Directorate,0,"60,000","117,800",Policy
+,13000,Sep-13,Junior,,D7,Policy Adviser,Prosperity Directorate,0,"54,883","68,539",Policy
+,13000,Sep-13,Junior,,D6,Policy Adviser,Prosperity Directorate,0,"43,514","56,339",Policy
+,13000,Sep-13,Junior,,C5,Policy Adviser,Prosperity Directorate,0,"33,075","40,905",Policy
+,13000,Sep-13,Junior,,C4,Policy Adviser,Prosperity Directorate,0,"26,363","32,834",Policy
+,13000,Sep-13,Junior,,B3,Policy Adviser,Prosperity Directorate,0,"21,646","28,118",Policy
+,13000,Sep-13,Junior,,A2,Policy Adviser,Prosperity Directorate,0,"19,437","21,912",Policy
+,14000,Sep-13,Junior,,SMS1,HR Officer,Human Resources Directorate,0,"60,000","117,800",Human Resources
+,14000,Sep-13,Junior,,D7,HR Officer,Human Resources Directorate,0,"54,883","68,539",Human Resources
+,14000,Sep-13,Junior,,D6,HR Officer,Human Resources Directorate,0,"43,514","56,339",Human Resources
+,14000,Sep-13,Junior,,C5,HR Officer,Human Resources Directorate,0,"33,075","40,905",Human Resources
+,14000,Sep-13,Junior,,C4,HR Officer,Human Resources Directorate,0,"26,363","32,834",Human Resources
+,14000,Sep-13,Junior,,B3,HR Officer,Human Resources Directorate,0,"21,646","28,118",Human Resources
+,14000,Sep-13,Junior,,A2,HR Officer,Human Resources Directorate,0,"19,437","21,912",Human Resources
+,14000,Sep-13,Junior,,A1,HR Officer,Human Resources Directorate,0,"18,156","18,156",Human Resources
+,14000,Sep-13,Junior,,SMS1,Operational Manager,Corporate Services Directorate,0,"60,000","117,800",Operational Delivery
+,14000,Sep-13,Junior,,D7,Operational Manager,Corporate Services Directorate,0,"54,883","68,539",Operational Delivery
+,14000,Sep-13,Junior,,D6,Operational Manager,Corporate Services Directorate,0,"43,514","56,339",Operational Delivery
+,14000,Sep-13,Junior,,C5,Operational Manager,Corporate Services Directorate,0,"33,075","40,905",Operational Delivery
+,14000,Sep-13,Junior,,C4,Operational Manager,Corporate Services Directorate,0,"26,363","32,834",Operational Delivery
+,14000,Sep-13,Junior,,B3,Operational Manager,Corporate Services Directorate,0,"21,646","28,118",Operational Delivery
+,14000,Sep-13,Junior,,A2,Operational Manager,Corporate Services Directorate,0,"19,437","21,912",Operational Delivery
+,14000,Sep-13,Junior,,D7,Finance Officer,Finance Directorate,0,"54,883","68,539",Finance
+,14000,Sep-13,Junior,,D6,Finance Officer,Finance Directorate,0,"43,514","56,339",Finance
+,14000,Sep-13,Junior,,C5,Finance Officer,Finance Directorate,0,"33,075","40,905",Finance
+,14000,Sep-13,Junior,,C4,Finance Officer,Finance Directorate,0,"26,363","32,834",Finance
+,14000,Sep-13,Junior,,B3,Finance Officer,Finance Directorate,0,"21,646","28,118",Finance
+,14000,Sep-13,Junior,,A2,Finance Officer,Finance Directorate,0,"19,437","21,912",Finance
+,14000,Sep-13,Junior,,SMS1,Operational Manager,Estates & Security Directorate,0,"60,000","117,800",Operational Delivery
+,14000,Sep-13,Junior,,D7,Operational Manager,Estates & Security Directorate,0,"54,883","68,539",Operational Delivery
+,14000,Sep-13,Junior,,D6,Operational Manager,Estates & Security Directorate,0,"43,514","56,339",Operational Delivery
+,14000,Sep-13,Junior,,C5,Operational Manager,Estates & Security Directorate,0,"33,075","40,905",Operational Delivery
+,14000,Sep-13,Junior,,C4,Operational Manager,Estates & Security Directorate,0,"26,363","32,834",Operational Delivery
+,14000,Sep-13,Junior,,B3,Operational Manager,Estates & Security Directorate,0,"21,646","28,118",Operational Delivery
+,14000,Sep-13,Junior,,A2,Operational Manager,Estates & Security Directorate,0,"19,437","21,912",Operational Delivery
+,14000,Sep-13,Junior,,SMS1,Operational Manager,Information & Technology Directorate,0,"60,000","117,800",Operational Delivery
+,14000,Sep-13,Junior,,D7,Operational Manager,Information & Technology Directorate,0,"54,883","68,539",Operational Delivery
+,14000,Sep-13,Junior,,D6,Operational Manager,Information & Technology Directorate,0,"43,514","56,339",Operational Delivery
+,14000,Sep-13,Junior,,C5,Operational Manager,Information & Technology Directorate,0,"33,075","40,905",Operational Delivery
+,14000,Sep-13,Junior,,C4,Operational Manager,Information & Technology Directorate,0,"26,363","32,834",Operational Delivery
+,14000,Sep-13,Junior,,B3,Operational Manager,Information & Technology Directorate,0,"21,646","28,118",Operational Delivery
+,14000,Sep-13,Junior,,A2,Operational Manager,Information & Technology Directorate,0,"19,437","21,912",Operational Delivery
+,14000,Sep-13,Junior,,A1,Operational Manager,Information & Technology Directorate,0,"18,156","18,156",Operational Delivery
+,18000,Sep-13,Junior,,SMS1,Operational Manager,UK Trade & Investment,0,"60,000","117,800",Operational Delivery
+,18000,Sep-13,Junior,,D7,Operational Manager,UK Trade & Investment,0,"54,883","68,539",Operational Delivery
+,18000,Sep-13,Junior,,D6,Operational Manager,UK Trade & Investment,0,"43,514","56,339",Operational Delivery
+,18000,Sep-13,Junior,,C5,Operational Manager,UK Trade & Investment,0,"33,075","40,905",Operational Delivery
+,18000,Sep-13,Junior,,C4,Operational Manager,UK Trade & Investment,0,"26,363","32,834",Operational Delivery
+,18000,Sep-13,Junior,,B3,Operational Manager,UK Trade & Investment,0,"21,646","28,118",Operational Delivery
+,18000,Sep-13,Junior,,A2,Operational Manager,UK Trade & Investment,0,"19,437","21,912",Operational Delivery
+,14000,Sep-13,Junior,,SMS1,Communications Manager,Communications Directorate,0,"60,000","117,800",Communications
+,14000,Sep-13,Junior,,D7,Communications Manager,Communications Directorate,0,"54,883","68,539",Communications
+,14000,Sep-13,Junior,,D6,Communications Manager,Communications Directorate,0,"43,514","56,339",Communications
+,14000,Sep-13,Junior,,C5,Communications Manager,Communications Directorate,0,"33,075","40,905",Communications
+,14000,Sep-13,Junior,,C4,Communications Manager,Communications Directorate,0,"26,363","32,834",Communications
+,14000,Sep-13,Junior,,B3,Communications Manager,Communications Directorate,0,"21,646","28,118",Communications
+,14000,Sep-13,Junior,,A2,Communications Manager,Communications Directorate,0,"19,437","21,912",Communications
+,10000,Sep-13,Junior,,SMS1,Policy Adviser,Central Units,0,"60,000","117,800",Policy
+,10000,Sep-13,Junior,,D7,Policy Adviser,Central Units,0,"54,883","68,539",Policy
+,10000,Sep-13,Junior,,D6,Policy Adviser,Central Units,0,"43,514","56,339",Policy
+,10000,Sep-13,Junior,,C5,Policy Adviser,Central Units,0,"33,075","40,905",Policy
+,10000,Sep-13,Junior,,C4,Policy Adviser,Central Units,0,"26,363","32,834",Policy
+,10000,Sep-13,Junior,,B3,Policy Adviser,Central Units,0,"21,646","28,118",Policy
+,10000,Sep-13,Junior,,A2,Policy Adviser,Central Units,0,"19,437","21,912",Policy
+,11000,Sep-13,Junior,,C4,Policy Adviser,DG Political,0,"26,363","32,834",Policy
+,11000,Sep-13,Junior,,B3,Policy Adviser,DG Political,0,"21,646","28,118",Policy
+,11000,Sep-13,Junior,,A2,Policy Adviser,DG Political,0,"19,437","21,912",Policy
+,11000,Sep-13,Junior,,SMS1,Policy Adviser,South Asia & Afghanistan Directorate,0,"60,000","117,800",Policy
+,11000,Sep-13,Junior,,D7,Policy Adviser,South Asia & Afghanistan Directorate,0,"54,883","68,539",Policy
+,11000,Sep-13,Junior,,D6,Policy Adviser,South Asia & Afghanistan Directorate,0,"43,514","56,339",Policy
+,11000,Sep-13,Junior,,C5,Policy Adviser,South Asia & Afghanistan Directorate,0,"33,075","40,905",Policy
+,11000,Sep-13,Junior,,C4,Policy Adviser,South Asia & Afghanistan Directorate,0,"26,363","32,834",Policy
+,11000,Sep-13,Junior,,B3,Policy Adviser,South Asia & Afghanistan Directorate,0,"21,646","28,118",Policy
+,11000,Sep-13,Junior,,A2,Policy Adviser,South Asia & Afghanistan Directorate,0,"19,437","21,912",Policy
+,11000,Sep-13,Junior,,SMS1,Policy Adviser,Middle East & North Africa Directorate,0,"60,000","117,800",Policy
+,11000,Sep-13,Junior,,D7,Policy Adviser,Middle East & North Africa Directorate,0,"54,883","68,539",Policy
+,11000,Sep-13,Junior,,D6,Policy Adviser,Middle East & North Africa Directorate,0,"43,514","56,339",Policy
+,11000,Sep-13,Junior,,C5,Policy Adviser,Middle East & North Africa Directorate,0,"33,075","40,905",Policy
+,11000,Sep-13,Junior,,C4,Policy Adviser,Middle East & North Africa Directorate,0,"26,363","32,834",Policy
+,11000,Sep-13,Junior,,B3,Policy Adviser,Middle East & North Africa Directorate,0,"21,646","28,118",Policy
+,11000,Sep-13,Junior,,A2,Policy Adviser,Middle East & North Africa Directorate,0,"19,437","21,912",Policy
+,11000,Sep-13,Junior,,A1,Policy Adviser,Middle East & North Africa Directorate,0,"18,156","18,156",Policy
+,11000,Sep-13,Junior,,SMS1,Policy Adviser,Eastern Europe and Central Asia Directorate,0,"60,000","117,800",Policy
+,11000,Sep-13,Junior,,D7,Policy Adviser,Eastern Europe and Central Asia Directorate,0,"54,883","68,539",Policy
+,11000,Sep-13,Junior,,D6,Policy Adviser,Eastern Europe and Central Asia Directorate,0,"43,514","56,339",Policy
+,11000,Sep-13,Junior,,C5,Policy Adviser,Eastern Europe and Central Asia Directorate,0,"33,075","40,905",Policy
+,11000,Sep-13,Junior,,C4,Policy Adviser,Eastern Europe and Central Asia Directorate,0,"26,363","32,834",Policy
+,11000,Sep-13,Junior,,B3,Policy Adviser,Eastern Europe and Central Asia Directorate,0,"21,646","28,118",Policy
+,11000,Sep-13,Junior,,A2,Policy Adviser,Eastern Europe and Central Asia Directorate,0,"19,437","21,912",Policy
+,12000,Sep-13,Junior,,C4,Policy Adviser,DG Defence & Intelligence,0,"26,363","32,834",Policy
+,12000,Sep-13,Junior,,A2,Policy Adviser,DG Defence & Intelligence,0,"19,437","21,912",Policy
+,12000,Sep-13,Junior,,SMS1,Policy Adviser,Americas Directorate,0,"60,000","117,800",Policy
+,12000,Sep-13,Junior,,D7,Policy Adviser,Americas Directorate,0,"54,883","68,539",Policy
+,12000,Sep-13,Junior,,D6,Policy Adviser,Americas Directorate,0,"43,514","56,339",Policy
+,12000,Sep-13,Junior,,C5,Policy Adviser,Americas Directorate,0,"33,075","40,905",Policy
+,12000,Sep-13,Junior,,C4,Policy Adviser,Americas Directorate,0,"26,363","32,834",Policy
+,12000,Sep-13,Junior,,B3,Policy Adviser,Americas Directorate,0,"21,646","28,118",Policy
+,12000,Sep-13,Junior,,A2,Policy Adviser,Americas Directorate,0,"19,437","21,912",Policy
+,12000,Sep-13,Junior,,SMS1,Policy Adviser,Overseas Territories Directorate,0,"60,000","117,800",Policy
+,12000,Sep-13,Junior,,D7,Policy Adviser,Overseas Territories Directorate,0,"54,883","68,539",Policy
+,12000,Sep-13,Junior,,D6,Policy Adviser,Overseas Territories Directorate,0,"43,514","56,339",Policy
+,12000,Sep-13,Junior,,C5,Policy Adviser,Overseas Territories Directorate,0,"33,075","40,905",Policy
+,12000,Sep-13,Junior,,C4,Policy Adviser,Overseas Territories Directorate,0,"26,363","32,834",Policy
+,12000,Sep-13,Junior,,B3,Policy Adviser,Overseas Territories Directorate,0,"21,646","28,118",Policy
+,12000,Sep-13,Junior,,A2,Policy Adviser,Overseas Territories Directorate,0,"19,437","21,912",Policy
+,14000,Sep-13,Junior,,SMS1,Policy Adviser,DG Operations (Formerly C&D),0,"60,000","117,800",Policy
+,14000,Sep-13,Junior,,D7,Policy Adviser,DG Operations (Formerly C&D),0,"54,883","68,539",Policy
+,14000,Sep-13,Junior,,D6,Policy Adviser,DG Operations (Formerly C&D),0,"43,514","56,339",Policy
+,14000,Sep-13,Junior,,C5,Policy Adviser,DG Operations (Formerly C&D),0,"33,075","40,905",Policy
+,14000,Sep-13,Junior,,C4,Policy Adviser,DG Operations (Formerly C&D),0,"26,363","32,834",Policy
+,14000,Sep-13,Junior,,B3,Policy Adviser,DG Operations (Formerly C&D),0,"21,646","28,118",Policy
+,14000,Sep-13,Junior,,A2,Policy Adviser,DG Operations (Formerly C&D),0,"19,437","21,912",Policy
+,14000,Sep-13,Junior,,A1,Policy Adviser,DG Operations (Formerly C&D),0,"18,156","18,156",Policy
+,14000,Sep-13,Junior,,SMS1,Operational Manager,Corporate Services Centre,0,"60,000","117,800",Operational Delivery
+,14000,Sep-13,Junior,,D7,Operational Manager,Corporate Services Centre,0,"54,883","68,539",Operational Delivery
+,14000,Sep-13,Junior,,D6,Operational Manager,Corporate Services Centre,0,"43,514","56,339",Operational Delivery
+,14000,Sep-13,Junior,,C5,Operational Manager,Corporate Services Centre,0,"33,075","40,905",Operational Delivery
+,14000,Sep-13,Junior,,C4,Operational Manager,Corporate Services Centre,0,"26,363","32,834",Operational Delivery
+,14000,Sep-13,Junior,,B3,Operational Manager,Corporate Services Centre,0,"21,646","28,118",Operational Delivery
+,14000,Sep-13,Junior,,A2,Operational Manager,Corporate Services Centre,0,"19,437","21,912",Operational Delivery
+,14000,Sep-13,Junior,,SMS1,Internal Auditor,Internal Audit Directorate,0,"60,000","117,800",Internal Audit
+,14000,Sep-13,Junior,,D7,Internal Auditor,Internal Audit Directorate,0,"54,883","68,539",Internal Audit
+,14000,Sep-13,Junior,,D6,Internal Auditor,Internal Audit Directorate,0,"43,514","56,339",Internal Audit
+,14000,Sep-13,Junior,,C5,Internal Auditor,Internal Audit Directorate,0,"33,075","40,905",Internal Audit
+,14000,Sep-13,Junior,,C4,Internal Auditor,Internal Audit Directorate,0,"26,363","32,834",Internal Audit
+,14000,Sep-13,Junior,,B3,Internal Auditor,Internal Audit Directorate,0,"21,646","28,118",Internal Audit
+,11000,Sep-13,Junior,,SMS1,Policy Adviser,International Security,0,"60,000","117,800",Policy
+,11000,Sep-13,Junior,,D7,Policy Adviser,International Security,0,"54,883","68,539",Policy
+,11000,Sep-13,Junior,,D6,Policy Adviser,International Security,0,"43,514","56,339",Policy
+,11000,Sep-13,Junior,,C5,Policy Adviser,International Security,0,"33,075","40,905",Policy
+,11000,Sep-13,Junior,,C4,Policy Adviser,International Security,0,"26,363","32,834",Policy
+,11000,Sep-13,Junior,,B3,Policy Adviser,International Security,0,"21,646","28,118",Policy
+,11000,Sep-13,Junior,,A2,Policy Adviser,International Security,0,"19,437","21,912",Policy
+,11000,Sep-13,Junior,,SMS1,Policy Adviser,Protocol Directorate,0,"60,000","117,800",Policy
+,11000,Sep-13,Junior,,D7,Policy Adviser,Protocol Directorate,0,"54,883","68,539",Policy
+,11000,Sep-13,Junior,,D6,Policy Adviser,Protocol Directorate,0,"43,514","56,339",Policy
+,11000,Sep-13,Junior,,C5,Policy Adviser,Protocol Directorate,0,"33,075","40,905",Policy
+,11000,Sep-13,Junior,,C4,Policy Adviser,Protocol Directorate,0,"26,363","32,834",Policy
+,11000,Sep-13,Junior,,B3,Policy Adviser,Protocol Directorate,0,"21,646","28,118",Policy
+,11000,Sep-13,Junior,,A2,Policy Adviser,Protocol Directorate,0,"19,437","21,912",Policy
+,20000,Sep-13,Junior,,SMS1,Policy Adviser,Wilton Park,0,"60,000","117,800",Other
+,20000,Sep-13,Junior,,D7,Policy Adviser,Wilton Park,0,"54,883","68,539",Other
+,20000,Sep-13,Junior,,D6,Policy Adviser,Wilton Park,0,"43,514","56,339",Other
+,20000,Sep-13,Junior,,C4,Policy Adviser,Wilton Park,0,"26,363","32,834",Other
+,20000,Sep-13,Junior,,B3,Policy Adviser,Wilton Park,0,"21,646","28,118",Other
+,20000,Sep-13,Junior,,A2,Policy Adviser,Wilton Park,0,"19,437","21,912",Other
+,20000,Sep-13,Junior,,A1,Policy Adviser,Wilton Park,0,"18,156","18,156",Other

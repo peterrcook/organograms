@@ -1,1168 +1,1168 @@
-date,level,id,parentId
-Sep-15,Senior,2,317
-Sep-15,Senior,5,317
-Sep-15,Senior,7,317
-Sep-15,Senior,8,405
-Sep-15,Senior,10,317
-Sep-15,Senior,13,7
-Sep-15,Senior,16,317
-Sep-15,Senior,22,281
-Sep-15,Senior,24,497
-Sep-15,Senior,25,216
-Sep-15,Senior,31,592
-Sep-15,Senior,33,592
-Sep-15,Senior,35,317
-Sep-15,Senior,37,497
-Sep-15,Senior,38,497
-Sep-15,Senior,42,7
-Sep-15,Senior,51,5
-Sep-15,Senior,54,10
-Sep-15,Senior,56,35
-Sep-15,Senior,57,317
-Sep-15,Senior,59,594
-Sep-15,Senior,63,8
-Sep-15,Senior,69,54
-Sep-15,Senior,76,54
-Sep-15,Senior,77,380
-Sep-15,Senior,79,56
-Sep-15,Senior,81,35
-Sep-15,Senior,82,33
-Sep-15,Senior,99,24
-Sep-15,Senior,100,580
-Sep-15,Senior,102,33
-Sep-15,Senior,116,406
-Sep-15,Senior,118,59
-Sep-15,Senior,124,35
-Sep-15,Senior,128,270
-Sep-15,Senior,133,270
-Sep-15,Senior,140,57
-Sep-15,Senior,141,580
-Sep-15,Senior,142,57
-Sep-15,Senior,143,406
-Sep-15,Senior,145,37
-Sep-15,Senior,146,35
-Sep-15,Senior,151,35
-Sep-15,Senior,152,35
-Sep-15,Senior,153,54
-Sep-15,Senior,154,56
-Sep-15,Senior,157,186
-Sep-15,Senior,158,187
-Sep-15,Senior,159,187
-Sep-15,Senior,160,173
-Sep-15,Senior,161,187
-Sep-15,Senior,162,186
-Sep-15,Senior,164,182
-Sep-15,Senior,166,182
-Sep-15,Senior,167,187
-Sep-15,Senior,169,183
-Sep-15,Senior,171,186
-Sep-15,Senior,172,187
-Sep-15,Senior,173,186
-Sep-15,Senior,174,182
-Sep-15,Senior,175,182
-Sep-15,Senior,176,183
-Sep-15,Senior,177,182
-Sep-15,Senior,178,187
-Sep-15,Senior,180,580
-Sep-15,Senior,181,580
-Sep-15,Senior,182,580
-Sep-15,Senior,183,580
-Sep-15,Senior,186,580
-Sep-15,Senior,187,580
-Sep-15,Senior,192,182
-Sep-15,Senior,193,187
-Sep-15,Senior,194,182
-Sep-15,Senior,195,187
-Sep-15,Senior,196,182
-Sep-15,Senior,200,186
-Sep-15,Senior,201,183
-Sep-15,Senior,202,187
-Sep-15,Senior,216,317
-Sep-15,Senior,221,497
-Sep-15,Senior,224,37
-Sep-15,Senior,227,35
-Sep-15,Senior,228,24
-Sep-15,Senior,230,586
-Sep-15,Senior,240,281
-Sep-15,Senior,243,452
-Sep-15,Senior,246,38
-Sep-15,Senior,252,183
-Sep-15,Senior,253,183
-Sep-15,Senior,254,186
-Sep-15,Senior,255,187
-Sep-15,Senior,257,59
-Sep-15,Senior,259,25
-Sep-15,Senior,270,350
-Sep-15,Senior,274,497
-Sep-15,Senior,276,281
-Sep-15,Senior,280,31
-Sep-15,Senior,281,497
-Sep-15,Senior,282,281
-Sep-15,Senior,284,281
-Sep-15,Senior,286,59
-Sep-15,Senior,289,35
-Sep-15,Senior,296,445
-Sep-15,Senior,298,35
-Sep-15,Senior,299,35
-Sep-15,Senior,300,216
-Sep-15,Senior,302,38
-Sep-15,Senior,303,406
-Sep-15,Senior,304,511
-Sep-15,Senior,305,31
-Sep-15,Senior,313,22
-Sep-15,Senior,316,54
-Sep-15,Senior,317,405
-Sep-15,Senior,318,25
-Sep-15,Senior,319,511
-Sep-15,Senior,320,511
-Sep-15,Senior,321,511
-Sep-15,Senior,322,281
-Sep-15,Senior,323,445
-Sep-15,Senior,328,38
-Sep-15,Senior,329,59
-Sep-15,Senior,330,497
-Sep-15,Senior,334,35
-Sep-15,Senior,338,580
-Sep-15,Senior,339,182
-Sep-15,Senior,340,5
-Sep-15,Senior,350,497
-Sep-15,Senior,351,511
-Sep-15,Senior,353,497
-Sep-15,Senior,357,406
-Sep-15,Senior,359,406
-Sep-15,Senior,360,330
-Sep-15,Senior,365,31
-Sep-15,Senior,375,5
-Sep-15,Senior,380,497
-Sep-15,Senior,382,330
-Sep-15,Senior,388,22
-Sep-15,Senior,396,270
-Sep-15,Senior,397,270
-Sep-15,Senior,398,270
-Sep-15,Senior,399,270
-Sep-15,Senior,400,270
-Sep-15,Senior,405,
-Sep-15,Senior,406,497
-Sep-15,Senior,408,281
-Sep-15,Senior,409,406
-Sep-15,Senior,414,35
-Sep-15,Senior,416,37
-Sep-15,Senior,417,497
-Sep-15,Senior,418,592
-Sep-15,Senior,420,592
-Sep-15,Senior,426,380
-Sep-15,Senior,427,497
-Sep-15,Senior,428,380
-Sep-15,Senior,431,270
-Sep-15,Senior,439,470
-Sep-15,Senior,445,497
-Sep-15,Senior,448,572
-Sep-15,Senior,452,281
-Sep-15,Senior,453,281
-Sep-15,Senior,454,281
-Sep-15,Senior,456,281
-Sep-15,Senior,457,22
-Sep-15,Senior,458,281
-Sep-15,Senior,459,22
-Sep-15,Senior,460,22
-Sep-15,Senior,461,22
-Sep-15,Senior,470,564
-Sep-15,Senior,472,470
-Sep-15,Senior,473,470
-Sep-15,Senior,474,564
-Sep-15,Senior,475,565
-Sep-15,Senior,476,565
-Sep-15,Senior,479,406
-Sep-15,Senior,480,406
-Sep-15,Senior,481,221
-Sep-15,Senior,482,25
-Sep-15,Senior,483,25
-Sep-15,Senior,484,35
-Sep-15,Senior,485,35
-Sep-15,Senior,486,35
-Sep-15,Senior,487,35
-Sep-15,Senior,488,35
-Sep-15,Senior,489,182
-Sep-15,Senior,490,37
-Sep-15,Senior,491,497
-Sep-15,Senior,494,470
-Sep-15,Senior,495,270
-Sep-15,Senior,497,405
-Sep-15,Senior,498,57
-Sep-15,Senior,499,497
-Sep-15,Senior,500,565
-Sep-15,Senior,502,22
-Sep-15,Senior,503,22
-Sep-15,Senior,504,281
-Sep-15,Senior,505,497
-Sep-15,Senior,507,445
-Sep-15,Senior,508,186
-Sep-15,Senior,509,186
-Sep-15,Senior,510,445
-Sep-15,Senior,511,10
-Sep-15,Senior,512,380
-Sep-15,Senior,513,22
-Sep-15,Senior,514,470
-Sep-15,Senior,515,183
-Sep-15,Senior,516,186
-Sep-15,Senior,517,445
-Sep-15,Senior,518,51
-Sep-15,Senior,519,38
-Sep-15,Senior,520,38
-Sep-15,Senior,521,38
-Sep-15,Senior,522,38
-Sep-15,Senior,523,116
-Sep-15,Senior,525,380
-Sep-15,Senior,526,380
-Sep-15,Senior,527,51
-Sep-15,Senior,528,340
-Sep-15,Senior,529,54
-Sep-15,Senior,533,497
-Sep-15,Senior,534,281
-Sep-15,Senior,536,187
-Sep-15,Senior,538,491
-Sep-15,Senior,541,580
-Sep-15,Senior,542,56
-Sep-15,Senior,543,57
-Sep-15,Senior,545,380
-Sep-15,Senior,546,380
-Sep-15,Senior,547,592
-Sep-15,Senior,548,33
-Sep-15,Senior,549,33
-Sep-15,Senior,550,54
-Sep-15,Senior,551,511
-Sep-15,Senior,552,580
-Sep-15,Senior,553,511
-Sep-15,Senior,554,59
-Sep-15,Senior,555,340
-Sep-15,Senior,556,38
-Sep-15,Senior,557,281
-Sep-15,Senior,558,565
-Sep-15,Senior,559,10
-Sep-15,Senior,560,57
-Sep-15,Senior,561,31
-Sep-15,Senior,562,552
-Sep-15,Senior,563,380
-Sep-15,Senior,564,497
-Sep-15,Senior,565,564
-Sep-15,Senior,566,470
-Sep-15,Senior,567,183
-Sep-15,Senior,568,552
-Sep-15,Senior,569,281
-Sep-15,Senior,570,31
-Sep-15,Senior,571,31
-Sep-15,Senior,572,497
-Sep-15,Senior,573,31
-Sep-15,Senior,574,592
-Sep-15,Senior,575,57
-Sep-15,Senior,576,57
-Sep-15,Senior,577,57
-Sep-15,Senior,578,54
-Sep-15,Senior,579,375
-Sep-15,Senior,580,317
-Sep-15,Senior,581,24
-Sep-15,Senior,582,330
-Sep-15,Senior,583,572
-Sep-15,Senior,584,330
-Sep-15,Senior,585,330
-Sep-15,Senior,586,281
-Sep-15,Senior,587,281
-Sep-15,Senior,588,586
-Sep-15,Senior,589,281
-Sep-15,Senior,590,22
-Sep-15,Senior,591,24
-Sep-15,Senior,592,497
-Sep-15,Senior,593,564
-Sep-15,Senior,594,317
-Sep-15,Senior,595,281
-Sep-15,Senior,596,22
-Sep-15,Senior,597,491
-Sep-15,Senior,598,33
-Sep-15,Senior,599,54
-Sep-15,Senior,600,497
-Sep-15,Junior,,499
-Sep-15,Junior,,499
-Sep-15,Junior,,499
-Sep-15,Junior,,499
-Sep-15,Junior,,499
-Sep-15,Junior,,499
-Sep-15,Junior,,380
-Sep-15,Junior,,380
-Sep-15,Junior,,380
-Sep-15,Junior,,380
-Sep-15,Junior,,380
-Sep-15,Junior,,380
-Sep-15,Junior,,380
-Sep-15,Junior,,426
-Sep-15,Junior,,426
-Sep-15,Junior,,426
-Sep-15,Junior,,428
-Sep-15,Junior,,428
-Sep-15,Junior,,491
-Sep-15,Junior,,491
-Sep-15,Junior,,512
-Sep-15,Junior,,512
-Sep-15,Junior,,512
-Sep-15,Junior,,512
-Sep-15,Junior,,512
-Sep-15,Junior,,512
-Sep-15,Junior,,512
-Sep-15,Junior,,525
-Sep-15,Junior,,525
-Sep-15,Junior,,538
-Sep-15,Junior,,538
-Sep-15,Junior,,538
-Sep-15,Junior,,538
-Sep-15,Junior,,538
-Sep-15,Junior,,538
-Sep-15,Junior,,546
-Sep-15,Junior,,546
-Sep-15,Junior,,546
-Sep-15,Junior,,546
-Sep-15,Junior,,546
-Sep-15,Junior,,31
-Sep-15,Junior,,31
-Sep-15,Junior,,31
-Sep-15,Junior,,31
-Sep-15,Junior,,82
-Sep-15,Junior,,82
-Sep-15,Junior,,305
-Sep-15,Junior,,305
-Sep-15,Junior,,305
-Sep-15,Junior,,305
-Sep-15,Junior,,548
-Sep-15,Junior,,548
-Sep-15,Junior,,549
-Sep-15,Junior,,549
-Sep-15,Junior,,549
-Sep-15,Junior,,549
-Sep-15,Junior,,570
-Sep-15,Junior,,570
-Sep-15,Junior,,570
-Sep-15,Junior,,570
-Sep-15,Junior,,570
-Sep-15,Junior,,570
-Sep-15,Junior,,571
-Sep-15,Junior,,571
-Sep-15,Junior,,571
-Sep-15,Junior,,571
-Sep-15,Junior,,571
-Sep-15,Junior,,571
-Sep-15,Junior,,574
-Sep-15,Junior,,574
-Sep-15,Junior,,574
-Sep-15,Junior,,574
-Sep-15,Junior,,574
-Sep-15,Junior,,574
-Sep-15,Junior,,574
-Sep-15,Junior,,574
-Sep-15,Junior,,574
-Sep-15,Junior,,574
-Sep-15,Junior,,574
-Sep-15,Junior,,142
-Sep-15,Junior,,142
-Sep-15,Junior,,142
-Sep-15,Junior,,118
-Sep-15,Junior,,118
-Sep-15,Junior,,118
-Sep-15,Junior,,118
-Sep-15,Junior,,118
-Sep-15,Junior,,118
-Sep-15,Junior,,118
-Sep-15,Junior,,118
-Sep-15,Junior,,118
-Sep-15,Junior,,118
-Sep-15,Junior,,118
-Sep-15,Junior,,257
-Sep-15,Junior,,257
-Sep-15,Junior,,257
-Sep-15,Junior,,257
-Sep-15,Junior,,257
-Sep-15,Junior,,257
-Sep-15,Junior,,257
-Sep-15,Junior,,257
-Sep-15,Junior,,257
-Sep-15,Junior,,257
-Sep-15,Junior,,257
-Sep-15,Junior,,257
-Sep-15,Junior,,257
-Sep-15,Junior,,257
-Sep-15,Junior,,257
-Sep-15,Junior,,257
-Sep-15,Junior,,257
-Sep-15,Junior,,257
-Sep-15,Junior,,257
-Sep-15,Junior,,257
-Sep-15,Junior,,286
-Sep-15,Junior,,286
-Sep-15,Junior,,286
-Sep-15,Junior,,286
-Sep-15,Junior,,286
-Sep-15,Junior,,286
-Sep-15,Junior,,286
-Sep-15,Junior,,286
-Sep-15,Junior,,329
-Sep-15,Junior,,329
-Sep-15,Junior,,329
-Sep-15,Junior,,554
-Sep-15,Junior,,554
-Sep-15,Junior,,554
-Sep-15,Junior,,554
-Sep-15,Junior,,554
-Sep-15,Junior,,554
-Sep-15,Junior,,554
-Sep-15,Junior,,533
-Sep-15,Junior,,533
-Sep-15,Junior,,533
-Sep-15,Junior,,533
-Sep-15,Junior,,533
-Sep-15,Junior,,533
-Sep-15,Junior,,533
-Sep-15,Junior,,533
-Sep-15,Junior,,10
-Sep-15,Junior,,69
-Sep-15,Junior,,69
-Sep-15,Junior,,69
-Sep-15,Junior,,69
-Sep-15,Junior,,69
-Sep-15,Junior,,69
-Sep-15,Junior,,76
-Sep-15,Junior,,76
-Sep-15,Junior,,76
-Sep-15,Junior,,316
-Sep-15,Junior,,316
-Sep-15,Junior,,316
-Sep-15,Junior,,316
-Sep-15,Junior,,316
-Sep-15,Junior,,319
-Sep-15,Junior,,319
-Sep-15,Junior,,320
-Sep-15,Junior,,320
-Sep-15,Junior,,321
-Sep-15,Junior,,321
-Sep-15,Junior,,321
-Sep-15,Junior,,351
-Sep-15,Junior,,529
-Sep-15,Junior,,529
-Sep-15,Junior,,551
-Sep-15,Junior,,551
-Sep-15,Junior,,551
-Sep-15,Junior,,551
-Sep-15,Junior,,553
-Sep-15,Junior,,553
-Sep-15,Junior,,553
-Sep-15,Junior,,553
-Sep-15,Junior,,553
-Sep-15,Junior,,553
-Sep-15,Junior,,559
-Sep-15,Junior,,559
-Sep-15,Junior,,274
-Sep-15,Junior,,274
-Sep-15,Junior,,274
-Sep-15,Junior,,5
-Sep-15,Junior,,5
-Sep-15,Junior,,51
-Sep-15,Junior,,375
-Sep-15,Junior,,375
-Sep-15,Junior,,518
-Sep-15,Junior,,518
-Sep-15,Junior,,518
-Sep-15,Junior,,527
-Sep-15,Junior,,527
-Sep-15,Junior,,527
-Sep-15,Junior,,527
-Sep-15,Junior,,528
-Sep-15,Junior,,528
-Sep-15,Junior,,528
-Sep-15,Junior,,528
-Sep-15,Junior,,555
-Sep-15,Junior,,555
-Sep-15,Junior,,555
-Sep-15,Junior,,555
-Sep-15,Junior,,555
-Sep-15,Junior,,555
-Sep-15,Junior,,555
-Sep-15,Junior,,555
-Sep-15,Junior,,24
-Sep-15,Junior,,24
-Sep-15,Junior,,99
-Sep-15,Junior,,99
-Sep-15,Junior,,99
-Sep-15,Junior,,99
-Sep-15,Junior,,99
-Sep-15,Junior,,99
-Sep-15,Junior,,99
-Sep-15,Junior,,99
-Sep-15,Junior,,99
-Sep-15,Junior,,99
-Sep-15,Junior,,99
-Sep-15,Junior,,99
-Sep-15,Junior,,99
-Sep-15,Junior,,99
-Sep-15,Junior,,99
-Sep-15,Junior,,228
-Sep-15,Junior,,228
-Sep-15,Junior,,228
-Sep-15,Junior,,228
-Sep-15,Junior,,228
-Sep-15,Junior,,228
-Sep-15,Junior,,228
-Sep-15,Junior,,228
-Sep-15,Junior,,228
-Sep-15,Junior,,228
-Sep-15,Junior,,228
-Sep-15,Junior,,228
-Sep-15,Junior,,228
-Sep-15,Junior,,228
-Sep-15,Junior,,228
-Sep-15,Junior,,228
-Sep-15,Junior,,228
-Sep-15,Junior,,228
-Sep-15,Junior,,228
-Sep-15,Junior,,228
-Sep-15,Junior,,228
-Sep-15,Junior,,581
-Sep-15,Junior,,581
-Sep-15,Junior,,581
-Sep-15,Junior,,581
-Sep-15,Junior,,581
-Sep-15,Junior,,581
-Sep-15,Junior,,581
-Sep-15,Junior,,581
-Sep-15,Junior,,581
-Sep-15,Junior,,330
-Sep-15,Junior,,330
-Sep-15,Junior,,330
-Sep-15,Junior,,360
-Sep-15,Junior,,360
-Sep-15,Junior,,360
-Sep-15,Junior,,360
-Sep-15,Junior,,360
-Sep-15,Junior,,382
-Sep-15,Junior,,382
-Sep-15,Junior,,382
-Sep-15,Junior,,382
-Sep-15,Junior,,582
-Sep-15,Junior,,582
-Sep-15,Junior,,582
-Sep-15,Junior,,584
-Sep-15,Junior,,584
-Sep-15,Junior,,584
-Sep-15,Junior,,585
-Sep-15,Junior,,585
-Sep-15,Junior,,585
-Sep-15,Junior,,585
-Sep-15,Junior,,585
-Sep-15,Junior,,585
-Sep-15,Junior,,585
-Sep-15,Junior,,585
-Sep-15,Junior,,585
-Sep-15,Junior,,585
-Sep-15,Junior,,38
-Sep-15,Junior,,38
-Sep-15,Junior,,38
-Sep-15,Junior,,38
-Sep-15,Junior,,56
-Sep-15,Junior,,56
-Sep-15,Junior,,56
-Sep-15,Junior,,79
-Sep-15,Junior,,79
-Sep-15,Junior,,79
-Sep-15,Junior,,79
-Sep-15,Junior,,79
-Sep-15,Junior,,79
-Sep-15,Junior,,154
-Sep-15,Junior,,154
-Sep-15,Junior,,154
-Sep-15,Junior,,154
-Sep-15,Junior,,154
-Sep-15,Junior,,154
-Sep-15,Junior,,154
-Sep-15,Junior,,154
-Sep-15,Junior,,154
-Sep-15,Junior,,154
-Sep-15,Junior,,302
-Sep-15,Junior,,302
-Sep-15,Junior,,302
-Sep-15,Junior,,302
-Sep-15,Junior,,302
-Sep-15,Junior,,302
-Sep-15,Junior,,302
-Sep-15,Junior,,302
-Sep-15,Junior,,302
-Sep-15,Junior,,302
-Sep-15,Junior,,302
-Sep-15,Junior,,302
-Sep-15,Junior,,302
-Sep-15,Junior,,519
-Sep-15,Junior,,519
-Sep-15,Junior,,519
-Sep-15,Junior,,519
-Sep-15,Junior,,519
-Sep-15,Junior,,519
-Sep-15,Junior,,519
-Sep-15,Junior,,519
-Sep-15,Junior,,519
-Sep-15,Junior,,519
-Sep-15,Junior,,519
-Sep-15,Junior,,520
-Sep-15,Junior,,520
-Sep-15,Junior,,520
-Sep-15,Junior,,520
-Sep-15,Junior,,520
-Sep-15,Junior,,521
-Sep-15,Junior,,521
-Sep-15,Junior,,521
-Sep-15,Junior,,521
-Sep-15,Junior,,521
-Sep-15,Junior,,521
-Sep-15,Junior,,521
-Sep-15,Junior,,521
-Sep-15,Junior,,522
-Sep-15,Junior,,522
-Sep-15,Junior,,522
-Sep-15,Junior,,522
-Sep-15,Junior,,522
-Sep-15,Junior,,522
-Sep-15,Junior,,522
-Sep-15,Junior,,522
-Sep-15,Junior,,522
-Sep-15,Junior,,522
-Sep-15,Junior,,522
-Sep-15,Junior,,522
-Sep-15,Junior,,522
-Sep-15,Junior,,522
-Sep-15,Junior,,522
-Sep-15,Junior,,522
-Sep-15,Junior,,522
-Sep-15,Junior,,522
-Sep-15,Junior,,522
-Sep-15,Junior,,522
-Sep-15,Junior,,556
-Sep-15,Junior,,556
-Sep-15,Junior,,556
-Sep-15,Junior,,556
-Sep-15,Junior,,556
-Sep-15,Junior,,230
-Sep-15,Junior,,230
-Sep-15,Junior,,230
-Sep-15,Junior,,230
-Sep-15,Junior,,230
-Sep-15,Junior,,276
-Sep-15,Junior,,276
-Sep-15,Junior,,276
-Sep-15,Junior,,276
-Sep-15,Junior,,281
-Sep-15,Junior,,281
-Sep-15,Junior,,281
-Sep-15,Junior,,281
-Sep-15,Junior,,281
-Sep-15,Junior,,281
-Sep-15,Junior,,281
-Sep-15,Junior,,281
-Sep-15,Junior,,281
-Sep-15,Junior,,281
-Sep-15,Junior,,281
-Sep-15,Junior,,281
-Sep-15,Junior,,281
-Sep-15,Junior,,281
-Sep-15,Junior,,281
-Sep-15,Junior,,281
-Sep-15,Junior,,281
-Sep-15,Junior,,281
-Sep-15,Junior,,281
-Sep-15,Junior,,281
-Sep-15,Junior,,281
-Sep-15,Junior,,281
-Sep-15,Junior,,281
-Sep-15,Junior,,281
-Sep-15,Junior,,281
-Sep-15,Junior,,281
-Sep-15,Junior,,281
-Sep-15,Junior,,281
-Sep-15,Junior,,281
-Sep-15,Junior,,281
-Sep-15,Junior,,284
-Sep-15,Junior,,284
-Sep-15,Junior,,284
-Sep-15,Junior,,284
-Sep-15,Junior,,284
-Sep-15,Junior,,284
-Sep-15,Junior,,284
-Sep-15,Junior,,408
-Sep-15,Junior,,408
-Sep-15,Junior,,408
-Sep-15,Junior,,408
-Sep-15,Junior,,408
-Sep-15,Junior,,408
-Sep-15,Junior,,408
-Sep-15,Junior,,408
-Sep-15,Junior,,408
-Sep-15,Junior,,408
-Sep-15,Junior,,408
-Sep-15,Junior,,408
-Sep-15,Junior,,408
-Sep-15,Junior,,408
-Sep-15,Junior,,408
-Sep-15,Junior,,452
-Sep-15,Junior,,452
-Sep-15,Junior,,452
-Sep-15,Junior,,452
-Sep-15,Junior,,452
-Sep-15,Junior,,452
-Sep-15,Junior,,452
-Sep-15,Junior,,452
-Sep-15,Junior,,452
-Sep-15,Junior,,452
-Sep-15,Junior,,452
-Sep-15,Junior,,452
-Sep-15,Junior,,452
-Sep-15,Junior,,452
-Sep-15,Junior,,452
-Sep-15,Junior,,452
-Sep-15,Junior,,452
-Sep-15,Junior,,452
-Sep-15,Junior,,452
-Sep-15,Junior,,452
-Sep-15,Junior,,452
-Sep-15,Junior,,452
-Sep-15,Junior,,452
-Sep-15,Junior,,452
-Sep-15,Junior,,452
-Sep-15,Junior,,452
-Sep-15,Junior,,452
-Sep-15,Junior,,452
-Sep-15,Junior,,452
-Sep-15,Junior,,452
-Sep-15,Junior,,452
-Sep-15,Junior,,452
-Sep-15,Junior,,454
-Sep-15,Junior,,454
-Sep-15,Junior,,454
-Sep-15,Junior,,454
-Sep-15,Junior,,454
-Sep-15,Junior,,454
-Sep-15,Junior,,454
-Sep-15,Junior,,454
-Sep-15,Junior,,454
-Sep-15,Junior,,454
-Sep-15,Junior,,454
-Sep-15,Junior,,454
-Sep-15,Junior,,457
-Sep-15,Junior,,457
-Sep-15,Junior,,457
-Sep-15,Junior,,457
-Sep-15,Junior,,457
-Sep-15,Junior,,457
-Sep-15,Junior,,457
-Sep-15,Junior,,457
-Sep-15,Junior,,457
-Sep-15,Junior,,457
-Sep-15,Junior,,457
-Sep-15,Junior,,457
-Sep-15,Junior,,457
-Sep-15,Junior,,457
-Sep-15,Junior,,457
-Sep-15,Junior,,457
-Sep-15,Junior,,457
-Sep-15,Junior,,458
-Sep-15,Junior,,458
-Sep-15,Junior,,458
-Sep-15,Junior,,458
-Sep-15,Junior,,458
-Sep-15,Junior,,459
-Sep-15,Junior,,459
-Sep-15,Junior,,459
-Sep-15,Junior,,459
-Sep-15,Junior,,459
-Sep-15,Junior,,459
-Sep-15,Junior,,459
-Sep-15,Junior,,459
-Sep-15,Junior,,459
-Sep-15,Junior,,459
-Sep-15,Junior,,459
-Sep-15,Junior,,459
-Sep-15,Junior,,459
-Sep-15,Junior,,460
-Sep-15,Junior,,460
-Sep-15,Junior,,502
-Sep-15,Junior,,502
-Sep-15,Junior,,502
-Sep-15,Junior,,502
-Sep-15,Junior,,503
-Sep-15,Junior,,503
-Sep-15,Junior,,503
-Sep-15,Junior,,503
-Sep-15,Junior,,503
-Sep-15,Junior,,503
-Sep-15,Junior,,503
-Sep-15,Junior,,503
-Sep-15,Junior,,513
-Sep-15,Junior,,513
-Sep-15,Junior,,513
-Sep-15,Junior,,513
-Sep-15,Junior,,557
-Sep-15,Junior,,557
-Sep-15,Junior,,557
-Sep-15,Junior,,587
-Sep-15,Junior,,587
-Sep-15,Junior,,587
-Sep-15,Junior,,587
-Sep-15,Junior,,587
-Sep-15,Junior,,587
-Sep-15,Junior,,587
-Sep-15,Junior,,587
-Sep-15,Junior,,587
-Sep-15,Junior,,588
-Sep-15,Junior,,588
-Sep-15,Junior,,588
-Sep-15,Junior,,588
-Sep-15,Junior,,588
-Sep-15,Junior,,100
-Sep-15,Junior,,100
-Sep-15,Junior,,100
-Sep-15,Junior,,100
-Sep-15,Junior,,100
-Sep-15,Junior,,100
-Sep-15,Junior,,100
-Sep-15,Junior,,100
-Sep-15,Junior,,100
-Sep-15,Junior,,100
-Sep-15,Junior,,141
-Sep-15,Junior,,141
-Sep-15,Junior,,141
-Sep-15,Junior,,141
-Sep-15,Junior,,141
-Sep-15,Junior,,141
-Sep-15,Junior,,141
-Sep-15,Junior,,141
-Sep-15,Junior,,141
-Sep-15,Junior,,141
-Sep-15,Junior,,141
-Sep-15,Junior,,141
-Sep-15,Junior,,141
-Sep-15,Junior,,338
-Sep-15,Junior,,338
-Sep-15,Junior,,338
-Sep-15,Junior,,338
-Sep-15,Junior,,338
-Sep-15,Junior,,338
-Sep-15,Junior,,338
-Sep-15,Junior,,338
-Sep-15,Junior,,116
-Sep-15,Junior,,116
-Sep-15,Junior,,116
-Sep-15,Junior,,116
-Sep-15,Junior,,116
-Sep-15,Junior,,116
-Sep-15,Junior,,116
-Sep-15,Junior,,116
-Sep-15,Junior,,116
-Sep-15,Junior,,116
-Sep-15,Junior,,116
-Sep-15,Junior,,116
-Sep-15,Junior,,116
-Sep-15,Junior,,116
-Sep-15,Junior,,143
-Sep-15,Junior,,143
-Sep-15,Junior,,143
-Sep-15,Junior,,143
-Sep-15,Junior,,143
-Sep-15,Junior,,143
-Sep-15,Junior,,303
-Sep-15,Junior,,303
-Sep-15,Junior,,303
-Sep-15,Junior,,303
-Sep-15,Junior,,303
-Sep-15,Junior,,357
-Sep-15,Junior,,357
-Sep-15,Junior,,357
-Sep-15,Junior,,357
-Sep-15,Junior,,357
-Sep-15,Junior,,357
-Sep-15,Junior,,357
-Sep-15,Junior,,357
-Sep-15,Junior,,357
-Sep-15,Junior,,359
-Sep-15,Junior,,359
-Sep-15,Junior,,359
-Sep-15,Junior,,359
-Sep-15,Junior,,359
-Sep-15,Junior,,359
-Sep-15,Junior,,406
-Sep-15,Junior,,406
-Sep-15,Junior,,406
-Sep-15,Junior,,409
-Sep-15,Junior,,409
-Sep-15,Junior,,409
-Sep-15,Junior,,409
-Sep-15,Junior,,409
-Sep-15,Junior,,409
-Sep-15,Junior,,409
-Sep-15,Junior,,409
-Sep-15,Junior,,479
-Sep-15,Junior,,479
-Sep-15,Junior,,479
-Sep-15,Junior,,479
-Sep-15,Junior,,479
-Sep-15,Junior,,296
-Sep-15,Junior,,296
-Sep-15,Junior,,296
-Sep-15,Junior,,296
-Sep-15,Junior,,296
-Sep-15,Junior,,296
-Sep-15,Junior,,296
-Sep-15,Junior,,296
-Sep-15,Junior,,296
-Sep-15,Junior,,296
-Sep-15,Junior,,296
-Sep-15,Junior,,296
-Sep-15,Junior,,296
-Sep-15,Junior,,517
-Sep-15,Junior,,517
-Sep-15,Junior,,517
-Sep-15,Junior,,517
-Sep-15,Junior,,517
-Sep-15,Junior,,517
-Sep-15,Junior,,517
-Sep-15,Junior,,517
-Sep-15,Junior,,517
-Sep-15,Junior,,517
-Sep-15,Junior,,517
-Sep-15,Junior,,517
-Sep-15,Junior,,517
-Sep-15,Junior,,517
-Sep-15,Junior,,517
-Sep-15,Junior,,517
-Sep-15,Junior,,517
-Sep-15,Junior,,517
-Sep-15,Junior,,517
-Sep-15,Junior,,517
-Sep-15,Junior,,517
-Sep-15,Junior,,517
-Sep-15,Junior,,517
-Sep-15,Junior,,517
-Sep-15,Junior,,517
-Sep-15,Junior,,77
-Sep-15,Junior,,77
-Sep-15,Junior,,77
-Sep-15,Junior,,77
-Sep-15,Junior,,77
-Sep-15,Junior,,77
-Sep-15,Junior,,77
-Sep-15,Junior,,77
-Sep-15,Junior,,77
-Sep-15,Junior,,77
-Sep-15,Junior,,77
-Sep-15,Junior,,145
-Sep-15,Junior,,145
-Sep-15,Junior,,145
-Sep-15,Junior,,145
-Sep-15,Junior,,145
-Sep-15,Junior,,416
-Sep-15,Junior,,416
-Sep-15,Junior,,416
-Sep-15,Junior,,416
-Sep-15,Junior,,416
-Sep-15,Junior,,416
-Sep-15,Junior,,416
-Sep-15,Junior,,490
-Sep-15,Junior,,490
-Sep-15,Junior,,490
-Sep-15,Junior,,490
-Sep-15,Junior,,448
-Sep-15,Junior,,448
-Sep-15,Junior,,572
-Sep-15,Junior,,583
-Sep-15,Junior,,583
-Sep-15,Junior,,583
-Sep-15,Junior,,583
-Sep-15,Junior,,439
-Sep-15,Junior,,472
-Sep-15,Junior,,472
-Sep-15,Junior,,473
-Sep-15,Junior,,473
-Sep-15,Junior,,474
-Sep-15,Junior,,474
-Sep-15,Junior,,474
-Sep-15,Junior,,474
-Sep-15,Junior,,474
-Sep-15,Junior,,475
-Sep-15,Junior,,475
-Sep-15,Junior,,476
-Sep-15,Junior,,476
-Sep-15,Junior,,476
-Sep-15,Junior,,476
-Sep-15,Junior,,494
-Sep-15,Junior,,494
-Sep-15,Junior,,500
-Sep-15,Junior,,500
-Sep-15,Junior,,500
-Sep-15,Junior,,514
-Sep-15,Junior,,514
-Sep-15,Junior,,514
-Sep-15,Junior,,514
-Sep-15,Junior,,514
-Sep-15,Junior,,514
-Sep-15,Junior,,514
-Sep-15,Junior,,514
-Sep-15,Junior,,514
-Sep-15,Junior,,514
-Sep-15,Junior,,565
-Sep-15,Junior,,565
-Sep-15,Junior,,566
-Sep-15,Junior,,81
-Sep-15,Junior,,81
-Sep-15,Junior,,81
-Sep-15,Junior,,81
-Sep-15,Junior,,81
-Sep-15,Junior,,81
-Sep-15,Junior,,81
-Sep-15,Junior,,81
-Sep-15,Junior,,81
-Sep-15,Junior,,81
-Sep-15,Junior,,81
-Sep-15,Junior,,81
-Sep-15,Junior,,81
-Sep-15,Junior,,81
-Sep-15,Junior,,81
-Sep-15,Junior,,81
-Sep-15,Junior,,81
-Sep-15,Junior,,81
-Sep-15,Junior,,81
-Sep-15,Junior,,81
-Sep-15,Junior,,81
-Sep-15,Junior,,81
-Sep-15,Junior,,81
-Sep-15,Junior,,81
-Sep-15,Junior,,81
-Sep-15,Junior,,81
-Sep-15,Junior,,81
-Sep-15,Junior,,81
-Sep-15,Junior,,81
-Sep-15,Junior,,81
-Sep-15,Junior,,81
-Sep-15,Junior,,81
-Sep-15,Junior,,124
-Sep-15,Junior,,124
-Sep-15,Junior,,124
-Sep-15,Junior,,124
-Sep-15,Junior,,124
-Sep-15,Junior,,146
-Sep-15,Junior,,146
-Sep-15,Junior,,146
-Sep-15,Junior,,146
-Sep-15,Junior,,146
-Sep-15,Junior,,146
-Sep-15,Junior,,146
-Sep-15,Junior,,146
-Sep-15,Junior,,151
-Sep-15,Junior,,152
-Sep-15,Junior,,152
-Sep-15,Junior,,152
-Sep-15,Junior,,152
-Sep-15,Junior,,152
-Sep-15,Junior,,298
-Sep-15,Junior,,298
-Sep-15,Junior,,487
-Sep-15,Junior,,487
-Sep-15,Junior,,487
-Sep-15,Junior,,487
-Sep-15,Junior,,487
-Sep-15,Junior,,487
-Sep-15,Junior,,487
-Sep-15,Junior,,487
-Sep-15,Junior,,487
-Sep-15,Junior,,488
-Sep-15,Junior,,488
-Sep-15,Junior,,488
-Sep-15,Junior,,488
-Sep-15,Junior,,488
-Sep-15,Junior,,488
-Sep-15,Junior,,488
-Sep-15,Junior,,488
-Sep-15,Junior,,488
-Sep-15,Junior,,57
-Sep-15,Junior,,57
-Sep-15,Junior,,57
-Sep-15,Junior,,57
-Sep-15,Junior,,57
-Sep-15,Junior,,57
-Sep-15,Junior,,57
-Sep-15,Junior,,57
-Sep-15,Junior,,140
-Sep-15,Junior,,140
-Sep-15,Junior,,140
-Sep-15,Junior,,140
-Sep-15,Junior,,140
-Sep-15,Junior,,140
-Sep-15,Junior,,140
-Sep-15,Junior,,140
-Sep-15,Junior,,140
-Sep-15,Junior,,142
-Sep-15,Junior,,142
-Sep-15,Junior,,142
-Sep-15,Junior,,142
-Sep-15,Junior,,543
-Sep-15,Junior,,560
-Sep-15,Junior,,560
-Sep-15,Junior,,560
-Sep-15,Junior,,560
-Sep-15,Junior,,575
-Sep-15,Junior,,575
-Sep-15,Junior,,575
-Sep-15,Junior,,575
-Sep-15,Junior,,577
-Sep-15,Junior,,577
-Sep-15,Junior,,577
-Sep-15,Junior,,577
-Sep-15,Junior,,577
-Sep-15,Junior,,577
-Sep-15,Junior,,577
-Sep-15,Junior,,577
-Sep-15,Junior,,577
-Sep-15,Junior,,577
-Sep-15,Junior,,77
-Sep-15,Junior,,77
-Sep-15,Junior,,77
-Sep-15,Junior,,77
-Sep-15,Junior,,77
-Sep-15,Junior,,133
-Sep-15,Junior,,133
-Sep-15,Junior,,133
-Sep-15,Junior,,133
-Sep-15,Junior,,133
-Sep-15,Junior,,133
-Sep-15,Junior,,350
-Sep-15,Junior,,350
-Sep-15,Junior,,350
-Sep-15,Junior,,396
-Sep-15,Junior,,396
-Sep-15,Junior,,396
-Sep-15,Junior,,396
-Sep-15,Junior,,396
-Sep-15,Junior,,396
-Sep-15,Junior,,396
-Sep-15,Junior,,396
-Sep-15,Junior,,396
-Sep-15,Junior,,398
-Sep-15,Junior,,398
-Sep-15,Junior,,399
-Sep-15,Junior,,399
-Sep-15,Junior,,399
-Sep-15,Junior,,399
-Sep-15,Junior,,400
-Sep-15,Junior,,431
-Sep-15,Junior,,431
-Sep-15,Junior,,431
-Sep-15,Junior,,431
-Sep-15,Junior,,495
-Sep-15,Junior,,495
-Sep-15,Junior,,495
-Sep-15,Junior,,495
-Sep-15,Junior,,495
-Sep-15,Junior,,600
-Sep-15,Junior,,600
-Sep-15,Junior,,600
-Sep-15,Junior,,600
-Sep-15,Junior,,600
+date,id,parentId,level,name,grade,jobTitle,unit,salaryCostOfReports,payFloor,payCeil,professionalOccupationalGroup
+Sep-15,2,317,Senior,Jonathan Day,SCS4,"Permanent Secretary, Chairman of the JIC and Professional Head of Intelligence Analysis",Joint Intelligence Organisation,0,145000,149999,Policy
+Sep-15,5,317,Senior,Tom Scholar,SCS4,"Permanent Secretary, Prime Minister's Adviser, Head of the European and Global Issues Secretariat",European and Global Issues Secretariat,0,150000,154999,Policy
+Sep-15,7,317,Senior,Sir Mark Lyall Grant,SCS4,"Permanent Secretary, National Security Adviser",National Security Secretariat,0,160000,164999,Other
+Sep-15,8,405,Senior,Eliminated,SCS4,Permanent Secretary of the Cabinet Office and First Parliamentary Counsel,Government in Parliament,0,0,0,Law
+Sep-15,10,317,Senior,Helen MacNamara,SCS3,Director General and Head of Economic and Domestic Affairs Secretariat,Economic and Domestic Affairs Secretariat,375920,105000,109999,Policy
+Sep-15,13,7,Senior,Paddy McGuinness,SCS3,"Director General, Deputy National Security Adviser, Intelligence Security and Resilience",National Security Secretariat,0,0,0,Policy
+Sep-15,16,317,Senior,Edward Chaplin,SCS3,Prime Minister's Appointments Secretary,Honours and Appointments Secretariat,0,45000,49999,Policy
+Sep-15,22,281,Senior,Liam Maxwell,SCS2,"Director, Chief Technology Officer, HM Government",Government Digital Service,574321,140000,144999,Other
+Sep-15,24,497,Senior,Guy Lester,SCS2,"Director, Finance and Estates Management",Finance & Estates Management,89987,90000,94999,Finance
+Sep-15,25,216,Senior,Eliminated,SCS2,"Director, Principal Private Secretary to the Deputy Prime Minister",Deputy Prime Minister's Office,0,0,0,Policy
+Sep-15,31,592,Senior,Adrian Dottridge,SCS2,"Director, Civil Service Workforce Reform",Civil Service HR,0,85000,89999,Human Resources
+Sep-15,33,592,Senior,Janette Durbin,SCS2,"Director, Civil Service Talent",Civil Service HR,0,100000,104999,Human Resources
+Sep-15,35,317,Senior,Christopher Martin,SCS3,"Director General, PPS to Prime Minister",Prime Minister's Office,366221.8,125000,129999,Policy
+Sep-15,37,497,Senior,Ruth Bailey & Crystal Akass,SCS2,"Director, Human Resources",Human Resources,0,50000,54999,Human Resources
+Sep-15,38,497,Senior,Alex Aiken,SCS2,"Executive Director, Government Communications",Government Communications,0,135000,139999,Communications
+Sep-15,42,7,Senior,Vacant,SCS3,"Director General, Deputy National Security Adviser, Defence, Nuclear and Strategy",National Security Secretariat,0,0,0,Policy
+Sep-15,51,5,Senior,Paul Rankin,SCS2,"Director, European and Global Issues Secretariat",European and Global Issues Secretariat,0,90000,94999,Policy
+Sep-15,54,10,Senior,Vacant,SCS2,Director and Deputy Head of Economic and Domestic Affairs Secretariat,Economic and Domestic Affairs Secretariat,0,0,0,Policy
+Sep-15,56,35,Senior,Helen Bower,SCS2,"Director, Prime Minister's Official Spokesperson",Government Communications,0,60000,64999,Communications
+Sep-15,57,317,Senior,Sue Gray,SCS3,"Director General, Propriety and Ethics, HMU for Private Office Group",Private Office Group,619889,115000,119999,Policy
+Sep-15,59,594,Senior,Lucy Smith,SCS2,"Director, Constitution Group",Constitution Group,0,95000,99999,Policy
+Sep-15,63,8,Senior,Eliminated,SCS1,"Deputy Director, PPS to Minister for Cabinet Office",Private Office Group,0,0,0,Operational Delivery
+Sep-15,69,54,Senior,N/D,SCS1,"Deputy Director, Home Affairs",Economic and Domestic Affairs Secretariat,328647.8,0,0,Policy
+Sep-15,76,54,Senior,N/D,SCS1,"Deputy Director, Growth and Economic Affairs",Economic and Domestic Affairs Secretariat,155901,0,0,Policy
+Sep-15,77,380,Senior,N/D,SCS1,"Deputy Director, Head of Honours and Appointments",Honours and Appointments Secretariat,869623,0,0,Policy
+Sep-15,79,56,Senior,N/D,SCS1,"Deputy Director, Head of Afghan and NSC Communication",Government Communications,411815.8,0,0,Communications
+Sep-15,81,35,Senior,N/D,SCS1,"Deputy Director, Head of Corporate Services",Prime Minister's Office,2409921,0,0,Operational Delivery
+Sep-15,82,33,Senior,N/D,SCS1,"Deputy Director, Civil Service Talent",Civil Service HR,309500,0,0,Human Resources
+Sep-15,99,24,Senior,N/D,SCS1,"Deputy Director, Finance",Finance & Estates Management,2095473,0,0,Finance
+Sep-15,100,580,Senior,N/D,SCS1,"Deputy Director, Chief Executive of Office of the Parliamentary Counsel",Government in Parliament,881732,0,0,Operational Delivery
+Sep-15,102,33,Senior,Eliminated,SCS1,"Deputy Director, Perm Sec Appointments and Performance Management",Civil Service HR,0,0,0,Human Resources
+Sep-15,116,406,Senior,N/D,SCS1,"Deputy Director, Analysis and Insight",Government Innovation Group,944833,0,0,Statisticians
+Sep-15,118,59,Senior,N/D,SCS1,"Deputy Director, Elections Division",Constitution Group,940864,0,0,Policy
+Sep-15,124,35,Senior,N/D,SCS1,"Deputy Director, Senior Policy Adviser",Prime Minister's Office,400335,0,0,Policy
+Sep-15,128,270,Senior,Eliminated,SCS1,"Deputy Director, Public Service Mutuals",Transformation,0,0,0,Policy
+Sep-15,133,270,Senior,N/D,SCS1,"Deputy Director, Public Bodies Reform",Transformation,572848,0,0,Policy
+Sep-15,140,57,Senior,N/D,SCS1,"Deputy Director, Knowledge and Information Management",Private Office Group,634781,0,0,Knowledge and Information Management (KIM)
+Sep-15,141,580,Senior,Roy Stone,SCS2,"Executive Director, Business Management (Commons)",Government in Parliament,687939,95000,99999,Programme and Project Management (PPM)
+Sep-15,142,57,Senior,N/D,SCS1,"Deputy Director, Propriety & Ethics Team",Private Office Group,420941,0,0,Policy
+Sep-15,143,406,Senior,N/D,SCS1,"Deputy Director, Social Action",Government Innovation Group,438383,0,0,Policy
+Sep-15,145,37,Senior,N/D,SCS1,Head of HR Expert Services,Human Resources,322688,0,0,Human Resources
+Sep-15,146,35,Senior,N/D,SCS1,"Deputy Director, Private Secretary to the Prime Minister",Prime Minister's Office,379815,0,0,Policy
+Sep-15,151,35,Senior,N/D,SCS1,"Deputy Director, Private Secretary to the Prime Minister (Speechwriter)",Prime Minister's Office,0,0,0,Communications
+Sep-15,152,35,Senior,N/D,SCS1,"Deputy Director, Private Secretary to the Prime Minister",Prime Minister's Office,277539,0,0,Policy
+Sep-15,153,54,Senior,N/D,SCS1,"Deputy Director, Parliamentary Adviser",Economic and Domestic Affairs Secretariat,0,0,0,Policy
+Sep-15,154,56,Senior,N/D,SCS1,"Deputy Director, Head of News and PMO Press Office",Government Communications,618703,0,0,Communications
+Sep-15,157,186,Senior,Eliminated,SCS1,Assistant Parliamentary Counsel,Government in Parliament,0,0,0,Law
+Sep-15,158,187,Senior,Eliminated,SCS1,Assistant Parliamentary Counsel,Government in Parliament,0,0,0,Law
+Sep-15,159,187,Senior,Eliminated,SCS1,Assistant Parliamentary Counsel,Government in Parliament,0,0,0,Law
+Sep-15,160,173,Senior,Eliminated,SCS1,Assistant Parliamentary Counsel,Government in Parliament,0,0,0,Law
+Sep-15,161,187,Senior,Eliminated,SCS1,Assistant Parliamentary Counsel,Government in Parliament,0,0,0,Law
+Sep-15,162,186,Senior,Eliminated,SCS1,Assistant Parliamentary Counsel,Government in Parliament,0,0,0,Law
+Sep-15,164,182,Senior,Alison Bertlin,SCS2,Parliamentary Counsel (Director),Government in Parliament,0,105000,109999,Law
+Sep-15,166,182,Senior,Bernadette Walsh,SCS2,Parliamentary Counsel (Director),Government in Parliament,0,130000,134999,Law
+Sep-15,167,187,Senior,Catherine O'Riordan,SCS2,Parliamentary Counsel (Director),Government in Parliament,0,135000,139999,Law
+Sep-15,169,183,Senior,David Sewell,SCS2,Parliamentary Counsel (Director),Government in Parliament,0,90000,94999,Law
+Sep-15,171,186,Senior,Godfrey Lyne,SCS2,Parliamentary Counsel (Director),Government in Parliament,0,135000,139999,Law
+Sep-15,172,187,Senior,Helene Moore,SCS2,Parliamentary Counsel (Director),Government in Parliament,0,125000,129999,Law
+Sep-15,173,186,Senior,Jackie Crawford,SCS2,Parliamentary Counsel (Director),Government in Parliament,0,130000,134999,Law
+Sep-15,174,182,Senior,James Stephens,SCS2,Parliamentary Counsel (Director),Government in Parliament,0,125000,129999,Law
+Sep-15,175,182,Senior,Jessica de Mounteney,SCS2,Parliamentary Counsel (Director),Government in Parliament,0,90000,94999,Law
+Sep-15,176,183,Senior,Lucy Baines,SCS2,Parliamentary Counsel (Director),Government in Parliament,0,135000,139999,Law
+Sep-15,177,182,Senior,Mark Hudson,SCS2,Parliamentary Counsel (Director),Government in Parliament,0,135000,139999,Law
+Sep-15,178,187,Senior,Nigel Rendell,SCS2,Parliamentary Counsel (Director),Government in Parliament,0,135000,139999,Law
+Sep-15,180,580,Senior,N/D,SCS3,Parliamentary Counsel (Director General),Government in Parliament,0,120000,124999,Law
+Sep-15,181,580,Senior,Catherine Johnston CB,SCS3,Parliamentary Counsel (Director General),Government in Parliament,0,195000,199999,Law
+Sep-15,182,580,Senior,David Cook CB,SCS3,"2nd Parliamentary Counsel (Director General), HO and DECC",Government in Parliament,0,180000,184999,Law
+Sep-15,183,580,Senior,David Sprackling,SCS3,"Parliamentary Counsel (Director General), DWP, DEFRA, MOJ, MoD and DfT",Government in Parliament,0,155000,159999,Law
+Sep-15,186,580,Senior,Elizabeth Gardiner CB,SCS3,"Parliamentary Counsel (Director General), HMT, HMRC, DfID, FCO and DCMS",Government in Parliament,0,175000,179999,Law
+Sep-15,187,580,Senior,Hayley Rogers,SCS3,"Parliamentary Counsel (Director General), DfE, DCLG, BIS and DH",Government in Parliament,0,160000,164999,Law
+Sep-15,192,182,Senior,N/D,SCS1,Parliamentary Counsel (Deputy Director),Government in Parliament,0,0,0,Law
+Sep-15,193,187,Senior,N/D,SCS1,Parliamentary Counsel (Deputy Director),Government in Parliament,0,0,0,Law
+Sep-15,194,182,Senior,N/D,SCS1,Parliamentary Counsel (Deputy Director),Government in Parliament,0,0,0,Law
+Sep-15,195,187,Senior,N/D,SCS1,Parliamentary Counsel (Deputy Director),Government in Parliament,0,0,0,Law
+Sep-15,196,182,Senior,Eliminated,SCS1,Assistant Parliamentary Counsel,Government in Parliament,0,0,0,Law
+Sep-15,200,186,Senior,N/D,SCS1,Parliamentary Counsel (Deputy Director),Government in Parliament,0,0,0,Law
+Sep-15,201,183,Senior,N/D,SCS1,Parliamentary Counsel (Deputy Director),Government in Parliament,0,0,0,Law
+Sep-15,202,187,Senior,N/D,SCS1,Parliamentary Counsel (Deputy Director),Government in Parliament,0,0,0,Law
+Sep-15,216,317,Senior,Eliminated,SCS3,"Director General, Deputy Prime Minister's Office",Deputy Prime Minister's Office,0,0,0,Policy
+Sep-15,221,497,Senior,Eliminated,SCS2,"Executive Director, Government Innovation Group",Government Innovation Group,0,0,0,Policy
+Sep-15,224,37,Senior,Eliminated,SCS1,"Deputy Director, Flexible Resourcing",Human Resources,0,0,0,Human Resources
+Sep-15,227,35,Senior,N/D,SCS1,"Deputy Director, Senior Policy Adviser",Prime Minister's Office,0,0,0,Policy
+Sep-15,228,24,Senior,Vacant,SCS1,"Deputy Director, Commercial and Estates",Finance & Estates Management,957257,0,0,Other
+Sep-15,230,586,Senior,N/D,SCS1,"Deputy Director, Data Transparency",Government Digital Service,533867,0,0,Operational delivery
+Sep-15,240,281,Senior,Eliminated,SCS2,Director of Operations,Government Digital Service,0,0,0,Other
+Sep-15,243,452,Senior,Eliminated,SCS1,Deputy Director Digital Strategy,Government Digital Service,0,0,0,Other
+Sep-15,246,38,Senior,Eliminated,SCS1,"Deputy Director, Head of Deputy Prime Minister and Political Reform Communications",Government Communications,0,0,0,Communications
+Sep-15,252,183,Senior,Eliminated,SCS1,Assistant Parliamentary Counsel,Government in Parliament,0,0,0,Law
+Sep-15,253,183,Senior,Eliminated,SCS1,Assistant Parliamentary Counsel,Government in Parliament,0,0,0,Law
+Sep-15,254,186,Senior,Eliminated,SCS1,Assistant Parliamentary Counsel,Government in Parliament,0,0,0,Law
+Sep-15,255,187,Senior,Douglas Hall,SCS2,Parliamentary Counsel (Director),Government in Parliament,0,85000,89999,Law
+Sep-15,257,59,Senior,N/D,SCS1,"Deputy Director, Electoral Registration Transformation",Constitution Group,1192437,0,0,Programme and Project Management (PPM)
+Sep-15,259,25,Senior,Eliminated,SCS1,"Deputy Director, Head of RAU",Deputy Prime Minister's Office,0,0,0,Policy
+Sep-15,270,350,Senior,Paul Chinn,SCS2,"Executive Director, Next Generation Shared Services",Transformation,409728,0,0,Procurement
+Sep-15,274,497,Senior,Bill Crothers,SCS3,Government Chief Commercial Officer,Efficiency,0,145000,149999,Procurement
+Sep-15,276,281,Senior,N/D,SCS1,"Deputy Director, MoJ and Cabinet Office Transformation",Government Digital Service,0,0,0,Other
+Sep-15,280,31,Senior,Eliminated,SCS1,"Deputy Director, Workforce Strategy",Civil Service HR,0,0,0,Human Resources
+Sep-15,281,497,Senior,Stephen Foreshew-Cain,SCS2,"Executive Director, Government Digital Service, Transformation Cluster",Government Digital Service,3157325,120000,124999,Other
+Sep-15,282,281,Senior,Eliminated,SCS1,"Deputy Director, Programme Transformation",Government Digital Service,0,0,0,Other
+Sep-15,284,281,Senior,N/D,SCS1,"Deputy Director, Digital Transformation",Government Digital Service,613118,0,0,Other
+Sep-15,286,59,Senior,N/D,SCS1,"Deputy Director, UK Governance & Devoluton",Constitution Group,643860,0,0,Policy
+Sep-15,289,35,Senior,Eliminated,SCS1,"Deputy Director, Senior Policy Adviser",Prime Minister's Office,0,0,0,Policy
+Sep-15,296,445,Senior,N/D,SCS1,"Programme Director, Hubs",Government Property Unit,1332299,0,0,Property and asset management
+Sep-15,298,35,Senior,N/D,SCS1,"Deputy Director, Head of No10 Appointments",Prime Minister's Office,0,0,0,Human Resources
+Sep-15,299,35,Senior,Eliminated,SCS1,"Deputy Director, Senior Policy Adviser",Prime Minister's Office,0,0,0,Policy
+Sep-15,300,216,Senior,Eliminated,SCS1,"Deputy Director, Head of Cities Unit",Constitution Group,0,0,0,Policy
+Sep-15,302,38,Senior,N/D,SCS1,"Deputy Director, Head of CO Communications",Government Communications,819558,0,0,Communications
+Sep-15,303,406,Senior,N/D,SCS1,"Deputy Director, Partnerships Team",Government Innovation Group,395086,0,0,Policy
+Sep-15,304,511,Senior,Eliminated,SCS1,"Deputy Director, Red Tape Challenge & Deregulation Bill (job share)",Implementation Group,0,0,0,Policy
+Sep-15,305,31,Senior,N/D,SCS1,"Deputy Director, Civil Service Pay & Reward",Civil Service HR,659456,0,0,Human Resources
+Sep-15,313,22,Senior,Vacant,SCS1,"Deputy Director, ID Assurance",Government Digital Service,0,0,0,Other
+Sep-15,316,54,Senior,N/D,SCS1,"Deputy Director, Public Services",Economic and Domestic Affairs Secretariat,240560.24,0,0,Policy
+Sep-15,317,405,Senior,Sir Jeremy Heywood,SCS4,Cabinet Secretary and Head of the Civil Service,Private Office Group,0,195000,199999,Operational Delivery
+Sep-15,318,25,Senior,Eliminated,SCS1,"Deputy Director, Senior Private Secretary",Deputy Prime Minister's Office,0,0,0,Policy
+Sep-15,319,511,Senior,N/D,SCS1,"Chief Analyst, Deputy Director Analysis, Welfare and Energy",Implementation Group,0,0,0,Statisticians
+Sep-15,320,511,Senior,N/D,SCS1,"Deputy Director, Social Policy Implementation",Implementation Group,0,0,0,Policy
+Sep-15,321,511,Senior,N/D,SCS1,"Deputy Director, Home and Foreign Affairs",Implementation Group,451639,0,0,Policy
+Sep-15,322,281,Senior,Eliminated,SCS1,"Deputy Director, Performance and Delivery",Government Digital Service,0,0,0,Other
+Sep-15,323,445,Senior,N/D,SCS1,"Deputy Director, Policy and Strategy",Government Property Unit,0,0,0,Property and asset management
+Sep-15,328,38,Senior,Eliminated,SCS1,"Deputy Director, Head of Shared Delivery Pool",Government Communications,0,0,0,Communications
+Sep-15,329,59,Senior,Vacant,SCS1,Secretary to the Commission (Boundary Commission),Constitution Group,0,0,0,Operational Delivery
+Sep-15,330,497,Senior,Lesley Hume,SCS2,"Executive Director, Fraud, Error, Debt and Grants","Fraud, Error and Debt",275051,130000,134999,Policy
+Sep-15,334,35,Senior,N/D,SCS1,"Deputy Director, Private Secretary to the Prime Minister",Prime Minister's Office,0,0,0,Policy
+Sep-15,338,580,Senior,N/D,SCS1,"Deputy Director, Business Management (Lords)",Government in Parliament,432225,0,0,Operational Delivery
+Sep-15,339,182,Senior,Edward Stell,SCS2,Parliamentary Counsel (Director),Government in Parliament,0,145000,149999,Law
+Sep-15,340,5,Senior,Antony Phillipson,SCS2,"Director, European and Global Issues Secretariat",European and Global Issues Secretariat,0,90000,94999,Policy
+Sep-15,350,497,Senior,Ed Welsh,SCS2,"Executive Director, Transformation Cluster",Transformation,0,70000,74999,Policy
+Sep-15,351,511,Senior,N/D,SCS1,"Deputy Director, Health & Social Care, Digital, Child Protection",Implementation Group,0,0,0,Policy
+Sep-15,353,497,Senior,Eliminated,SCS3,"Director General, Civil Service Group",Civil Service Group,0,0,0,Policy
+Sep-15,357,406,Senior,N/D,SCS1,"Deputy Director, Sector Support and Reform",Government Innovation Group,993922,0,0,Policy
+Sep-15,359,406,Senior,N/D,SCS1,"Deputy Director, Social Investment and Finance",Government Innovation Group,619161,0,0,Policy
+Sep-15,360,330,Senior,N/D,SCS1,"Deputy Director, Fraud, Error, Debt and Grants","Fraud, Error and Debt",593045,0,0,Policy
+Sep-15,365,31,Senior,Eliminated,SCS1,"Deputy Director, Head of the Pension Scheme Management Executive",Civil Service HR,0,0,0,Human Resources
+Sep-15,375,5,Senior,Creon Butler,SCS2,"Director, European and Global Issues Secretariat",European and Global Issues Secretariat,0,115000,119999,Policy
+Sep-15,380,497,Senior,Darren Tierney,SCS2,"Director, Civil Service Group",Civil Service Group,897922,85000,89999,Policy
+Sep-15,382,330,Senior,N/D,SCS1,"Deputy Director, Fraud, Error, Debt and Grants","Fraud, Error and Debt",277283,0,0,Operational Delivery
+Sep-15,388,22,Senior,Eliminated,SCS1,"Deputy Director, Tactical Delivery",Government Digital Service,0,0,0,Other
+Sep-15,396,270,Senior,N/D,SCS1,"Deputy Director, ISSC1 Contract Director",Transformation,391150,0,0,Programme and Project Management (PPM)
+Sep-15,397,270,Senior,Eliminated,SCS1,"Deputy Director, Head of Crown Oversight Function",Transformation,0,0,0,Programme and Project Management (PPM)
+Sep-15,398,270,Senior,N/D,SCS1,"Deputy Director, Commercial Models",Transformation,0,0,0,Procurement
+Sep-15,399,270,Senior,N/D,SCS1,"Deputy Director, Commercial Models",Transformation,288857,0,0,Procurement
+Sep-15,400,270,Senior,N/D,SCS1,"Deputy Director, Commercial Models",Transformation,0,0,0,Procurement
+Sep-15,405,,Senior,Cabinet Office,OF-6,Cabinet Office,Cabinet Office,0,0,0,Other
+Sep-15,406,497,Senior,Mark Fisher,SCS2,"Executive Director, Government Innovation Group (incl office for Civil Society)",Government Innovation Group,387435,125000,129999,Policy
+Sep-15,408,281,Senior,N/D,SCS1,"Deputy Director, Digital Inclusion",Government Digital Service,923670,0,0,Other
+Sep-15,409,406,Senior,N/D,SCS1,"Deputy Director, Programmes and Strategy Office",Government Innovation Group,527118,0,0,Policy
+Sep-15,414,35,Senior,Vacant,SCS1,"Deputy Director, Private Secretary to Prime Minister (Defence)",Prime Minister's Office,0,0,0,Policy
+Sep-15,416,37,Senior,N/D,SCS1,"Deputy Director, HR Strategy, Planning and Change",Human Resources,688578,0,0,Human Resources
+Sep-15,417,497,Senior,Eliminated,SCS3,"Director General, Civil Service HR",Civil Service HR,0,0,0,Human Resources
+Sep-15,418,592,Senior,Eliminated,SCS2,"Executive Director, Strategic HR",Civil Service HR,0,0,0,Human Resources
+Sep-15,420,592,Senior,Eliminated,SCS1,"Deputy Director, Civil Service HR Capability and Talent",Civil Service HR,0,0,0,Human Resources
+Sep-15,426,380,Senior,N/D,SCS1,"Deputy Director, Office for Government SIRO",Civil Service Group,232843,0,0,Programme and Project Management (PPM)
+Sep-15,427,497,Senior,Eliminated,SCS1,Chief Executive Group HR Director,Chief Executive Group,0,0,0,Human Resources
+Sep-15,428,380,Senior,N/D,SCS1,"Deputy Director, Head of Service Quality & Controls",Civil Service Group,0,0,0,Policy
+Sep-15,431,270,Senior,N/D,SCS1,"Deputy Director, Transition & Technology Lead",Transformation,243819,0,0,Procurement
+Sep-15,439,470,Senior,N/D,SCS1,"Deputy Director, Defence & International",Major Projects,0,0,0,Programme and Project Management (PPM)
+Sep-15,445,497,Senior,Bruce Richard Mann,SCS2,"Executive Director, Government Property Unit",Government Property Unit,0,105000,109999,Property and asset management
+Sep-15,448,572,Senior,N/D,SCS1,"Deputy Director, Records and Governance",Major Events & Operations,0,0,0,Policy
+Sep-15,452,281,Senior,Chris Ferguson,SCS2,"Director, Digital",Government Digital Service,2681893,70000,74999,Other
+Sep-15,453,281,Senior,Eliminated,SCS1,"Deputy Director, Digital Transformation",Government Digital Service,0,0,0,Other
+Sep-15,454,281,Senior,N/D,SCS1,"Deputy Director, Design",Government Digital Service,888237,0,0,Other
+Sep-15,456,281,Senior,Eliminated,SCS1,"Deputy Director, Strategy",Government Digital Service,0,0,0,Other
+Sep-15,457,22,Senior,N/D,SCS1,"Deputy Director, Gov.uk",Government Digital Service,2197336,0,0,Other
+Sep-15,458,281,Senior,N/D,SCS1,"Deputy Director, Communication & Digital Engagement",Government Digital Service,335975,0,0,Other
+Sep-15,459,22,Senior,N/D,SCS1,"Deputy Director, Technical Architect",Government Digital Service,3058722,0,0,Other
+Sep-15,460,22,Senior,N/D,SCS1,"Deputy Director, Common Technology",Government Digital Service,0,0,0,Other
+Sep-15,461,22,Senior,N/D,SCS1,"Deputy Director, Technology Leadership",Government Digital Service,0,0,0,Other
+Sep-15,470,564,Senior,Vacant,SCS2,"Director, Operations & Efficiency",Major Projects,1223551,0,0,Programme and Project Management (PPM)
+Sep-15,472,470,Senior,N/D,SCS1,"Deputy Director, Operations Manager, Public Services Cluster",Major Projects,0,0,0,Programme and Project Management (PPM)
+Sep-15,473,470,Senior,N/D,SCS1,"Deputy Director, Operations Manager, Enterprise & Growth",Major Projects,0,0,0,Programme and Project Management (PPM)
+Sep-15,474,564,Senior,N/D,SCS1,"Deputy Director, Construction",Major Projects,279891,0,0,Programme and Project Management (PPM)
+Sep-15,475,565,Senior,N/D,SCS1,"Deputy Director, Portfolio Management Group",Major Projects,0,0,0,Programme and Project Management (PPM)
+Sep-15,476,565,Senior,N/D,SCS1,"Deputy Director, Leadership Capability & Development",Major Projects,210192,0,0,Programme and Project Management (PPM)
+Sep-15,479,406,Senior,N/D,SCS1,"Deputy Director, Head of Youth Policy",Government Innovation Group,452689,0,0,Policy
+Sep-15,480,406,Senior,N/D,SCS1,"Deputy Director, Head of Policy Lab",Government Innovation Group,0,0,0,Policy
+Sep-15,481,221,Senior,Eliminated,SCS1,"Deputy Director, Transparency and Open Data",Government Innovation Group,0,0,0,Policy
+Sep-15,482,25,Senior,Eliminated,SCS1,"Deputy Director, Senior Policy Adviser",Deputy Prime Minister's Office,0,0,0,Policy
+Sep-15,483,25,Senior,Eliminated,SCS1,"Deputy Director, Senior Policy Adviser",Deputy Prime Minister's Office,0,0,0,Policy
+Sep-15,484,35,Senior,Eliminated,SCS1,"Deputy Director, Senior Policy Adviser",Prime Minister's Office,0,0,0,Other
+Sep-15,485,35,Senior,Eliminated,SCS1,"Deputy Director, Senior Policy Adviser",Prime Minister's Office,0,0,0,Other
+Sep-15,486,35,Senior,Eliminated,SCS1,"Deputy Director, Senior Policy Adviser",Prime Minister's Office,0,0,0,Other
+Sep-15,487,35,Senior,N/D,SCS1,"Deputy Director, Private Secretary to the Prime Minister",Prime Minister's Office,778047,0,0,Policy
+Sep-15,488,35,Senior,N/D,SCS1,"Deputy Director, Head of Events & Visits",Prime Minister's Office,391191,0,0,Communications
+Sep-15,489,182,Senior,N/D,SCS1,Parliamentary Counsel (Deputy Director),Government in Parliament,0,0,0,Law
+Sep-15,490,37,Senior,N/D,SCS1,"Deputy Director, HR Business Partnering",Human Resources,435644,0,0,Human Resources
+Sep-15,491,497,Senior,Andy Heyn,SCS2,"Director, Civil Service Group",Civil Service Group,0,85000,89999,Policy
+Sep-15,494,470,Senior,N/D,SCS1,"Deputy Director, Operations Manager for Home and Legal",Major Projects,0,0,0,Programme and Project Management (PPM)
+Sep-15,495,270,Senior,N/D,SCS1,"Deputy Director, Commercial Operations & Contract Delivery ISSC2",Transformation,499060,0,0,Programme and Project Management (PPM)
+Sep-15,497,405,Senior,John Manzoni,SCS4,Chief Executive of the Civil Service and Cabinet Office Permanent Secretary,Chief Executive Group,0,230000,234999,Operational Delivery
+Sep-15,498,57,Senior,Eliminated,SCS1,"Deputy Director, Head of Centre for Public Appointments",Private Office Group,0,0,0,Policy
+Sep-15,499,497,Senior,N/D,SCS1,"Deputy Director, PPS to the Chief Executive of the Civil Service",Chief Executive Group,362747,0,0,Operational Delivery
+Sep-15,500,565,Senior,N/D,SCS1,"Deputy Director, Specialist Recruiter for Project & Programme Management",Major Projects,240485,0,0,Programme and Project Management (PPM)
+Sep-15,502,22,Senior,N/D,SCS1,"Deputy Director, Chief Technical Architect for HM Government",Government Digital Service,359479,0,0,Other
+Sep-15,503,22,Senior,N/D,SCS1,"Deputy Director, PSN CTO",Government Digital Service,324415,0,0,Other
+Sep-15,504,281,Senior,Eliminated,SCS1,"Deputy Director, Head of Recruitment and Skills Team",Government Digital Service,0,0,0,Other
+Sep-15,505,497,Senior,Vacant,SCS1,"Deputy Director, Head of the Civil Service Board Secretariat",Chief Executive Group,0,0,0,Operational Delivery
+Sep-15,507,445,Senior,Eliminated,SCS1,"Deputy Director, Head of Transformation",Government Property Unit,0,0,0,Property and asset management
+Sep-15,508,186,Senior,Diggory Bailey,SCS2,Parliamentary Counsel (Director),Government in Parliament,0,125000,129999,Law
+Sep-15,509,186,Senior,Louise Davies,SCS2,Parliamentary Counsel (Director),Government in Parliament,0,125000,129999,Law
+Sep-15,510,445,Senior,N/D,SCS1,"Deputy Director, New Property Model",Government Property Unit,0,0,0,Property and asset management
+Sep-15,511,10,Senior,James Quinault,SCS2,"Director, Head of Implementation Group",Implementation Group,465684,85000,89999,Policy
+Sep-15,512,380,Senior,N/D,SCS1,"Deputy Director, Functions and Reform",Civil Service Group,461567,0,0,Policy
+Sep-15,513,22,Senior,N/D,SCS1,"Deputy Director, Digital Commercial Programme",Government Digital Service,0,0,0,Other
+Sep-15,514,470,Senior,N/D,SCS1,"Deputy Director, Central & Corporate",Major Projects,436639,0,0,Programme and Project Management (PPM)
+Sep-15,515,183,Senior,N/D,SCS1,Parliamentary Counsel (Deputy Director),Government in Parliament,0,0,0,Law
+Sep-15,516,186,Senior,N/D,SCS1,Parliamentary Counsel (Deputy Director),Government in Parliament,0,0,0,Law
+Sep-15,517,445,Senior,N/D,SCS1,"Chief Operating Officer, Government Property Unit, and Head of Government Property Profession",Government Property Unit,1467095,0,0,Property and asset management
+Sep-15,518,51,Senior,N/D,SCS1,"Deputy Director, European and Global Issues Secretariat",European and Global Issues Secretariat,413415,0,0,Policy
+Sep-15,519,38,Senior,N/D,SCS1,"Deputy Director, Head of Ideas",Government Communications,566012,0,0,Communications
+Sep-15,520,38,Senior,N/D,SCS1,"Deputy Director, Head of Insight",Government Communications,374480,0,0,Communications
+Sep-15,521,38,Senior,N/D,SCS1,"Deputy Director, Head of Implementation",Government Communications,449047,0,0,Communications
+Sep-15,522,38,Senior,N/D,SCS1,"Deputy Director, Head of Impact",Government Communications,1432453,0,0,Communications
+Sep-15,523,116,Senior,Eliminated,SCS1,"Deputy Director, Head of Statistics, Analysis and Insight",Government Innovation Group,0,0,0,Statisticians
+Sep-15,525,380,Senior,N/D,SCS1,"Deputy Director, Civil Service Strategy",Civil Service Group,0,0,0,Policy
+Sep-15,526,380,Senior,Eliminated,SCS1,"Deputy Director, Collective Leadership",Civil Service Group,0,0,0,Policy
+Sep-15,527,51,Senior,N/D,SCS1,"Deputy Director, European and Global Issues Secretariat",European and Global Issues Secretariat,426696,0,0,Policy
+Sep-15,528,340,Senior,N/D,SCS1,"Deputy Director, European and Global Issues Secretariat",European and Global Issues Secretariat,174438,0,0,Policy
+Sep-15,529,54,Senior,N/D,SCS1,"Deputy Director, Investment, Environment and Infrastructure",Economic and Domestic Affairs Secretariat,0,0,0,Policy
+Sep-15,533,497,Senior,N/D,SCS1,"Deputy Director, Chief Digital Officer",Digital & Technology Team,1647895,0,0,Information Technology
+Sep-15,534,281,Senior,N/D,SCS1,"Deputy Director, Digital Transformation Lead DVLA",Government Digital Service,0,0,0,Other
+Sep-15,536,187,Senior,N/D,SCS1,Parliamentary Counsel (Deputy Director),Government in Parliament,0,0,0,Law
+Sep-15,538,491,Senior,N/D,SCS1,"Deputy Director, Civil Service Diversity & Inclusion (Job Share)",Civil Service Group,263394,0,0,Policy
+Sep-15,541,580,Senior,Eliminated,SCS3,Parliamentary Counsel (Director General),Government in Parliament,0,0,0,Law
+Sep-15,542,56,Senior,N/D,SCS1,"Deputy Director, Deputy Spokesperson",Government Communications,0,0,0,Communications
+Sep-15,543,57,Senior,N/D,SCS1,"Deputy Director, Ombudsman Reform Programme",Private Office Group,0,0,0,Policy
+Sep-15,545,380,Senior,Eliminated,SCS1,"Deputy Director, Management Information",Civil Service Group,0,0,0,Policy
+Sep-15,546,380,Senior,N/D,SCS1,"Deputy Director, Efficiency Planning",Civil Service Group,213220,0,0,Policy
+Sep-15,547,592,Senior,Eliminated,SCS2,"Executive Director, Director of Professions",Civil Service HR,0,0,0,Human Resources
+Sep-15,548,33,Senior,N/D,SCS1,"Deputy Director, Civil Service Talent",Civil Service HR,365992,0,0,Human Resources
+Sep-15,549,33,Senior,N/D,SCS1,"Deputy Director, Civil Service Talent",Civil Service HR,553680,0,0,Human Resources
+Sep-15,550,54,Senior,Eliminated,SCS1,Deputy Director,Economic and Domestic Affairs Secretariat,0,0,0,Policy
+Sep-15,551,511,Senior,N/D,SCS1,"Deputy Director, Cutting Red Tape & Deregulation Bill",Implementation Group,358461.88,0,0,Policy
+Sep-15,552,580,Senior,Leonie McLaughlin,SCS3,Parliamentary Counsel (Director General),Government in Parliament,0,170000,174999,Law
+Sep-15,553,511,Senior,N/D,SCS1,"Deputy Director, Strategy, Performance & Capability",Implementation Group,412807,0,0,Policy
+Sep-15,554,59,Senior,N/D,SCS1,"Deputy Director, Constitutional Settlement",Constitution Group,530072,0,0,Policy
+Sep-15,555,340,Senior,N/D,SCS1,"Deputy Director, European and Global Issues Secretariat",European and Global Issues Secretariat,541234,0,0,Policy
+Sep-15,556,38,Senior,N/D,SCS1,"Deputy Director, Head of GREAT Campaign",Government Communications,409433,0,0,Communications
+Sep-15,557,281,Senior,N/D,SCS1,"Deputy Director, GDS Enabling Strategy",Government Digital Service,0,0,0,Other
+Sep-15,558,565,Senior,N/D,SCS1,"Deputy Director, Profession",Major Projects,0,0,0,Programme and Project Management (PPM)
+Sep-15,559,10,Senior,Emily Miles,SCS2,"Director, Projects, Economic & Domestic Affairs Secretariat",Economic and Domestic Affairs Secretariat,0,85000,89999,Policy
+Sep-15,560,57,Senior,Rachel Hopcroft,SCS2,"Director, Principal Private Secretary to Cabinet Secretary",Private Office Group,0,85000,89999,Operational Delivery
+Sep-15,561,31,Senior,Robert Branagh,SCS2,Interim Director of Pensions Operations,Civil Service HR,0,0,0,Programme and Project Management (PPM)
+Sep-15,562,552,Senior,Eliminated,SCS2,Parliamentary Counsel (Director),Government in Parliament,0,0,0,Law
+Sep-15,563,380,Senior,Eliminated,SCS1,"Deputy Director, Savings Delivery",Civil Service Group,0,0,0,Policy
+Sep-15,564,497,Senior,Tony Meggs,SCS3,"Director General, Head of Major Projects Authority",Major Projects,0,190000,194999,Programme and Project Management (PPM)
+Sep-15,565,564,Senior,Tim Banfield,SCS2,"Director, Portfolio Oversight",Major Projects,300696,120000,124999,Programme and Project Management (PPM)
+Sep-15,566,470,Senior,N/D,SCS1,"Deputy Director, Operations Manager Tax & Welfare",Major Projects,0,0,0,Programme and Project Management (PPM)
+Sep-15,567,183,Senior,N/D,SCS1,Parliamentary Counsel (Deputy Director),Government in Parliament,0,0,0,Law
+Sep-15,568,552,Senior,Eliminated,SCS2,Parliamentary Counsel (Deputy Director),Government in Parliament,0,0,0,Law
+Sep-15,569,281,Senior,Eliminated,SCS2,Director - Digital Transition Reports,Government Digital Service,0,0,0,Other
+Sep-15,570,31,Senior,N/D,SCS1,"Deputy Director, Civil Service Pensions",Civil Service HR,620132,0,0,Human Resources
+Sep-15,571,31,Senior,N/D,SCS1,"Deputy Director, Programme Management",Civil Service HR,591388,0,0,Programme and Project Management (PPM)
+Sep-15,572,497,Senior,Marianthi Leontaridi,SCS2,"Director, Major Events & Operations",Major Events & Operations,531049,85000,89999,Policy
+Sep-15,573,31,Senior,N/D,SCS1,Interim Head of Supplier Management,Civil Service HR,0,0,0,Programme and Project Management (PPM)
+Sep-15,574,592,Senior,N/D,SCS1,"Deputy Director, Professions & Strategic HR",Civil Service HR,931222,0,0,Human Resources
+Sep-15,575,57,Senior,N/D,SCS1,"Deputy Director, Head of Centre for Public Appointments",Private Office Group,247590,0,0,Policy
+Sep-15,576,57,Senior,Vacant,SCS1,"Deputy Director, Principal Private Secretary to the Minister for the Cabinet Office and Head of Extended Ministerial Office",Private Office Group,8500,0,0,Operational Delivery
+Sep-15,577,57,Senior,N/D,SCS1,"Deputy Director, Principal Private Secretary to the Chancellor of the Duchy of Lancaster",Private Office Group,507510,0,0,Operational Delivery
+Sep-15,578,54,Senior,N/D,SCS1,"Deputy Director, Parliamentary Business and Legislative Programme",Economic and Domestic Affairs Secretariat,0,0,0,Policy
+Sep-15,579,375,Senior,Vacant,SCS1,"Deputy Director, European and Global Issues Secretariat",European and Global Issues Secretariat,0,0,0,Policy
+Sep-15,580,317,Senior,Vacant,SCS4,"Permanent Secretary, First Parliamentary Counsel",Government in Parliament,1047892.72,0,0,Law
+Sep-15,581,24,Senior,N/D,SCS1,"Deputy Director, Planning and Performance",Finance & Estates Management,539235,0,0,Finance
+Sep-15,582,330,Senior,N/D,SCS1,"Deputy Director, Fraud, Error, Debt and Grants","Fraud, Error and Debt",0,0,0,Policy
+Sep-15,583,572,Senior,N/D,SCS1,"Deputy Director, Major Events",Major Events & Operations,0,0,0,Policy
+Sep-15,584,330,Senior,N/D,SCS1,"Deputy Director, Fraud, Error, Debt and Grants","Fraud, Error and Debt",237485.33,0,0,Policy
+Sep-15,585,330,Senior,N/D,SCS1,"Deputy Director, Fraud, Error, Debt and Grants","Fraud, Error and Debt",395017.93,0,0,Policy
+Sep-15,586,281,Senior,Paul Maltby,SCS2,Director of Data,Government Digital Service,0,90000,94999,Other
+Sep-15,587,281,Senior,N/D,SCS1,"Deputy Director, Chief Operating Officer",Government Digital Service,851840,0,0,Other
+Sep-15,588,586,Senior,N/D,SCS1,"Deputy Director, Data Sharing",Government Digital Service,277387,0,0,Operational delivery
+Sep-15,589,281,Senior,Vacant,SCS2,"Director, Common Technology Services",Government Digital Service,0,0,0,Other
+Sep-15,590,22,Senior,Vacant,SCS1,"Deputy Director, Standards & Assurance",Government Digital Service,0,0,0,Other
+Sep-15,591,24,Senior,N/D,SCS1,"Deputy Director, Planning and Governance",Finance & Estates Management,0,0,0,Finance
+Sep-15,592,497,Senior,Vacant,SCS3,"Director General, Chief People Officer",Civil Service HR,0,0,0,Human Resources
+Sep-15,593,564,Senior,David Blackall,SCS2,"Director, Temporary Projects",Major Projects,0,90000,94999,Programme and Project Management (PPM)
+Sep-15,594,317,Senior,Philip Rycroft,SCS4,"Second Permanent Secretary, Head UK Governance Group",UK Governance Group,0,155000,159999,Policy
+Sep-15,595,281,Senior,N/D,SCS1,"Deputy Director, Head of Professional Development for D&T",Government Digital Service,0,0,0,Other
+Sep-15,596,22,Senior,N/D,SCS1,"Deputy Director, Operations",Government Digital Service,0,0,0,Other
+Sep-15,597,491,Senior,N/D,SCS1,"Deputy Director, D&I Delivery",Civil Service Group,0,0,0,Policy
+Sep-15,598,33,Senior,N/D,SCS1,"Deputy Director, Civil Service Talent",Civil Service HR,0,0,0,Human Resources
+Sep-15,599,54,Senior,N/D,SCS1,"Deputy Director, Special Project",Economic and Domestic Affairs Secretariat,0,0,0,Policy
+Sep-15,600,497,Senior,Lesley-Ann Nash,SCS2,"Director, Public Bodies Reform",Transformation,248893,0,0,Policy
+Sep-15,,499,Junior,,A/BAND A,Policy Adviser,Chief Executive Group,0,41774,60484,Operational Delivery
+Sep-15,,499,Junior,,A/BAND A,Senior Operational Manager,Chief Executive Group,0,41774,60484,Operational Delivery
+Sep-15,,499,Junior,,B/Faststream,Policy Adviser,Chief Executive Group,0,27543,36175,Policy
+Sep-15,,499,Junior,,B1/BAND B1,HR Officer,Chief Executive Group,0,21166,30093,Human Resources
+Sep-15,,499,Junior,,B2/BAND B2,Policy Adviser,Chief Executive Group,0,28228,38484,Policy
+Sep-15,,499,Junior,,C/BAND C,Admin Support Officer,Chief Executive Group,0,16975,24430,Operational Delivery
+Sep-15,,380,Junior,,A/BAND A,Policy Adviser,Civil Service Group,0,41774,60484,Policy
+Sep-15,,380,Junior,,A/BAND A,Private Secretary,Civil Service Group,0,41774,60484,Other
+Sep-15,,380,Junior,,B/Faststream,Policy Adviser,Civil Service Group,0,27543,36175,Other
+Sep-15,,380,Junior,,B/Faststream,Policy Adviser,Civil Service Group,0,27543,36175,Policy
+Sep-15,,380,Junior,,B1/BAND B1,Policy Officer,Civil Service Group,0,21166,30093,Policy
+Sep-15,,380,Junior,,B2/BAND B2,Policy Adviser,Civil Service Group,0,28228,38484,Policy
+Sep-15,,380,Junior,,TIS2,Policy Adviser,Civil Service Group,0,28617,39799,Policy
+Sep-15,,426,Junior,,A/BAND A,Senior Policy Adviser,Civil Service Group,0,41774,60484,Other
+Sep-15,,426,Junior,,B2/BAND B2,Analyst,Civil Service Group,0,28228,38484,Other
+Sep-15,,426,Junior,,C/BAND C,Admin Support Officer,Civil Service Group,0,16975,24430,Other
+Sep-15,,428,Junior,,A/BAND A,Senior Policy Adviser,Civil Service Group,0,41774,60484,Other
+Sep-15,,428,Junior,,B1/BAND B1,Policy Support Officer,Civil Service Group,0,21166,30093,Other
+Sep-15,,491,Junior,,B1/BAND B1,Diary Manager,Civil Service Group,0,21166,30093,Operational Delivery
+Sep-15,,491,Junior,,B2/BAND B2,Policy Adviser,Civil Service Group,0,28228,38484,Policy
+Sep-15,,512,Junior,,A/BAND A,Departmental Change Lead,Civil Service Group,0,41774,60484,Programme and Project Management (PPM)
+Sep-15,,512,Junior,,A/BAND A,Policy Adviser,Civil Service Group,0,41774,60484,Operational Delivery
+Sep-15,,512,Junior,,A/BAND A,Policy Adviser,Civil Service Group,0,41774,60484,Policy
+Sep-15,,512,Junior,,B/Faststream,Policy Adviser,Civil Service Group,0,27543,36175,Policy
+Sep-15,,512,Junior,,B1/BAND B1,Policy Officer,Civil Service Group,0,21166,30093,Policy
+Sep-15,,512,Junior,,B2/BAND B2,Analyst,Civil Service Group,0,28228,38484,Operational Delivery
+Sep-15,,512,Junior,,B2/BAND B2,Policy Adviser,Civil Service Group,0,28228,38484,Policy
+Sep-15,,525,Junior,,A/BAND A,Policy Adviser,Civil Service Group,0,41774,60484,Policy
+Sep-15,,525,Junior,,B2/BAND B2,Policy Adviser,Civil Service Group,0,28228,38484,Policy
+Sep-15,,538,Junior,,A/BAND A,Departmental Change Lead,Civil Service Group,0,41774,60484,Programme and Project Management (PPM)
+Sep-15,,538,Junior,,A/BAND A,Policy Adviser,Civil Service Group,0,41774,60484,Policy
+Sep-15,,538,Junior,,A/BAND A,Senior Policy Adviser,Civil Service Group,0,41774,60484,Policy
+Sep-15,,538,Junior,,B/Faststream,Policy Adviser,Civil Service Group,0,27543,36175,Policy
+Sep-15,,538,Junior,,B1/BAND B1,Policy Officer,Civil Service Group,0,21166,30093,Policy
+Sep-15,,538,Junior,,B2/BAND B2,Policy Adviser,Civil Service Group,0,28228,38484,Policy
+Sep-15,,546,Junior,,A/BAND A,Business Manager,Civil Service Group,0,41774,60484,Operational Delivery
+Sep-15,,546,Junior,,A/BAND A,Policy Adviser,Civil Service Group,0,41774,60484,Policy
+Sep-15,,546,Junior,,A/BAND A,Senior Operational Manager,Civil Service Group,0,41774,60484,Operational Delivery
+Sep-15,,546,Junior,,B/Faststream,Policy Adviser,Civil Service Group,0,27543,36175,Policy
+Sep-15,,546,Junior,,B2/BAND B2,Operational Manager,Civil Service Group,0,28228,38484,Operational Delivery
+Sep-15,,31,Junior,,A/BAND A,Senior Operational Manager,Civil Service HR,0,41774,60484,Human Resources
+Sep-15,,31,Junior,,B1/BAND B1,HR Support Officer,Civil Service HR,0,21166,30093,Human Resources
+Sep-15,,31,Junior,,B2/BAND B2,Operational Manager,Civil Service HR,0,28228,38484,Human Resources
+Sep-15,,31,Junior,,B2/BAND B2,Policy Adviser,Civil Service HR,0,28228,38484,Human Resources
+Sep-15,,82,Junior,,A/BAND A,Senior Policy Adviser,Civil Service HR,0,41774,60484,Human Resources
+Sep-15,,82,Junior,,B2/BAND B2,Policy Adviser,Civil Service HR,0,28228,38484,Human Resources
+Sep-15,,305,Junior,,A/BAND A,Policy Adviser,Civil Service HR,0,41774,60484,Human Resources
+Sep-15,,305,Junior,,A/BAND A,Senior Policy Adviser,Civil Service HR,0,41774,60484,Human Resources
+Sep-15,,305,Junior,,B/Faststream,Policy Adviser,Civil Service HR,0,27543,36175,Human Resources
+Sep-15,,305,Junior,,B2/BAND B2,Policy Adviser,Civil Service HR,0,28228,38484,Human Resources
+Sep-15,,548,Junior,,A/BAND A,Senior Policy Adviser,Civil Service HR,0,41774,60484,Human Resources
+Sep-15,,548,Junior,,B2/BAND B2,Policy Adviser,Civil Service HR,0,28228,38484,Human Resources
+Sep-15,,549,Junior,,A/BAND A,Senior Policy Adviser,Civil Service HR,0,41774,60484,Human Resources
+Sep-15,,549,Junior,,B1/BAND B1,Policy Support Officer,Civil Service HR,0,21166,30093,Human Resources
+Sep-15,,549,Junior,,B2/BAND B2,Policy Adviser,Civil Service HR,0,28228,38484,Human Resources
+Sep-15,,549,Junior,,C/BAND C,Admin Support Officer,Civil Service HR,0,16975,24430,Operational Delivery
+Sep-15,,570,Junior,,A/BAND A,Senior Operational Manager,Civil Service HR,0,41774,60484,Human Resources
+Sep-15,,570,Junior,,A/BAND A,Senior Policy Adviser,Civil Service HR,0,41774,60484,Human Resources
+Sep-15,,570,Junior,,B1/BAND B1,HR Support Officer,Civil Service HR,0,21166,30093,Human Resources
+Sep-15,,570,Junior,,B2/BAND B2,Operational Manager,Civil Service HR,0,28228,38484,Human Resources
+Sep-15,,570,Junior,,B2/BAND B2,Senior Operational Manager,Civil Service HR,0,28228,38484,Human Resources
+Sep-15,,570,Junior,,C/BAND C,Admin Support Officer,Civil Service HR,0,16975,24430,Operational Delivery
+Sep-15,,571,Junior,,A/BAND A,Senior Policy Adviser,Civil Service HR,0,41774,60484,Human Resources
+Sep-15,,571,Junior,,B/Faststream,CSHR Strategy And Communications Lead,Civil Service HR,0,27543,36175,Human Resources
+Sep-15,,571,Junior,,B1/BAND B1,CSHR Communications And Engagement,Civil Service HR,0,21166,30093,Human Resources
+Sep-15,,571,Junior,,B1/BAND B1,HR Support Officer,Civil Service HR,0,21166,30093,Human Resources
+Sep-15,,571,Junior,,B2/BAND B2,"Communications Team And Editor, HR Headlines",Civil Service HR,0,28228,38484,Human Resources
+Sep-15,,571,Junior,,B2/BAND B2,Senior Operational Manager,Civil Service HR,0,28228,38484,Human Resources
+Sep-15,,574,Junior,,A/BAND A,CSHR Strategic Centre Lead,Civil Service HR,0,41774,60484,Human Resources
+Sep-15,,574,Junior,,A/BAND A,HR Fast Stream Talent Manager,Civil Service HR,0,41774,60484,Human Resources
+Sep-15,,574,Junior,,A/BAND A,Senior Policy Adviser,Civil Service HR,0,41774,60484,Human Resources
+Sep-15,,574,Junior,,B/Faststream,CSHR Communications And Strategy Lead,Civil Service HR,0,27543,36175,Human Resources
+Sep-15,,574,Junior,,B1/BAND B1,HR Support Officer,Civil Service HR,0,21166,30093,Human Resources
+Sep-15,,574,Junior,,B2/BAND B2,Engagement And Talent Lead,Civil Service HR,0,28228,38484,Human Resources
+Sep-15,,574,Junior,,B2/BAND B2,HR Capability And Talent Data Manager,Civil Service HR,0,28228,38484,Human Resources
+Sep-15,,574,Junior,,B2/BAND B2,HR Capability And Talent Manager,Civil Service HR,0,28228,38484,Human Resources
+Sep-15,,574,Junior,,B2/BAND B2,HR Fast Stream Manager,Civil Service HR,0,28228,38484,Human Resources
+Sep-15,,574,Junior,,B2/BAND B2,HR Fast Stream Talent Manager,Civil Service HR,0,28228,38484,Human Resources
+Sep-15,,574,Junior,,B2/BAND B2,Policy Adviser,Civil Service HR,0,28228,38484,Human Resources
+Sep-15,,142,Junior,,A/BAND A,Senior Policy Adviser,Committee on Standards in Public Life,0,41774,60484,Policy
+Sep-15,,142,Junior,,B1/BAND B1,Policy Support Officer,Committee on Standards in Public Life,0,21166,30093,Policy
+Sep-15,,142,Junior,,B2/BAND B2,Policy Adviser,Committee on Standards in Public Life,0,28228,38484,Policy
+Sep-15,,118,Junior,,A/BAND A,Policy Adviser,Constitution Group,0,41774,60484,Policy
+Sep-15,,118,Junior,,A/BAND A,Senior Policy Adviser,Constitution Group,0,41774,60484,Policy
+Sep-15,,118,Junior,,B/Faststream,Operational Manager,Constitution Group,0,27543,36175,Policy
+Sep-15,,118,Junior,,B1/BAND B1,Business Manager,Constitution Group,0,21166,30093,Other
+Sep-15,,118,Junior,,B1/BAND B1,Operational Manager,Constitution Group,0,21166,30093,Other
+Sep-15,,118,Junior,,B1/BAND B1,Policy Support Officer,Constitution Group,0,21166,30093,Policy
+Sep-15,,118,Junior,,B2/BAND B2,Communications Support Officer,Constitution Group,0,28228,38484,Communications
+Sep-15,,118,Junior,,B2/BAND B2,Operational Manager,Constitution Group,0,28228,38484,Operational Delivery
+Sep-15,,118,Junior,,B2/BAND B2,Operational Manager,Constitution Group,0,28228,38484,Policy
+Sep-15,,118,Junior,,B2/BAND B2,Policy Adviser,Constitution Group,0,28228,38484,Policy
+Sep-15,,118,Junior,,B2/BAND B2,Project Support Officer,Constitution Group,0,28228,38484,Programme and Project Management (PPM)
+Sep-15,,257,Junior,,A/BAND A,Communications Manager,Constitution Group,0,41774,60484,Communications
+Sep-15,,257,Junior,,A/BAND A,Economist,Constitution Group,0,41774,60484,Finance
+Sep-15,,257,Junior,,A/BAND A,Operational Manager,Constitution Group,0,41774,60484,Policy
+Sep-15,,257,Junior,,A/BAND A,Project Manager,Constitution Group,0,41774,60484,Programme and Project Management (PPM)
+Sep-15,,257,Junior,,A/BAND A,Project Support Officer,Constitution Group,0,41774,60484,Programme and Project Management (PPM)
+Sep-15,,257,Junior,,A/BAND A,Senior Policy Adviser,Constitution Group,0,41774,60484,Policy
+Sep-15,,257,Junior,,A/BAND A,Senior Policy Adviser,Constitution Group,0,41774,60484,Programme and Project Management (PPM)
+Sep-15,,257,Junior,,A/BAND A,Senior Project Manager,Constitution Group,0,41774,60484,Programme and Project Management (PPM)
+Sep-15,,257,Junior,,B/Faststream,Operational Manager,Constitution Group,0,27543,36175,Policy
+Sep-15,,257,Junior,,B1/BAND B1,Communications Support Officer,Constitution Group,0,21166,30093,Communications
+Sep-15,,257,Junior,,B1/BAND B1,Finance Support Officer,Constitution Group,0,21166,30093,Finance
+Sep-15,,257,Junior,,B1/BAND B1,Operational Manager,Constitution Group,0,21166,30093,Human Resources
+Sep-15,,257,Junior,,B1/BAND B1,Policy Support Officer,Constitution Group,0,21166,30093,Policy
+Sep-15,,257,Junior,,B2/BAND B2,Communications Manager,Constitution Group,0,28228,38484,Policy
+Sep-15,,257,Junior,,B2/BAND B2,Communications Support Officer,Constitution Group,0,28228,38484,Communications
+Sep-15,,257,Junior,,B2/BAND B2,Operational Manager,Constitution Group,0,28228,38484,Policy
+Sep-15,,257,Junior,,B2/BAND B2,Policy Adviser,Constitution Group,0,28228,38484,Policy
+Sep-15,,257,Junior,,B2/BAND B2,Programme Support Officer,Constitution Group,0,28228,38484,Programme and Project Management (PPM)
+Sep-15,,257,Junior,,B2/BAND B2,Project Support Officer,Constitution Group,0,28228,38484,Programme and Project Management (PPM)
+Sep-15,,257,Junior,,C/BAND C,Operational Manager,Constitution Group,0,16975,24430,Communications
+Sep-15,,286,Junior,,A/BAND A,Communications Manager,Constitution Group,0,41774,60484,Communications
+Sep-15,,286,Junior,,A/BAND A,Senior Policy Adviser,Constitution Group,0,41774,60484,Policy
+Sep-15,,286,Junior,,A/BAND A,Senior Policy Adviser,Constitution Group,0,41774,60484,Programme and Project Management (PPM)
+Sep-15,,286,Junior,,B1/BAND B1,Communications Support Officer,Constitution Group,0,21166,30093,Communications
+Sep-15,,286,Junior,,B1/BAND B1,Policy Support Officer,Constitution Group,0,21166,30093,Policy
+Sep-15,,286,Junior,,B2/BAND B2,Operational Manager,Constitution Group,0,28228,38484,Policy
+Sep-15,,286,Junior,,B2/BAND B2,Operational Manager,Constitution Group,0,28228,38484,Procurement
+Sep-15,,286,Junior,,B2/BAND B2,Policy Adviser,Constitution Group,0,28228,38484,Policy
+Sep-15,,329,Junior,,A/BAND A,Senior Policy Adviser,Constitution Group,0,41774,60484,Policy
+Sep-15,,329,Junior,,A/BAND A,Senior Policy Adviser,Constitution Group,0,41774,60484,Programme and Project Management (PPM)
+Sep-15,,329,Junior,,B2/BAND B2,Policy Adviser,Constitution Group,0,28228,38484,Policy
+Sep-15,,554,Junior,,A/BAND A,Senior Policy Adviser,Constitution Group,0,41774,60484,Policy
+Sep-15,,554,Junior,,B1/BAND B1,Policy Support Officer,Constitution Group,0,21166,30093,Policy
+Sep-15,,554,Junior,,B2/BAND B2,Business Manager,Constitution Group,0,28228,38484,Other
+Sep-15,,554,Junior,,B2/BAND B2,Operational Manager,Constitution Group,0,28228,38484,Policy
+Sep-15,,554,Junior,,B2/BAND B2,Policy Adviser,Constitution Group,0,28228,38484,Policy
+Sep-15,,554,Junior,,B2/BAND B2,Policy Support Officer,Constitution Group,0,28228,38484,Policy
+Sep-15,,554,Junior,,C/BAND C,Admin Support Officer,Constitution Group,0,16975,24430,Operational Delivery
+Sep-15,,533,Junior,,A/BAND A,Digital Transformation Manager,Digital & Technology Team,0,41774,60484,Other
+Sep-15,,533,Junior,,A/BAND A,Operational Manager,Digital & Technology Team,0,41774,60484,Other
+Sep-15,,533,Junior,,B1/BAND B1,Digital Transformation Manager,Digital & Technology Team,0,21166,30093,Other
+Sep-15,,533,Junior,,B1/BAND B1,Operational Manager,Digital & Technology Team,0,21166,30093,Other
+Sep-15,,533,Junior,,B1/BAND B1,Service Desk Analyst,Digital & Technology Team,0,21166,30093,Other
+Sep-15,,533,Junior,,B2/BAND B2,Digital Transformation Manager,Digital & Technology Team,0,28228,38484,Other
+Sep-15,,533,Junior,,B2/BAND B2,Operational Manager,Digital & Technology Team,0,28228,38484,Other
+Sep-15,,533,Junior,,C/BAND C,Admin Support Officer,Digital & Technology Team,0,16975,24430,Operational Delivery
+Sep-15,,10,Junior,,B2/BAND B2,Executive Assistant,Economic and Domestic Affairs Secretariat,0,28228,38484,Policy
+Sep-15,,69,Junior,,A/BAND A,Operational Manager,Economic and Domestic Affairs Secretariat,0,41774,60484,Policy
+Sep-15,,69,Junior,,A/BAND A,Senior Policy Adviser,Economic and Domestic Affairs Secretariat,0,41774,60484,Policy
+Sep-15,,69,Junior,,B/Faststream,Policy Adviser,Economic and Domestic Affairs Secretariat,0,27543,36175,Policy
+Sep-15,,69,Junior,,B1/BAND B1,Operational Manager,Economic and Domestic Affairs Secretariat,0,21166,30093,Policy
+Sep-15,,69,Junior,,B2/BAND B2,Policy Adviser,Economic and Domestic Affairs Secretariat,0,28228,38484,Policy
+Sep-15,,69,Junior,,C/BAND C,Admin Support Officer,Economic and Domestic Affairs Secretariat,0,16975,24430,Operational Delivery
+Sep-15,,76,Junior,,A/BAND A,Senior Policy Adviser,Economic and Domestic Affairs Secretariat,0,41774,60484,Policy
+Sep-15,,76,Junior,,B2/BAND B2,Operational Manager,Economic and Domestic Affairs Secretariat,0,28228,38484,Policy
+Sep-15,,76,Junior,,B2/BAND B2,Policy Adviser,Economic and Domestic Affairs Secretariat,0,28228,38484,Policy
+Sep-15,,316,Junior,,A/BAND A,Business Manager,Economic and Domestic Affairs Secretariat,0,41774,60484,Policy
+Sep-15,,316,Junior,,A/BAND A,Policy Adviser,Economic and Domestic Affairs Secretariat,0,41774,60484,Policy
+Sep-15,,316,Junior,,A/BAND A,Senior Policy Adviser,Economic and Domestic Affairs Secretariat,0,41774,60484,Policy
+Sep-15,,316,Junior,,B/Faststream,Policy Adviser,Economic and Domestic Affairs Secretariat,0,27543,36175,Policy
+Sep-15,,316,Junior,,B1/BAND B1,Operations Support Officer,Economic and Domestic Affairs Secretariat,0,21166,30093,Operational Delivery
+Sep-15,,319,Junior,,A/BAND A,Operational Manager,Economic and Domestic Affairs Secretariat,0,41774,60484,Economics
+Sep-15,,319,Junior,,A/BAND A,Senior Economist,Economic and Domestic Affairs Secretariat,0,41774,60484,Economics
+Sep-15,,320,Junior,,A/BAND A,Operational Manager,Economic and Domestic Affairs Secretariat,0,41774,60484,Policy
+Sep-15,,320,Junior,,A/BAND A,Senior Policy Adviser,Economic and Domestic Affairs Secretariat,0,41774,60484,Policy
+Sep-15,,321,Junior,,A/BAND A,Senior Policy Adviser,Economic and Domestic Affairs Secretariat,0,41774,60484,Policy
+Sep-15,,321,Junior,,B/Faststream,Operational Manager,Economic and Domestic Affairs Secretariat,0,27543,36175,Policy
+Sep-15,,321,Junior,,B2/BAND B2,Policy Adviser,Economic and Domestic Affairs Secretariat,0,28228,38484,Policy
+Sep-15,,351,Junior,,A/BAND A,Senior Policy Adviser,Economic and Domestic Affairs Secretariat,0,41774,60484,Policy
+Sep-15,,529,Junior,,A/BAND A,Senior Policy Adviser,Economic and Domestic Affairs Secretariat,0,41774,60484,Policy
+Sep-15,,529,Junior,,B2/BAND B2,Operational Manager,Economic and Domestic Affairs Secretariat,0,28228,38484,Policy
+Sep-15,,551,Junior,,A/BAND A,Operational Manager,Economic and Domestic Affairs Secretariat,0,41774,60484,Policy
+Sep-15,,551,Junior,,A/BAND A,Senior Policy Adviser,Economic and Domestic Affairs Secretariat,0,41774,60484,Policy
+Sep-15,,551,Junior,,B1/BAND B1,Policy Adviser,Economic and Domestic Affairs Secretariat,0,21166,30093,Policy
+Sep-15,,551,Junior,,B2/BAND B2,Policy Adviser,Economic and Domestic Affairs Secretariat,0,28228,38484,Policy
+Sep-15,,553,Junior,,A/BAND A,Analyst,Economic and Domestic Affairs Secretariat,0,41774,60484,Economics
+Sep-15,,553,Junior,,A/BAND A,Operational Manager,Economic and Domestic Affairs Secretariat,0,41774,60484,Economics
+Sep-15,,553,Junior,,A/BAND A,Senior Economist,Economic and Domestic Affairs Secretariat,0,41774,60484,Economics
+Sep-15,,553,Junior,,A/BAND A,Senior Policy Adviser,Economic and Domestic Affairs Secretariat,0,41774,60484,Policy
+Sep-15,,553,Junior,,B1/BAND B1,Policy Adviser,Economic and Domestic Affairs Secretariat,0,21166,30093,Policy
+Sep-15,,553,Junior,,B2/BAND B2,Policy Adviser,Economic and Domestic Affairs Secretariat,0,28228,38484,Policy
+Sep-15,,559,Junior,,A/BAND A,Senior Policy Adviser,Economic and Domestic Affairs Secretariat,0,41774,60484,Policy
+Sep-15,,559,Junior,,B2/BAND B2,Operational Manager,Economic and Domestic Affairs Secretariat,0,28228,38484,Policy
+Sep-15,,274,Junior,,A/BAND A,Private Secretary,Efficiency,0,41774,60484,Procurement
+Sep-15,,274,Junior,,B1/BAND B1,Admin Support Officer,Efficiency,0,21166,30093,Operational Delivery
+Sep-15,,274,Junior,,B2/BAND B2,Operational Manager,Efficiency,0,28228,38484,Operational Delivery
+Sep-15,,5,Junior,,A/BAND A,Private Secretary,European and Global Issues Secretariat,0,41774,60484,Policy
+Sep-15,,5,Junior,,B1/BAND B1,Diary Manager,European and Global Issues Secretariat,0,21166,30093,Policy
+Sep-15,,51,Junior,,B1/BAND B1,Executive Assistant,European and Global Issues Secretariat,0,21166,30093,Policy
+Sep-15,,375,Junior,,A/BAND A,Senior Policy Adviser,European and Global Issues Secretariat,0,41774,60484,Policy
+Sep-15,,375,Junior,,C/BAND C,Admin Support Officer,European and Global Issues Secretariat,0,16975,24430,Operational Delivery
+Sep-15,,518,Junior,,A/BAND A,Senior Policy Adviser,European and Global Issues Secretariat,0,41774,60484,Policy
+Sep-15,,518,Junior,,B2/BAND B2,Policy Adviser,European and Global Issues Secretariat,0,28228,38484,Policy
+Sep-15,,518,Junior,,C/BAND C,Executive Assistant,European and Global Issues Secretariat,0,16975,24430,Policy
+Sep-15,,527,Junior,,A/BAND A,Senior Policy Adviser,European and Global Issues Secretariat,0,41774,60484,Policy
+Sep-15,,527,Junior,,B/Faststream,Policy Adviser,European and Global Issues Secretariat,0,27543,36175,Policy
+Sep-15,,527,Junior,,B2/BAND B2,Operational Manager,European and Global Issues Secretariat,0,28228,38484,Policy
+Sep-15,,527,Junior,,B2/BAND B2,Policy Adviser,European and Global Issues Secretariat,0,28228,38484,Policy
+Sep-15,,528,Junior,,A/BAND A,Policy Adviser,European and Global Issues Secretariat,0,41774,60484,Policy
+Sep-15,,528,Junior,,A/BAND A,Senior Policy Adviser,European and Global Issues Secretariat,0,41774,60484,Policy
+Sep-15,,528,Junior,,B/Faststream,Policy Adviser,European and Global Issues Secretariat,0,27543,36175,Policy
+Sep-15,,528,Junior,,B2/BAND B2,Policy Adviser,European and Global Issues Secretariat,0,28228,38484,Policy
+Sep-15,,555,Junior,,A/BAND A,Operational Manager,European and Global Issues Secretariat,0,41774,60484,Policy
+Sep-15,,555,Junior,,A/BAND A,Senior Policy Adviser,European and Global Issues Secretariat,0,41774,60484,Policy
+Sep-15,,555,Junior,,B1/BAND B1,Executive Assistant,European and Global Issues Secretariat,0,21166,30093,Policy
+Sep-15,,555,Junior,,B1/BAND B1,Policy Support Officer,European and Global Issues Secretariat,0,21166,30093,Policy
+Sep-15,,555,Junior,,B2/BAND B2,Office Manager,European and Global Issues Secretariat,0,28228,38484,Operational Delivery
+Sep-15,,555,Junior,,B2/BAND B2,Policy Adviser,European and Global Issues Secretariat,0,28228,38484,Policy
+Sep-15,,555,Junior,,C/BAND C,Executive Assistant,European and Global Issues Secretariat,0,16975,24430,Policy
+Sep-15,,555,Junior,,C/BAND C,Policy Support Officer,European and Global Issues Secretariat,0,16975,24430,Policy
+Sep-15,,24,Junior,,A/BAND A,Senior Finance Manager,Finance & Estates Management,0,41774,60484,Finance
+Sep-15,,24,Junior,,B1/BAND B1,Policy Adviser,Finance & Estates Management,0,21166,30093,Policy
+Sep-15,,99,Junior,,A/BAND A,Finance Officer,Finance & Estates Management,0,41774,60484,Finance
+Sep-15,,99,Junior,,A/BAND A,Senior Finance Manager,Finance & Estates Management,0,41774,60484,Finance
+Sep-15,,99,Junior,,B/Faststream,Finance Officer,Finance & Estates Management,0,27543,36175,Policy
+Sep-15,,99,Junior,,B1/BAND B1,Finance Officer,Finance & Estates Management,0,21166,30093,Finance
+Sep-15,,99,Junior,,B1/BAND B1,Finance Support Officer,Finance & Estates Management,0,21166,30093,Finance
+Sep-15,,99,Junior,,B1/BAND B1,Procurement Support Officer,Finance & Estates Management,0,21166,30093,Finance
+Sep-15,,99,Junior,,B1/BAND B1,Procurement Support Officer,Finance & Estates Management,0,21166,30093,Procurement
+Sep-15,,99,Junior,,B2/BAND B2,Business Manager,Finance & Estates Management,0,28228,38484,Finance
+Sep-15,,99,Junior,,B2/BAND B2,Executive Assistant,Finance & Estates Management,0,28228,38484,Finance
+Sep-15,,99,Junior,,B2/BAND B2,Finance Officer,Finance & Estates Management,0,28228,38484,Finance
+Sep-15,,99,Junior,,B2/BAND B2,Finance Officer,Finance & Estates Management,0,28228,38484,Policy
+Sep-15,,99,Junior,,B2/BAND B2,Finance Support Officer,Finance & Estates Management,0,28228,38484,Finance
+Sep-15,,99,Junior,,B2/BAND B2,Procurement Officer,Finance & Estates Management,0,28228,38484,Procurement
+Sep-15,,99,Junior,,C/BAND C,Finance Support Officer,Finance & Estates Management,0,16975,24430,Finance
+Sep-15,,99,Junior,,TIS2,Operational Manager,Finance & Estates Management,0,28617,39799,Other
+Sep-15,,228,Junior,,A/BAND A,Estate Manager,Finance & Estates Management,0,41774,60484,Property And Asset Management
+Sep-15,,228,Junior,,A/BAND A,Senior Estate Manager,Finance & Estates Management,0,41774,60484,Property And Asset Management
+Sep-15,,228,Junior,,A/BAND A,Senior Finance Manager,Finance & Estates Management,0,41774,60484,Finance
+Sep-15,,228,Junior,,A/BAND A,Senior Finance Manager,Finance & Estates Management,0,41774,60484,Procurement
+Sep-15,,228,Junior,,A/BAND A,Senior Policy Adviser,Finance & Estates Management,0,41774,60484,Other
+Sep-15,,228,Junior,,B1/BAND B1,Estate Manager,Finance & Estates Management,0,21166,30093,Property And Asset Management
+Sep-15,,228,Junior,,B1/BAND B1,Estate Officer,Finance & Estates Management,0,21166,30093,Property And Asset Management
+Sep-15,,228,Junior,,B1/BAND B1,Finance Officer,Finance & Estates Management,0,21166,30093,Finance
+Sep-15,,228,Junior,,B1/BAND B1,Legal Support Officer,Finance & Estates Management,0,21166,30093,Finance
+Sep-15,,228,Junior,,B1/BAND B1,Operational Manager,Finance & Estates Management,0,21166,30093,Other
+Sep-15,,228,Junior,,B1/BAND B1,Policy Adviser,Finance & Estates Management,0,21166,30093,Other
+Sep-15,,228,Junior,,B1/BAND B1,Programme Support Officer,Finance & Estates Management,0,21166,30093,Programme and Project Management (PPM)
+Sep-15,,228,Junior,,B2/BAND B2,Estate Manager,Finance & Estates Management,0,28228,38484,Property And Asset Management
+Sep-15,,228,Junior,,B2/BAND B2,Finance Officer,Finance & Estates Management,0,28228,38484,Policy
+Sep-15,,228,Junior,,B2/BAND B2,Operational Manager,Finance & Estates Management,0,28228,38484,Other
+Sep-15,,228,Junior,,B2/BAND B2,Policy Adviser,Finance & Estates Management,0,28228,38484,Other
+Sep-15,,228,Junior,,B2/BAND B2,Policy Adviser,Finance & Estates Management,0,28228,38484,Property And Asset Management
+Sep-15,,228,Junior,,B2/BAND B2,Procurement Officer,Finance & Estates Management,0,28228,38484,Procurement
+Sep-15,,228,Junior,,B2/BAND B2,Programme Manager,Finance & Estates Management,0,28228,38484,Programme and Project Management (PPM)
+Sep-15,,228,Junior,,C/BAND C,Operations Support Officer,Finance & Estates Management,0,16975,24430,Other
+Sep-15,,228,Junior,,TIS2,Operational Manager,Finance & Estates Management,0,28617,39799,Other
+Sep-15,,581,Junior,,A/BAND A,Policy Adviser,Finance & Estates Management,0,41774,60484,Policy
+Sep-15,,581,Junior,,A/BAND A,Senior Finance Manager,Finance & Estates Management,0,41774,60484,Finance
+Sep-15,,581,Junior,,A/BAND A,Senior Policy Adviser,Finance & Estates Management,0,41774,60484,Finance
+Sep-15,,581,Junior,,A/BAND A,Senior Policy Adviser,Finance & Estates Management,0,41774,60484,Policy
+Sep-15,,581,Junior,,B1/BAND B1,Finance Officer,Finance & Estates Management,0,21166,30093,Finance
+Sep-15,,581,Junior,,B1/BAND B1,Policy Adviser,Finance & Estates Management,0,21166,30093,Policy
+Sep-15,,581,Junior,,B2/BAND B2,Finance Officer,Finance & Estates Management,0,28228,38484,Policy
+Sep-15,,581,Junior,,B2/BAND B2,Policy Adviser,Finance & Estates Management,0,28228,38484,Policy
+Sep-15,,581,Junior,,C/BAND C,Finance Support Officer,Finance & Estates Management,0,16975,24430,Finance
+Sep-15,,330,Junior,,B1/BAND B1,Programme Secretariat,"Fraud, Error and Debt",0,21166,30093,Policy
+Sep-15,,330,Junior,,B2/BAND B2,Private Secretary,"Fraud, Error and Debt",0,28228,38484,Policy
+Sep-15,,330,Junior,,C/BAND C,Admin Support Officer,"Fraud, Error and Debt",0,16975,24430,Operational Delivery
+Sep-15,,360,Junior,,A/BAND A,Counter Fraud Checking Service Adviser,"Fraud, Error and Debt",0,41774,60484,Policy
+Sep-15,,360,Junior,,A/BAND A,Policy Adviser,"Fraud, Error and Debt",0,41774,60484,Policy
+Sep-15,,360,Junior,,B1/BAND B1,Programme Secretariat,"Fraud, Error and Debt",0,21166,30093,Policy
+Sep-15,,360,Junior,,B2/BAND B2,Operational Manager,"Fraud, Error and Debt",0,28228,38484,Policy
+Sep-15,,360,Junior,,B2/BAND B2,Policy Adviser,"Fraud, Error and Debt",0,28228,38484,Policy
+Sep-15,,382,Junior,,A/BAND A,Policy Adviser,"Fraud, Error and Debt",0,41774,60484,Policy
+Sep-15,,382,Junior,,A/BAND A,Senior Analyst,"Fraud, Error and Debt",0,41774,60484,Programme and Project Management (PPM)
+Sep-15,,382,Junior,,B1/BAND B1,Programme Secretariat,"Fraud, Error and Debt",0,21166,30093,Policy
+Sep-15,,382,Junior,,B2/BAND B2,Policy Adviser,"Fraud, Error and Debt",0,28228,38484,Policy
+Sep-15,,582,Junior,,A/BAND A,Policy Adviser,"Fraud, Error and Debt",0,41774,60484,Policy
+Sep-15,,582,Junior,,B1/BAND B1,Executive Assistant,"Fraud, Error and Debt",0,21166,30093,Policy
+Sep-15,,582,Junior,,B1/BAND B1,Programme Secretariat,"Fraud, Error and Debt",0,21166,30093,Policy
+Sep-15,,584,Junior,,A/BAND A,Policy Adviser,"Fraud, Error and Debt",0,41774,60484,Policy
+Sep-15,,584,Junior,,B1/BAND B1,Programme Secretariat,"Fraud, Error and Debt",0,21166,30093,Policy
+Sep-15,,584,Junior,,B2/BAND B2,Policy Adviser,"Fraud, Error and Debt",0,28228,38484,Policy
+Sep-15,,585,Junior,,A/BAND A,Grants Policy Adviser,"Fraud, Error and Debt",0,41774,60484,Policy
+Sep-15,,585,Junior,,A/BAND A,Grants Policy Project Manager,"Fraud, Error and Debt",0,41774,60484,Policy
+Sep-15,,585,Junior,,A/BAND A,Operational Manager,"Fraud, Error and Debt",0,41774,60484,Policy
+Sep-15,,585,Junior,,A/BAND A,Policy Adviser,"Fraud, Error and Debt",0,41774,60484,Policy
+Sep-15,,585,Junior,,B1/BAND B1,Executive Assistant,"Fraud, Error and Debt",0,21166,30093,Programme and Project Management (PPM)
+Sep-15,,585,Junior,,B1/BAND B1,Grants Admin Assistant,"Fraud, Error and Debt",0,21166,30093,Policy
+Sep-15,,585,Junior,,B1/BAND B1,Programme Secretariat,"Fraud, Error and Debt",0,21166,30093,Policy
+Sep-15,,585,Junior,,B2/BAND B2,Grants Digital Adviser,"Fraud, Error and Debt",0,28228,38484,Policy
+Sep-15,,585,Junior,,B2/BAND B2,Operational Manager,"Fraud, Error and Debt",0,28228,38484,Policy
+Sep-15,,585,Junior,,B2/BAND B2,Policy Adviser,"Fraud, Error and Debt",0,28228,38484,Policy
+Sep-15,,38,Junior,,A/BAND A,Operational Manager,Government Communications,0,41774,60484,Communications
+Sep-15,,38,Junior,,B1/BAND B1,Admin Support Officer,Government Communications,0,21166,30093,Communications
+Sep-15,,38,Junior,,B1/BAND B1,Diary Manager,Government Communications,0,21166,30093,Communications
+Sep-15,,38,Junior,,B2/BAND B2,Business Manager,Government Communications,0,28228,38484,Communications
+Sep-15,,56,Junior,,A/BAND A,Operational Manager,Government Communications,0,41774,60484,Communications
+Sep-15,,56,Junior,,A/BAND A,Policy Adviser,Government Communications,0,41774,60484,Policy
+Sep-15,,56,Junior,,B1/BAND B1,Admin Support Officer,Government Communications,0,21166,30093,Communications
+Sep-15,,79,Junior,,A/BAND A,Senior Communications Manager,Government Communications,0,41774,60484,Communications
+Sep-15,,79,Junior,,A/BAND A,Senior Press Officer,Government Communications,0,41774,60484,Communications
+Sep-15,,79,Junior,,B1/BAND B1,Admin Support Officer,Government Communications,0,21166,30093,Communications
+Sep-15,,79,Junior,,B2/BAND B2,Operational Manager,Government Communications,0,28228,38484,Communications
+Sep-15,,79,Junior,,TIS3,Communications Manager,Government Communications,0,33747,47639,Communications
+Sep-15,,79,Junior,,TIS3,Operational Manager,Government Communications,0,33747,47639,Communications
+Sep-15,,154,Junior,,A/BAND A,Operational Manager,Government Communications,0,41774,60484,Communications
+Sep-15,,154,Junior,,A/BAND A,Senior Press Officer,Government Communications,0,41774,60484,Communications
+Sep-15,,154,Junior,,B1/BAND B1,Admin Support Officer,Government Communications,0,21166,30093,Communications
+Sep-15,,154,Junior,,B2/BAND B2,Communications Support Officer,Government Communications,0,28228,38484,Communications
+Sep-15,,154,Junior,,B2/BAND B2,Operational Manager,Government Communications,0,28228,38484,Communications
+Sep-15,,154,Junior,,TIS2,Operational Manager,Government Communications,0,28617,39799,Communications
+Sep-15,,154,Junior,,TIS2,Press Officer,Government Communications,0,28617,39799,Communications
+Sep-15,,154,Junior,,TIS3,Communications Manager,Government Communications,0,33747,47639,Communications
+Sep-15,,154,Junior,,TIS3,Operational Manager,Government Communications,0,33747,47639,Communications
+Sep-15,,154,Junior,,TIS3,Senior Press Officer,Government Communications,0,33747,47639,Communications
+Sep-15,,302,Junior,,A/BAND A,Communications Manager,Government Communications,0,41774,60484,Communications
+Sep-15,,302,Junior,,A/BAND A,Operational Manager,Government Communications,0,41774,60484,Communications
+Sep-15,,302,Junior,,A/BAND A,Policy Adviser,Government Communications,0,41774,60484,Communications
+Sep-15,,302,Junior,,A/BAND A,Senior Press Officer,Government Communications,0,41774,60484,Communications
+Sep-15,,302,Junior,,B1/BAND B1,Admin Support Officer,Government Communications,0,21166,30093,Communications
+Sep-15,,302,Junior,,B2/BAND B2,Operational Manager,Government Communications,0,28228,38484,Communications
+Sep-15,,302,Junior,,TIS2,Admin Support Officer,Government Communications,0,28617,39799,Communications
+Sep-15,,302,Junior,,TIS2,Communications Manager,Government Communications,0,28617,39799,Communications
+Sep-15,,302,Junior,,TIS2,Operational Manager,Government Communications,0,28617,39799,Communications
+Sep-15,,302,Junior,,TIS3,Communications Manager,Government Communications,0,33747,47639,Communications
+Sep-15,,302,Junior,,TIS3,Operational Manager,Government Communications,0,33747,47639,Communications
+Sep-15,,302,Junior,,TIS3,Press Officer,Government Communications,0,33747,47639,Communications
+Sep-15,,302,Junior,,TIS3,Senior Web Manager,Government Communications,0,33747,47639,Communications
+Sep-15,,519,Junior,,A/BAND A,Communications Manager,Government Communications,0,41774,60484,Communications
+Sep-15,,519,Junior,,A/BAND A,Senior Analyst,Government Communications,0,41774,60484,Communications
+Sep-15,,519,Junior,,B1/BAND B1,Admin Support Officer,Government Communications,0,21166,30093,Communications
+Sep-15,,519,Junior,,B2/BAND B2,Operational Manager,Government Communications,0,28228,38484,Communications
+Sep-15,,519,Junior,,C/BAND C,Admin Support Officer,Government Communications,0,16975,24430,Operational Delivery
+Sep-15,,519,Junior,,TIS1,Analyst,Government Communications,0,21101,30441,Communications
+Sep-15,,519,Junior,,TIS2,Analyst,Government Communications,0,28617,39799,Communications
+Sep-15,,519,Junior,,TIS2,Operational Manager,Government Communications,0,28617,39799,Communications
+Sep-15,,519,Junior,,TIS2,Project Manager,Government Communications,0,28617,39799,Communications
+Sep-15,,519,Junior,,TIS2,Technical Support Officer,Government Communications,0,28617,39799,Communications
+Sep-15,,519,Junior,,TIS3,Web Manager,Government Communications,0,33747,47639,Communications
+Sep-15,,520,Junior,,A/BAND A,Communications Manager,Government Communications,0,41774,60484,Communications
+Sep-15,,520,Junior,,A/BAND A,Senior Analyst,Government Communications,0,41774,60484,Communications
+Sep-15,,520,Junior,,A/BAND A,Senior Project Manager,Government Communications,0,41774,60484,Communications
+Sep-15,,520,Junior,,B1/BAND B1,Admin Support Officer,Government Communications,0,21166,30093,Communications
+Sep-15,,520,Junior,,TIS3,Communications Officer,Government Communications,0,33747,47639,Communications
+Sep-15,,521,Junior,,A/BAND A,Operational Manager,Government Communications,0,41774,60484,Communications
+Sep-15,,521,Junior,,A/BAND A,Policy Adviser,Government Communications,0,41774,60484,Communications
+Sep-15,,521,Junior,,A/BAND A,Senior Communications Manager,Government Communications,0,41774,60484,Communications
+Sep-15,,521,Junior,,TIS1,Operational Manager,Government Communications,0,21101,30441,Communications
+Sep-15,,521,Junior,,TIS2,Communications Officer,Government Communications,0,28617,39799,Communications
+Sep-15,,521,Junior,,TIS2,Operational Manager,Government Communications,0,28617,39799,Communications
+Sep-15,,521,Junior,,TIS2,Press Officer,Government Communications,0,28617,39799,Communications
+Sep-15,,521,Junior,,TIS3,Operational Manager,Government Communications,0,33747,47639,Communications
+Sep-15,,522,Junior,,A/BAND A,Communications Manager,Government Communications,0,41774,60484,Communications
+Sep-15,,522,Junior,,A/BAND A,Knowledge Information Management Manager,Government Communications,0,41774,60484,Communications
+Sep-15,,522,Junior,,A/BAND A,Operational Manager,Government Communications,0,41774,60484,Communications
+Sep-15,,522,Junior,,A/BAND A,Senior Communications Manager,Government Communications,0,41774,60484,Communications
+Sep-15,,522,Junior,,A/BAND A,Senior Press Officer,Government Communications,0,41774,60484,Communications
+Sep-15,,522,Junior,,B1/BAND B1,Admin Support Officer,Government Communications,0,21166,30093,Communications
+Sep-15,,522,Junior,,B1/BAND B1,Executive Assistant,Government Communications,0,21166,30093,Communications
+Sep-15,,522,Junior,,B2/BAND B2,Analyst,Government Communications,0,28228,38484,Communications
+Sep-15,,522,Junior,,B2/BAND B2,Operational Manager,Government Communications,0,28228,38484,Communications
+Sep-15,,522,Junior,,TIS1,Analyst,Government Communications,0,21101,30441,Communications
+Sep-15,,522,Junior,,TIS1,Communications Manager,Government Communications,0,21101,30441,Communications
+Sep-15,,522,Junior,,TIS1,Press Officer,Government Communications,0,21101,30441,Communications
+Sep-15,,522,Junior,,TIS2,Analyst,Government Communications,0,28617,39799,Communications
+Sep-15,,522,Junior,,TIS2,Operational Manager,Government Communications,0,28617,39799,Communications
+Sep-15,,522,Junior,,TIS2,Press Officer,Government Communications,0,28617,39799,Communications
+Sep-15,,522,Junior,,TIS3,Analyst,Government Communications,0,33747,47639,Communications
+Sep-15,,522,Junior,,TIS3,Business Manager,Government Communications,0,33747,47639,Communications
+Sep-15,,522,Junior,,TIS3,Communications Manager,Government Communications,0,33747,47639,Communications
+Sep-15,,522,Junior,,TIS3,Press Officer,Government Communications,0,33747,47639,Communications
+Sep-15,,522,Junior,,TIS3,Senior Communications Manager,Government Communications,0,33747,47639,Communications
+Sep-15,,556,Junior,,A/BAND A,Operational Manager,Government Communications,0,41774,60484,Communications
+Sep-15,,556,Junior,,A/BAND A,Senior Communications Manager,Government Communications,0,41774,60484,Communications
+Sep-15,,556,Junior,,B1/BAND B1,Admin Support Officer,Government Communications,0,21166,30093,Communications
+Sep-15,,556,Junior,,B2/BAND B2,Communications Support Officer,Government Communications,0,28228,38484,Communications
+Sep-15,,556,Junior,,TIS3,Operational Manager,Government Communications,0,33747,47639,Communications
+Sep-15,,230,Junior,,A/BAND A,Policy Adviser,Government Digital Service,0,41774,60484,Policy
+Sep-15,,230,Junior,,B1/BAND B1,Policy Adviser,Government Digital Service,0,21166,30093,Policy
+Sep-15,,230,Junior,,B1/BAND B1,Policy Support Officer,Government Digital Service,0,21166,30093,Policy
+Sep-15,,230,Junior,,B2/BAND B2,Operational Manager,Government Digital Service,0,28228,38484,Policy
+Sep-15,,230,Junior,,B2/BAND B2,Policy Adviser,Government Digital Service,0,28228,38484,Policy
+Sep-15,,276,Junior,,A/BAND A,Product Manager,Government Digital Service,0,41774,60484,Other
+Sep-15,,276,Junior,,A/BAND A,Transformation Lead,Government Digital Service,0,41774,60484,Other
+Sep-15,,276,Junior,,A/BAND A,Transformation Manager,Government Digital Service,0,41774,60484,Other
+Sep-15,,276,Junior,,B2/BAND B2,Content Designer,Government Digital Service,0,28228,38484,Other
+Sep-15,,281,Junior,,A/BAND A,Business Manager,Government Digital Service,0,41774,60484,Other
+Sep-15,,281,Junior,,A/BAND A,Communications And Transformation,Government Digital Service,0,41774,60484,Other
+Sep-15,,281,Junior,,A/BAND A,Community Support Manager,Government Digital Service,0,41774,60484,Other
+Sep-15,,281,Junior,,A/BAND A,Delivery Manager,Government Digital Service,0,41774,60484,Other
+Sep-15,,281,Junior,,A/BAND A,Delivery Manager,Government Digital Service,0,41774,60484,Policy
+Sep-15,,281,Junior,,A/BAND A,Digital Communications Lead,Government Digital Service,0,41774,60484,Other
+Sep-15,,281,Junior,,A/BAND A,Digital Policy Adviser,Government Digital Service,0,41774,60484,Other
+Sep-15,,281,Junior,,A/BAND A,Digital Specialist,Government Digital Service,0,41774,60484,Other
+Sep-15,,281,Junior,,A/BAND A,Enterprise Apps Manager,Government Digital Service,0,41774,60484,Other
+Sep-15,,281,Junior,,A/BAND A,Head Of Non-SCS Recruitment,Government Digital Service,0,41774,60484,Other
+Sep-15,,281,Junior,,A/BAND A,Head Of Planning And Performance,Government Digital Service,0,41774,60484,Other
+Sep-15,,281,Junior,,A/BAND A,Lead Accreditor And Internal Network Services Technical Architect,Government Digital Service,0,41774,60484,Other
+Sep-15,,281,Junior,,A/BAND A,Operational Manager,Government Digital Service,0,41774,60484,Other
+Sep-15,,281,Junior,,A/BAND A,Product Manager,Government Digital Service,0,41774,60484,Other
+Sep-15,,281,Junior,,B1/BAND B1,Business Management Support,Government Digital Service,0,21166,30093,Other
+Sep-15,,281,Junior,,B1/BAND B1,Digital Support Officer,Government Digital Service,0,21166,30093,Other
+Sep-15,,281,Junior,,B1/BAND B1,Office Manager,Government Digital Service,0,21166,30093,Other
+Sep-15,,281,Junior,,B1/BAND B1,Operational Manager,Government Digital Service,0,21166,30093,Other
+Sep-15,,281,Junior,,B1/BAND B1,Service Desk Analyst,Government Digital Service,0,21166,30093,Other
+Sep-15,,281,Junior,,B2/BAND B2,Assistant Digitial Specialist,Government Digital Service,0,28228,38484,Other
+Sep-15,,281,Junior,,B2/BAND B2,Business Management Support,Government Digital Service,0,28228,38484,Other
+Sep-15,,281,Junior,,B2/BAND B2,Contracts Manager,Government Digital Service,0,28228,38484,Other
+Sep-15,,281,Junior,,B2/BAND B2,Delivery Operations,Government Digital Service,0,28228,38484,Other
+Sep-15,,281,Junior,,B2/BAND B2,Digital Leaders Programme Manager,Government Digital Service,0,28228,38484,Other
+Sep-15,,281,Junior,,B2/BAND B2,Network Support,Government Digital Service,0,28228,38484,Other
+Sep-15,,281,Junior,,B2/BAND B2,Operational Manager,Government Digital Service,0,28228,38484,Other
+Sep-15,,281,Junior,,B2/BAND B2,Service Desk Analyst,Government Digital Service,0,28228,38484,Other
+Sep-15,,281,Junior,,B2/BAND B2,Service Desk Manager,Government Digital Service,0,28228,38484,Other
+Sep-15,,281,Junior,,C/BAND C,User Support Officer,Government Digital Service,0,16975,24430,Other
+Sep-15,,281,Junior,,TIS3,Developer,Government Digital Service,0,33747,47639,Other
+Sep-15,,284,Junior,,A/BAND A,Delivery Manager,Government Digital Service,0,41774,60484,Other
+Sep-15,,284,Junior,,A/BAND A,Operational Manager,Government Digital Service,0,41774,60484,Other
+Sep-15,,284,Junior,,A/BAND A,Transformation Manager,Government Digital Service,0,41774,60484,Other
+Sep-15,,284,Junior,,A/BAND A,Workstream Lead,Government Digital Service,0,41774,60484,Other
+Sep-15,,284,Junior,,B2/BAND B2,Business Analyst,Government Digital Service,0,28228,38484,Other
+Sep-15,,284,Junior,,C/BAND C,Project Support Officer,Government Digital Service,0,16975,24430,Other
+Sep-15,,284,Junior,,TIS3,Content Designer,Government Digital Service,0,33747,47639,Other
+Sep-15,,408,Junior,,A/BAND A,Assisted Digital Assessments Lead,Government Digital Service,0,41774,60484,Other
+Sep-15,,408,Junior,,A/BAND A,Assisted Digital Transformation Lead,Government Digital Service,0,41774,60484,Other
+Sep-15,,408,Junior,,A/BAND A,Digital Inclusion Policy Support,Government Digital Service,0,41774,60484,Other
+Sep-15,,408,Junior,,A/BAND A,Digital Specialist,Government Digital Service,0,41774,60484,Other
+Sep-15,,408,Junior,,A/BAND A,Head Of Assisted Digital Programme,Government Digital Service,0,41774,60484,Other
+Sep-15,,408,Junior,,A/BAND A,Head Of Digital Inclusion Strategy And Policy,Government Digital Service,0,41774,60484,Other
+Sep-15,,408,Junior,,A/BAND A,Operational Manager,Government Digital Service,0,41774,60484,Other
+Sep-15,,408,Junior,,B1/BAND B1,Digital Policy And Departmental Engagement,Government Digital Service,0,21166,30093,Other
+Sep-15,,408,Junior,,B1/BAND B1,Digital Support Officer,Government Digital Service,0,21166,30093,Other
+Sep-15,,408,Junior,,B2/BAND B2,Assissted Digital Transformation Analyst,Government Digital Service,0,28228,38484,Other
+Sep-15,,408,Junior,,B2/BAND B2,Assistant Digitial Specialist,Government Digital Service,0,28228,38484,Other
+Sep-15,,408,Junior,,B2/BAND B2,Diary Manager,Government Digital Service,0,28228,38484,Other
+Sep-15,,408,Junior,,B2/BAND B2,Operational Manager,Government Digital Service,0,28228,38484,Other
+Sep-15,,408,Junior,,B2/BAND B2,Parliamentary Liasion Manager,Government Digital Service,0,28228,38484,Other
+Sep-15,,408,Junior,,B2/BAND B2,Secretariat Officer,Government Digital Service,0,28228,38484,Other
+Sep-15,,452,Junior,,A/BAND A,Business Analyst,Government Digital Service,0,41774,60484,Other
+Sep-15,,452,Junior,,A/BAND A,Developer,Government Digital Service,0,41774,60484,Other
+Sep-15,,452,Junior,,A/BAND A,Digital Performance Manager,Government Digital Service,0,41774,60484,Other
+Sep-15,,452,Junior,,A/BAND A,Digital Specialist,Government Digital Service,0,41774,60484,Other
+Sep-15,,452,Junior,,A/BAND A,Head Of Service Assessments,Government Digital Service,0,41774,60484,Other
+Sep-15,,452,Junior,,A/BAND A,IDAP Communications,Government Digital Service,0,41774,60484,Other
+Sep-15,,452,Junior,,A/BAND A,IDAP Secretariat,Government Digital Service,0,41774,60484,Other
+Sep-15,,452,Junior,,A/BAND A,Junior Web Ops Engineer,Government Digital Service,0,41774,60484,Other
+Sep-15,,452,Junior,,A/BAND A,Operational Manager,Government Digital Service,0,41774,60484,Other
+Sep-15,,452,Junior,,A/BAND A,Policy Adviser,Government Digital Service,0,41774,60484,Policy
+Sep-15,,452,Junior,,A/BAND A,Portfolio Manager,Government Digital Service,0,41774,60484,Other
+Sep-15,,452,Junior,,A/BAND A,Product Analytics,Government Digital Service,0,41774,60484,Other
+Sep-15,,452,Junior,,A/BAND A,Product Analytics Lead,Government Digital Service,0,41774,60484,Other
+Sep-15,,452,Junior,,A/BAND A,Product Manager,Government Digital Service,0,41774,60484,Other
+Sep-15,,452,Junior,,A/BAND A,Senior Customer Insight Manager,Government Digital Service,0,41774,60484,Other
+Sep-15,,452,Junior,,A/BAND A,Technical Analyst,Government Digital Service,0,41774,60484,Other
+Sep-15,,452,Junior,,A/BAND A,Technical Architect,Government Digital Service,0,41774,60484,Other
+Sep-15,,452,Junior,,A/BAND A,User Experience Researcher,Government Digital Service,0,41774,60484,Other
+Sep-15,,452,Junior,,A/BAND A,User Researcher,Government Digital Service,0,41774,60484,Other
+Sep-15,,452,Junior,,A/BAND A,Web Ops Engineer,Government Digital Service,0,41774,60484,Other
+Sep-15,,452,Junior,,B/Faststream,Assistant Digitial Specialist,Government Digital Service,0,27543,36175,Other
+Sep-15,,452,Junior,,B1/BAND B1,Business Management Support,Government Digital Service,0,21166,30093,Other
+Sep-15,,452,Junior,,B1/BAND B1,Service Standard Assessment,Government Digital Service,0,21166,30093,Other
+Sep-15,,452,Junior,,B2/BAND B2,Assistant Digitial Specialist,Government Digital Service,0,28228,38484,Other
+Sep-15,,452,Junior,,B2/BAND B2,Digital Policy Adviser,Government Digital Service,0,28228,38484,Other
+Sep-15,,452,Junior,,B2/BAND B2,Digital Services Commercial Programme,Government Digital Service,0,28228,38484,Other
+Sep-15,,452,Junior,,B2/BAND B2,Operational Manager,Government Digital Service,0,28228,38484,Other
+Sep-15,,452,Junior,,B2/BAND B2,Secretariat Co-Ordinator,Government Digital Service,0,28228,38484,Other
+Sep-15,,452,Junior,,C/BAND C,Admin Support Officer,Government Digital Service,0,16975,24430,Operational Delivery
+Sep-15,,452,Junior,,TIS2,Product Analytics,Government Digital Service,0,28617,39799,Other
+Sep-15,,452,Junior,,TIS3,Data Analyst,Government Digital Service,0,33747,47639,Other
+Sep-15,,452,Junior,,TIS3,Product Analytics,Government Digital Service,0,33747,47639,Other
+Sep-15,,454,Junior,,A/BAND A,Creative Delivery Manager,Government Digital Service,0,41774,60484,Other
+Sep-15,,454,Junior,,A/BAND A,Creative Lead,Government Digital Service,0,41774,60484,Other
+Sep-15,,454,Junior,,A/BAND A,Creative Writer,Government Digital Service,0,41774,60484,Other
+Sep-15,,454,Junior,,A/BAND A,Developer,Government Digital Service,0,41774,60484,Other
+Sep-15,,454,Junior,,A/BAND A,Interaction Design,Government Digital Service,0,41774,60484,Other
+Sep-15,,454,Junior,,A/BAND A,Junior Visual Designer,Government Digital Service,0,41774,60484,Other
+Sep-15,,454,Junior,,A/BAND A,Multimedia Editor,Government Digital Service,0,41774,60484,Other
+Sep-15,,454,Junior,,A/BAND A,Operational Manager,Government Digital Service,0,41774,60484,Other
+Sep-15,,454,Junior,,A/BAND A,Service Designer,Government Digital Service,0,41774,60484,Other
+Sep-15,,454,Junior,,A/BAND A,Visual Designer,Government Digital Service,0,41774,60484,Other
+Sep-15,,454,Junior,,B2/BAND B2,Junior Visual Designer,Government Digital Service,0,28228,38484,Other
+Sep-15,,454,Junior,,B2/BAND B2,Production Assistant,Government Digital Service,0,28228,38484,Other
+Sep-15,,457,Junior,,A/BAND A,Agile Delivery,Government Digital Service,0,41774,60484,Other
+Sep-15,,457,Junior,,A/BAND A,Associate Product Manager,Government Digital Service,0,41774,60484,Other
+Sep-15,,457,Junior,,A/BAND A,Content Designer,Government Digital Service,0,41774,60484,Other
+Sep-15,,457,Junior,,A/BAND A,Digital Business Manager,Government Digital Service,0,41774,60484,Other
+Sep-15,,457,Junior,,A/BAND A,Digital Performance Analyst,Government Digital Service,0,41774,60484,Other
+Sep-15,,457,Junior,,A/BAND A,Digital Specialist,Government Digital Service,0,41774,60484,Other
+Sep-15,,457,Junior,,A/BAND A,Head Of Operations,Government Digital Service,0,41774,60484,Other
+Sep-15,,457,Junior,,A/BAND A,Lead Content Design,Government Digital Service,0,41774,60484,Other
+Sep-15,,457,Junior,,A/BAND A,Operational Manager,Government Digital Service,0,41774,60484,Other
+Sep-15,,457,Junior,,A/BAND A,Product Manager,Government Digital Service,0,41774,60484,Other
+Sep-15,,457,Junior,,B1/BAND B1,Executive Assistant,Government Digital Service,0,21166,30093,Other
+Sep-15,,457,Junior,,B1/BAND B1,User Support Specialist,Government Digital Service,0,21166,30093,Other
+Sep-15,,457,Junior,,B2/BAND B2,Assistant Digitial Specialist,Government Digital Service,0,28228,38484,Other
+Sep-15,,457,Junior,,B2/BAND B2,Government Domain Manager,Government Digital Service,0,28228,38484,Other
+Sep-15,,457,Junior,,B2/BAND B2,Operational Manager,Government Digital Service,0,28228,38484,Other
+Sep-15,,457,Junior,,TIS2,User Support Lead,Government Digital Service,0,28617,39799,Other
+Sep-15,,457,Junior,,TIS3,Content Designer,Government Digital Service,0,33747,47639,Other
+Sep-15,,458,Junior,,A/BAND A,Digital Engagement Lead,Government Digital Service,0,41774,60484,Other
+Sep-15,,458,Junior,,A/BAND A,Digital Specialist,Government Digital Service,0,41774,60484,Other
+Sep-15,,458,Junior,,B2/BAND B2,Creative Writer,Government Digital Service,0,28228,38484,Other
+Sep-15,,458,Junior,,B2/BAND B2,Diary Manager,Government Digital Service,0,28228,38484,Other
+Sep-15,,458,Junior,,B2/BAND B2,Operational Manager,Government Digital Service,0,28228,38484,Other
+Sep-15,,459,Junior,,A/BAND A,Developer,Government Digital Service,0,41774,60484,Other
+Sep-15,,459,Junior,,A/BAND A,Digital Specialist,Government Digital Service,0,41774,60484,Other
+Sep-15,,459,Junior,,A/BAND A,Digital Transformation Manager,Government Digital Service,0,41774,60484,Other
+Sep-15,,459,Junior,,A/BAND A,Junior Developer,Government Digital Service,0,41774,60484,Other
+Sep-15,,459,Junior,,A/BAND A,Operational Manager,Government Digital Service,0,41774,60484,Other
+Sep-15,,459,Junior,,A/BAND A,Product Manager,Government Digital Service,0,41774,60484,Other
+Sep-15,,459,Junior,,A/BAND A,Technical Architect,Government Digital Service,0,41774,60484,Other
+Sep-15,,459,Junior,,A/BAND A,Technical Lead,Government Digital Service,0,41774,60484,Other
+Sep-15,,459,Junior,,A/BAND A,User Support,Government Digital Service,0,41774,60484,Other
+Sep-15,,459,Junior,,A/BAND A,Web Ops,Government Digital Service,0,41774,60484,Other
+Sep-15,,459,Junior,,A/BAND A,Web Ops Engineer,Government Digital Service,0,41774,60484,Other
+Sep-15,,459,Junior,,B2/BAND B2,Assistant Digitial Specialist,Government Digital Service,0,28228,38484,Other
+Sep-15,,459,Junior,,B2/BAND B2,Junior Developer,Government Digital Service,0,28228,38484,Other
+Sep-15,,460,Junior,,A/BAND A,Operational Manager,Government Digital Service,0,41774,60484,Other
+Sep-15,,460,Junior,,B2/BAND B2,Assistant Digitial Specialist,Government Digital Service,0,28228,38484,Other
+Sep-15,,502,Junior,,A/BAND A,Developer,Government Digital Service,0,41774,60484,Other
+Sep-15,,502,Junior,,A/BAND A,Operational Manager,Government Digital Service,0,41774,60484,Other
+Sep-15,,502,Junior,,A/BAND A,Quality Assurance,Government Digital Service,0,41774,60484,Other
+Sep-15,,502,Junior,,B2/BAND B2,Quality Assurance,Government Digital Service,0,28228,38484,Other
+Sep-15,,503,Junior,,B1/BAND B1,Digital Support Officer,Government Digital Service,0,21166,30093,Other
+Sep-15,,503,Junior,,B1/BAND B1,Operational Manager,Government Digital Service,0,21166,30093,Other
+Sep-15,,503,Junior,,B2/BAND B2,Assistant Digitial Specialist,Government Digital Service,0,28228,38484,Other
+Sep-15,,503,Junior,,B2/BAND B2,Information Manager,Government Digital Service,0,28228,38484,Other
+Sep-15,,503,Junior,,B2/BAND B2,Operational Manager,Government Digital Service,0,28228,38484,Policy
+Sep-15,,503,Junior,,B2/BAND B2,PSN Compliance And Cts Strategy,Government Digital Service,0,28228,38484,Other
+Sep-15,,503,Junior,,B2/BAND B2,PSN Compliance Support Officer,Government Digital Service,0,28228,38484,Other
+Sep-15,,503,Junior,,TIS2,PSN,Government Digital Service,0,28617,39799,Other
+Sep-15,,513,Junior,,A/BAND A,Head Of Commissioning,Government Digital Service,0,41774,60484,Other
+Sep-15,,513,Junior,,B1/BAND B1,Operational Manager,Government Digital Service,0,21166,30093,Other
+Sep-15,,513,Junior,,B2/BAND B2,Gds Planning And Performance,Government Digital Service,0,28228,38484,Other
+Sep-15,,513,Junior,,B2/BAND B2,Procurement Support Officer,Government Digital Service,0,28228,38484,Other
+Sep-15,,557,Junior,,A/BAND A,Operational Manager,Government Digital Service,0,41774,60484,Other
+Sep-15,,557,Junior,,A/BAND A,Transformation Lead,Government Digital Service,0,41774,60484,Other
+Sep-15,,557,Junior,,B2/BAND B2,Business Analyst,Government Digital Service,0,28228,38484,Other
+Sep-15,,587,Junior,,A/BAND A,Digital Specialist,Government Digital Service,0,41774,60484,Other
+Sep-15,,587,Junior,,A/BAND A,Operational Manager,Government Digital Service,0,41774,60484,Other
+Sep-15,,587,Junior,,A/BAND A,Senior Technical Adviser,Government Digital Service,0,41774,60484,Other
+Sep-15,,587,Junior,,A/BAND A,Service Manager,Government Digital Service,0,41774,60484,Other
+Sep-15,,587,Junior,,A/BAND A,Technical Strategy And Delivery,Government Digital Service,0,41774,60484,Other
+Sep-15,,587,Junior,,B1/BAND B1,Digital Support Officer,Government Digital Service,0,21166,30093,Other
+Sep-15,,587,Junior,,B2/BAND B2,Assistant Digitial Specialist,Government Digital Service,0,28228,38484,Other
+Sep-15,,587,Junior,,B2/BAND B2,Operational Manager,Government Digital Service,0,28228,38484,Other
+Sep-15,,587,Junior,,B2/BAND B2,Tib Administrator,Government Digital Service,0,28228,38484,Other
+Sep-15,,588,Junior,,A/BAND A,Policy Adviser,Government Digital Service,0,41774,60484,Policy
+Sep-15,,588,Junior,,A/BAND A,Project Support Officer,Government Digital Service,0,41774,60484,Other
+Sep-15,,588,Junior,,B1/BAND B1,Digital Support Officer,Government Digital Service,0,21166,30093,Other
+Sep-15,,588,Junior,,B2/BAND B2,Operational Manager,Government Digital Service,0,28228,38484,Policy
+Sep-15,,588,Junior,,B2/BAND B2,Policy Adviser,Government Digital Service,0,28228,38484,Policy
+Sep-15,,100,Junior,,A/BAND A,IT Manager,Government in Parliament,0,41774,60484,Operational Delivery
+Sep-15,,100,Junior,,A/BAND A,Private Secretary,Government in Parliament,0,41774,60484,Operational Delivery
+Sep-15,,100,Junior,,APC,Assistant Parliamentary Counsel,Government in Parliament,0,60350,109565,Legal
+Sep-15,,100,Junior,,B1/BAND B1,Legal Support Officer,Government in Parliament,0,21166,30093,Operational Delivery
+Sep-15,,100,Junior,,B1/BAND B1,Operational Manager,Government in Parliament,0,21166,30093,Operational Delivery
+Sep-15,,100,Junior,,B1/BAND B1,Operations Support Officer,Government in Parliament,0,21166,30093,Operational Delivery
+Sep-15,,100,Junior,,B2/BAND B2,Operational Manager,Government in Parliament,0,28228,38484,Operational Delivery
+Sep-15,,100,Junior,,B2/BAND B2,Private Secretary,Government in Parliament,0,28228,38484,Operational Delivery
+Sep-15,,100,Junior,,C/BAND C,Admin Support Officer,Government in Parliament,0,16975,24430,Operational Delivery
+Sep-15,,100,Junior,,C/BAND C,Operations Support Officer,Government in Parliament,0,16975,24430,Operational Delivery
+Sep-15,,141,Junior,,A/BAND A,Private Secretary,Government in Parliament,0,41774,60484,Operational Delivery
+Sep-15,,141,Junior,,B1/BAND B1,Diary Manager,Government in Parliament,0,21166,30093,Operational Delivery
+Sep-15,,141,Junior,,B1/BAND B1,Operational Manager,Government in Parliament,0,21166,30093,Operational Delivery
+Sep-15,,141,Junior,,B1/BAND B1,Operations Support Officer,Government in Parliament,0,21166,30093,Operational Delivery
+Sep-15,,141,Junior,,B2/BAND B2,Business Manager,Government in Parliament,0,28228,38484,Operational Delivery
+Sep-15,,141,Junior,,B2/BAND B2,Operational Manager,Government in Parliament,0,28228,38484,Finance
+Sep-15,,141,Junior,,B2/BAND B2,Private Secretary,Government in Parliament,0,28228,38484,Operational Delivery
+Sep-15,,141,Junior,,C/BAND C,Admin Support Officer,Government in Parliament,0,16975,24430,Finance
+Sep-15,,141,Junior,,C/BAND C,Admin Support Officer,Government in Parliament,0,16975,24430,Operational Delivery
+Sep-15,,141,Junior,,C/BAND C,Operational Manager,Government in Parliament,0,16975,24430,Finance
+Sep-15,,141,Junior,,C/BAND C,Operational Manager,Government in Parliament,0,16975,24430,Operational Delivery
+Sep-15,,141,Junior,,C/BAND C,Operational Support Officer,Government in Parliament,0,16975,24430,Operational Delivery
+Sep-15,,141,Junior,,C/BAND C,Operations Support Officer,Government in Parliament,0,16975,24430,Operational Delivery
+Sep-15,,338,Junior,,A/BAND A,Operational Manager,Government in Parliament,0,41774,60484,Operational Delivery
+Sep-15,,338,Junior,,A/BAND A,Private Secretary,Government in Parliament,0,41774,60484,Operational Delivery
+Sep-15,,338,Junior,,B1/BAND B1,Diary Manager,Government in Parliament,0,21166,30093,Operational Delivery
+Sep-15,,338,Junior,,B1/BAND B1,Operational Manager,Government in Parliament,0,21166,30093,Operational Delivery
+Sep-15,,338,Junior,,B2/BAND B2,Assistant Private Secretary,Government in Parliament,0,28228,38484,Operational Delivery
+Sep-15,,338,Junior,,B2/BAND B2,Operational Manager,Government in Parliament,0,28228,38484,Operational Delivery
+Sep-15,,338,Junior,,C/BAND C,Admin Support Officer,Government in Parliament,0,16975,24430,Operational Delivery
+Sep-15,,338,Junior,,C/BAND C,Operations Support Officer,Government in Parliament,0,16975,24430,Operational Delivery
+Sep-15,,116,Junior,,A/BAND A,Economist,Government Innovation Group,0,41774,60484,Economics
+Sep-15,,116,Junior,,A/BAND A,Operational Manager,Government Innovation Group,0,41774,60484,Economics
+Sep-15,,116,Junior,,A/BAND A,Operational Manager,Government Innovation Group,0,41774,60484,Policy
+Sep-15,,116,Junior,,A/BAND A,Policy Adviser,Government Innovation Group,0,41774,60484,Policy
+Sep-15,,116,Junior,,A/BAND A,Statistician,Government Innovation Group,0,41774,60484,Statistics
+Sep-15,,116,Junior,,B/Faststream,Economist,Government Innovation Group,0,27543,36175,Economics
+Sep-15,,116,Junior,,B/Faststream,Operational Manager,Government Innovation Group,0,27543,36175,Policy
+Sep-15,,116,Junior,,B/Faststream,Policy Adviser,Government Innovation Group,0,27543,36175,Policy
+Sep-15,,116,Junior,,B/Faststream,Statistician,Government Innovation Group,0,27543,36175,Statistics
+Sep-15,,116,Junior,,B1/BAND B1,Policy Adviser,Government Innovation Group,0,21166,30093,Policy
+Sep-15,,116,Junior,,B1/BAND B1,Statistics Support Officer,Government Innovation Group,0,21166,30093,Statistics
+Sep-15,,116,Junior,,B2/BAND B2,Economist,Government Innovation Group,0,28228,38484,Economics
+Sep-15,,116,Junior,,B2/BAND B2,Policy Adviser,Government Innovation Group,0,28228,38484,Policy
+Sep-15,,116,Junior,,B2/BAND B2,Statistician,Government Innovation Group,0,28228,38484,Statistics
+Sep-15,,143,Junior,,A/BAND A,Operational Manager,Government Innovation Group,0,41774,60484,Policy
+Sep-15,,143,Junior,,A/BAND A,Policy Adviser,Government Innovation Group,0,41774,60484,Policy
+Sep-15,,143,Junior,,B1/BAND B1,Operational Manager,Government Innovation Group,0,21166,30093,Policy
+Sep-15,,143,Junior,,B1/BAND B1,Policy Adviser,Government Innovation Group,0,21166,30093,Policy
+Sep-15,,143,Junior,,B2/BAND B2,Policy Adviser,Government Innovation Group,0,28228,38484,Policy
+Sep-15,,143,Junior,,TIS2,Policy Adviser,Government Innovation Group,0,28617,39799,Policy
+Sep-15,,303,Junior,,A/BAND A,Head Of Sector,Government Innovation Group,0,41774,60484,Policy
+Sep-15,,303,Junior,,A/BAND A,Operational Manager,Government Innovation Group,0,41774,60484,Policy
+Sep-15,,303,Junior,,A/BAND A,Policy Adviser,Government Innovation Group,0,41774,60484,Policy
+Sep-15,,303,Junior,,B1/BAND B1,Operational Manager,Government Innovation Group,0,21166,30093,Policy
+Sep-15,,303,Junior,,B2/BAND B2,Policy Adviser,Government Innovation Group,0,28228,38484,Policy
+Sep-15,,357,Junior,,A/BAND A,Business Manager,Government Innovation Group,0,41774,60484,Other
+Sep-15,,357,Junior,,A/BAND A,Operational Manager,Government Innovation Group,0,41774,60484,Policy
+Sep-15,,357,Junior,,A/BAND A,Policy Adviser,Government Innovation Group,0,41774,60484,Policy
+Sep-15,,357,Junior,,A/BAND A,Senior Policy Adviser,Government Innovation Group,0,41774,60484,Policy
+Sep-15,,357,Junior,,B1/BAND B1,Policy Adviser,Government Innovation Group,0,21166,30093,Policy
+Sep-15,,357,Junior,,B2/BAND B2,Operational Manager,Government Innovation Group,0,28228,38484,Policy
+Sep-15,,357,Junior,,B2/BAND B2,Policy Adviser,Government Innovation Group,0,28228,38484,Policy
+Sep-15,,357,Junior,,C/BAND C,Admin Support Officer,Government Innovation Group,0,16975,24430,Operational Delivery
+Sep-15,,357,Junior,,C/BAND C,Diary Manager,Government Innovation Group,0,16975,24430,Operational Delivery
+Sep-15,,359,Junior,,A/BAND A,Operational Manager,Government Innovation Group,0,41774,60484,Policy
+Sep-15,,359,Junior,,A/BAND A,Policy Adviser,Government Innovation Group,0,41774,60484,Policy
+Sep-15,,359,Junior,,A/BAND A,Senior Policy Adviser,Government Innovation Group,0,41774,60484,Policy
+Sep-15,,359,Junior,,B1/BAND B1,Policy Adviser,Government Innovation Group,0,21166,30093,Policy
+Sep-15,,359,Junior,,B2/BAND B2,Policy Adviser,Government Innovation Group,0,28228,38484,Policy
+Sep-15,,359,Junior,,TIS2,Policy Adviser,Government Innovation Group,0,28617,39799,Policy
+Sep-15,,406,Junior,,A/BAND A,Policy Adviser,Government Innovation Group,0,41774,60484,Policy
+Sep-15,,406,Junior,,B/Faststream,Policy Adviser,Government Innovation Group,0,27543,36175,Policy
+Sep-15,,406,Junior,,B2/BAND B2,Policy Adviser,Government Innovation Group,0,28228,38484,Policy
+Sep-15,,409,Junior,,A/BAND A,Operational Manager,Government Innovation Group,0,41774,60484,Policy
+Sep-15,,409,Junior,,A/BAND A,Policy Adviser,Government Innovation Group,0,41774,60484,Policy
+Sep-15,,409,Junior,,B1/BAND B1,Operational Manager,Government Innovation Group,0,21166,30093,Policy
+Sep-15,,409,Junior,,B1/BAND B1,Policy Adviser,Government Innovation Group,0,21166,30093,Policy
+Sep-15,,409,Junior,,B2/BAND B2,Operational Manager,Government Innovation Group,0,28228,38484,Policy
+Sep-15,,409,Junior,,B2/BAND B2,Policy Adviser,Government Innovation Group,0,28228,38484,Policy
+Sep-15,,409,Junior,,C/BAND C,Admin Support Officer,Government Innovation Group,0,16975,24430,Policy
+Sep-15,,409,Junior,,C/BAND C,Operational Manager,Government Innovation Group,0,16975,24430,Policy
+Sep-15,,479,Junior,,A/BAND A,Operational Manager,Government Innovation Group,0,41774,60484,Policy
+Sep-15,,479,Junior,,A/BAND A,Policy Adviser,Government Innovation Group,0,41774,60484,Policy
+Sep-15,,479,Junior,,B1/BAND B1,Policy Adviser,Government Innovation Group,0,21166,30093,Policy
+Sep-15,,479,Junior,,B2/BAND B2,Operational Manager,Government Innovation Group,0,28228,38484,Policy
+Sep-15,,479,Junior,,B2/BAND B2,Policy Adviser,Government Innovation Group,0,28228,38484,Policy
+Sep-15,,296,Junior,,A/BAND A,Business Support Manager,Government Property Unit,0,41774,60484,Finance
+Sep-15,,296,Junior,,A/BAND A,Deputy Lead NEYH,Government Property Unit,0,41774,60484,Property And Asset Management
+Sep-15,,296,Junior,,A/BAND A,Deputy Lead SW,Government Property Unit,0,41774,60484,Property And Asset Management
+Sep-15,,296,Junior,,A/BAND A,One Public Estate Manager,Government Property Unit,0,41774,60484,Property And Asset Management
+Sep-15,,296,Junior,,A/BAND A,Property Adviser,Government Property Unit,0,41774,60484,Property And Asset Management
+Sep-15,,296,Junior,,A/BAND A,Regional Coordinator NEYH,Government Property Unit,0,41774,60484,Property And Asset Management
+Sep-15,,296,Junior,,A/BAND A,Regional Lead,Government Property Unit,0,41774,60484,Property And Asset Management
+Sep-15,,296,Junior,,A/BAND A,SLPR Manager,Government Property Unit,0,41774,60484,Policy
+Sep-15,,296,Junior,,A/BAND A,SLPR Property Adviser,Government Property Unit,0,41774,60484,Property And Asset Management
+Sep-15,,296,Junior,,B2/BAND B2,Assistant Business Support Manager,Government Property Unit,0,28228,38484,Finance
+Sep-15,,296,Junior,,B2/BAND B2,Operational Manager,Government Property Unit,0,28228,38484,Policy
+Sep-15,,296,Junior,,B2/BAND B2,SLPR Programme Manager,Government Property Unit,0,28228,38484,Policy
+Sep-15,,296,Junior,,B2/BAND B2,Workplace Transformation Officer,Government Property Unit,0,28228,38484,Property And Asset Management
+Sep-15,,517,Junior,,A/BAND A,Analyst,Government Property Unit,0,41774,60484,Knowledge And Information Management (KIM)
+Sep-15,,517,Junior,,A/BAND A,Business Support Manager,Government Property Unit,0,41774,60484,Finance
+Sep-15,,517,Junior,,A/BAND A,Deputy Lead Midlands,Government Property Unit,0,41774,60484,Property And Asset Management
+Sep-15,,517,Junior,,A/BAND A,Head Of Property Efficiency,Government Property Unit,0,41774,60484,Knowledge And Information Management (KIM)
+Sep-15,,517,Junior,,A/BAND A,Operational Manager,Government Property Unit,0,41774,60484,Finance
+Sep-15,,517,Junior,,A/BAND A,Operational Manager,Government Property Unit,0,41774,60484,Knowledge And Information Management (KIM)
+Sep-15,,517,Junior,,A/BAND A,Operational Manager,Government Property Unit,0,41774,60484,Property And Asset Management
+Sep-15,,517,Junior,,A/BAND A,Property Adviser,Government Property Unit,0,41774,60484,Property And Asset Management
+Sep-15,,517,Junior,,A/BAND A,Property Asset Management,Government Property Unit,0,41774,60484,Property And Asset Management
+Sep-15,,517,Junior,,A/BAND A,Regional Lead,Government Property Unit,0,41774,60484,Property And Asset Management
+Sep-15,,517,Junior,,A/BAND A,Senior Policy Adviser,Government Property Unit,0,41774,60484,Policy
+Sep-15,,517,Junior,,A/BAND A,Workplace Transformation Officer,Government Property Unit,0,41774,60484,Property And Asset Management
+Sep-15,,517,Junior,,B/Faststream,Operational Manager,Government Property Unit,0,27543,36175,Policy
+Sep-15,,517,Junior,,B/Faststream,Operational Manager,Government Property Unit,0,27543,36175,Property And Asset Management
+Sep-15,,517,Junior,,B1/BAND B1,Admin Support Officer,Government Property Unit,0,21166,30093,Finance
+Sep-15,,517,Junior,,B1/BAND B1,Admin Support Officer,Government Property Unit,0,21166,30093,Policy
+Sep-15,,517,Junior,,B1/BAND B1,Policy Support Officer,Government Property Unit,0,21166,30093,Policy
+Sep-15,,517,Junior,,B1/BAND B1,Workplace Transformation Officer,Government Property Unit,0,21166,30093,Property And Asset Management
+Sep-15,,517,Junior,,B2/BAND B2,Analyst,Government Property Unit,0,28228,38484,Knowledge And Information Management (KIM)
+Sep-15,,517,Junior,,B2/BAND B2,Assistant Business Support Manager,Government Property Unit,0,28228,38484,Knowledge And Information Management (KIM)
+Sep-15,,517,Junior,,B2/BAND B2,IT Support Officer,Government Property Unit,0,28228,38484,Knowledge And Information Management (KIM)
+Sep-15,,517,Junior,,B2/BAND B2,Operational Manager,Government Property Unit,0,28228,38484,Knowledge And Information Management (KIM)
+Sep-15,,517,Junior,,B2/BAND B2,Operational Manager,Government Property Unit,0,28228,38484,Policy
+Sep-15,,517,Junior,,B2/BAND B2,Operational Manager,Government Property Unit,0,28228,38484,Property And Asset Management
+Sep-15,,517,Junior,,B2/BAND B2,Programme Support Officer,Government Property Unit,0,28228,38484,Policy
+Sep-15,,77,Junior,,A/BAND A,Senior Operational Manager,Honours and Appointments Secretariat,0,41774,60484,Operational Delivery
+Sep-15,,77,Junior,,A/BAND A,Senior Policy Adviser,Honours and Appointments Secretariat,0,41774,60484,Policy
+Sep-15,,77,Junior,,B1/BAND B1,Operations Support Officer,Honours and Appointments Secretariat,0,21166,30093,Operational Delivery
+Sep-15,,77,Junior,,B1/BAND B1,Policy Adviser,Honours and Appointments Secretariat,0,21166,30093,Operational Delivery
+Sep-15,,77,Junior,,B1/BAND B1,Policy Adviser,Honours and Appointments Secretariat,0,21166,30093,Policy
+Sep-15,,77,Junior,,B2/BAND B2,Operational Manager,Honours and Appointments Secretariat,0,28228,38484,Operational Delivery
+Sep-15,,77,Junior,,B2/BAND B2,Policy Adviser,Honours and Appointments Secretariat,0,28228,38484,Operational Delivery
+Sep-15,,77,Junior,,B2/BAND B2,Policy Adviser,Honours and Appointments Secretariat,0,28228,38484,Policy
+Sep-15,,77,Junior,,C/BAND C,Admin Support Officer,Honours and Appointments Secretariat,0,16975,24430,Operational Delivery
+Sep-15,,77,Junior,,C/BAND C,Executive Assistant,Honours and Appointments Secretariat,0,16975,24430,Policy
+Sep-15,,77,Junior,,C/BAND C,Operations Support Officer,Honours and Appointments Secretariat,0,16975,24430,Operational Delivery
+Sep-15,,145,Junior,,A/BAND A,HR Officer,Human Resources,0,41774,60484,Human Resources
+Sep-15,,145,Junior,,B/Faststream,HR Officer,Human Resources,0,27543,36175,Human Resources
+Sep-15,,145,Junior,,B/Faststream,Operational Manager,Human Resources,0,27543,36175,Human Resources
+Sep-15,,145,Junior,,B1/BAND B1,Operations Support Officer,Human Resources,0,21166,30093,Human Resources
+Sep-15,,145,Junior,,B2/BAND B2,Operational Manager,Human Resources,0,28228,38484,Human Resources
+Sep-15,,416,Junior,,A/BAND A,Business Manager,Human Resources,0,41774,60484,Human Resources
+Sep-15,,416,Junior,,A/BAND A,HR Officer,Human Resources,0,41774,60484,Human Resources
+Sep-15,,416,Junior,,A/BAND A,Project Manager,Human Resources,0,41774,60484,Human Resources
+Sep-15,,416,Junior,,B/Faststream,Operational Manager,Human Resources,0,27543,36175,Human Resources
+Sep-15,,416,Junior,,B1/BAND B1,Operations Support Officer,Human Resources,0,21166,30093,Human Resources
+Sep-15,,416,Junior,,B2/BAND B2,Operational Manager,Human Resources,0,28228,38484,Human Resources
+Sep-15,,416,Junior,,C/BAND C,Admin Support Officer,Human Resources,0,16975,24430,Human Resources
+Sep-15,,490,Junior,,A/BAND A,HR Officer,Human Resources,0,41774,60484,Human Resources
+Sep-15,,490,Junior,,B/Faststream,HR Officer,Human Resources,0,27543,36175,Human Resources
+Sep-15,,490,Junior,,B1/BAND B1,Operations Support Officer,Human Resources,0,21166,30093,Human Resources
+Sep-15,,490,Junior,,B2/BAND B2,HR Officer,Human Resources,0,28228,38484,Human Resources
+Sep-15,,448,Junior,,A/BAND A,Senior Policy Adviser,Major Events & Operations,0,41774,60484,Policy
+Sep-15,,448,Junior,,B2/BAND B2,Policy Adviser,Major Events & Operations,0,28228,38484,Policy
+Sep-15,,572,Junior,,A/BAND A,Senior Policy Adviser,Major Events & Operations,0,41774,60484,Policy
+Sep-15,,583,Junior,,A/BAND A,Senior Policy Adviser,Major Events & Operations,0,41774,60484,Policy
+Sep-15,,583,Junior,,B1/BAND B1,Operational Manager,Major Events & Operations,0,21166,30093,Operational Delivery
+Sep-15,,583,Junior,,B2/BAND B2,Policy Adviser,Major Events & Operations,0,28228,38484,Policy
+Sep-15,,583,Junior,,TIS2,Operational Manager,Major Events & Operations,0,28617,39799,Other
+Sep-15,,439,Junior,,A/BAND A,Operational Manager,Major Projects,0,41774,60484,Programme and Project Management (PPM)
+Sep-15,,472,Junior,,A/BAND A,Operational Manager,Major Projects,0,41774,60484,Programme and Project Management (PPM)
+Sep-15,,472,Junior,,B2/BAND B2,Operational Manager,Major Projects,0,28228,38484,Programme and Project Management (PPM)
+Sep-15,,473,Junior,,A/BAND A,Operational Manager,Major Projects,0,41774,60484,Programme and Project Management (PPM)
+Sep-15,,473,Junior,,C/BAND C,Admin Support Officer,Major Projects,0,16975,24430,Programme and Project Management (PPM)
+Sep-15,,474,Junior,,A/BAND A,Digital Communications Manager,Major Projects,0,41774,60484,Programme and Project Management (PPM)
+Sep-15,,474,Junior,,A/BAND A,Policy Adviser,Major Projects,0,41774,60484,Programme and Project Management (PPM)
+Sep-15,,474,Junior,,B1/BAND B1,Communications Support Officer,Major Projects,0,21166,30093,Programme and Project Management (PPM)
+Sep-15,,474,Junior,,B1/BAND B1,Team Coordinator,Major Projects,0,21166,30093,Programme and Project Management (PPM)
+Sep-15,,474,Junior,,B2/BAND B2,Operational Manager,Major Projects,0,28228,38484,Programme and Project Management (PPM)
+Sep-15,,475,Junior,,A/BAND A,Operational Manager,Major Projects,0,41774,60484,Programme and Project Management (PPM)
+Sep-15,,475,Junior,,B2/BAND B2,Operational Manager,Major Projects,0,28228,38484,Programme and Project Management (PPM)
+Sep-15,,476,Junior,,B1/BAND B1,Operational Manager,Major Projects,0,21166,30093,Programme and Project Management (PPM)
+Sep-15,,476,Junior,,B2/BAND B2,Operational Manager,Major Projects,0,28228,38484,Programme and Project Management (PPM)
+Sep-15,,476,Junior,,C/BAND C,Admin Support Officer,Major Projects,0,16975,24430,Programme and Project Management (PPM)
+Sep-15,,476,Junior,,TIS2,Operational Manager,Major Projects,0,28617,39799,Programme and Project Management (PPM)
+Sep-15,,494,Junior,,A/BAND A,Operational Manager,Major Projects,0,41774,60484,Programme and Project Management (PPM)
+Sep-15,,494,Junior,,C/BAND C,Admin Support Officer,Major Projects,0,16975,24430,Programme and Project Management (PPM)
+Sep-15,,500,Junior,,B1/BAND B1,Admin Support Officer,Major Projects,0,21166,30093,Programme and Project Management (PPM)
+Sep-15,,500,Junior,,B2/BAND B2,Operational Manager,Major Projects,0,28228,38484,Programme and Project Management (PPM)
+Sep-15,,500,Junior,,C/BAND C,Admin Support Officer,Major Projects,0,16975,24430,Programme and Project Management (PPM)
+Sep-15,,514,Junior,,A/BAND A,Analyst,Major Projects,0,41774,60484,Programme and Project Management (PPM)
+Sep-15,,514,Junior,,A/BAND A,Business Manager,Major Projects,0,41774,60484,Programme and Project Management (PPM)
+Sep-15,,514,Junior,,A/BAND A,Communications Manager,Major Projects,0,41774,60484,Communications
+Sep-15,,514,Junior,,A/BAND A,Operational Manager,Major Projects,0,41774,60484,Programme and Project Management (PPM)
+Sep-15,,514,Junior,,A/BAND A,Project Manager,Major Projects,0,41774,60484,Programme and Project Management (PPM)
+Sep-15,,514,Junior,,B1/BAND B1,Diary Manager,Major Projects,0,21166,30093,Policy
+Sep-15,,514,Junior,,B1/BAND B1,Operational Manager,Major Projects,0,21166,30093,Programme and Project Management (PPM)
+Sep-15,,514,Junior,,B2/BAND B2,Operational Manager,Major Projects,0,28228,38484,Programme and Project Management (PPM)
+Sep-15,,514,Junior,,B2/BAND B2,Programme Manager,Major Projects,0,28228,38484,Programme and Project Management (PPM)
+Sep-15,,514,Junior,,C/BAND C,Admin Support Officer,Major Projects,0,16975,24430,Programme and Project Management (PPM)
+Sep-15,,565,Junior,,A/BAND A,Operational Manager,Major Projects,0,41774,60484,Programme and Project Management (PPM)
+Sep-15,,565,Junior,,B/Faststream,Operational Manager,Major Projects,0,27543,36175,Programme and Project Management (PPM)
+Sep-15,,566,Junior,,A/BAND A,Operational Manager,Major Projects,0,41774,60484,Programme and Project Management (PPM)
+Sep-15,,81,Junior,,A/BAND A,Head Of Security,Prime Minister's Office,0,41774,60484,Operational Delivery
+Sep-15,,81,Junior,,A/BAND A,Operational Manager,Prime Minister's Office,0,41774,60484,Communications
+Sep-15,,81,Junior,,A/BAND A,Operational Manager,Prime Minister's Office,0,41774,60484,Operational Delivery
+Sep-15,,81,Junior,,A/BAND A,Project Manager,Prime Minister's Office,0,41774,60484,Operational Delivery
+Sep-15,,81,Junior,,A/BAND A,Senior Communications Manager,Prime Minister's Office,0,41774,60484,Communications
+Sep-15,,81,Junior,,A/BAND A,Senior IT Manager,Prime Minister's Office,0,41774,60484,Information Technology
+Sep-15,,81,Junior,,A/BAND A,Senior Operational Manager,Prime Minister's Office,0,41774,60484,Operational Delivery
+Sep-15,,81,Junior,,B1/BAND B1,Communications Manager,Prime Minister's Office,0,21166,30093,Communications
+Sep-15,,81,Junior,,B1/BAND B1,Communications Support Officer,Prime Minister's Office,0,21166,30093,Communications
+Sep-15,,81,Junior,,B1/BAND B1,Custodian Operation Manager,Prime Minister's Office,0,21166,30093,Operational Delivery
+Sep-15,,81,Junior,,B1/BAND B1,IT Support Officer,Prime Minister's Office,0,21166,30093,Information Technology
+Sep-15,,81,Junior,,B1/BAND B1,Operational Manager,Prime Minister's Office,0,21166,30093,Communications
+Sep-15,,81,Junior,,B1/BAND B1,Operational Manager,Prime Minister's Office,0,21166,30093,Information Technology
+Sep-15,,81,Junior,,B1/BAND B1,Operational Manager,Prime Minister's Office,0,21166,30093,Operational Delivery
+Sep-15,,81,Junior,,B1/BAND B1,Operations Support Officer,Prime Minister's Office,0,21166,30093,Operational Delivery
+Sep-15,,81,Junior,,B2/BAND B2,IT Manager,Prime Minister's Office,0,28228,38484,Information Technology
+Sep-15,,81,Junior,,B2/BAND B2,Operational Manager,Prime Minister's Office,0,28228,38484,Information Technology
+Sep-15,,81,Junior,,B2/BAND B2,Operational Manager,Prime Minister's Office,0,28228,38484,Operational Delivery
+Sep-15,,81,Junior,,B2/BAND B2,Senior Communications Manager,Prime Minister's Office,0,28228,38484,Communications
+Sep-15,,81,Junior,,B2/BAND B2,Senior IT Manager,Prime Minister's Office,0,28228,38484,Information Technology
+Sep-15,,81,Junior,,C/BAND C,Admin Support Officer,Prime Minister's Office,0,16975,24430,Communications
+Sep-15,,81,Junior,,C/BAND C,Admin Support Officer,Prime Minister's Office,0,16975,24430,Operational Delivery
+Sep-15,,81,Junior,,C/BAND C,Communications Support Officer,Prime Minister's Office,0,16975,24430,Communications
+Sep-15,,81,Junior,,C/BAND C,Custodian,Prime Minister's Office,0,16975,24430,Operational Delivery
+Sep-15,,81,Junior,,C/BAND C,Front Of House Officer,Prime Minister's Office,0,16975,24430,Operational Delivery
+Sep-15,,81,Junior,,C/BAND C,Housekeeper,Prime Minister's Office,0,16975,24430,Operational Delivery
+Sep-15,,81,Junior,,C/BAND C,Operational Manager,Prime Minister's Office,0,16975,24430,Communications
+Sep-15,,81,Junior,,C/BAND C,Operational Manager,Prime Minister's Office,0,16975,24430,Operational Delivery
+Sep-15,,81,Junior,,C/BAND C,Operations Support Officer,Prime Minister's Office,0,16975,24430,Operational Delivery
+Sep-15,,81,Junior,,TIS3,IT Manager,Prime Minister's Office,0,33747,47639,Information Technology
+Sep-15,,81,Junior,,TIS3,Operational Manager,Prime Minister's Office,0,33747,47639,Information Technology
+Sep-15,,81,Junior,,TIS3,Project Manager,Prime Minister's Office,0,33747,47639,Information Technology
+Sep-15,,124,Junior,,A/BAND A,Policy Adviser,Prime Minister's Office,0,41774,60484,Policy
+Sep-15,,124,Junior,,A/BAND A,Senior Policy Adviser,Prime Minister's Office,0,41774,60484,Policy
+Sep-15,,124,Junior,,B/Faststream,Operational Manager,Prime Minister's Office,0,27543,36175,Operational Delivery
+Sep-15,,124,Junior,,B/Faststream,Policy Adviser,Prime Minister's Office,0,27543,36175,Policy
+Sep-15,,124,Junior,,B1/BAND B1,Diary Manager,Prime Minister's Office,0,21166,30093,Policy
+Sep-15,,146,Junior,,A/BAND A,Operational Manager,Prime Minister's Office,0,41774,60484,Operational Research
+Sep-15,,146,Junior,,A/BAND A,Parliamentary Clerk,Prime Minister's Office,0,41774,60484,Communications
+Sep-15,,146,Junior,,B/Faststream,Operational Manager,Prime Minister's Office,0,27543,36175,Operational Research
+Sep-15,,146,Junior,,B/Faststream,Policy Adviser,Prime Minister's Office,0,27543,36175,Policy
+Sep-15,,146,Junior,,B1/BAND B1,Parliamentary Support Officer,Prime Minister's Office,0,21166,30093,Communications
+Sep-15,,146,Junior,,B2/BAND B2,Appointments Manager,Prime Minister's Office,0,28228,38484,Policy
+Sep-15,,146,Junior,,B2/BAND B2,Operational Manager,Prime Minister's Office,0,28228,38484,Operational Delivery
+Sep-15,,146,Junior,,TIS3,Communications Manager,Prime Minister's Office,0,33747,47639,Policy
+Sep-15,,151,Junior,,B2/BAND B2,Policy Adviser,Prime Minister's Office,0,28228,38484,Policy
+Sep-15,,152,Junior,,A/BAND A,Operational Manager,Prime Minister's Office,0,41774,60484,Operational Delivery
+Sep-15,,152,Junior,,A/BAND A,Senior Policy Adviser,Prime Minister's Office,0,41774,60484,Policy
+Sep-15,,152,Junior,,B/Faststream,Operational Manager,Prime Minister's Office,0,27543,36175,Operational Delivery
+Sep-15,,152,Junior,,B1/BAND B1,Operational Manager,Prime Minister's Office,0,21166,30093,Operational Delivery
+Sep-15,,152,Junior,,B2/BAND B2,Diary Manager,Prime Minister's Office,0,28228,38484,Operational Delivery
+Sep-15,,298,Junior,,A/BAND A,Appointments Manager,Prime Minister's Office,0,41774,60484,Policy
+Sep-15,,298,Junior,,B2/BAND B2,IT Manager,Prime Minister's Office,0,28228,38484,Information Technology
+Sep-15,,487,Junior,,A/BAND A,Office Manager,Prime Minister's Office,0,41774,60484,Operational Delivery
+Sep-15,,487,Junior,,B1/BAND B1,Diary Manager,Prime Minister's Office,0,21166,30093,Operational Delivery
+Sep-15,,487,Junior,,B1/BAND B1,Duty Clerk,Prime Minister's Office,0,21166,30093,Operational Delivery
+Sep-15,,487,Junior,,B1/BAND B1,Executive Assistant,Prime Minister's Office,0,21166,30093,Operational Delivery
+Sep-15,,487,Junior,,B1/BAND B1,Operational Manager,Prime Minister's Office,0,21166,30093,Operational Delivery
+Sep-15,,487,Junior,,B1/BAND B1,Policy Adviser,Prime Minister's Office,0,21166,30093,Policy
+Sep-15,,487,Junior,,B2/BAND B2,Office Manager,Prime Minister's Office,0,28228,38484,Operational Delivery
+Sep-15,,487,Junior,,B2/BAND B2,Operational Manager,Prime Minister's Office,0,28228,38484,Operational Delivery
+Sep-15,,487,Junior,,C/BAND C,Duty Clerk,Prime Minister's Office,0,16975,24430,Operational Delivery
+Sep-15,,488,Junior,,B1/BAND B1,Communications Support Officer,Prime Minister's Office,0,21166,30093,Communications
+Sep-15,,488,Junior,,B1/BAND B1,Operational Manager,Prime Minister's Office,0,21166,30093,Operational Delivery
+Sep-15,,488,Junior,,B2/BAND B2,Events & Visits Coordinator,Prime Minister's Office,0,28228,38484,Communications
+Sep-15,,488,Junior,,B2/BAND B2,Operational Manager,Prime Minister's Office,0,28228,38484,Operational Delivery
+Sep-15,,488,Junior,,C/BAND C,Events & Visits Coordinator,Prime Minister's Office,0,16975,24430,Operational Delivery
+Sep-15,,488,Junior,,TIS2,Senior Events Officer,Prime Minister's Office,0,28617,39799,Communications
+Sep-15,,488,Junior,,TIS3,Events & Visits Coordinator,Prime Minister's Office,0,33747,47639,Communications
+Sep-15,,488,Junior,,TIS3,Operational Manager,Prime Minister's Office,0,33747,47639,Communications
+Sep-15,,488,Junior,,TIS3,Senior Visits Officer,Prime Minister's Office,0,33747,47639,Communications
+Sep-15,,57,Junior,,A/BAND A,Business Manager,Private Office Group,0,41774,60484,Operational Delivery
+Sep-15,,57,Junior,,A/BAND A,Private Secretary,Private Office Group,0,41774,60484,Operational Delivery
+Sep-15,,57,Junior,,A/BAND A,Senior Policy Adviser,Private Office Group,0,41774,60484,Policy
+Sep-15,,57,Junior,,B/Faststream,Private Secretary,Private Office Group,0,27543,36175,Operational Delivery
+Sep-15,,57,Junior,,B1/BAND B1,Assistant Private Secretary,Private Office Group,0,21166,30093,Operational Delivery
+Sep-15,,57,Junior,,B1/BAND B1,Diary Manager,Private Office Group,0,21166,30093,Operational Delivery
+Sep-15,,57,Junior,,B2/BAND B2,Private Secretary,Private Office Group,0,28228,38484,Operational Delivery
+Sep-15,,57,Junior,,C/BAND C,Diary Manager,Private Office Group,0,16975,24430,Operational Delivery
+Sep-15,,140,Junior,,A/BAND A,Senior Information Manager,Private Office Group,0,41774,60484,Knowledge And Information Management (KIM)
+Sep-15,,140,Junior,,A/BAND A,Senior Knowledge and Information Manager,Private Office Group,0,41774,60484,Knowledge And Information Management (KIM)
+Sep-15,,140,Junior,,B1/BAND B1,Knowledge Information Management Support Officer,Private Office Group,0,21166,30093,Knowledge And Information Management (KIM)
+Sep-15,,140,Junior,,B2/BAND B2,Information Manager,Private Office Group,0,28228,38484,Knowledge And Information Management (KIM)
+Sep-15,,140,Junior,,B2/BAND B2,Knowledge Information Management Manager,Private Office Group,0,28228,38484,Knowledge And Information Management (KIM)
+Sep-15,,140,Junior,,B2/BAND B2,Operational Manager,Private Office Group,0,28228,38484,Knowledge And Information Management (KIM)
+Sep-15,,140,Junior,,C/BAND C,Admin Support Officer,Private Office Group,0,16975,24430,Knowledge And Information Management (KIM)
+Sep-15,,140,Junior,,C/BAND C,Admin Support Officer,Private Office Group,0,16975,24430,Operational Delivery
+Sep-15,,140,Junior,,C/BAND C,Knowledge Information Management Support Officer,Private Office Group,0,16975,24430,Knowledge And Information Management (KIM)
+Sep-15,,142,Junior,,A/BAND A,Senior Policy Adviser,Private Office Group,0,41774,60484,Policy
+Sep-15,,142,Junior,,B1/BAND B1,Diary Manager,Private Office Group,0,21166,30093,Operational Delivery
+Sep-15,,142,Junior,,B2/BAND B2,Policy Adviser,Private Office Group,0,28228,38484,Policy
+Sep-15,,142,Junior,,C/BAND C,Admin Support Officer,Private Office Group,0,16975,24430,Policy
+Sep-15,,543,Junior,,B2/BAND B2,Policy Adviser,Private Office Group,0,28228,38484,Policy
+Sep-15,,560,Junior,,A/BAND A,Private Secretary,Private Office Group,0,41774,60484,Operational Delivery
+Sep-15,,560,Junior,,B/Faststream,Assistant Private Secretary,Private Office Group,0,27543,36175,Operational Delivery
+Sep-15,,560,Junior,,B1/BAND B1,Correspondence and Business Manager,Private Office Group,0,21166,30093,Operational Delivery
+Sep-15,,560,Junior,,B1/BAND B1,Diary Manager,Private Office Group,0,21166,30093,Operational Delivery
+Sep-15,,575,Junior,,A/BAND A,Senior Policy Adviser,Private Office Group,0,41774,60484,Policy
+Sep-15,,575,Junior,,B1/BAND B1,Policy Adviser,Private Office Group,0,21166,30093,Policy
+Sep-15,,575,Junior,,B2/BAND B2,Data Manager,Private Office Group,0,28228,38484,Policy
+Sep-15,,575,Junior,,B2/BAND B2,Policy Adviser,Private Office Group,0,28228,38484,Policy
+Sep-15,,577,Junior,,A/BAND A,Parliamentary Clerk and Senior Operational Manager,Private Office Group,0,41774,60484,Operational Delivery
+Sep-15,,577,Junior,,B/Faststream,Private Secretary,Private Office Group,0,27543,36175,Operational Delivery
+Sep-15,,577,Junior,,B1/BAND B1,Assistant Private Secretary,Private Office Group,0,21166,30093,Operational Delivery
+Sep-15,,577,Junior,,B1/BAND B1,Diary Manager,Private Office Group,0,21166,30093,Operational Delivery
+Sep-15,,577,Junior,,B1/BAND B1,Operational Manager,Private Office Group,0,21166,30093,Operational Delivery
+Sep-15,,577,Junior,,B2/BAND B2,Assistant Private Secretary,Private Office Group,0,28228,38484,Operational Delivery
+Sep-15,,577,Junior,,B2/BAND B2,Operational Manager,Private Office Group,0,28228,38484,Operational Delivery
+Sep-15,,577,Junior,,B2/BAND B2,Private Secretary,Private Office Group,0,28228,38484,Operational Delivery
+Sep-15,,577,Junior,,C/BAND C,Admin Support Officer,Private Office Group,0,16975,24430,Operational Delivery
+Sep-15,,577,Junior,,C/BAND C,Diary Manager,Private Office Group,0,16975,24430,Operational Delivery
+Sep-15,,77,Junior,,A/BAND A,Senior Operational Manager,Privy Council Office,0,41774,60484,Operational Delivery
+Sep-15,,77,Junior,,B1/BAND B1,Operations Support Officer,Privy Council Office,0,21166,30093,Operational Delivery
+Sep-15,,77,Junior,,B2/BAND B2,Operations Support Officer,Privy Council Office,0,28228,38484,Operational Delivery
+Sep-15,,77,Junior,,C/BAND C,Admin Support Officer,Privy Council Office,0,16975,24430,Operational Delivery
+Sep-15,,77,Junior,,C/BAND C,Operations Support Officer,Privy Council Office,0,16975,24430,Operational Delivery
+Sep-15,,133,Junior,,A/BAND A,Senior Communications Manager,Transformation,0,41774,60484,Communications
+Sep-15,,133,Junior,,A/BAND A,Senior Policy Adviser,Transformation,0,41774,60484,Policy
+Sep-15,,133,Junior,,B1/BAND B1,Operational Manager,Transformation,0,21166,30093,Policy
+Sep-15,,133,Junior,,B1/BAND B1,Programme Support,Transformation,0,21166,30093,Policy
+Sep-15,,133,Junior,,B2/BAND B2,Policy Adviser,Transformation,0,28228,38484,Policy
+Sep-15,,133,Junior,,C/BAND C,Admin Support Officer,Transformation,0,16975,24430,Communications
+Sep-15,,350,Junior,,A/BAND A,Senior Operational Manager,Transformation,0,41774,60484,Operational Delivery
+Sep-15,,350,Junior,,B1/BAND B1,Programme Support,Transformation,0,21166,30093,Policy
+Sep-15,,350,Junior,,B2/BAND B2,Operational Manager,Transformation,0,28228,38484,Policy
+Sep-15,,396,Junior,,A/BAND A,Operational Manager,Transformation,0,41774,60484,Policy
+Sep-15,,396,Junior,,A/BAND A,Senior Analyst,Transformation,0,41774,60484,Policy
+Sep-15,,396,Junior,,B/Faststream,Policy Adviser,Transformation,0,27543,36175,Policy
+Sep-15,,396,Junior,,B1/BAND B1,Policy Support Officer,Transformation,0,21166,30093,Policy
+Sep-15,,396,Junior,,B1/BAND B1,Programme Support,Transformation,0,21166,30093,Policy
+Sep-15,,396,Junior,,B2/BAND B2,Analyst,Transformation,0,28228,38484,Policy
+Sep-15,,396,Junior,,B2/BAND B2,Policy Adviser,Transformation,0,28228,38484,Policy
+Sep-15,,396,Junior,,B2/BAND B2,Programme Officer Manager,Transformation,0,28228,38484,Policy
+Sep-15,,396,Junior,,C/BAND C,Admin Support Officer,Transformation,0,16975,24430,Policy
+Sep-15,,398,Junior,,A/BAND A,Senior Commercial Adviser,Transformation,0,41774,60484,Policy
+Sep-15,,398,Junior,,B2/BAND B2,Policy Adviser,Transformation,0,28228,38484,Policy
+Sep-15,,399,Junior,,A/BAND A,Policy Adviser,Transformation,0,41774,60484,Policy
+Sep-15,,399,Junior,,A/BAND A,Senior Policy Adviser,Transformation,0,41774,60484,Policy
+Sep-15,,399,Junior,,B2/BAND B2,Operational Manager,Transformation,0,28228,38484,Policy
+Sep-15,,399,Junior,,B2/BAND B2,Policy Adviser,Transformation,0,28228,38484,Policy
+Sep-15,,400,Junior,,A/BAND A,Policy Adviser,Transformation,0,41774,60484,Policy
+Sep-15,,431,Junior,,A/BAND A,Operational Manager,Transformation,0,41774,60484,Policy
+Sep-15,,431,Junior,,A/BAND A,Senior Policy Adviser,Transformation,0,41774,60484,Policy
+Sep-15,,431,Junior,,B2/BAND B2,Operational Manager,Transformation,0,28228,38484,Policy
+Sep-15,,431,Junior,,B2/BAND B2,Policy Adviser,Transformation,0,28228,38484,Policy
+Sep-15,,495,Junior,,A/BAND A,Operational Manager,Transformation,0,41774,60484,Policy
+Sep-15,,495,Junior,,A/BAND A,Senior Policy Adviser,Transformation,0,41774,60484,Policy
+Sep-15,,495,Junior,,B1/BAND B1,Policy Support Officer,Transformation,0,21166,30093,Policy
+Sep-15,,495,Junior,,B1/BAND B1,Programme Support,Transformation,0,21166,30093,Policy
+Sep-15,,495,Junior,,B2/BAND B2,Operational Manager,Transformation,0,28228,38484,Policy
+Sep-15,,600,Junior,,A/BAND A,Operational Manager,Transformation,0,41774,60484,Policy
+Sep-15,,600,Junior,,A/BAND A,Policy Adviser,Transformation,0,41774,60484,Policy
+Sep-15,,600,Junior,,B2/BAND B2,Analyst,Transformation,0,28228,38484,Policy
+Sep-15,,600,Junior,,B2/BAND B2,Policy Adviser,Transformation,0,28228,38484,Policy
+Sep-15,,600,Junior,,C/BAND C,Office Manager,Transformation,0,16975,24430,Policy

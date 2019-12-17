@@ -1,1227 +1,1227 @@
-date,level,id,parentId
-,,root,
-Sep-12,,1,root
-Sep-12,,3,root
-Sep-12,,4,root
-Sep-12,,5,root
-Sep-12,,6,root
-Sep-12,,7,root
-Sep-12,,17,root
-Sep-12,,18,root
-Sep-12,,19,root
-Sep-12,,20,root
-Sep-12,,21,root
-Sep-12,,22,root
-Sep-12,,23,root
-Sep-12,,24,46
-Sep-12,,25,root
-Sep-12,,26,1
-Sep-12,,27,root
-Sep-12,,28,root
-Sep-12,,29,root
-Sep-12,,30,root
-Sep-12,,31,root
-Sep-12,,32,root
-Sep-12,,33,46
-Sep-12,,34,46
-Sep-12,,35,root
-Sep-12,,36,root
-Sep-12,,37,root
-Sep-12,,38,root
-Sep-12,,39,49
-Sep-12,,40,root
-Sep-12,,41,root
-Sep-12,,42,root
-Sep-12,,43,root
-Sep-12,,45,root
-Sep-12,,46,1
-Sep-12,,47,1
-Sep-12,,48,1
-Sep-12,,49,1
-Sep-12,,50,46
-Sep-12,,51,root
-Sep-12,,52,46
-Sep-12,,53,47
-Sep-12,,54,47
-Sep-12,,55,47
-Sep-12,,56,47
-Sep-12,,57,48
-Sep-12,,58,48
-Sep-12,,59,48
-Sep-12,,60,48
-Sep-12,,61,49
-Sep-12,,62,49
-Sep-12,,63,49
-Sep-12,,64,49
-Sep-12,,65,50
-Sep-12,,66,50
-Sep-12,,67,50
-Sep-12,,68,50
-Sep-12,,69,50
-Sep-12,,70,46
-Sep-12,,71,46
-Sep-12,,72,51
-Sep-12,,73,51
-Sep-12,,74,51
-Sep-12,,75,51
-Sep-12,,76,51
-Sep-12,,77,33
-Sep-12,,78,33
-Sep-12,,79,33
-Sep-12,,80,root
-Sep-12,,81,52
-Sep-12,,82,52
-Sep-12,,83,53
-Sep-12,,84,53
-Sep-12,,85,53
-Sep-12,,86,53
-Sep-12,,87,53
-Sep-12,,88,53
-Sep-12,,89,54
-Sep-12,,90,54
-Sep-12,,91,54
-Sep-12,,92,root
-Sep-12,,93,54
-Sep-12,,94,55
-Sep-12,,95,55
-Sep-12,,96,55
-Sep-12,,97,root
-Sep-12,,98,55
-Sep-12,,99,55
-Sep-12,,100,55
-Sep-12,,101,56
-Sep-12,,102,56
-Sep-12,,103,56
-Sep-12,,104,47
-Sep-12,,105,48
-Sep-12,,106,57
-Sep-12,,107,57
-Sep-12,,108,57
-Sep-12,,109,57
-Sep-12,,110,57
-Sep-12,,111,58
-Sep-12,,112,58
-Sep-12,,113,58
-Sep-12,,114,58
-Sep-12,,115,58
-Sep-12,,116,root
-Sep-12,,117,59
-Sep-12,,118,59
-Sep-12,,119,59
-Sep-12,,120,48
-Sep-12,,121,60
-Sep-12,,122,60
-Sep-12,,123,60
-Sep-12,,124,61
-Sep-12,,125,61
-Sep-12,,126,61
-Sep-12,,127,61
-Sep-12,,128,62
-Sep-12,,129,62
-Sep-12,,130,62
-Sep-12,,131,62
-Sep-12,,132,62
-Sep-12,,133,62
-Sep-12,,134,63
-Sep-12,,135,63
-Sep-12,,136,63
-Sep-12,,137,63
-Sep-12,,138,63
-Sep-12,,139,54
-Sep-12,,140,64
-Sep-12,,141,64
-Sep-12,,142,64
-Sep-12,,201,64
-Sep-12,,202,64
-Sep-12,,144,26
-Sep-12,,145,26
-Sep-12,,146,26
-Sep-12,,147,26
-Sep-12,,148,26
-Sep-12,,149,26
-Sep-12,,150,26
-Sep-12,,151,26
-Sep-12,,152,26
-Sep-12,,153,26
-Sep-12,,155,1
-Sep-12,,156,48
-Sep-12,,157,root
-Sep-12,,158,48
-Sep-12,,159,48
-Sep-12,,198,57
-Sep-12,,199,34
-Sep-12,,203,54
-Sep-12,,204,54
-Sep-12,,205,62
-Sep-12,,206,57
-Sep-12,,207,63
-Sep-12,,,24
-Sep-12,,,24
-Sep-12,,,24
-Sep-12,,,24
-Sep-12,,,24
-Sep-12,,,26
-Sep-12,,,26
-Sep-12,,,26
-Sep-12,,,26
-Sep-12,,,26
-Sep-12,,,26
-Sep-12,,,26
-Sep-12,,,26
-Sep-12,,,26
-Sep-12,,,33
-Sep-12,,,33
-Sep-12,,,33
-Sep-12,,,33
-Sep-12,,,33
-Sep-12,,,33
-Sep-12,,,33
-Sep-12,,,34
-Sep-12,,,34
-Sep-12,,,34
-Sep-12,,,34
-Sep-12,,,34
-Sep-12,,,34
-Sep-12,,,34
-Sep-12,,,46
-Sep-12,,,46
-Sep-12,,,47
-Sep-12,,,47
-Sep-12,,,48
-Sep-12,,,48
-Sep-12,,,49
-Sep-12,,,49
-Sep-12,,,50
-Sep-12,,,50
-Sep-12,,,52
-Sep-12,,,52
-Sep-12,,,52
-Sep-12,,,52
-Sep-12,,,52
-Sep-12,,,52
-Sep-12,,,52
-Sep-12,,,52
-Sep-12,,,52
-Sep-12,,,52
-Sep-12,,,52
-Sep-12,,,52
-Sep-12,,,52
-Sep-12,,,52
-Sep-12,,,52
-Sep-12,,,52
-Sep-12,,,53
-Sep-12,,,53
-Sep-12,,,53
-Sep-12,,,53
-Sep-12,,,53
-Sep-12,,,53
-Sep-12,,,54
-Sep-12,,,54
-Sep-12,,,54
-Sep-12,,,54
-Sep-12,,,54
-Sep-12,,,54
-Sep-12,,,54
-Sep-12,,,55
-Sep-12,,,56
-Sep-12,,,56
-Sep-12,,,56
-Sep-12,,,56
-Sep-12,,,58
-Sep-12,,,58
-Sep-12,,,58
-Sep-12,,,58
-Sep-12,,,58
-Sep-12,,,59
-Sep-12,,,59
-Sep-12,,,59
-Sep-12,,,59
-Sep-12,,,59
-Sep-12,,,59
-Sep-12,,,59
-Sep-12,,,59
-Sep-12,,,59
-Sep-12,,,59
-Sep-12,,,59
-Sep-12,,,59
-Sep-12,,,61
-Sep-12,,,61
-Sep-12,,,61
-Sep-12,,,61
-Sep-12,,,61
-Sep-12,,,61
-Sep-12,,,62
-Sep-12,,,62
-Sep-12,,,62
-Sep-12,,,63
-Sep-12,,,63
-Sep-12,,,63
-Sep-12,,,63
-Sep-12,,,63
-Sep-12,,,63
-Sep-12,,,64
-Sep-12,,,65
-Sep-12,,,65
-Sep-12,,,65
-Sep-12,,,65
-Sep-12,,,65
-Sep-12,,,66
-Sep-12,,,66
-Sep-12,,,66
-Sep-12,,,66
-Sep-12,,,66
-Sep-12,,,67
-Sep-12,,,67
-Sep-12,,,67
-Sep-12,,,67
-Sep-12,,,67
-Sep-12,,,67
-Sep-12,,,68
-Sep-12,,,68
-Sep-12,,,68
-Sep-12,,,68
-Sep-12,,,69
-Sep-12,,,69
-Sep-12,,,70
-Sep-12,,,70
-Sep-12,,,70
-Sep-12,,,70
-Sep-12,,,71
-Sep-12,,,71
-Sep-12,,,71
-Sep-12,,,71
-Sep-12,,,71
-Sep-12,,,72
-Sep-12,,,72
-Sep-12,,,72
-Sep-12,,,72
-Sep-12,,,73
-Sep-12,,,73
-Sep-12,,,73
-Sep-12,,,73
-Sep-12,,,73
-Sep-12,,,74
-Sep-12,,,74
-Sep-12,,,74
-Sep-12,,,74
-Sep-12,,,75
-Sep-12,,,75
-Sep-12,,,75
-Sep-12,,,75
-Sep-12,,,75
-Sep-12,,,76
-Sep-12,,,76
-Sep-12,,,76
-Sep-12,,,76
-Sep-12,,,76
-Sep-12,,,77
-Sep-12,,,77
-Sep-12,,,77
-Sep-12,,,77
-Sep-12,,,77
-Sep-12,,,77
-Sep-12,,,78
-Sep-12,,,78
-Sep-12,,,78
-Sep-12,,,78
-Sep-12,,,78
-Sep-12,,,78
-Sep-12,,,79
-Sep-12,,,81
-Sep-12,,,81
-Sep-12,,,81
-Sep-12,,,81
-Sep-12,,,81
-Sep-12,,,82
-Sep-12,,,82
-Sep-12,,,82
-Sep-12,,,82
-Sep-12,,,82
-Sep-12,,,82
-Sep-12,,,83
-Sep-12,,,83
-Sep-12,,,83
-Sep-12,,,83
-Sep-12,,,83
-Sep-12,,,84
-Sep-12,,,84
-Sep-12,,,84
-Sep-12,,,84
-Sep-12,,,84
-Sep-12,,,85
-Sep-12,,,85
-Sep-12,,,85
-Sep-12,,,86
-Sep-12,,,86
-Sep-12,,,86
-Sep-12,,,86
-Sep-12,,,86
-Sep-12,,,86
-Sep-12,,,87
-Sep-12,,,87
-Sep-12,,,87
-Sep-12,,,88
-Sep-12,,,88
-Sep-12,,,88
-Sep-12,,,88
-Sep-12,,,89
-Sep-12,,,89
-Sep-12,,,89
-Sep-12,,,89
-Sep-12,,,89
-Sep-12,,,89
-Sep-12,,,90
-Sep-12,,,90
-Sep-12,,,90
-Sep-12,,,90
-Sep-12,,,90
-Sep-12,,,90
-Sep-12,,,91
-Sep-12,,,91
-Sep-12,,,91
-Sep-12,,,91
-Sep-12,,,91
-Sep-12,,,91
-Sep-12,,,93
-Sep-12,,,93
-Sep-12,,,93
-Sep-12,,,93
-Sep-12,,,93
-Sep-12,,,93
-Sep-12,,,93
-Sep-12,,,94
-Sep-12,,,94
-Sep-12,,,94
-Sep-12,,,94
-Sep-12,,,94
-Sep-12,,,94
-Sep-12,,,95
-Sep-12,,,95
-Sep-12,,,95
-Sep-12,,,95
-Sep-12,,,95
-Sep-12,,,95
-Sep-12,,,95
-Sep-12,,,95
-Sep-12,,,96
-Sep-12,,,96
-Sep-12,,,96
-Sep-12,,,96
-Sep-12,,,98
-Sep-12,,,98
-Sep-12,,,98
-Sep-12,,,98
-Sep-12,,,98
-Sep-12,,,98
-Sep-12,,,99
-Sep-12,,,99
-Sep-12,,,99
-Sep-12,,,99
-Sep-12,,,100
-Sep-12,,,100
-Sep-12,,,100
-Sep-12,,,100
-Sep-12,,,100
-Sep-12,,,100
-Sep-12,,,101
-Sep-12,,,101
-Sep-12,,,101
-Sep-12,,,101
-Sep-12,,,101
-Sep-12,,,101
-Sep-12,,,102
-Sep-12,,,102
-Sep-12,,,102
-Sep-12,,,103
-Sep-12,,,103
-Sep-12,,,103
-Sep-12,,,104
-Sep-12,,,104
-Sep-12,,,104
-Sep-12,,,104
-Sep-12,,,104
-Sep-12,,,105
-Sep-12,,,105
-Sep-12,,,105
-Sep-12,,,105
-Sep-12,,,105
-Sep-12,,,105
-Sep-12,,,105
-Sep-12,,,105
-Sep-12,,,105
-Sep-12,,,105
-Sep-12,,,106
-Sep-12,,,106
-Sep-12,,,106
-Sep-12,,,106
-Sep-12,,,106
-Sep-12,,,106
-Sep-12,,,106
-Sep-12,,,106
-Sep-12,,,106
-Sep-12,,,107
-Sep-12,,,107
-Sep-12,,,107
-Sep-12,,,107
-Sep-12,,,107
-Sep-12,,,107
-Sep-12,,,108
-Sep-12,,,108
-Sep-12,,,108
-Sep-12,,,108
-Sep-12,,,108
-Sep-12,,,108
-Sep-12,,,109
-Sep-12,,,109
-Sep-12,,,109
-Sep-12,,,109
-Sep-12,,,110
-Sep-12,,,110
-Sep-12,,,110
-Sep-12,,,110
-Sep-12,,,110
-Sep-12,,,110
-Sep-12,,,110
-Sep-12,,,111
-Sep-12,,,111
-Sep-12,,,111
-Sep-12,,,111
-Sep-12,,,111
-Sep-12,,,113
-Sep-12,,,113
-Sep-12,,,113
-Sep-12,,,113
-Sep-12,,,113
-Sep-12,,,113
-Sep-12,,,114
-Sep-12,,,114
-Sep-12,,,114
-Sep-12,,,114
-Sep-12,,,114
-Sep-12,,,114
-Sep-12,,,114
-Sep-12,,,114
-Sep-12,,,115
-Sep-12,,,115
-Sep-12,,,115
-Sep-12,,,115
-Sep-12,,,115
-Sep-12,,,115
-Sep-12,,,115
-Sep-12,,,117
-Sep-12,,,117
-Sep-12,,,117
-Sep-12,,,117
-Sep-12,,,117
-Sep-12,,,118
-Sep-12,,,118
-Sep-12,,,118
-Sep-12,,,118
-Sep-12,,,118
-Sep-12,,,118
-Sep-12,,,118
-Sep-12,,,118
-Sep-12,,,118
-Sep-12,,,119
-Sep-12,,,119
-Sep-12,,,119
-Sep-12,,,119
-Sep-12,,,120
-Sep-12,,,120
-Sep-12,,,120
-Sep-12,,,121
-Sep-12,,,121
-Sep-12,,,121
-Sep-12,,,121
-Sep-12,,,122
-Sep-12,,,122
-Sep-12,,,122
-Sep-12,,,122
-Sep-12,,,122
-Sep-12,,,123
-Sep-12,,,123
-Sep-12,,,123
-Sep-12,,,124
-Sep-12,,,124
-Sep-12,,,124
-Sep-12,,,124
-Sep-12,,,124
-Sep-12,,,125
-Sep-12,,,125
-Sep-12,,,125
-Sep-12,,,125
-Sep-12,,,125
-Sep-12,,,126
-Sep-12,,,126
-Sep-12,,,126
-Sep-12,,,126
-Sep-12,,,127
-Sep-12,,,127
-Sep-12,,,128
-Sep-12,,,128
-Sep-12,,,128
-Sep-12,,,129
-Sep-12,,,129
-Sep-12,,,129
-Sep-12,,,130
-Sep-12,,,130
-Sep-12,,,130
-Sep-12,,,130
-Sep-12,,,130
-Sep-12,,,131
-Sep-12,,,131
-Sep-12,,,131
-Sep-12,,,131
-Sep-12,,,132
-Sep-12,,,132
-Sep-12,,,132
-Sep-12,,,132
-Sep-12,,,132
-Sep-12,,,133
-Sep-12,,,133
-Sep-12,,,133
-Sep-12,,,133
-Sep-12,,,133
-Sep-12,,,134
-Sep-12,,,134
-Sep-12,,,135
-Sep-12,,,135
-Sep-12,,,135
-Sep-12,,,136
-Sep-12,,,136
-Sep-12,,,136
-Sep-12,,,137
-Sep-12,,,137
-Sep-12,,,137
-Sep-12,,,138
-Sep-12,,,138
-Sep-12,,,138
-Sep-12,,,139
-Sep-12,,,139
-Sep-12,,,139
-Sep-12,,,139
-Sep-12,,,139
-Sep-12,,,139
-Sep-12,,,139
-Sep-12,,,140
-Sep-12,,,140
-Sep-12,,,141
-Sep-12,,,141
-Sep-12,,,142
-Sep-12,,,142
-Sep-12,,,142
-Sep-12,,,144
-Sep-12,,,144
-Sep-12,,,144
-Sep-12,,,144
-Sep-12,,,144
-Sep-12,,,144
-Sep-12,,,145
-Sep-12,,,145
-Sep-12,,,146
-Sep-12,,,146
-Sep-12,,,146
-Sep-12,,,146
-Sep-12,,,147
-Sep-12,,,147
-Sep-12,,,148
-Sep-12,,,148
-Sep-12,,,149
-Sep-12,,,149
-Sep-12,,,149
-Sep-12,,,149
-Sep-12,,,149
-Sep-12,,,150
-Sep-12,,,150
-Sep-12,,,151
-Sep-12,,,151
-Sep-12,,,152
-Sep-12,,,152
-Sep-12,,,152
-Sep-12,,,152
-Sep-12,,,152
-Sep-12,,,152
-Sep-12,,,152
-Sep-12,,,153
-Sep-12,,,153
-Sep-12,,,155
-Sep-12,,,155
-Sep-12,,,155
-Sep-12,,,155
-Sep-12,,,155
-Sep-12,,,155
-Sep-12,,,155
-Sep-12,,,155
-Sep-12,,,155
-Sep-12,,,155
-Sep-12,,,156
-Sep-12,,,156
-Sep-12,,,156
-Sep-12,,,156
-Sep-12,,,156
-Sep-12,,,156
-Sep-12,,,158
-Sep-12,,,158
-Sep-12,,,158
-Sep-12,,,158
-Sep-12,,,158
-Sep-12,,,158
-Sep-12,,,158
-Sep-12,,,159
-Sep-12,,,159
-Sep-12,,,159
-Sep-12,,,159
-Sep-12,,,159
-Sep-12,,,159
-Sep-12,,,198
-Sep-12,,217,46
-Sep-12,,218,48
-Sep-12,,210,56
-Sep-12,,216,59
-Sep-12,,208,49
-Sep-12,,211,63
-Sep-12,,212,63
-Sep-12,,213,63
-Sep-12,,214,63
-Sep-12,,215,63
-Sep-12,,209,61
-Sep-12,,,24
-Sep-12,,,24
-Sep-12,,,24
-Sep-12,,,24
-Sep-12,,,24
-Sep-12,,,26
-Sep-12,,,26
-Sep-12,,,26
-Sep-12,,,26
-Sep-12,,,26
-Sep-12,,,26
-Sep-12,,,26
-Sep-12,,,26
-Sep-12,,,26
-Sep-12,,,33
-Sep-12,,,33
-Sep-12,,,33
-Sep-12,,,33
-Sep-12,,,33
-Sep-12,,,33
-Sep-12,,,34
-Sep-12,,,34
-Sep-12,,,34
-Sep-12,,,34
-Sep-12,,,34
-Sep-12,,,34
-Sep-12,,,34
-Sep-12,,,46
-Sep-12,,,46
-Sep-12,,,47
-Sep-12,,,47
-Sep-12,,,48
-Sep-12,,,48
-Sep-12,,,49
-Sep-12,,,49
-Sep-12,,,50
-Sep-12,,,50
-Sep-12,,,52
-Sep-12,,,52
-Sep-12,,,52
-Sep-12,,,52
-Sep-12,,,52
-Sep-12,,,52
-Sep-12,,,52
-Sep-12,,,52
-Sep-12,,,52
-Sep-12,,,52
-Sep-12,,,52
-Sep-12,,,52
-Sep-12,,,52
-Sep-12,,,52
-Sep-12,,,52
-Sep-12,,,52
-Sep-12,,,53
-Sep-12,,,53
-Sep-12,,,53
-Sep-12,,,53
-Sep-12,,,53
-Sep-12,,,53
-Sep-12,,,54
-Sep-12,,,54
-Sep-12,,,54
-Sep-12,,,54
-Sep-12,,,54
-Sep-12,,,54
-Sep-12,,,54
-Sep-12,,,55
-Sep-12,,,56
-Sep-12,,,56
-Sep-12,,,56
-Sep-12,,,56
-Sep-12,,,56
-Sep-12,,,58
-Sep-12,,,58
-Sep-12,,,58
-Sep-12,,,58
-Sep-12,,,58
-Sep-12,,,58
-Sep-12,,,59
-Sep-12,,,59
-Sep-12,,,59
-Sep-12,,,59
-Sep-12,,,59
-Sep-12,,,59
-Sep-12,,,59
-Sep-12,,,59
-Sep-12,,,59
-Sep-12,,,59
-Sep-12,,,61
-Sep-12,,,61
-Sep-12,,,61
-Sep-12,,,61
-Sep-12,,,62
-Sep-12,,,62
-Sep-12,,,62
-Sep-12,,,62
-Sep-12,,,62
-Sep-12,,,62
-Sep-12,,,63
-Sep-12,,,63
-Sep-12,,,63
-Sep-12,,,63
-Sep-12,,,63
-Sep-12,,,63
-Sep-12,,,64
-Sep-12,,,64
-Sep-12,,,64
-Sep-12,,,65
-Sep-12,,,65
-Sep-12,,,65
-Sep-12,,,65
-Sep-12,,,65
-Sep-12,,,65
-Sep-12,,,66
-Sep-12,,,66
-Sep-12,,,66
-Sep-12,,,66
-Sep-12,,,66
-Sep-12,,,66
-Sep-12,,,67
-Sep-12,,,67
-Sep-12,,,67
-Sep-12,,,67
-Sep-12,,,67
-Sep-12,,,67
-Sep-12,,,68
-Sep-12,,,68
-Sep-12,,,68
-Sep-12,,,68
-Sep-12,,,68
-Sep-12,,,70
-Sep-12,,,70
-Sep-12,,,70
-Sep-12,,,70
-Sep-12,,,71
-Sep-12,,,71
-Sep-12,,,71
-Sep-12,,,71
-Sep-12,,,72
-Sep-12,,,72
-Sep-12,,,72
-Sep-12,,,72
-Sep-12,,,73
-Sep-12,,,73
-Sep-12,,,73
-Sep-12,,,73
-Sep-12,,,73
-Sep-12,,,73
-Sep-12,,,74
-Sep-12,,,74
-Sep-12,,,74
-Sep-12,,,74
-Sep-12,,,75
-Sep-12,,,75
-Sep-12,,,75
-Sep-12,,,75
-Sep-12,,,75
-Sep-12,,,75
-Sep-12,,,76
-Sep-12,,,76
-Sep-12,,,77
-Sep-12,,,77
-Sep-12,,,77
-Sep-12,,,77
-Sep-12,,,77
-Sep-12,,,78
-Sep-12,,,78
-Sep-12,,,78
-Sep-12,,,78
-Sep-12,,,78
-Sep-12,,,78
-Sep-12,,,78
-Sep-12,,,79
-Sep-12,,,81
-Sep-12,,,81
-Sep-12,,,81
-Sep-12,,,81
-Sep-12,,,82
-Sep-12,,,82
-Sep-12,,,82
-Sep-12,,,82
-Sep-12,,,82
-Sep-12,,,82
-Sep-12,,,82
-Sep-12,,,83
-Sep-12,,,83
-Sep-12,,,83
-Sep-12,,,83
-Sep-12,,,84
-Sep-12,,,84
-Sep-12,,,84
-Sep-12,,,84
-Sep-12,,,84
-Sep-12,,,86
-Sep-12,,,86
-Sep-12,,,86
-Sep-12,,,86
-Sep-12,,,86
-Sep-12,,,86
-Sep-12,,,87
-Sep-12,,,87
-Sep-12,,,87
-Sep-12,,,88
-Sep-12,,,88
-Sep-12,,,88
-Sep-12,,,89
-Sep-12,,,89
-Sep-12,,,89
-Sep-12,,,89
-Sep-12,,,89
-Sep-12,,,89
-Sep-12,,,90
-Sep-12,,,90
-Sep-12,,,90
-Sep-12,,,90
-Sep-12,,,90
-Sep-12,,,92
-Sep-12,,,92
-Sep-12,,,92
-Sep-12,,,92
-Sep-12,,,92
-Sep-12,,,92
-Sep-12,,,91
-Sep-12,,,91
-Sep-12,,,91
-Sep-12,,,91
-Sep-12,,,91
-Sep-12,,,91
-Sep-12,,,93
-Sep-12,,,93
-Sep-12,,,93
-Sep-12,,,93
-Sep-12,,,93
-Sep-12,,,93
-Sep-12,,,93
-Sep-12,,,94
-Sep-12,,,94
-Sep-12,,,94
-Sep-12,,,94
-Sep-12,,,94
-Sep-12,,,94
-Sep-12,,,95
-Sep-12,,,95
-Sep-12,,,95
-Sep-12,,,95
-Sep-12,,,95
-Sep-12,,,95
-Sep-12,,,95
-Sep-12,,,95
-Sep-12,,,96
-Sep-12,,,96
-Sep-12,,,96
-Sep-12,,,96
-Sep-12,,,98
-Sep-12,,,98
-Sep-12,,,98
-Sep-12,,,98
-Sep-12,,,98
-Sep-12,,,98
-Sep-12,,,99
-Sep-12,,,99
-Sep-12,,,99
-Sep-12,,,99
-Sep-12,,,100
-Sep-12,,,100
-Sep-12,,,100
-Sep-12,,,100
-Sep-12,,,100
-Sep-12,,,100
-Sep-12,,,101
-Sep-12,,,101
-Sep-12,,,101
-Sep-12,,,101
-Sep-12,,,101
-Sep-12,,,102
-Sep-12,,,102
-Sep-12,,,102
-Sep-12,,,103
-Sep-12,,,103
-Sep-12,,,103
-Sep-12,,,104
-Sep-12,,,104
-Sep-12,,,104
-Sep-12,,,104
-Sep-12,,,105
-Sep-12,,,105
-Sep-12,,,105
-Sep-12,,,105
-Sep-12,,,105
-Sep-12,,,105
-Sep-12,,,105
-Sep-12,,,105
-Sep-12,,,105
-Sep-12,,,105
-Sep-12,,,106
-Sep-12,,,106
-Sep-12,,,106
-Sep-12,,,106
-Sep-12,,,106
-Sep-12,,,107
-Sep-12,,,107
-Sep-12,,,107
-Sep-12,,,107
-Sep-12,,,107
-Sep-12,,,107
-Sep-12,,,107
-Sep-12,,,108
-Sep-12,,,108
-Sep-12,,,108
-Sep-12,,,108
-Sep-12,,,108
-Sep-12,,,109
-Sep-12,,,109
-Sep-12,,,109
-Sep-12,,,109
-Sep-12,,,110
-Sep-12,,,110
-Sep-12,,,110
-Sep-12,,,110
-Sep-12,,,110
-Sep-12,,,110
-Sep-12,,,110
-Sep-12,,,111
-Sep-12,,,111
-Sep-12,,,111
-Sep-12,,,111
-Sep-12,,,112
-Sep-12,,,112
-Sep-12,,,112
-Sep-12,,,112
-Sep-12,,,113
-Sep-12,,,113
-Sep-12,,,113
-Sep-12,,,113
-Sep-12,,,113
-Sep-12,,,114
-Sep-12,,,114
-Sep-12,,,114
-Sep-12,,,114
-Sep-12,,,114
-Sep-12,,,114
-Sep-12,,,114
-Sep-12,,,114
-Sep-12,,,115
-Sep-12,,,115
-Sep-12,,,115
-Sep-12,,,115
-Sep-12,,,115
-Sep-12,,,115
-Sep-12,,,115
-Sep-12,,,115
-Sep-12,,,117
-Sep-12,,,117
-Sep-12,,,117
-Sep-12,,,117
-Sep-12,,,117
-Sep-12,,,118
-Sep-12,,,118
-Sep-12,,,118
-Sep-12,,,118
-Sep-12,,,118
-Sep-12,,,118
-Sep-12,,,118
-Sep-12,,,118
-Sep-12,,,118
-Sep-12,,,119
-Sep-12,,,119
-Sep-12,,,119
-Sep-12,,,119
-Sep-12,,,119
-Sep-12,,,120
-Sep-12,,,120
-Sep-12,,,120
-Sep-12,,,120
-Sep-12,,,120
-Sep-12,,,120
-Sep-12,,,120
-Sep-12,,,121
-Sep-12,,,121
-Sep-12,,,121
-Sep-12,,,121
-Sep-12,,,121
-Sep-12,,,122
-Sep-12,,,122
-Sep-12,,,122
-Sep-12,,,122
-Sep-12,,,122
-Sep-12,,,123
-Sep-12,,,123
-Sep-12,,,123
-Sep-12,,,123
-Sep-12,,,124
-Sep-12,,,124
-Sep-12,,,124
-Sep-12,,,124
-Sep-12,,,124
-Sep-12,,,125
-Sep-12,,,125
-Sep-12,,,125
-Sep-12,,,125
-Sep-12,,,125
-Sep-12,,,126
-Sep-12,,,126
-Sep-12,,,126
-Sep-12,,,126
-Sep-12,,,127
-Sep-12,,,127
-Sep-12,,,128
-Sep-12,,,128
-Sep-12,,,128
-Sep-12,,,129
-Sep-12,,,129
-Sep-12,,,129
-Sep-12,,,129
-Sep-12,,,130
-Sep-12,,,130
-Sep-12,,,132
-Sep-12,,,132
-Sep-12,,,132
-Sep-12,,,132
-Sep-12,,,133
-Sep-12,,,133
-Sep-12,,,133
-Sep-12,,,133
-Sep-12,,,133
-Sep-12,,,135
-Sep-12,,,135
-Sep-12,,,135
-Sep-12,,,140
-Sep-12,,,140
-Sep-12,,,140
-Sep-12,,,142
-Sep-12,,,142
-Sep-12,,,144
-Sep-12,,,144
-Sep-12,,,144
-Sep-12,,,144
-Sep-12,,,144
-Sep-12,,,144
-Sep-12,,,145
-Sep-12,,,145
-Sep-12,,,146
-Sep-12,,,146
-Sep-12,,,146
-Sep-12,,,146
-Sep-12,,,147
-Sep-12,,,147
-Sep-12,,,148
-Sep-12,,,148
-Sep-12,,,149
-Sep-12,,,149
-Sep-12,,,149
-Sep-12,,,149
-Sep-12,,,149
-Sep-12,,,150
-Sep-12,,,150
-Sep-12,,,150
-Sep-12,,,151
-Sep-12,,,151
-Sep-12,,,152
-Sep-12,,,152
-Sep-12,,,152
-Sep-12,,,152
-Sep-12,,,152
-Sep-12,,,152
-Sep-12,,,152
-Sep-12,,,152
-Sep-12,,,152
-Sep-12,,,152
-Sep-12,,,152
-Sep-12,,,153
-Sep-12,,,155
-Sep-12,,,155
-Sep-12,,,155
-Sep-12,,,155
-Sep-12,,,155
-Sep-12,,,155
-Sep-12,,,155
-Sep-12,,,155
-Sep-12,,,155
-Sep-12,,,155
-Sep-12,,,156
-Sep-12,,,156
-Sep-12,,,156
-Sep-12,,,156
-Sep-12,,,156
-Sep-12,,,156
-Sep-12,,,158
-Sep-12,,,158
-Sep-12,,,158
-Sep-12,,,158
-Sep-12,,,158
-Sep-12,,,158
-Sep-12,,,158
-Sep-12,,,159
-Sep-12,,,159
-Sep-12,,,159
-Sep-12,,,159
-Sep-12,,,159
-Sep-12,,,159
-Sep-12,,,198
-Sep-12,,,199
-Sep-12,,,199
-Sep-12,,,199
-Sep-12,,,199
-Sep-12,,,199
-Sep-12,,,199
-Sep-12,,,199
-Sep-12,,,207
-Sep-12,,,207
-Sep-12,,,208
-Sep-12,,,208
-Sep-12,,,208
-Sep-12,,,209
-Sep-12,,,211
-Sep-12,,,211
-Sep-12,,,211
-Sep-12,,,217
-Sep-12,,,217
-Sep-12,,,217
-Sep-12,,,217
-Sep-12,,,212
-Sep-12,,,212
-Sep-12,,,212
-Sep-12,,,213
-Sep-12,,,213
-Sep-12,,,213
-Sep-12,,,213
-Sep-12,,,214
-Sep-12,,,214
-Sep-12,,,214
-Sep-12,,,214
-Sep-12,,,215
-Sep-12,,,215
-Sep-12,,,215
-Sep-12,,,215
-Sep-12,,,216
-Sep-12,,,216
-Sep-12,,,216
-Sep-12,,,216
+id,parentId,date,level,name,grade,jobTitle,unit,salaryCostOfReports,payFloor,payCeil,professionalOccupationalGroup
+root,,,,,,,,,,,
+1,root,Sep-12,,Philip Rutnam,SCS4,Permanent Secretary,Permanent Secretary,0,165000,169999,Policy
+3,root,Sep-12,,Eliminated,SCS3,Director General National Networks,National Networks,0,0,0,
+4,root,Sep-12,,Eliminated,SCS3,Director General Motoring & Freight Services,Motoring & Freight Services,0,0,0,
+5,root,Sep-12,,Eliminated,SCS3,Director General International Networks & Environment,International Networks & Environment,0,0,0,
+6,root,Sep-12,,Eliminated,SCS3,Director General Corporate Support Services,Corporate Support Functions,0,0,0,
+7,root,Sep-12,,Eliminated,SCS3,Director General City & Regional Networks,City & Regional Networks,0,0,0,
+17,root,Sep-12,,Eliminated,SCS2,Rail Technical & Professional Director,National Networks,0,0,0,
+18,root,Sep-12,,Eliminated,SCS2,Director of Strategic Roads & National Networks,National Networks,0,0,0,
+19,root,Sep-12,,Eliminated,SCS2,Director - Procurement,National Networks,0,0,0,
+20,root,Sep-12,,Eliminated,SCS2,Director of Rail Strategy,National Networks,0,0,0,
+21,root,Sep-12,,Eliminated,SCS2,Transformation Licensing Logistics & Sponsorship Director,Motoring & Freight Services,0,0,0,
+22,root,Sep-12,,Eliminated,SCS2,Road and Vehicle Safety & Standards Director,Motoring & Freight Services,0,0,0,
+23,root,Sep-12,,Eliminated,SCS2,Information Management Director,Motoring & Freight Services,0,0,0,
+24,46,Sep-12,,Nick Court,SCS2,Group Communications Director,Corporate Group,335941,95000,99999,Communications
+25,root,Sep-12,,Eliminated,SCS2,Director of London & Road Demand Management,City & Regional Networks,0,0,0,
+26,1,Sep-12,,Christopher Muttukamaru,SCS2,General Counsel,General Counsel,741806,115000,119999,Law
+27,root,Sep-12,,Eliminated,SCS2,Transport Analysis & Economics Director,International Networks & Environment,0,0,0,
+28,root,Sep-12,,Eliminated,SCS2,Transport Security & Contingencies Director,International Networks & Environment,0,0,0,
+29,root,Sep-12,,Eliminated,SCS2,Maritime & Dangerous Goods Director,International Networks & Environment,0,0,0,
+30,root,Sep-12,,Eliminated,SCS2,Environment & International,International Networks & Environment,0,0,0,
+31,root,Sep-12,,Eliminated,SCS2,Director of Finance & Estates,Corporate Support Functions,0,0,0,
+32,root,Sep-12,,Eliminated,SCS2,Director of Change Management,Corporate Support Functions,0,0,0,
+33,46,Sep-12,,Mervyn Thomas,SCS2,Group HR Director,Group HR,824265,125000,129999,Human Resources
+34,46,Sep-12,,Christopher O'Connor,SCS2,Chief Executive of Shared Services,Corporate Group,6737940,120000,124999,Operational Delivery
+35,root,Sep-12,,Eliminated,SCS2,Director of Corporate Finance,City & Regional Networks,0,0,0,
+36,root,Sep-12,,Eliminated,SCS2,Director of Regional & Local Transport Policy,City & Regional Networks,0,0,0,
+37,root,Sep-12,,Eliminated,SCS2,Director,City & Regional Networks,0,0,0,
+38,root,Sep-12,,Eliminated,SCS2,Director of Regional & Local Transport Delivery,City & Regional Networks,0,0,0,
+39,49,Sep-12,,Mike Fuhr,SCS2,Director Major Projects,Major Projects & London,0,145000,149999,Programme and Project Management (PPM)
+40,root,Sep-12,,Eliminated,SCS2,Chief Scientific Adviser,Chief Scientific Adviser's Unit,0,0,0,
+41,root,Sep-12,,Eliminated,SCS2,Aviation Director,International Networks & Environment,0,0,0,
+42,root,Sep-12,,Eliminated,SCS2,Director of Rail Contracts,Rail Contracts Directorate,0,0,0,
+43,root,Sep-12,,Eliminated,SCS2,Director of Projects,Projects Directorate,0,0,0,
+45,root,Sep-12,,Eliminated,SCS1,GCDA Chief Executive,Government Car & Dispatch Agency,0,0,0,
+46,1,Sep-12,,Clare Moriarty,SCS3,Director General Corporate,Corporate Group,58457,125000,129999,Finance
+47,1,Sep-12,,Steve Gooding,SCS3,Director General Domestic,Domestic Group,58457,125000,129999,Policy
+48,1,Sep-12,,Lucy Chadwick,SCS3,"Director General International, Strategy & Environment","International, Strategy & Environment",63874,115000,119999,Policy
+49,1,Sep-12,,Peter Strachan,SCS3,Director General Major Projects & London,Major Projects & London,54210,160000,164999,Programme and Project Management (PPM)
+50,46,Sep-12,,Valarie Vaughan-Dick,SCS2,Group Finance Director,Group Finance,59095,110000,114999,Finance
+51,root,Sep-12,,Eliminated,SCS2,Business Transformation Director,Business Transformation,0,0,0,
+52,46,Sep-12,,Brian Etheridge,SCS2,Managing Director Motoring Services,Motoring Services,5709074,0,0,Operational Delivery
+53,47,Sep-12,,Nick Bisson,SCS2,Rail Director,Rail,287925,85000,89999,Policy
+54,47,Sep-12,,Patricia Hayes,SCS2,Roads Director,Roads,1079204,85000,89999,Policy
+55,47,Sep-12,,John Dowie,SCS2,Local Director,Local,44408,80000,84999,Policy
+56,47,Sep-12,,Martin Capstick,SCS2,"Dangerous Goods, Smart ticketing & High Speed Rail Director","Dangerous Goods, Smart ticketing & High Speed Rail",290831,80000,84999,Policy
+57,48,Sep-12,,Jonathan Moor,SCS2,Aviation Director,Aviation,0,120000,124999,Policy
+58,48,Sep-12,,Ian Woodman,SCS2,Maritime Director,Maritime,612033,95000,99999,Policy
+59,48,Sep-12,,Graham Pendlebury,SCS2,Green Transport & Internation Director,Greener Transport & International,1391143,90000,94999,Policy
+60,48,Sep-12,,Michael Hurwitz,SCS2,Analysis & Strategy Director,Analysis & Strategy,0,80000,84999,Science and Engineering
+61,49,Sep-12,,Michael Hurn,SCS2,Rail & Roads Projects Director,Rail & Road Projects,204544,105000,109999,Policy
+62,49,Sep-12,,Kate Mingay,SCS2,Commercial & Technical Services Director,Commercial & Technical Services,191286,135000,139999,Finance
+63,49,Sep-12,,Paul Rodgers,SCS2,Rail Commercial Contracts Director,Rail Commercial Contracts,1034899,125000,129999,Operational Delivery
+64,49,Sep-12,,Jonathan Sharrock,SCS2,London & Olympics Director,London & Olympics,27089,80000,84999,Policy
+65,50,Sep-12,,Tracey Sedgley,SCS1,Deputy Director Strategic Finance & Planning,Group Finance,517626,0,0,Finance
+66,50,Sep-12,,David Buchan,SCS1,Deputy Director Financial Control & Governance,Group Finance,982973,0,0,Finance
+67,50,Sep-12,,Leslie Gilbert,SCS1,"Deputy Director Domestic, International & Corporate Business Partner",Group Finance,1772127,0,0,Finance
+68,50,Sep-12,,David Payne,SCS1,Deputy Director Major Projects & London Business Partner,Group Finance,905614,0,0,Finance
+69,50,Sep-12,,Caroline Rolfe,SCS1,Deputy Director Finance Projects,Group Finance,89725,0,0,Finance
+70,46,Sep-12,,Ian Coates,SCS1,Deputy Director Group Internal Audit,Group Internal Audit,507971,0,0,Internal Audit
+71,46,Sep-12,,Emily Robertson,SCS1,Deputy Director Corporate Governance,Corporate Governance,254660,0,0,Policy
+72,51,Sep-12,,Malcolm Twite,SCS1,Deputy Director Property,Group Procurement,331657,0,0,Property and asset management
+73,51,Sep-12,,Simon Lydiard,SCS1,Deputy Director Corporate Procurement,Group Procurement,676579,0,0,Procurement
+74,51,Sep-12,,Simon McGee,SCS1,Deputy Director Press Office,Group Communications,512121,0,0,Communications
+75,51,Sep-12,,Helen Mason,SCS1,Deputy Director Ministerial & Corporate Communications,Group Communications,440056,0,0,Communications
+76,51,Sep-12,,Emma Stranack,SCS1,Deputy Director External Communications,Group Communications,947202,0,0,Communications
+77,33,Sep-12,,Les Brewster,SCS1,Deputy Director HR Operations,Group HR,1221896,0,0,Human Resources
+78,33,Sep-12,,Judith Marshall-Camm,SCS1,Deputy Director HR Policy,Group HR,588655,0,0,Human Resources
+79,33,Sep-12,,Vacant,SCS1,Deputy Director Change,Group HR,101506,0,0,Human Resources
+80,root,Sep-12,,Eliminated,SCS1,Deputy Director Career Transition,Group HR,0,0,0,
+81,52,Sep-12,,Stephen Fidler,SCS1,Deputy Director Shared Services Future,Motoring Services,394702,0,0,Operational Delivery
+82,52,Sep-12,,Helen Morris,SCS1,Deputy Director Agency Sponsorship Policy,Motoring Services,434267,0,0,Policy
+83,53,Sep-12,,Tim Wellburn,SCS1,Deputy Director Rail Network Strategy,Rail,441267,0,0,Policy
+84,53,Sep-12,,Robin Groth,SCS1,Deputy Director Rail Sustainability - Operations,Rail,635230,0,0,Policy
+85,53,Sep-12,,Paul Collins,SCS1,Deputy Director Rail Sustainability - Infrastructure,Rail,196886,0,0,Policy
+86,53,Sep-12,,Ed Palmer,SCS1,Deputy Director Rail Analysis,Rail,766726,0,0,Economics
+87,53,Sep-12,,Roger Jones,SCS1,Deputy Director Rail Franchising Policy,Rail,719691,0,0,Policy
+88,53,Sep-12,,Chris Carr,SCS1,Deputy Director Rail Standards & Safety,Rail,335120,0,0,Science and Engineering
+89,54,Sep-12,,Paul O'Sullivan,SCS1,"Deputy Director Road User Licensing, Insurance & Safety",Roads,584089,0,0,Policy
+90,54,Sep-12,,Vacant,SCS1,Deputy Director Freight Policy & HGV Road User Charging,Roads,379614,0,0,Policy
+91,54,Sep-12,,Fiona Wilson,SCS1,"Deputy Director Strategic Roads: Sponsorship, Investment & Reform",Roads,673913,0,0,Policy
+92,root,Sep-12,,Eliminated,SCS1,Deputy Director Statistics Roads & Freight,Roads,0,0,0,
+93,54,Sep-12,,Anthony Boucher,SCS1,Deputy Director Traffic,Roads,1186618,0,0,Policy
+94,55,Sep-12,,Anthony Ferguson,SCS1,Deputy Director Buses & Taxis,Local,727009,0,0,Policy
+95,55,Sep-12,,Tim Stamp,SCS1,Deputy Director Statistics Travel & Safety,Local,780385,0,0,Statisticians
+96,55,Sep-12,,Mostaque Ahmed,SCS1,Deputy Director Local Capital Programmes & Delivery,Local,697257,0,0,Policy
+97,root,Sep-12,,Eliminated,SCS1,Deputy Director Sub-National Policy & Delivery,Local,0,0,0,
+98,55,Sep-12,,Mike Fawcett,SCS1,Deputy Director Cities Policy & Delivery,Local,928028,0,0,Policy
+99,55,Sep-12,,Fiammetta Gordon,SCS1,Deputy Director Local Economics,Local,549072,0,0,Economics
+100,55,Sep-12,,Pauline Reeves,SCS1,Deputy Director Sustainable Travel,Local,858118,0,0,Policy
+101,56,Sep-12,,Phil Graham,SCS1,Deputy Director High Speed Rail: Strategy,"Dangerous Goods, Smart ticketing & High Speed Rail",329903,0,0,Policy
+102,56,Sep-12,,Jill Adam,SCS1,Deputy Director High Speed Rail: Consultation & Legislation,"Dangerous Goods, Smart ticketing & High Speed Rail",380513,0,0,Policy
+103,56,Sep-12,,Jenni Borg,SCS1,Deputy Director Smart Ticketing,"Dangerous Goods, Smart ticketing & High Speed Rail",215633,0,0,Programme and Project Management (PPM)
+104,47,Sep-12,,Nick Illsley,SCS1,Deputy Director Transport Direct & Travel Information,Transport Direct & Travel Information,319561,0,0,Operational Delivery
+105,48,Sep-12,,Tim Symington,SCS1,Deputy Director Transport Security Strategy,Transport Security Strategy,1119011,0,0,Policy
+106,57,Sep-12,,John Parkinson,SCS1,Deputy Director Aviation Policy Development,Aviation,787523,0,0,Policy
+107,57,Sep-12,,Jeremy Hotchkiss,SCS1,Deputy Director Internation Aviation,Aviation,420179,0,0,Policy
+108,57,Sep-12,,Kate Jennings,SCS1,Deputy Director Aviation Delivery,Aviation,514693,0,0,Policy
+109,57,Sep-12,,Ben Smith,SCS1,Deputy Director Aviation Transitional Programme,Aviation,616933,0,0,Policy
+110,57,Sep-12,,Tim Figures,SCS1,Deputy Director Aviation Security,Aviation,1644615,0,0,Policy
+111,58,Sep-12,,Richard Bennett,SCS1,Deputy Director Maritime Commerce & Infrastructure,Maritime,437334,0,0,Policy
+112,58,Sep-12,,Thomas Barry,SCS1,Deputy Director Maritime Safety & Environment,Maritime,0,0,0,Policy
+113,58,Sep-12,,Linda Wilson,SCS1,Deputy Director Maritime & Land Transport Security,Maritime,986197,0,0,Policy
+114,58,Sep-12,,Gillian Underwood,SCS1,Deputy Director Transport Security Compliance,Maritime,2811003,0,0,Operational Delivery
+115,58,Sep-12,,Jeremy Rolstone,SCS1,Deputy Director Search & Rescue Helicopter Project Implementation,Maritime,860200,0,0,Programme and Project Management (PPM)
+116,root,Sep-12,,Eliminated,SCS1,Deputy Director EU GNSS Programmes: Galileo & EGNOS,Maritime,0,0,0,
+117,59,Sep-12,,Rupert Furness,SCS1,Deputy Director Environment Strategy,Greener Transport & International,478580,0,0,Policy
+118,59,Sep-12,,Rob Wakely,SCS1,Deputy Director Low Carbon Fuels,Greener Transport & International,713639,0,0,Policy
+119,59,Sep-12,,Richard Bruce,SCS1,Head of the Office for Low Emission Vehicles,Greener Transport & International,280140,0,0,Policy
+120,48,Sep-12,,Laura Fellowes,SCS1,Deputy Director Strategy,Strategy,249182,0,0,Policy
+121,60,Sep-12,,Vacant,SCS1,Deputy Director Science & Research,Analysis & Strategy,250096,0,0,Science and Engineering
+122,60,Sep-12,,Neil Shorten,SCS1,Deputy Director Transport Appraisal & Strategic Modelling,Analysis & Strategy,474608,0,0,Economics
+123,60,Sep-12,,Emma Campbell,SCS1,Deputy Director Environment and International Transport Economics,Analysis & Strategy,391175,0,0,Economics
+124,61,Sep-12,,Vacant,SCS1,Deputy Director Rolling Stock & Infrastructure Programmes,Rail & Road Projects,414808,0,0,Programme and Project Management (PPM)
+125,61,Sep-12,,Becky Wood,SCS1,Deputy Director Crossrail & Associated Services,Rail & Road Projects,352117,0,0,Programme and Project Management (PPM)
+126,61,Sep-12,,Stuart Baker,SCS1,Deputy Director Major Network Upgrades,Rail & Road Projects,378523,0,0,Programme and Project Management (PPM)
+127,61,Sep-12,,Richard Cantwell,SCS1,Deputy Director HA Roads Programme,Rail & Road Projects,277641,0,0,Programme and Project Management (PPM)
+128,62,Sep-12,,David Clarke,SCS1,Deputy Director Rail Technical,Commercial & Technical Services,516624,0,0,Science and Engineering
+129,62,Sep-12,,Caroline Low,SCS1,Deputy Director International & Agencies,Commercial & Technical Services,203169,0,0,Finance
+130,62,Sep-12,,Caroline Botwood,SCS1,Deputy Director Domestic,Commercial & Technical Services,201709,0,0,Finance
+131,62,Sep-12,,Sally Stott,SCS1,Deputy Director Major Projects & London,Commercial & Technical Services,203169,0,0,Finance
+132,62,Sep-12,,John Gilbert,SCS1,Deputy Director Rail Contracts & Head of Procurement,Commercial & Technical Services,269285,0,0,Procurement
+133,62,Sep-12,,Nick Joyce,SCS1,Deputy Director Asset Sales & PFI,Commercial & Technical Services,239509,0,0,Finance
+134,63,Sep-12,,Rowan Smith,SCS1,Deputy Director Commercial Negotiation North,Rail Commercial Contracts,164354,0,0,Procurement
+135,63,Sep-12,,Andrew Murray,SCS1,Deputy Director Rail Performance & Operations,Rail Commercial Contracts,695190,0,0,Policy
+136,63,Sep-12,,Toni Eastland,SCS1,Deputy Director Commercial Negotiation South,Rail Commercial Contracts,309647,0,0,Procurement
+137,63,Sep-12,,Paul Seller,SCS1,Deputy Director Commercial Negotiation West,Rail Commercial Contracts,215107,0,0,Procurement
+138,63,Sep-12,,Stuart White,SCS1,Deputy Director Commercial Negotiation East,Rail Commercial Contracts,152416,0,0,Procurement
+139,54,Sep-12,,Vacant,SCS1,Head of Strategic Roads Review Team,Roads,692598,0,0,Policy
+140,64,Sep-12,,Caroline Wood,SCS1,Deputy Director London,London & Olympics,165518,0,0,Programme and Project Management (PPM)
+141,64,Sep-12,,David Rea,SCS1,Deputy Director Olympics Assurance,London & Olympics,140478,0,0,Operational Delivery
+142,64,Sep-12,,Adam Simmons,SCS1,Deputy Director Olympics Operations,London & Olympics,145495,0,0,Operational Delivery
+201,64,Sep-12,,Natasha Robinson,SCS1,Deputy Director Olympics Resiliance,London & Olympics,0,0,0,Operational Delivery
+202,64,Sep-12,,Kieran Rix,SCS1,Deputy Director Olympics,London & Olympics,0,0,0,Finance
+144,26,Sep-12,,Cathryn Scott,SCS1,Deputy Director Deputy General Counsel,General Counsel,548830,0,0,Law
+145,26,Sep-12,,Stephen Cave,SCS1,Deputy Director Drivers & Road Policy,General Counsel,443625,0,0,Law
+146,26,Sep-12,,Tim Reardon,SCS1,Deputy Director Highways & Freight,General Counsel,343102,0,0,Law
+147,26,Sep-12,,Giles Buckenham,SCS1,Deputy Director Aviation & Competition,General Counsel,478252,0,0,Law
+148,26,Sep-12,,Rob Caune,SCS1,"Deputy Director Marine, Environment & Planning",General Counsel,339132,0,0,Law
+149,26,Sep-12,,Hussein Kaya,SCS1,Deputy Director Rail Projects,General Counsel,404286,0,0,Law
+150,26,Sep-12,,Martin Bedford,SCS1,Deputy Director Rail & London,General Counsel,282132,0,0,Law
+151,26,Sep-12,,Jessica Walters,SCS1,Deputy Director Rail Commercial Contracts & Procurement,General Counsel,332285,0,0,Law
+152,26,Sep-12,,Brian Dickinson,SCS1,Deputy Director Organisation & Accident,General Counsel,687159,0,0,Law
+153,26,Sep-12,,Colin Gregory,SCS1,Deputy Director Legislation & Regulatory & Reform,General Counsel,238826,0,0,Law
+155,1,Sep-12,,Philip West,SCS1,Deputy Director Private Office & Parliamentary,Private Office & Parliamentary,1103826,0,0,Policy
+156,48,Sep-12,,Keith Conradi,SCS1,Deputy Director Air Accident Chief Inspector,Air Accident Investigation,2882592,0,0,Operational Delivery
+157,root,Sep-12,,Eliminated,SCS1,Deputy Director Air Accident Deputy Chief Inspector,Air Accident Investigation,0,0,0,
+158,48,Sep-12,,Steve Clinch,SCS1,Deputy Director Marine Accident Chief Inspector,Marine Accident Investigation,1905040,0,0,Operational Delivery
+159,48,Sep-12,,Carolyn Griffiths,SCS1,Deputy Director Rail Accident Chief Inspector,Rail Accident Investigation,2207092,0,0,Science and Engineering
+198,57,Sep-12,,Michael Rossell,SCS1,Deputy Director UK ICAO Representative,Aviation,62691,0,0,Policy
+199,34,Sep-12,,Susan Barnes,SCS1,Shared Services Head of Operations,Shared Services,0,0,0,Operational Delivery
+203,54,Sep-12,,June Bowman,SCS1,Deputy Director Statistics,Roads,0,0,0,Policy
+204,54,Sep-12,,Duncan Price,SCS1,"Deputy Director Road User Licensing, Insurance & Safety",Roads,0,0,0,Policy
+205,62,Sep-12,,Jason Slocock,SCS1,Deputy Director Shared Services Futures & Asset Sales,Commercial & Technical Services,0,0,0,Policy
+206,57,Sep-12,,Lara Sherwin,SCS1,Deputy Director Aviation Projects,Aviation,0,0,0,Policy
+207,63,Sep-12,,Collette Carroll,SCS1,Deputy Director Alliancing Implementation,Rail Commercial Contracts,0,0,0,Policy
+,24,Sep-12,,,PB7,Senior Communications Manager,Group Communications,0,52406,69497,Communications
+,24,Sep-12,,,PB5,Communications Manager,Group Communications,0,33516,42240,Communications
+,24,Sep-12,,,PB5,Operational Manager,Group Communications,0,33516,42240,Operational Delivery
+,24,Sep-12,,,PB4,Communications Manager,Group Communications,0,27653,34710,Communications
+,24,Sep-12,,,PB3,Operations Support Officer,Group Communications,0,22838,27992,Operational Delivery
+,26,Sep-12,,,PB7,Senior Legal Adviser,General Counsel,0,52406,69497,Law
+,26,Sep-12,,,PB7,Senior Economist,General Counsel,0,52406,69497,Economics
+,26,Sep-12,,,PB7,Senior Policy Adviser,General Counsel,0,52406,69497,Operational Delivery
+,26,Sep-12,,,PB6,Senior Policy Adviser,General Counsel,0,42643,56400,Operational Delivery
+,26,Sep-12,,,PB5,Policy Adviser,General Counsel,0,33516,42240,Operational Delivery
+,26,Sep-12,,,PB4FS,Policy Adviser,General Counsel,0,26765,36435,Operational Delivery
+,26,Sep-12,,,PB4,Policy Adviser,General Counsel,0,27653,34710,Operational Delivery
+,26,Sep-12,,,PB3,Policy Support Officer,General Counsel,0,22838,27992,Operational Delivery
+,26,Sep-12,,,PB2,Policy Support Officer,General Counsel,0,19426,23355,Operational Delivery
+,33,Sep-12,,,PB7,Senior HR Manager,Group HR,0,52406,69497,Human Resources
+,33,Sep-12,,,PB6,Senior HR Manager,Group HR,0,42643,56400,Human Resources
+,33,Sep-12,,,PB5,HR Officer,Group HR,0,33516,42240,Human Resources
+,33,Sep-12,,,PB4FS,HR Officer,Group HR,0,26765,36435,Human Resources
+,33,Sep-12,,,PB4,HR Officer,Group HR,0,27653,34710,Human Resources
+,33,Sep-12,,,PB3,HR Support Officer,Group HR,0,22838,27992,Human Resources
+,33,Sep-12,,,PB2,HR Support Officer,Group HR,0,19426,23355,Human Resources
+,34,Sep-12,,,PB7,Grade 6,Shared Services,0,52406,69497,Operational Delivery
+,34,Sep-12,,,PB6,Grade 7,Shared Services,0,42643,56400,Operational Delivery
+,34,Sep-12,,,PB5,Senior Executive Officer,Shared Services,0,33516,42240,Operational Delivery
+,34,Sep-12,,,PB4,Higher Executive Officer,Shared Services,0,27653,34710,Operational Delivery
+,34,Sep-12,,,PB3,Executive Officer,Shared Services,0,22838,27992,Operational Delivery
+,34,Sep-12,,,PB2,Administrative Officer,Shared Services,0,19426,23355,Operational Delivery
+,34,Sep-12,,,PB1,Administrative Assistant,Shared Services,0,16169,20100,Operational Delivery
+,46,Sep-12,,,PB4FS,Private Secretary,Corporate Group,0,26765,36435,Policy
+,46,Sep-12,,,PB3,Diary Manager,Corporate Group,0,22838,27992,Policy
+,47,Sep-12,,,PB4FS,Private Secretary,Domestic Group,0,26765,36435,Policy
+,47,Sep-12,,,PB3,Diary Manager,Domestic Group,0,22838,27992,Policy
+,48,Sep-12,,,PB4FS,Private Secretary,"International, Strategy & Environment",0,26765,36435,Policy
+,48,Sep-12,,,PB3,Diary Manager,"International, Strategy & Environment",0,22838,27992,Policy
+,49,Sep-12,,,PB4,Private Secretary,Major Projects & London,0,27653,34710,Policy
+,49,Sep-12,,,PB2,Diary Manager,Major Projects & London,0,19426,23355,Policy
+,50,Sep-12,,,PB4,Business Manager,Group Finance,0,27653,34710,Finance
+,50,Sep-12,,,PB3,Executive Assistant,Group Finance,0,22838,27992,Finance
+,52,Sep-12,,,PB7,Senior IT Manager,Motoring Services,0,52406,69497,Information Technology
+,52,Sep-12,,,PB6,Senior IT Manager,Motoring Services,0,42643,56400,Information Technology
+,52,Sep-12,,,PB5,IT Manager,Motoring Services,0,33516,42240,Information Technology
+,52,Sep-12,,,PB4,IT Manager,Motoring Services,0,27653,34710,Information Technology
+,52,Sep-12,,,PB3,IT Support Officer,Motoring Services,0,22838,27992,Information Technology
+,52,Sep-12,,,PB2,IT Support Officer,Motoring Services,0,19426,23355,Information Technology
+,52,Sep-12,,,Van,Van Driver,Motoring Services,0,21096,23463,Operational Delivery
+,52,Sep-12,,,Car 39,Car Driver 39 Hours,Motoring Services,0,21987,21987,Operational Delivery
+,52,Sep-12,,,Car 48,Car Driver 48 Hours,Motoring Services,0,29081,31110,Operational Delivery
+,52,Sep-12,,,Allocate,Allocated Driver 48 Hours,Motoring Services,0,27052,27052,Operational Delivery
+,52,Sep-12,,,WF,Workshop Fitter,Motoring Services,0,29212,29212,Operational Delivery
+,52,Sep-12,,,AO,Administrative Officer,Motoring Services,0,21300,23871,Operational Delivery
+,52,Sep-12,,,EO,Executive Officer,Motoring Services,0,25700,29290,Operational Delivery
+,52,Sep-12,,,HEO,Higher Executive Officer,Motoring Services,0,31350,37168,Operational Delivery
+,52,Sep-12,,,SEO,Senior Executive Officer,Motoring Services,0,40400,48533,Operational Delivery
+,52,Sep-12,,,G7,Grade 7,Motoring Services,0,53600,61190,Operational Delivery
+,53,Sep-12,,,PB7,Senior Policy Adviser,Rail,0,52406,69497,Policy
+,53,Sep-12,,,PB6,Senior Communications Manager,Rail,0,42643,56400,Communications
+,53,Sep-12,,,PB5,Operational Manager,Rail,0,33516,42240,Operational Delivery
+,53,Sep-12,,,PB4,Operational Manager,Rail,0,27653,34710,Operational Delivery
+,53,Sep-12,,,PB3,Operations Support Officer,Rail,0,22838,27992,Operational Delivery
+,53,Sep-12,,,PB2,Operations Support Officer,Rail,0,19426,23355,Operational Delivery
+,54,Sep-12,,,PB7,Senior Policy Adviser,Roads,0,52406,69497,Policy
+,54,Sep-12,,,PB6,Senior Policy Adviser,Roads,0,42643,56400,Policy
+,54,Sep-12,,,PB5,Policy Adviser,Roads,0,33516,42240,Policy
+,54,Sep-12,,,PB4FS,Policy Adviser,Roads,0,26765,36435,Policy
+,54,Sep-12,,,PB4,Policy Adviser,Roads,0,27653,34710,Policy
+,54,Sep-12,,,PB3,Policy Support Officer,Roads,0,22838,27992,Policy
+,54,Sep-12,,,PB2,Policy Support Officer,Roads,0,19426,23355,Policy
+,55,Sep-12,,,PB2,Policy Support Officer,Local,0,19426,23355,Policy
+,56,Sep-12,,,PB7,Senior Policy Adviser,"Dangerous Goods, Smart ticketing & High Speed Rail",0,52406,69497,Policy
+,56,Sep-12,,,PB5,Policy Adviser,"Dangerous Goods, Smart ticketing & High Speed Rail",0,33516,42240,Policy
+,56,Sep-12,,,PB4,Policy Adviser,"Dangerous Goods, Smart ticketing & High Speed Rail",0,27653,34710,Policy
+,56,Sep-12,,,PB3,Policy Support Officer,"Dangerous Goods, Smart ticketing & High Speed Rail",0,22838,27992,Policy
+,58,Sep-12,,,PB7,Senior Policy Adviser,Maritime,0,52406,69497,Policy
+,58,Sep-12,,,PB6,Senior Policy Adviser,Maritime,0,42643,56400,Policy
+,58,Sep-12,,,PB5,Policy Adviser,Maritime,0,33516,42240,Policy
+,58,Sep-12,,,PB4,Policy Adviser,Maritime,0,27653,34710,Policy
+,58,Sep-12,,,PB3,Policy Support Officer,Maritime,0,22838,27992,Policy
+,59,Sep-12,,,PB7,Senior Policy Adviser,Greener Transport & International,0,52406,69497,Policy
+,59,Sep-12,,,PB7,Senior Economist,Greener Transport & International,0,52406,69497,Economics
+,59,Sep-12,,,PB6,Senior Policy Adviser,Greener Transport & International,0,42643,56400,Science and Engineering
+,59,Sep-12,,,PB6,Senior Economist,Greener Transport & International,0,42643,56400,Economics
+,59,Sep-12,,,PB6,Senior Policy Adviser,Greener Transport & International,0,42643,56400,Policy
+,59,Sep-12,,,PB5,Policy Adviser,Greener Transport & International,0,33516,42240,Science and Engineering
+,59,Sep-12,,,PB5,Policy Adviser,Greener Transport & International,0,33516,42240,Policy
+,59,Sep-12,,,PB4FS,Economist,Greener Transport & International,0,26765,36435,Economics
+,59,Sep-12,,,PB4,Policy Adviser,Greener Transport & International,0,27653,34710,Policy
+,59,Sep-12,,,PB4,Policy Adviser,Greener Transport & International,0,27653,34710,Science and Engineering
+,59,Sep-12,,,PB3,Policy Support Officer,Greener Transport & International,0,22838,27992,Policy
+,59,Sep-12,,,PB2,Policy Support Officer,Greener Transport & International,0,19426,23355,Policy
+,61,Sep-12,,,PB7,Senior Finance Manager,Rail & Road Projects,0,52406,69497,Finance
+,61,Sep-12,,,PB5,Senior Finance Manager,Rail & Road Projects,0,33516,42240,Finance
+,61,Sep-12,,,PB4FS,Project Manager,Rail & Road Projects,0,26765,36435,Programme and Project Management (PPM)
+,61,Sep-12,,,PB4,Project Manager,Rail & Road Projects,0,27653,34710,Programme and Project Management (PPM)
+,61,Sep-12,,,PB2,Project Support Officer,Rail & Road Projects,0,19426,23355,Programme and Project Management (PPM)
+,61,Sep-12,,,PB2,Finance Support Officer,Rail & Road Projects,0,19426,23355,Finance
+,62,Sep-12,,,PB7,Senior Project Manager,Commercial & Technical Services,0,52406,69497,Programme and Project Management (PPM)
+,62,Sep-12,,,PB6,Project Manager,Commercial & Technical Services,0,42643,56400,Programme and Project Management (PPM)
+,62,Sep-12,,,PB3,Project Support Officer,Commercial & Technical Services,0,22838,27992,Programme and Project Management (PPM)
+,63,Sep-12,,,PB7,Senior Contract Manager,Rail Commercial Contracts,0,52406,69497,Policy
+,63,Sep-12,,,PB6,Senior Contract Manager,Rail Commercial Contracts,0,42643,56400,Policy
+,63,Sep-12,,,PB5,Contract Manager,Rail Commercial Contracts,0,33516,42240,Policy
+,63,Sep-12,,,PB4,Contract Manager,Rail Commercial Contracts,0,27653,34710,Policy
+,63,Sep-12,,,PB3,Senior Contract Manager,Rail Commercial Contracts,0,22838,27992,Policy
+,63,Sep-12,,,PB2,Contract Support Officer,Rail Commercial Contracts,0,19426,23355,Policy
+,64,Sep-12,,,PB3,Policy Support Officer,London & Olympics,0,22838,27992,Policy
+,65,Sep-12,,,PB7,Senior Finance Manager,Group Finance,0,52406,69497,Finance
+,65,Sep-12,,,PB6,Senior Finance Manager,Group Finance,0,42643,56400,Finance
+,65,Sep-12,,,PB5,Finance Officer,Group Finance,0,33516,42240,Finance
+,65,Sep-12,,,PB4FS,Finance Officer,Group Finance,0,26765,36435,Finance
+,65,Sep-12,,,PB2,Finance Support Officer,Group Finance,0,19426,23355,Finance
+,66,Sep-12,,,PB7,Senior Finance Manager,Group Finance,0,52406,69497,Finance
+,66,Sep-12,,,PB6,Senior Finance Manager,Group Finance,0,42643,56400,Finance
+,66,Sep-12,,,PB5,Finance Officer,Group Finance,0,33516,42240,Finance
+,66,Sep-12,,,PB4,Finance Officer,Group Finance,0,27653,34710,Finance
+,66,Sep-12,,,PB3,Finance Support Officer,Group Finance,0,22838,27992,Finance
+,67,Sep-12,,,PB7,Senior Finance Manager,Group Finance,0,52406,69497,Finance
+,67,Sep-12,,,PB6,Senior Finance Manager,Group Finance,0,42643,56400,Finance
+,67,Sep-12,,,PB5,Finance Officer,Group Finance,0,33516,42240,Finance
+,67,Sep-12,,,PB4,Finance Officer,Group Finance,0,27653,34710,Finance
+,67,Sep-12,,,PB3,Finance Support Officer,Group Finance,0,22838,27992,Finance
+,67,Sep-12,,,PB2,Finance Support Officer,Group Finance,0,19426,23355,Finance
+,68,Sep-12,,,PB7,Senior Finance Manager,Group Finance,0,52406,69497,Finance
+,68,Sep-12,,,PB6,Senior Finance Manager,Group Finance,0,42643,56400,Finance
+,68,Sep-12,,,PB5,Finance Officer,Group Finance,0,33516,42240,Finance
+,68,Sep-12,,,PB3,Finance Support Officer,Group Finance,0,22838,27992,Finance
+,69,Sep-12,,,PB6,Senior Finance Manager,Group Finance,0,42643,56400,Finance
+,69,Sep-12,,,PB5,Finance Officer,Group Finance,0,33516,42240,Finance
+,70,Sep-12,,,PB6,Senior Internal Auditor,Group Internal Audit,0,42643,56400,Internal Audit
+,70,Sep-12,,,PB5,Internal Auditor,Group Internal Audit,0,33516,42240,Internal Audit
+,70,Sep-12,,,PB4,Internal Auditor,Group Internal Audit,0,27653,34710,Internal Audit
+,70,Sep-12,,,PB2,Internal Audit Support Officer,Group Internal Audit,0,19426,23355,Internal Audit
+,71,Sep-12,,,PB7,Senior Policy Adviser,Corporate Governance,0,52406,69497,Policy
+,71,Sep-12,,,PB6,Senior Policy Adviser,Corporate Governance,0,42643,56400,Policy
+,71,Sep-12,,,PB4FS,Policy Adviser,Corporate Governance,0,26765,36435,Policy
+,71,Sep-12,,,PB4,Policy Adviser,Corporate Governance,0,27653,34710,Policy
+,71,Sep-12,,,PB3,Policy Support Officer,Corporate Governance,0,22838,27992,Policy
+,72,Sep-12,,,PB6,Senior Estates Manager,Group Procurement,0,42643,56400,Property and asset management
+,72,Sep-12,,,PB5,Estates Officer,Group Procurement,0,33516,42240,Property and asset management
+,72,Sep-12,,,PB4,Estates Officer,Group Procurement,0,27653,34710,Property and asset management
+,72,Sep-12,,,PB2,Estates Support Officer,Group Procurement,0,19426,23355,Property and asset management
+,73,Sep-12,,,PB6,Senior Procurement Officer,Group Procurement,0,42643,56400,Procurement
+,73,Sep-12,,,PB5,Senior Procurement Officer,Group Procurement,0,33516,42240,Procurement
+,73,Sep-12,,,PB4,Procurement Officer,Group Procurement,0,27653,34710,Procurement
+,73,Sep-12,,,PB3,Procurement Support Officer,Group Procurement,0,22838,27992,Procurement
+,73,Sep-12,,,PB2,Procurement Support Officer,Group Procurement,0,19426,23355,Procurement
+,74,Sep-12,,,PB7,Senior Communications Manager,Group Communications,0,52406,69497,Communications
+,74,Sep-12,,,PB6,Senior Communications Manager,Group Communications,0,42643,56400,Communications
+,74,Sep-12,,,PB5,Communications Manager,Group Communications,0,33516,42240,Communications
+,74,Sep-12,,,PB4,Communications Manager,Group Communications,0,27653,34710,Communications
+,75,Sep-12,,,PB7,Senior Communications Manager,Group Communications,0,52406,69497,Communications
+,75,Sep-12,,,PB6,Senior Communications Manager,Group Communications,0,42643,56400,Communications
+,75,Sep-12,,,PB5,Communications Manager,Group Communications,0,33516,42240,Communications
+,75,Sep-12,,,PB4,Communications Manager,Group Communications,0,27653,34710,Communications
+,75,Sep-12,,,PB3,Operations Support Officer,Group Communications,0,22838,27992,Operational Delivery
+,76,Sep-12,,,PB6,Senior Communications Manager,Group Communications,0,42643,56400,Communications
+,76,Sep-12,,,PB6,Senior Procurement Officer,Group Communications,0,42643,56400,Communications
+,76,Sep-12,,,PB5,Communications Manager,Group Communications,0,33516,42240,Communications
+,76,Sep-12,,,PB4,Communications Manager,Group Communications,0,27653,34710,Communications
+,76,Sep-12,,,PB3,Communications Support Officer,Group Communications,0,22838,27992,Communications
+,77,Sep-12,,,PB6,Senior HR Manager,Group HR,0,42643,56400,Human Resources
+,77,Sep-12,,,PB5,HR Officer,Group HR,0,33516,42240,Human Resources
+,77,Sep-12,,,PB4FS,HR Officer,Group HR,0,26765,36435,Human Resources
+,77,Sep-12,,,PB4,HR Officer,Group HR,0,27653,34710,Human Resources
+,77,Sep-12,,,PB3,HR Support Officer,Group HR,0,22838,27992,Human Resources
+,77,Sep-12,,,PB2,HR Support Officer,Group HR,0,19426,23355,Human Resources
+,78,Sep-12,,,PB7,Senior HR Manager,Group HR,0,52406,69497,Human Resources
+,78,Sep-12,,,PB6,Senior HR Manager,Group HR,0,42643,56400,Human Resources
+,78,Sep-12,,,PB5,HR Officer,Group HR,0,33516,42240,Human Resources
+,78,Sep-12,,,PB4,HR Officer,Group HR,0,27653,34710,Human Resources
+,78,Sep-12,,,PB3,HR Support Officer,Group HR,0,22838,27992,Human Resources
+,78,Sep-12,,,PB2,HR Support Officer,Group HR,0,19426,23355,Human Resources
+,79,Sep-12,,,PB6,Senior HR Manager,Group HR,0,42643,56400,Human Resources
+,81,Sep-12,,,PB7,Senior Policy Adviser,Motoring Services,0,52406,69497,Policy
+,81,Sep-12,,,PB6,Senior Policy Adviser,Motoring Services,0,42643,56400,Policy
+,81,Sep-12,,,PB5,Policy Adviser,Motoring Services,0,33516,42240,Policy
+,81,Sep-12,,,PB4FS,Policy Adviser,Motoring Services,0,26765,36435,Policy
+,81,Sep-12,,,PB3,Policy Support Officer,Motoring Services,0,22838,27992,Policy
+,82,Sep-12,,,PB7,Senior Policy Adviser,Motoring Services,0,52406,69497,Policy
+,82,Sep-12,,,PB6,Senior Policy Adviser,Motoring Services,0,42643,56400,Policy
+,82,Sep-12,,,PB5,Policy Adviser,Motoring Services,0,33516,42240,Policy
+,82,Sep-12,,,PB4FS,Policy Adviser,Motoring Services,0,26765,36435,Policy
+,82,Sep-12,,,PB4,Policy Adviser,Motoring Services,0,27653,34710,Policy
+,82,Sep-12,,,PB3,Policy Support Officer,Motoring Services,0,22838,27992,Policy
+,83,Sep-12,,,PB7,Senior Policy Adviser,Rail,0,52406,69497,Policy
+,83,Sep-12,,,PB6,Senior Policy Adviser,Rail,0,42643,56400,Policy
+,83,Sep-12,,,PB5,Policy Adviser,Rail,0,33516,42240,Policy
+,83,Sep-12,,,PB4,Policy Adviser,Rail,0,27653,34710,Policy
+,83,Sep-12,,,PB2,Policy Support Officer,Rail,0,19426,23355,Policy
+,84,Sep-12,,,PB7,Senior Policy Adviser,Rail,0,52406,69497,Policy
+,84,Sep-12,,,PB6,Senior Policy Adviser,Rail,0,42643,56400,Policy
+,84,Sep-12,,,PB5,Policy Adviser,Rail,0,33516,42240,Policy
+,84,Sep-12,,,PB4FS,Policy Adviser,Rail,0,26765,36435,Policy
+,84,Sep-12,,,PB4,Policy Adviser,Rail,0,27653,34710,Policy
+,85,Sep-12,,,PB6,Senior Policy Adviser,Rail,0,42643,56400,Policy
+,85,Sep-12,,,PB4FS,Policy Adviser,Rail,0,26765,36435,Policy
+,85,Sep-12,,,PB4,Policy Adviser,Rail,0,27653,34710,Policy
+,86,Sep-12,,,PB7,Senior Economist,Rail,0,52406,69497,Economics
+,86,Sep-12,,,PB6,Senior Statistician,Rail,0,42643,56400,Statisticians
+,86,Sep-12,,,PB6,Senior Economist,Rail,0,42643,56400,Economics
+,86,Sep-12,,,PB4FS,Economist,Rail,0,26765,36435,Economics
+,86,Sep-12,,,PB4,Statistician,Rail,0,27653,34710,Statisticians
+,86,Sep-12,,,PB3,Statistical Support Officer,Rail,0,22838,27992,Statisticians
+,87,Sep-12,,,PB7,Senior Policy Adviser,Rail,0,52406,69497,Policy
+,87,Sep-12,,,PB6,Senior Policy Adviser,Rail,0,42643,56400,Policy
+,87,Sep-12,,,PB3,Operations Support Officer,Rail,0,22838,27992,Operational Delivery
+,88,Sep-12,,,PB6,Senior Policy Adviser,Rail,0,42643,56400,Policy
+,88,Sep-12,,,PB5,Policy Adviser,Rail,0,33516,42240,Policy
+,88,Sep-12,,,PB4,Policy Adviser,Rail,0,27653,34710,Policy
+,88,Sep-12,,,PB3,Policy Support Officer,Roads,0,22838,27992,Policy
+,89,Sep-12,,,PB7,Senior Policy Adviser,Roads,0,52406,69497,Policy
+,89,Sep-12,,,PB6,Senior Policy Adviser,Roads,0,42643,56400,Policy
+,89,Sep-12,,,PB5,Policy Adviser,Roads,0,33516,42240,Policy
+,89,Sep-12,,,PB4FS,Policy Adviser,Roads,0,26765,36435,Policy
+,89,Sep-12,,,PB4,Policy Adviser,Roads,0,27653,34710,Policy
+,89,Sep-12,,,PB2,Policy Support Officer,Roads,0,19426,23355,Policy
+,90,Sep-12,,,PB6,Senior Policy Adviser,Roads,0,42643,56400,Policy
+,90,Sep-12,,,PB5,Policy Adviser,Roads,0,33516,42240,Policy
+,90,Sep-12,,,PB4FS,Policy Adviser,Roads,0,26765,36435,Policy
+,90,Sep-12,,,PB4,Policy Adviser,Roads,0,27653,34710,Policy
+,90,Sep-12,,,PB3,Policy Support Officer,Roads,0,22838,27992,Policy
+,90,Sep-12,,,PB2,Policy Support Officer,Roads,0,19426,23355,Policy
+,91,Sep-12,,,PB7,Senior Policy Adviser,Roads,0,52406,69497,Policy
+,91,Sep-12,,,PB6,Senior Policy Adviser,Roads,0,42643,56400,Policy
+,91,Sep-12,,,PB5,Policy Adviser,Roads,0,33516,42240,Policy
+,91,Sep-12,,,PB4FS,Policy Adviser,Roads,0,26765,36435,Policy
+,91,Sep-12,,,PB4,Policy Adviser,Roads,0,27653,34710,Policy
+,91,Sep-12,,,PB2,Policy Support Officer,Roads,0,19426,23355,Policy
+,93,Sep-12,,,PB7,Senior Policy Adviser,Roads,0,52406,69497,Policy
+,93,Sep-12,,,PB6,Senior Policy Adviser,Roads,0,42643,56400,Policy
+,93,Sep-12,,,PB5,Policy Adviser,Roads,0,33516,42240,Policy
+,93,Sep-12,,,PB4FS,Policy Adviser,Roads,0,26765,36435,Policy
+,93,Sep-12,,,PB4,Policy Adviser,Roads,0,27653,34710,Policy
+,93,Sep-12,,,PB3,Policy Support Officer,Roads,0,22838,27992,Policy
+,93,Sep-12,,,PB2,Policy Support Officer,Roads,0,19426,23355,Policy
+,94,Sep-12,,,PB6,Senior Policy Adviser,Local,0,42643,56400,Policy
+,94,Sep-12,,,PB5,Policy Adviser,Local,0,33516,42240,Policy
+,94,Sep-12,,,PB4,Policy Adviser,Local,0,27653,34710,Policy
+,94,Sep-12,,,PB4FS,Policy Adviser,Local,0,26765,36435,Policy
+,94,Sep-12,,,PB3,Policy Support Officer,Local,0,22838,27992,Policy
+,94,Sep-12,,,PB2,Policy Support Officer,Local,0,19426,23355,Policy
+,95,Sep-12,,,PB6,Senior Statistician,Local,0,42643,56400,Statisticians
+,95,Sep-12,,,PB5,Statistician,Local,0,33516,42240,Statisticians
+,95,Sep-12,,,PB5,IT Manager,Local,0,33516,42240,Information Technology
+,95,Sep-12,,,PB4FS,Statistician,Local,0,26765,36435,Statisticians
+,95,Sep-12,,,PB4,Statistician,Local,0,27653,34710,Statisticians
+,95,Sep-12,,,PB4,IT Manager,Local,0,27653,34710,Information Technology
+,95,Sep-12,,,PB3,Statistical Support Officer,Local,0,22838,27992,Statisticians
+,95,Sep-12,,,PB3,Policy Support Officer,Local,0,22838,27992,Policy
+,96,Sep-12,,,PB6,Senior Policy Adviser,Local,0,42643,56400,Policy
+,96,Sep-12,,,PB5,Policy Adviser,Local,0,33516,42240,Policy
+,96,Sep-12,,,PB4,Policy Adviser,Local,0,27653,34710,Policy
+,96,Sep-12,,,PB3,Policy Support Officer,Local,0,22838,27992,Policy
+,98,Sep-12,,,PB7,Senior Policy Adviser,Local,0,52406,69497,Policy
+,98,Sep-12,,,PB6,Senior Policy Adviser,Local,0,42643,56400,Policy
+,98,Sep-12,,,PB5,Policy Adviser,Local,0,33516,42240,Policy
+,98,Sep-12,,,PB4,Policy Adviser,Local,0,27653,34710,Policy
+,98,Sep-12,,,PB3,Policy Support Officer,Local,0,22838,27992,Policy
+,98,Sep-12,,,PB2,Policy Support Officer,Local,0,19426,23355,Policy
+,99,Sep-12,,,PB2,Policy Support Officer,Local,0,19426,23355,Policy
+,99,Sep-12,,,PB7,Senior Economist,Local,0,52406,69497,Economics
+,99,Sep-12,,,PB6,Senior Economist,Local,0,42643,56400,Economics
+,99,Sep-12,,,PB4FS,Economist,Local,0,26765,36435,Economics
+,100,Sep-12,,,PB7,Senior Policy Adviser,Local,0,52406,69497,Policy
+,100,Sep-12,,,PB6,Senior Policy Adviser,Local,0,42643,56400,Policy
+,100,Sep-12,,,PB5,Policy Adviser,Local,0,33516,42240,Policy
+,100,Sep-12,,,PB4,Policy Adviser,Local,0,27653,34710,Policy
+,100,Sep-12,,,PB3,Policy Support Officer,Local,0,22838,27992,Policy
+,100,Sep-12,,,PB2,Policy Support Officer,Local,0,19426,23355,Policy
+,101,Sep-12,,,PB7,Senior Policy Adviser,"Dangerous Goods, Smart ticketing & High Speed Rail",0,52406,69497,Policy
+,101,Sep-12,,,PB6,Senior Policy Adviser,"Dangerous Goods, Smart ticketing & High Speed Rail",0,42643,56400,Policy
+,101,Sep-12,,,PB4FS,Policy Adviser,"Dangerous Goods, Smart ticketing & High Speed Rail",0,26765,36435,Policy
+,101,Sep-12,,,PB4,Policy Adviser,"Dangerous Goods, Smart ticketing & High Speed Rail",0,27653,34710,Policy
+,101,Sep-12,,,PB3,Policy Support Officer,"Dangerous Goods, Smart ticketing & High Speed Rail",0,22838,27992,Policy
+,101,Sep-12,,,PB2,Policy Support Officer,"Dangerous Goods, Smart ticketing & High Speed Rail",0,19426,23355,Policy
+,102,Sep-12,,,PB6,Senior Policy Adviser,"Dangerous Goods, Smart ticketing & High Speed Rail",0,42643,56400,Policy
+,102,Sep-12,,,PB4FS,Policy Adviser,"Dangerous Goods, Smart ticketing & High Speed Rail",0,26765,36435,Policy
+,102,Sep-12,,,PB4,Policy Adviser,"Dangerous Goods, Smart ticketing & High Speed Rail",0,27653,34710,Policy
+,103,Sep-12,,,PB6,Senior Policy Adviser,"Dangerous Goods, Smart ticketing & High Speed Rail",0,42643,56400,Policy
+,103,Sep-12,,,PB4FS,Policy Adviser,"Dangerous Goods, Smart ticketing & High Speed Rail",0,26765,36435,Policy
+,103,Sep-12,,,PB4,Policy Adviser,"Dangerous Goods, Smart ticketing & High Speed Rail",0,27653,34710,Policy
+,104,Sep-12,,,PB6,Senior Policy Adviser,Transport Direct & Travel Information,0,42643,56400,Policy
+,104,Sep-12,,,PB4FS,Policy Adviser,Transport Direct & Travel Information,0,26765,36435,Policy
+,104,Sep-12,,,PB4,Policy Adviser,Transport Direct & Travel Information,0,27653,34710,Policy
+,104,Sep-12,,,PB3,Policy Support Officer,Transport Direct & Travel Information,0,22838,27992,Policy
+,104,Sep-12,,,PB2,Policy Support Officer,Transport Direct & Travel Information,0,19426,23355,Policy
+,105,Sep-12,,,PB7,Senior Policy Adviser,Transport Security Strategy,0,52406,69497,Policy
+,105,Sep-12,,,PB6,Senior Policy Adviser,Transport Security Strategy,0,42643,56400,Policy
+,105,Sep-12,,,PB6,Senior Policy Adviser,Transport Security Strategy,0,42643,56400,Science and Engineering
+,105,Sep-12,,,PB5,Policy Adviser,Transport Security Strategy,0,33516,42240,Policy
+,105,Sep-12,,,PB5,Policy Adviser,Transport Security Strategy,0,33516,42240,Science and Engineering
+,105,Sep-12,,,PB4FS,Policy Adviser,Transport Security Strategy,0,26765,36435,Policy
+,105,Sep-12,,,PB4,Policy Adviser,Transport Security Strategy,0,27653,34710,Policy
+,105,Sep-12,,,PB4,Policy Adviser,Transport Security Strategy,0,27653,34710,Science and Engineering
+,105,Sep-12,,,PB3,Policy Support Officer,Transport Security Strategy,0,22838,27992,Policy
+,105,Sep-12,,,PB2,Policy Support Officer,Transport Security Strategy,0,19426,23355,Policy
+,106,Sep-12,,,PB7,Senior Economist,Aviation,0,52406,69497,Policy
+,106,Sep-12,,,PB6,Senior Economist,Aviation,0,42643,56400,Policy
+,106,Sep-12,,,PB6,Senior Policy Adviser,Aviation,0,42643,56400,Policy
+,106,Sep-12,,,PB4FS,Economist,Aviation,0,26765,36435,Policy
+,106,Sep-12,,,PB4FS,Policy Adviser,Aviation,0,26765,36435,Policy
+,106,Sep-12,,,PB4,Policy Adviser,Aviation,0,27653,34710,Policy
+,106,Sep-12,,,PB4,Policy Adviser,Aviation,0,27653,34710,Policy
+,106,Sep-12,,,PB3,Policy Support Officer,Aviation,0,22838,27992,Policy
+,106,Sep-12,,,PB2,Policy Support Officer,Aviation,0,19426,23355,Policy
+,107,Sep-12,,,PB7,Senior Policy Adviser,Aviation,0,52406,69497,Policy
+,107,Sep-12,,,PB5,Policy Adviser,Aviation,0,33516,42240,Policy
+,107,Sep-12,,,PB4FS,Policy Adviser,Aviation,0,26765,36435,Policy
+,107,Sep-12,,,PB4,Policy Adviser,Aviation,0,27653,34710,Policy
+,107,Sep-12,,,PB3,Policy Support Officer,Aviation,0,22838,27992,Policy
+,107,Sep-12,,,PB2,Policy Support Officer,Aviation,0,19426,23355,Policy
+,108,Sep-12,,,PB6,Senior Policy Adviser,Aviation,0,42643,56400,Policy
+,108,Sep-12,,,PB5,Policy Adviser,Aviation,0,33516,42240,Policy
+,108,Sep-12,,,PB4FS,Policy Adviser,Aviation,0,26765,36435,Policy
+,108,Sep-12,,,PB4,Policy Adviser,Aviation,0,27653,34710,Policy
+,108,Sep-12,,,PB3,Policy Support Officer,Aviation,0,22838,27992,Policy
+,108,Sep-12,,,PB2,Policy Support Officer,Aviation,0,19426,23355,Policy
+,109,Sep-12,,,PB6,Senior Policy Adviser,Aviation,0,42643,56400,Policy
+,109,Sep-12,,,PB5,Policy Adviser,Aviation,0,33516,42240,Policy
+,109,Sep-12,,,PB4FS,Policy Adviser,Aviation,0,26765,36435,Policy
+,109,Sep-12,,,PB4,Policy Adviser,Aviation,0,27653,34710,Policy
+,110,Sep-12,,,PB7,Senior Policy Adviser,Aviation,0,52406,69497,Policy
+,110,Sep-12,,,PB6,Senior Policy Adviser,Aviation,0,42643,56400,Policy
+,110,Sep-12,,,PB5,Policy Adviser,Aviation,0,33516,42240,Policy
+,110,Sep-12,,,PB4FS,Policy Adviser,Aviation,0,26765,36435,Policy
+,110,Sep-12,,,PB4,Policy Adviser,Aviation,0,27653,34710,Policy
+,110,Sep-12,,,PB3,Policy Support Officer,Aviation,0,22838,27992,Policy
+,110,Sep-12,,,PB2,Policy Support Officer,Aviation,0,19426,23355,Policy
+,111,Sep-12,,,PB6,Senior Policy Adviser,Maritime,0,42643,56400,Policy
+,111,Sep-12,,,PB5,Policy Adviser,Maritime,0,33516,42240,Policy
+,111,Sep-12,,,PB4FS,Policy Adviser,Maritime,0,26765,36435,Policy
+,111,Sep-12,,,PB4,Policy Adviser,Maritime,0,27653,34710,Policy
+,111,Sep-12,,,PB3,Policy Support Officer,Maritime,0,22838,27992,Policy
+,113,Sep-12,,,PB7,Senior Policy Adviser,Maritime,0,52406,69497,Policy
+,113,Sep-12,,,PB6,Senior Policy Adviser,Maritime,0,42643,56400,Policy
+,113,Sep-12,,,PB5,Policy Adviser,Maritime,0,33516,42240,Policy
+,113,Sep-12,,,PB5,Project Manager,Maritime,0,33516,42240,Programme and Project Management (PPM)
+,113,Sep-12,,,PB4,Policy Adviser,Maritime,0,27653,34710,Policy
+,113,Sep-12,,,PB3,Policy Support Officer,Maritime,0,22838,27992,Policy
+,114,Sep-12,,,PB7,Senior Operational Manager,Maritime,0,52406,69497,Operational Delivery
+,114,Sep-12,,,PB6,Senior Operational Manager,Maritime,0,42643,56400,Operational Delivery
+,114,Sep-12,,,PB5,Operations Support Officer,Maritime,0,33516,42240,Operational Delivery
+,114,Sep-12,,,PB4,Transport Security Inspector,Maritime,0,27653,34710,Operational Delivery
+,114,Sep-12,,,PB4,Operations Support Officer,Maritime,0,27653,34710,Operational Delivery
+,114,Sep-12,,,PB3,Transport Security Support Officer,Maritime,0,22838,27992,Operational Delivery
+,114,Sep-12,,,PB3,Transport Security Inspector,Maritime,0,22838,27992,Operational Delivery
+,114,Sep-12,,,PB2,Transport Security Support Officer,Maritime,0,19426,23355,Operational Delivery
+,115,Sep-12,,,PB7,Senior Procurement Officer,Maritime,0,52406,69497,Procurement
+,115,Sep-12,,,PB6,Senior Procurement Officer,Maritime,0,42643,56400,Procurement
+,115,Sep-12,,,PB5,Procurement Support Officer,Maritime,0,33516,42240,Procurement
+,115,Sep-12,,,PB4FS,Procurement Support Officer,Maritime,0,26765,36435,Procurement
+,115,Sep-12,,,PB3,Policy Support Officer,Maritime,0,22838,27992,Policy
+,115,Sep-12,,,PB2,Policy Support Officer,Maritime,0,19426,23355,Policy
+,115,Sep-12,,,PB5,Transport Security Inspector,Maritime,0,33516,42240,Operational Delivery
+,117,Sep-12,,,PB6,Senior Policy Adviser,Greener Transport & International,0,42643,56400,Policy
+,117,Sep-12,,,PB5,Policy Adviser,Greener Transport & International,0,33516,42240,Policy
+,117,Sep-12,,,PB4FS,Policy Adviser,Greener Transport & International,0,26765,36435,Policy
+,117,Sep-12,,,PB4,Policy Adviser,Greener Transport & International,0,27653,34710,Policy
+,117,Sep-12,,,PB3,Policy Support Officer,Greener Transport & International,0,22838,27992,Policy
+,118,Sep-12,,,PB7,Senior Operational Manager,Greener Transport & International,0,52406,69497,Operational Delivery
+,118,Sep-12,,,PB6,Senior Policy Adviser,Greener Transport & International,0,42643,56400,Policy
+,118,Sep-12,,,PB6,Senior Operational Manager,Greener Transport & International,0,42643,56400,Operational Delivery
+,118,Sep-12,,,PB5,Operational Manager,Greener Transport & International,0,33516,42240,Operational Delivery
+,118,Sep-12,,,PB4FS,Policy Adviser,Greener Transport & International,0,26765,36435,Policy
+,118,Sep-12,,,PB4,Policy Adviser,Greener Transport & International,0,27653,34710,Policy
+,118,Sep-12,,,PB4,Operational Manager,Greener Transport & International,0,27653,34710,Operational Delivery
+,118,Sep-12,,,PB3,Policy Support Officer,Greener Transport & International,0,22838,27992,Policy
+,118,Sep-12,,,PB3,Operations Support Officer,Greener Transport & International,0,22838,27992,Operational Delivery
+,119,Sep-12,,,PB6,Senior Policy Adviser,Greener Transport & International,0,42643,56400,Policy
+,119,Sep-12,,,PB5,Policy Adviser,Greener Transport & International,0,33516,42240,Policy
+,119,Sep-12,,,PB4FS,Policy Adviser,Greener Transport & International,0,26765,36435,Policy
+,119,Sep-12,,,PB3,Policy Support Officer,Greener Transport & International,0,22838,27992,Policy
+,120,Sep-12,,,PB6,Senior Economist,Strategy,0,42643,56400,Economics
+,120,Sep-12,,,PB4FS,Economist,Strategy,0,26765,36435,Economics
+,120,Sep-12,,,PB2,Policy Support Officer,Strategy,0,19426,23355,Policy
+,121,Sep-12,,,PB7,Senior Policy Adviser,Analysis & Strategy,0,52406,69497,Operational Delivery
+,121,Sep-12,,,PB6,Senior Policy Adviser,Analysis & Strategy,0,42643,56400,Science and Engineering
+,121,Sep-12,,,PB4,Policy Adviser,Analysis & Strategy,0,27653,34710,Science and Engineering
+,121,Sep-12,,,PB3,Policy Support Officer,Analysis & Strategy,0,22838,27992,Operational Delivery
+,122,Sep-12,,,PB7,Senior Transport Modeller,Analysis & Strategy,0,52406,69497,Science and Engineering
+,122,Sep-12,,,PB6,Senior Transport Modeller,Analysis & Strategy,0,42643,56400,Science and Engineering
+,122,Sep-12,,,PB6,Senior Economist,Analysis & Strategy,0,42643,56400,Economics
+,122,Sep-12,,,PB5,Transport Modeller,Analysis & Strategy,0,33516,42240,Science and Engineering
+,122,Sep-12,,,PB4FS,Economist,Analysis & Strategy,0,26765,36435,Economics
+,123,Sep-12,,,PB7,Senior Economist,Analysis & Strategy,0,52406,69497,Economics
+,123,Sep-12,,,PB6,Senior Economist,Analysis & Strategy,0,42643,56400,Economics
+,123,Sep-12,,,PB4FS,Economist,Analysis & Strategy,0,26765,36435,Economics
+,124,Sep-12,,,PB7,Senior Project Manager,Rail & Road Projects,0,52406,69497,Programme and Project Management (PPM)
+,124,Sep-12,,,PB6,Project Manager,Rail & Road Projects,0,42643,56400,Programme and Project Management (PPM)
+,124,Sep-12,,,PB4,Project Support Officer,Rail & Road Projects,0,27653,34710,Programme and Project Management (PPM)
+,124,Sep-12,,,PB2,Project Support Officer,Rail & Road Projects,0,19426,23355,Programme and Project Management (PPM)
+,124,Sep-12,,,PB4FS,Project Manager,Rail & Road Projects,0,26765,36435,Programme and Project Management (PPM)
+,125,Sep-12,,,PB7,Principal Sponsor,Rail & Road Projects,0,52406,69497,Science and Engineering
+,125,Sep-12,,,PB6,Senior Project Manager,Rail & Road Projects,0,42643,56400,Programme and Project Management (PPM)
+,125,Sep-12,,,PB4FS,Project Manager,Rail & Road Projects,0,26765,36435,Programme and Project Management (PPM)
+,125,Sep-12,,,PB4,Project Manager,Rail & Road Projects,0,27653,34710,Programme and Project Management (PPM)
+,125,Sep-12,,,PB2,Project Support Officer,Rail & Road Projects,0,19426,23355,Programme and Project Management (PPM)
+,126,Sep-12,,,PB7,Senior Project Manager,Rail & Road Projects,0,52406,69497,Programme and Project Management (PPM)
+,126,Sep-12,,,PB6,Project Manager,Rail & Road Projects,0,42643,56400,Programme and Project Management (PPM)
+,126,Sep-12,,,PB3,Project Support Officer,Rail & Road Projects,0,22838,27992,Programme and Project Management (PPM)
+,126,Sep-12,,,PB2,Project Support Officer,Rail & Road Projects,0,19426,23355,Programme and Project Management (PPM)
+,127,Sep-12,,,PB7,Senior Project Manager,Rail & Road Projects,0,52406,69497,Programme and Project Management (PPM)
+,127,Sep-12,,,PB6,Project Manager,Rail & Road Projects,0,42643,56400,Programme and Project Management (PPM)
+,128,Sep-12,,,PB7,Technical Manager,Commercial & Technical Services,0,52406,69497,Science and Engineering
+,128,Sep-12,,,PB6,Technical Manager,Commercial & Technical Services,0,42643,56400,Science and Engineering
+,128,Sep-12,,,PB5,Technical Support Engineer,Commercial & Technical Services,0,33516,42240,Science and Engineering
+,129,Sep-12,,,PB7,Senior Procurement Officer,Commercial & Technical Services,0,52406,69497,Procurement
+,129,Sep-12,,,PB6,Senior Procurement Officer,Commercial & Technical Services,0,42643,56400,Procurement
+,129,Sep-12,,,PB5,Procurement Officer,Commercial & Technical Services,0,33516,42240,Procurement
+,130,Sep-12,,,PB7,Senior Procurement Officer,Commercial & Technical Services,0,52406,69497,Procurement
+,130,Sep-12,,,PB6,Senior Procurement Officer,Commercial & Technical Services,0,42643,56400,Procurement
+,130,Sep-12,,,PB5,Business Manager,Commercial & Technical Services,0,33516,42240,Finance
+,130,Sep-12,,,PB3,Office Manager,Commercial & Technical Services,0,22838,27992,Finance
+,130,Sep-12,,,PB2,Executive Assistant,Commercial & Technical Services,0,19426,23355,Finance
+,131,Sep-12,,,PB6,Senior Finance Manager,Commercial & Technical Services,0,42643,56400,Finance
+,131,Sep-12,,,PB7,Senior Finance Manager,Commercial & Technical Services,0,52406,69497,Finance
+,131,Sep-12,,,PB6,Senior Procurement Officer,Commercial & Technical Services,0,42643,56400,Procurement
+,131,Sep-12,,,PB5,Procurement Officer,Commercial & Technical Services,0,33516,42240,Procurement
+,132,Sep-12,,,PB7,Senior Procurement Officer,Commercial & Technical Services,0,52406,69497,Procurement
+,132,Sep-12,,,PB7,Senior Finance Manager,Commercial & Technical Services,0,52406,69497,Finance
+,132,Sep-12,,,PB6,Senior Procurement Officer,Commercial & Technical Services,0,42643,56400,Procurement
+,132,Sep-12,,,PB5,Procurement Officer,Commercial & Technical Services,0,33516,42240,Procurement
+,132,Sep-12,,,PB3,Procurement Support Officer,Commercial & Technical Services,0,22838,27992,Procurement
+,133,Sep-12,,,PB7,Senior Procurement Officer,Commercial & Technical Services,0,52406,69497,Procurement
+,133,Sep-12,,,PB7,Senior Finance Manager,Commercial & Technical Services,0,52406,69497,Finance
+,133,Sep-12,,,PB6,Senior Procurement Officer,Commercial & Technical Services,0,42643,56400,Procurement
+,133,Sep-12,,,PB4FS,Finance Officer,Commercial & Technical Services,0,26765,36435,Finance
+,133,Sep-12,,,PB4,Finance Officer,Commercial & Technical Services,0,27653,34710,Finance
+,134,Sep-12,,,PB7,Senior Contract Manager,Rail Commercial Contracts,0,52406,69497,Policy
+,134,Sep-12,,,PB5,Contract Manager,Rail Commercial Contracts,0,33516,42240,Policy
+,135,Sep-12,,,PB6,Senior Contract Manager,Rail Commercial Contracts,0,42643,56400,Policy
+,135,Sep-12,,,PB5,Contract Manager,Rail Commercial Contracts,0,33516,42240,Policy
+,135,Sep-12,,,PB4FS,Contract Manager,Rail Commercial Contracts,0,26765,36435,Policy
+,136,Sep-12,,,PB7,Senior Contract Manager,Rail Commercial Contracts,0,52406,69497,Policy
+,136,Sep-12,,,PB6,Senior Contract Manager,Rail Commercial Contracts,0,42643,56400,Policy
+,136,Sep-12,,,PB4,Contract Manager,Rail Commercial Contracts,0,27653,34710,Policy
+,137,Sep-12,,,PB7,Senior Contract Manager,Rail Commercial Contracts,0,52406,69497,Policy
+,137,Sep-12,,,PB6,Senior Contract Manager,Rail Commercial Contracts,0,42643,56400,Policy
+,137,Sep-12,,,PB5,Contract Manager,Rail Commercial Contracts,0,33516,42240,Policy
+,138,Sep-12,,,PB7,Senior Contract Manager,Rail Commercial Contracts,0,52406,69497,Policy
+,138,Sep-12,,,PB6,Senior Contract Manager,Rail Commercial Contracts,0,42643,56400,Policy
+,138,Sep-12,,,PB5,Contract Manager,Rail Commercial Contracts,0,33516,42240,Policy
+,139,Sep-12,,,PB7,Senior Statistician,Roads,0,52406,69497,Policy
+,139,Sep-12,,,PB6,Statistician,Roads,0,42643,56400,Policy
+,139,Sep-12,,,PB5,Statistical Support Officer,Roads,0,33516,42240,Policy
+,139,Sep-12,,,PB4FS,Statistical Support Officer,Roads,0,26765,36435,Policy
+,139,Sep-12,,,PB4,Statistical Support Officer,Roads,0,27653,34710,Policy
+,139,Sep-12,,,PB3,Statistical Support Officer,Roads,0,22838,27992,Policy
+,139,Sep-12,,,PB2,Statistical Support Officer,Roads,0,19426,23355,Policy
+,140,Sep-12,,,PB6,Senior Policy Adviser,London & Olympics,0,42643,56400,Policy
+,140,Sep-12,,,PB4,Policy Adviser,London & Olympics,0,27653,34710,Policy
+,141,Sep-12,,,PB6,Senior Policy Adviser,London & Olympics,0,42643,56400,Policy
+,141,Sep-12,,,PB5,Policy Adviser,London & Olympics,0,33516,42240,Policy
+,142,Sep-12,,,PB6,Senior Policy Adviser,London & Olympics,0,42643,56400,Policy
+,142,Sep-12,,,PB4FS,Policy Adviser,London & Olympics,0,26765,36435,Policy
+,142,Sep-12,,,PB4,Policy Adviser,London & Olympics,0,27653,34710,Policy
+,144,Sep-12,,,PB7,Senior Legal Adviser,General Counsel,0,52406,69497,Law
+,144,Sep-12,,,PB6,Legal Adviser,General Counsel,0,42643,56400,Law
+,144,Sep-12,,,PB5,Policy Adviser,General Counsel,0,33516,42240,Operational Delivery
+,144,Sep-12,,,PB3,Policy Support Officer,General Counsel,0,22838,27992,Operational Delivery
+,144,Sep-12,,,PB2,Policy Support Officer,General Counsel,0,19426,23355,Operational Delivery
+,144,Sep-12,,,PB1,Policy Support Officer,General Counsel,0,16169,20100,Operational Delivery
+,145,Sep-12,,,PB7,Senior Legal Adviser,General Counsel,0,52406,69497,Law
+,145,Sep-12,,,PB6,Legal Adviser,General Counsel,0,42643,56400,Law
+,146,Sep-12,,,PB7,Senior Legal Adviser,General Counsel,0,52406,69497,Law
+,146,Sep-12,,,PB6,Legal Adviser,General Counsel,0,42643,56400,Law
+,146,Sep-12,,,PB5,Policy Adviser,General Counsel,0,33516,42240,Operational Delivery
+,146,Sep-12,,,PB3,Policy Support Officer,General Counsel,0,22838,27992,Operational Delivery
+,147,Sep-12,,,PB7,Senior Legal Adviser,General Counsel,0,52406,69497,Law
+,147,Sep-12,,,PB6,Legal Adviser,General Counsel,0,42643,56400,Law
+,148,Sep-12,,,PB7,Senior Legal Adviser,General Counsel,0,52406,69497,Law
+,148,Sep-12,,,PB6,Legal Adviser,General Counsel,0,42643,56400,Law
+,149,Sep-12,,,PB7,Senior Legal Adviser,General Counsel,0,52406,69497,Law
+,149,Sep-12,,,PB6,Legal Adviser,General Counsel,0,42643,56400,Law
+,149,Sep-12,,,PB5,Policy Adviser,General Counsel,0,33516,42240,Operational Delivery
+,149,Sep-12,,,PB4,Policy Adviser,General Counsel,0,27653,34710,Operational Delivery
+,149,Sep-12,,,PB3,Policy Support Officer,General Counsel,0,22838,27992,Operational Delivery
+,150,Sep-12,,,PB7,Senior Legal Adviser,General Counsel,0,52406,69497,Law
+,150,Sep-12,,,PB4FS,Legal Trainee,General Counsel,0,26765,36435,Law
+,151,Sep-12,,,PB7,Senior Legal Adviser,General Counsel,0,52406,69497,Law
+,151,Sep-12,,,PB4FS,Legal Trainee,General Counsel,0,26765,36435,Law
+,152,Sep-12,,,PB7,Senior Legal Adviser,General Counsel,0,52406,69497,Law
+,152,Sep-12,,,PB7,Knowledge Information Management Manager,General Counsel,0,52406,69497,Knowledge and Information Management (KIM)
+,152,Sep-12,,,PB6,Legal Adviser,General Counsel,0,42643,56400,Law
+,152,Sep-12,,,PB6,Knowledge Information Management Support Officer,General Counsel,0,42643,56400,Knowledge and Information Management (KIM)
+,152,Sep-12,,,PB5,Policy Adviser,General Counsel,0,33516,42240,Operational Delivery
+,152,Sep-12,,,PB4,Policy Adviser,General Counsel,0,27653,34710,Operational Delivery
+,152,Sep-12,,,PB2,Policy Support Officer,General Counsel,0,19426,23355,Operational Delivery
+,153,Sep-12,,,PB7,Senior Legal Adviser,General Counsel,0,52406,69497,Law
+,153,Sep-12,,,PB6,Legal Adviser,General Counsel,0,42643,56400,Law
+,155,Sep-12,,,PB6,Principal Private Secretary,Private Office & Parliamentary,0,42643,56400,Policy
+,155,Sep-12,,,PB6,Business Manager,Private Office & Parliamentary,0,42643,56400,Operational Delivery
+,155,Sep-12,,,PB5,Policy Adviser,Private Office & Parliamentary,0,33516,42240,Operational Delivery
+,155,Sep-12,,,PB4FS,Private Secretary,Private Office & Parliamentary,0,26765,36435,Policy
+,155,Sep-12,,,PB4,Policy Adviser,Private Office & Parliamentary,0,27653,34710,Policy
+,155,Sep-12,,,PB4,Office Manager,Private Office & Parliamentary,0,27653,34710,Operational Delivery
+,155,Sep-12,,,PB3,Diary Manager,Private Office & Parliamentary,0,22838,27992,Policy
+,155,Sep-12,,,PB3,Policy Support Officer,Private Office & Parliamentary,0,22838,27992,Operational Delivery
+,155,Sep-12,,,PB2,Policy Support Officer,Private Office & Parliamentary,0,19426,23355,Operational Delivery
+,155,Sep-12,,,PB1,Policy Support Officer,Private Office & Parliamentary,0,16169,20100,Operational Delivery
+,156,Sep-12,,,PB7AN,Principal Accident Inspector,Air Accident Investigation,0,76070,85000,Operational Delivery
+,156,Sep-12,,,PB6AN,Accident Inspector,Air Accident Investigation,0,65500,75000,Operational Delivery
+,156,Sep-12,,,PB5,Office Manager,Air Accident Investigation,0,33516,42240,Operational Delivery
+,156,Sep-12,,,PB4,Operational Manager,Air Accident Investigation,0,27653,34710,Operational Delivery
+,156,Sep-12,,,PB3,Operations Support Officer,Air Accident Investigation,0,22838,27992,Operational Delivery
+,156,Sep-12,,,PB2,Operations Support Officer,Air Accident Investigation,0,19426,23355,Operational Delivery
+,158,Sep-12,,,PB7AN,Principal Accident Inspector,Marine Accident Investigation,0,76070,85000,Operational Delivery
+,158,Sep-12,,,PB6AN,Accident Inspector,Marine Accident Investigation,0,65500,75000,Operational Delivery
+,158,Sep-12,,,PB5,Office Manager,Marine Accident Investigation,0,33516,42240,Operational Delivery
+,158,Sep-12,,,PB4FS,Operational Manager,Marine Accident Investigation,0,26765,36435,Operational Delivery
+,158,Sep-12,,,PB4,Operational Manager,Marine Accident Investigation,0,27653,34710,Operational Delivery
+,158,Sep-12,,,PB3,Operations Support Officer,Marine Accident Investigation,0,22838,27992,Operational Delivery
+,158,Sep-12,,,PB2,Operations Support Officer,Marine Accident Investigation,0,19426,23355,Operational Delivery
+,159,Sep-12,,,PB7AN,Principal Accident Inspector,Rail Accident Investigation,0,76070,85000,Operational Delivery
+,159,Sep-12,,,PB6AN,Accident Inspector,Rail Accident Investigation,0,65500,75000,Operational Delivery
+,159,Sep-12,,,PB5,Office Manager,Rail Accident Investigation,0,33516,42240,Operational Delivery
+,159,Sep-12,,,PB4,Operational Manager,Rail Accident Investigation,0,27653,34710,Operational Delivery
+,159,Sep-12,,,PB3,Operations Support Officer,Rail Accident Investigation,0,22838,27992,Operational Delivery
+,159,Sep-12,,,PB2,Operations Support Officer,Rail Accident Investigation,0,19426,23355,Operational Delivery
+,198,Sep-12,,,PB7,Senior Policy Adviser,Aviation,0,52406,69497,Policy
+217,46,Sep-12,,Melinda Johnson,SCS2,Director of Group Procurement and Estates,Corporate Group,136279,110000,114999,Procurement
+218,48,Sep-12,,Joe Grice,SCS2,Chief Economist,"International, Strategy & Environment",0,0,0,Economics
+210,56,Sep-12,,Richard Buckley,SCS1,"Deputy Director HS2 - Rolling Stock, Wider Economic Benefits, NAO review","Dangerous Goods, Smart ticketing & High Speed Rail",0,0,0,Policy
+216,59,Sep-12,,John Parkinson,SCS1,"Deputy Director, International Co-Operation",Greener Transport & International,243137,0,0,Policy
+208,49,Sep-12,,Caroline Botwood,SCS1,Deputy Director Refranchising Programme,Major Projects & London,213473,0,0,Policy
+211,63,Sep-12,,Richard Cantwell,SCS1,Deputy Director  Programme Office,Rail Commercial Contracts,302070,0,0,Policy
+212,63,Sep-12,,Rowan Smith,SCS1,Deputy Director South West,Rail Commercial Contracts,219060,0,0,Procurement
+213,63,Sep-12,,Toni Eastland,SCS1,Deputy Director Thameslink,Rail Commercial Contracts,617788,0,0,Procurement
+214,63,Sep-12,,Paul Seller,SCS1,Deputy Director Rail Commercial North and Midlands,Rail Commercial Contracts,284181,0,0,Procurement
+215,63,Sep-12,,Stuart White,SCS1,Deputy Director Refranchising,Rail Commercial Contracts,427217,0,0,Procurement
+209,61,Sep-12,,Becky Wood,SCS1,"Deputy Director, HS2 Sponsor",Rail & Road Projects,130243,0,0,Programme and Project Management (PPM)
+,24,Sep-12,,,PB7,Senior Communications Manager,Group Communications,0,56150,70859,Communications
+,24,Sep-12,,,PB5,Communications Manager,Group Communications,0,35964,43120,Communications
+,24,Sep-12,,,PB5,Operational Manager,Group Communications,0,35964,43120,Operational Delivery
+,24,Sep-12,,,PB4,Communications Manager,Group Communications,0,29672,35447,Communications
+,24,Sep-12,,,PB3,Operations Support Officer,Group Communications,0,24488,28607,Operational Delivery
+,26,Sep-12,,,PB7,Senior Legal Adviser,General Counsel,0,56150,70859,Law
+,26,Sep-12,,,PB7,Senior Economist,General Counsel,0,56150,70859,Economics
+,26,Sep-12,,,PB7,Senior Policy Adviser,General Counsel,0,56150,70859,Operational Delivery
+,26,Sep-12,,,PB6,Senior Policy Adviser,General Counsel,0,45688,57506,Operational Delivery
+,26,Sep-12,,,PB5,Policy Adviser,General Counsel,0,35964,43120,Operational Delivery
+,26,Sep-12,,,PB4FS,Policy Adviser,General Counsel,0,27000,36435,Operational Delivery
+,26,Sep-12,,,PB4,Policy Adviser,General Counsel,0,29672,35447,Operational Delivery
+,26,Sep-12,,,PB3,Policy Support Officer,General Counsel,0,24488,28607,Operational Delivery
+,26,Sep-12,,,PB2,Policy Support Officer,General Counsel,0,20855,23885,Operational Delivery
+,33,Sep-12,,,PB7,Senior HR Manager,Group HR,0,56150,70859,Human Resources
+,33,Sep-12,,,PB6,Senior HR Manager,Group HR,0,45688,57506,Human Resources
+,33,Sep-12,,,PB5,HR Officer,Group HR,0,35964,43120,Human Resources
+,33,Sep-12,,,PB4FS,HR Officer,Group HR,0,27000,36435,Human Resources
+,33,Sep-12,,,PB4,HR Officer,Group HR,0,29672,35447,Human Resources
+,33,Sep-12,,,PB3,HR Support Officer,Group HR,0,24488,28607,Human Resources
+,34,Sep-12,,,PB7,Grade 6,Shared Services,0,56150,70859,Operational Delivery
+,34,Sep-12,,,PB6,Grade 7,Shared Services,0,45688,57506,Operational Delivery
+,34,Sep-12,,,PB5,Senior Executive Officer,Shared Services,0,35964,43120,Operational Delivery
+,34,Sep-12,,,PB4,Higher Executive Officer,Shared Services,0,29672,35447,Operational Delivery
+,34,Sep-12,,,PB3,Executive Officer,Shared Services,0,24488,28607,Operational Delivery
+,34,Sep-12,,,PB2,Administrative Officer,Shared Services,0,20855,23885,Operational Delivery
+,34,Sep-12,,,PB1,Administrative Assistant,Shared Services,0,16669,20600,Operational Delivery
+,46,Sep-12,,,PB4FS,Private Secretary,Corporate Group,0,27000,36435,Policy
+,46,Sep-12,,,PB3,Diary Manager,Corporate Group,0,24488,28607,Policy
+,47,Sep-12,,,PB4FS,Private Secretary,Domestic Group,0,27000,36435,Policy
+,47,Sep-12,,,PB2,Diary Manager,Domestic Group,0,20855,23885,Policy
+,48,Sep-12,,,PB4FS,Private Secretary,"International, Strategy & Environment",0,27000,36435,Policy
+,48,Sep-12,,,PB3,Diary Manager,"International, Strategy & Environment",0,24488,28607,Policy
+,49,Sep-12,,,PB4,Private Secretary,Major Projects & London,0,29672,35447,Policy
+,49,Sep-12,,,PB2,Diary Manager,Major Projects & London,0,20855,23885,Policy
+,50,Sep-12,,,PB4,Business Manager,Group Finance,0,29672,35447,Finance
+,50,Sep-12,,,PB2,Executive Assistant,Group Finance,0,20855,23885,Finance
+,52,Sep-12,,,PB7,Senior IT Manager,Motoring Services,0,56150,70859,Information Technology
+,52,Sep-12,,,PB6,Senior IT Manager,Motoring Services,0,45688,57506,Information Technology
+,52,Sep-12,,,PB5,IT Manager,Motoring Services,0,35964,43120,Information Technology
+,52,Sep-12,,,PB4,IT Manager,Motoring Services,0,29672,35447,Information Technology
+,52,Sep-12,,,PB3,IT Support Officer,Motoring Services,0,24488,28607,Information Technology
+,52,Sep-12,,,PB2,IT Support Officer,Motoring Services,0,20855,23885,Information Technology
+,52,Sep-12,,,Van,Van Driver,Motoring Services,0,21307,23812,Operational Delivery
+,52,Sep-12,,,Car 39,Car Driver 39 Hours,Motoring Services,0,21980,21980,Operational Delivery
+,52,Sep-12,,,Car 48,Car Driver 48 Hours,Motoring Services,0,30067,30067,Operational Delivery
+,52,Sep-12,,,PT,Part time drivers,Motoring Services,0,12528,12528,Operational Delivery
+,52,Sep-12,,,WF,Workshop Fitter,Motoring Services,0,29503,29503,Operational Delivery
+,52,Sep-12,,,AO,Administrative Officer,Motoring Services,0,21300,24110,Operational Delivery
+,52,Sep-12,,,EO,Executive Officer,Motoring Services,0,25700,29290,Operational Delivery
+,52,Sep-12,,,HEO,Higher Executive Officer,Motoring Services,0,31350,37168,Operational Delivery
+,52,Sep-12,,,SEO,Senior Executive Officer,Motoring Services,0,40400,47231,Operational Delivery
+,52,Sep-12,,,G7,Grade 7,Motoring Services,0,53600,61802,Operational Delivery
+,53,Sep-12,,,PB7,Senior Policy Adviser,Rail,0,56150,70859,Policy
+,53,Sep-12,,,PB6,Senior Communications Manager,Rail,0,45688,57506,Communications
+,53,Sep-12,,,PB5,Operational Manager,Rail,0,35964,43120,Operational Delivery
+,53,Sep-12,,,PB4,Operational Manager,Rail,0,29672,35447,Operational Delivery
+,53,Sep-12,,,PB3,Operations Support Officer,Rail,0,24488,28607,Operational Delivery
+,53,Sep-12,,,PB2,Operations Support Officer,Rail,0,20855,23885,Operational Delivery
+,54,Sep-12,,,PB7,Senior Policy Adviser,Roads,0,56150,70859,Policy
+,54,Sep-12,,,PB6,Senior Policy Adviser,Roads,0,45688,57506,Policy
+,54,Sep-12,,,PB5,Policy Adviser,Roads,0,35964,43120,Policy
+,54,Sep-12,,,PB4FS,Policy Adviser,Roads,0,27000,36435,Policy
+,54,Sep-12,,,PB4,Policy Adviser,Roads,0,29672,35447,Policy
+,54,Sep-12,,,PB3,Policy Support Officer,Roads,0,24488,28607,Policy
+,54,Sep-12,,,PB2,Policy Support Officer,Roads,0,20855,23885,Policy
+,55,Sep-12,,,PB2,Policy Support Officer,Local,0,20855,23885,Policy
+,56,Sep-12,,,PB7,Senior Policy Adviser,"Dangerous Goods, Smart ticketing & High Speed Rail",0,56150,70859,Policy
+,56,Sep-12,,,PB6,Senior Policy Adviser,"Dangerous Goods, Smart ticketing & High Speed Rail",0,45688,57506,Policy
+,56,Sep-12,,,PB5,Policy Adviser,"Dangerous Goods, Smart ticketing & High Speed Rail",0,35964,43120,Policy
+,56,Sep-12,,,PB4,Policy Adviser,"Dangerous Goods, Smart ticketing & High Speed Rail",0,29672,35447,Policy
+,56,Sep-12,,,PB3,Policy Support Officer,"Dangerous Goods, Smart ticketing & High Speed Rail",0,24488,28607,Policy
+,58,Sep-12,,,PB7,Senior Policy Adviser,Maritime,0,56150,70859,Policy
+,58,Sep-12,,,PB6,Senior Policy Adviser,Maritime,0,45688,57506,Policy
+,58,Sep-12,,,PB5,Policy Manager,Maritime,0,35964,43120,Policy
+,58,Sep-12,,,PB5,Policy Adviser,Maritime,0,35964,43120,Policy
+,58,Sep-12,,,PB4,Policy Adviser,Maritime,0,29672,35447,Policy
+,58,Sep-12,,,PB3,Policy Support Officer,Maritime,0,24488,28607,Policy
+,59,Sep-12,,,PB7,Senior Policy Adviser,Greener Transport & International,0,56150,70859,Policy
+,59,Sep-12,,,PB7,Senior Economist,Greener Transport & International,0,56150,70859,Economics
+,59,Sep-12,,,PB6,Senior Policy Adviser,Greener Transport & International,0,45688,57506,Science and Engineering
+,59,Sep-12,,,PB6,Senior Economist,Greener Transport & International,0,45688,57506,Economics
+,59,Sep-12,,,PB5,Policy Adviser,Greener Transport & International,0,35964,43120,Science and Engineering
+,59,Sep-12,,,PB4FS,Economist,Greener Transport & International,0,27000,36435,Economics
+,59,Sep-12,,,PB4,Policy Adviser,Greener Transport & International,0,29672,35447,Policy
+,59,Sep-12,,,PB4,Policy Adviser,Greener Transport & International,0,29672,35447,Science and Engineering
+,59,Sep-12,,,PB3,Policy Support Officer,Greener Transport & International,0,24488,28607,Policy
+,59,Sep-12,,,PB2,Policy Support Officer,Greener Transport & International,0,20855,23885,Policy
+,61,Sep-12,,,PB7,Senior Finance Manager,Rail & Road Projects,0,56150,70859,Finance
+,61,Sep-12,,,PB5,Senior Finance Manager,Rail & Road Projects,0,35964,43120,Finance
+,61,Sep-12,,,PB2,Project Support Officer,Rail & Road Projects,0,20855,23885,Programme and Project Management (PPM)
+,61,Sep-12,,,PB2,Finance Support Officer,Rail & Road Projects,0,20855,23885,Finance
+,62,Sep-12,,,PB7,Senior Project Manager,Commercial & Technical Services,0,56150,70859,Programme and Project Management (PPM)
+,62,Sep-12,,,PB6,Project Manager,Commercial & Technical Services,0,45688,57506,Programme and Project Management (PPM)
+,62,Sep-12,,,PB5,Business Manager,Commercial & Technical Services,0,35964,43120,Policy
+,62,Sep-12,,,PB3,Business Support,Commercial & Technical Services,0,24488,28607,Policy
+,62,Sep-12,,,PB3,Project Support Officer,Commercial & Technical Services,0,24488,28607,Programme and Project Management (PPM)
+,62,Sep-12,,,PB2,Business Support,Commercial & Technical Services,0,20855,23885,Policy
+,63,Sep-12,,,PB7,Senior Contract Manager,Rail Commercial,0,56150,70859,Policy
+,63,Sep-12,,,PB6,Senior Contract Manager,Rail Commercial,0,45688,57506,Policy
+,63,Sep-12,,,PB5,Contract Manager,Rail Commercial,0,35964,43120,Policy
+,63,Sep-12,,,PB4,Contract Manager,Rail Commercial,0,29672,35447,Policy
+,63,Sep-12,,,PB3,Senior Contract Manager,Rail Commercial,0,24488,28607,Policy
+,63,Sep-12,,,PB2,Contract Support Officer,Rail Commercial,0,20855,23885,Policy
+,64,Sep-12,,,PB6,Senior Policy Adviser,London & Olympics,0,45688,57506,Policy
+,64,Sep-12,,,PB4,Policy Adviser,London & Olympics,0,29672,35447,Policy
+,64,Sep-12,,,PB3,Policy Support Officer,London & Olympics,0,24488,28607,Policy
+,65,Sep-12,,,PB7,Senior Finance Manager,Group Finance,0,56150,70859,Finance
+,65,Sep-12,,,PB6,Senior Finance Manager,Group Finance,0,45688,57506,Finance
+,65,Sep-12,,,PB5,Finance Officer,Group Finance,0,35964,43120,Finance
+,65,Sep-12,,,PB4FS,Finance Officer,Group Finance,0,27000,36435,Finance
+,65,Sep-12,,,PB4,Finance Officer,Group Finance,0,29672,35447,Finance
+,65,Sep-12,,,PB2,Finance Support Officer,Group Finance,0,20855,23885,Finance
+,66,Sep-12,,,PB7,Senior Finance Manager,Group Finance,0,56150,70859,Finance
+,66,Sep-12,,,PB6,Senior Finance Manager,Group Finance,0,45688,57506,Finance
+,66,Sep-12,,,PB5,Finance Officer,Group Finance,0,35964,43120,Finance
+,66,Sep-12,,,PB4,Finance Officer,Group Finance,0,29672,35447,Finance
+,66,Sep-12,,,PB3,Finance Support Officer,Group Finance,0,24488,28607,Finance
+,66,Sep-12,,,PB2,Executive Assistant,Group Finance,0,20855,23885,Finance
+,67,Sep-12,,,PB7,Senior Finance Manager,Group Finance,0,56150,70859,Finance
+,67,Sep-12,,,PB6,Senior Finance Manager,Group Finance,0,45688,57506,Finance
+,67,Sep-12,,,PB5,Finance Officer,Group Finance,0,35964,43120,Finance
+,67,Sep-12,,,PB4,Finance Officer,Group Finance,0,29672,35447,Finance
+,67,Sep-12,,,PB3,Finance Support Officer,Group Finance,0,24488,28607,Finance
+,67,Sep-12,,,PB2,Finance Support Officer,Group Finance,0,20855,23885,Finance
+,68,Sep-12,,,PB7,Senior Finance Manager,Group Finance,0,56150,70859,Finance
+,68,Sep-12,,,PB6,Senior Finance Manager,Group Finance,0,45688,57506,Finance
+,68,Sep-12,,,PB5,Finance Officer,Group Finance,0,35964,43120,Finance
+,68,Sep-12,,,PB4,Finance Officer,Group Finance,0,29672,35447,Finance
+,68,Sep-12,,,PB3,Finance Support Officer,Group Finance,0,24488,28607,Finance
+,70,Sep-12,,,PB6,Senior Internal Auditor,Group Internal Audit,0,45688,57506,Internal Audit
+,70,Sep-12,,,PB5,Internal Auditor,Group Internal Audit,0,35964,43120,Internal Audit
+,70,Sep-12,,,PB4,Internal Auditor,Group Internal Audit,0,29672,35447,Internal Audit
+,70,Sep-12,,,PB2,Internal Audit Support Officer,Group Internal Audit,0,20855,23885,Internal Audit
+,71,Sep-12,,,PB7,Senior Policy Adviser,Corporate Governance,0,56150,70859,Policy
+,71,Sep-12,,,PB6,Senior Policy Adviser,Corporate Governance,0,45688,57506,Policy
+,71,Sep-12,,,PB4FS,Policy Adviser,Corporate Governance,0,27000,36435,Policy
+,71,Sep-12,,,PB3,Policy Support Officer,Corporate Governance,0,24488,28607,Policy
+,72,Sep-12,,,PB6,Senior Estates Manager,Group Procurement,0,45688,57506,Property and asset management
+,72,Sep-12,,,PB5,Estates Officer,Group Procurement,0,35964,43120,Property and asset management
+,72,Sep-12,,,PB4,Estates Officer,Group Procurement,0,29672,35447,Property and asset management
+,72,Sep-12,,,PB2,Estates Support Officer,Group Procurement,0,20855,23885,Property and asset management
+,73,Sep-12,,,PB7,Senior Procurement Officer,Group Procurement,0,56150,70859,Procurement
+,73,Sep-12,,,PB6,Senior Procurement Officer,Group Procurement,0,45688,57506,Procurement
+,73,Sep-12,,,PB5,Senior Procurement Officer,Group Procurement,0,35964,43120,Procurement
+,73,Sep-12,,,PB4,Procurement Officer,Group Procurement,0,29672,35447,Procurement
+,73,Sep-12,,,PB3,Procurement Support Officer,Group Procurement,0,24488,28607,Procurement
+,73,Sep-12,,,PB2,Procurement Support Officer,Group Procurement,0,20855,23885,Procurement
+,74,Sep-12,,,PB7,Senior Communications Manager,Group Communications,0,56150,70859,Communications
+,74,Sep-12,,,PB6,Senior Communications Manager,Group Communications,0,45688,57506,Communications
+,74,Sep-12,,,PB5,Communications Manager,Group Communications,0,35964,43120,Communications
+,74,Sep-12,,,PB4,Communications Manager,Group Communications,0,29672,35447,Communications
+,75,Sep-12,,,PB7,Senior Communications Manager,Group Communications,0,56150,70859,Communications
+,75,Sep-12,,,PB6,Senior Communications Manager,Group Communications,0,45688,57506,Communications
+,75,Sep-12,,,PB5,Communications Manager,Group Communications,0,35964,43120,Communications
+,75,Sep-12,,,PB4,Communications Manager,Group Communications,0,29672,35447,Communications
+,75,Sep-12,,,PB3,Communications Support Officer,Group Communications,0,24488,28607,Communications
+,75,Sep-12,,,PB3,Operations Support Officer,Group Communications,0,24488,28607,Operational Delivery
+,76,Sep-12,,,PB5,Communications Manager,Group Communications,0,35964,43120,Communications
+,76,Sep-12,,,PB4,Communications Manager,Group Communications,0,29672,35447,Communications
+,77,Sep-12,,,PB6,Senior HR Manager,Group HR,0,45688,57506,Human Resources
+,77,Sep-12,,,PB5,HR Officer,Group HR,0,35964,43120,Human Resources
+,77,Sep-12,,,PB4FS,HR Officer,Group HR,0,27000,36435,Human Resources
+,77,Sep-12,,,PB4,HR Officer,Group HR,0,29672,35447,Human Resources
+,77,Sep-12,,,PB3,HR Support Officer,Group HR,0,24488,28607,Human Resources
+,78,Sep-12,,,PB7,Senior HR Manager,Group HR,0,56150,70859,Human Resources
+,78,Sep-12,,,PB6,Senior HR Manager,Group HR,0,45688,57506,Human Resources
+,78,Sep-12,,,PB5,HR Officer,Group HR,0,35964,43120,Human Resources
+,78,Sep-12,,,PB4FS,HR Officer,Group HR,0,27000,36435,Human Resources
+,78,Sep-12,,,PB4,HR Officer,Group HR,0,29672,35447,Human Resources
+,78,Sep-12,,,PB3,HR Support Officer,Group HR,0,24488,28607,Human Resources
+,78,Sep-12,,,PB2,HR Support Officer,Group HR,0,20855,23885,Human Resources
+,79,Sep-12,,,PB6,Senior HR Manager,Group HR,0,45688,57506,Human Resources
+,81,Sep-12,,,PB6,Senior Policy Adviser,Motoring Services,0,45688,57506,Policy
+,81,Sep-12,,,PB5,Policy Adviser,Motoring Services,0,35964,43120,Policy
+,81,Sep-12,,,PB4FS,Policy Adviser,Motoring Services,0,27000,36435,Policy
+,81,Sep-12,,,PB3,Policy Support Officer,Motoring Services,0,24488,28607,Policy
+,82,Sep-12,,,PB7,Senior Policy Adviser,Motoring Services,0,56150,70859,Policy
+,82,Sep-12,,,PB6,Senior Policy Adviser,Motoring Services,0,45688,57506,Policy
+,82,Sep-12,,,PB5,Policy Adviser,Motoring Services,0,35964,43120,Policy
+,82,Sep-12,,,PB4FS,Policy Adviser,Motoring Services,0,27000,36435,Policy
+,82,Sep-12,,,PB4,Policy Adviser,Motoring Services,0,29672,35447,Policy
+,82,Sep-12,,,PB3,Policy Support Officer,Motoring Services,0,24488,28607,Policy
+,82,Sep-12,,,PB2,Policy Support Officer,Motoring Services,0,20855,23885,Policy
+,83,Sep-12,,,PB7,Senior Policy Adviser,Rail,0,56150,70859,Policy
+,83,Sep-12,,,PB6,Senior Policy Adviser,Rail,0,45688,57506,Policy
+,83,Sep-12,,,PB4,Policy Adviser,Rail,0,29672,35447,Policy
+,83,Sep-12,,,PB2,Policy Support Officer,Rail,0,20855,23885,Policy
+,84,Sep-12,,,PB7,Senior Policy Adviser,Rail,0,56150,70859,Policy
+,84,Sep-12,,,PB6,Senior Policy Adviser,Rail,0,45688,57506,Policy
+,84,Sep-12,,,PB5,Policy Adviser,Rail,0,35964,43120,Policy
+,84,Sep-12,,,PB4FS,Policy Adviser,Rail,0,27000,36435,Policy
+,84,Sep-12,,,PB4,Policy Adviser,Rail,0,29672,35447,Policy
+,86,Sep-12,,,PB7,Senior Economist,Rail,0,56150,70859,Economics
+,86,Sep-12,,,PB6,Senior Statistician,Rail,0,45688,57506,Statisticians
+,86,Sep-12,,,PB6,Senior Economist,Rail,0,45688,57506,Economics
+,86,Sep-12,,,PB4FS,Economist,Rail,0,27000,36435,Economics
+,86,Sep-12,,,PB4,Statistician,Rail,0,29672,35447,Statisticians
+,86,Sep-12,,,PB3,Statistical Support Officer,Rail,0,24488,28607,Statisticians
+,87,Sep-12,,,PB7,Senior Policy Adviser,Rail,0,56150,70859,Policy
+,87,Sep-12,,,PB6,Senior Policy Adviser,Rail,0,45688,57506,Policy
+,87,Sep-12,,,PB3,Operations Support Officer,Rail,0,24488,28607,Operational Delivery
+,88,Sep-12,,,PB6,Senior Policy Adviser,Rail,0,45688,57506,Policy
+,88,Sep-12,,,PB5,Policy Adviser,Rail,0,35964,43120,Policy
+,88,Sep-12,,,PB4,Policy Adviser,Rail,0,29672,35447,Policy
+,89,Sep-12,,,PB7,Senior Policy Adviser,Roads,0,56150,70859,Policy
+,89,Sep-12,,,PB6,Senior Policy Adviser,Roads,0,45688,57506,Policy
+,89,Sep-12,,,PB5,Policy Adviser,Roads,0,35964,43120,Policy
+,89,Sep-12,,,PB4,Policy Adviser,Roads,0,29672,35447,Policy
+,89,Sep-12,,,PB3,Policy Support Officer,Roads,0,24488,28607,Policy
+,89,Sep-12,,,PB2,Policy Support Officer,Roads,0,20855,23885,Policy
+,90,Sep-12,,,PB6,Senior Policy Adviser,Roads,0,45688,57506,Policy
+,90,Sep-12,,,PB4FS,Policy Adviser,Roads,0,27000,36435,Policy
+,90,Sep-12,,,PB4,Policy Adviser,Roads,0,29672,35447,Policy
+,90,Sep-12,,,PB3,Policy Support Officer,Roads,0,24488,28607,Policy
+,90,Sep-12,,,PB2,Policy Support Officer,Roads,0,20855,23885,Policy
+,92,Sep-12,,,PB6,Senior Policy Adviser,Roads,0,45688,57506,Policy
+,92,Sep-12,,,PB5,Policy Adviser,Roads,0,35964,43120,Policy
+,92,Sep-12,,,PB4FS,Policy Adviser,Roads,0,27000,36435,Policy
+,92,Sep-12,,,PB4,Policy Adviser,Roads,0,29672,35447,Policy
+,92,Sep-12,,,PB3,Policy Support Officer,Roads,0,24488,28607,Policy
+,92,Sep-12,,,PB2,Policy Support Officer,Roads,0,20855,23885,Policy
+,91,Sep-12,,,PB7,Senior Policy Adviser,Roads,0,56150,70859,Policy
+,91,Sep-12,,,PB6,Senior Policy Adviser,Roads,0,45688,57506,Policy
+,91,Sep-12,,,PB5,Policy Adviser,Roads,0,35964,43120,Policy
+,91,Sep-12,,,PB4FS,Policy Adviser,Roads,0,27000,36435,Policy
+,91,Sep-12,,,PB4,Policy Adviser,Roads,0,29672,35447,Policy
+,91,Sep-12,,,PB2,Policy Support Officer,Roads,0,20855,23885,Policy
+,93,Sep-12,,,PB7,Senior Policy Adviser,Roads,0,56150,70859,Policy
+,93,Sep-12,,,PB6,Senior Policy Adviser,Roads,0,45688,57506,Policy
+,93,Sep-12,,,PB5,Policy Adviser,Roads,0,35964,43120,Policy
+,93,Sep-12,,,PB4FS,Policy Adviser,Roads,0,27000,36435,Policy
+,93,Sep-12,,,PB4,Policy Adviser,Roads,0,29672,35447,Policy
+,93,Sep-12,,,PB3,Policy Support Officer,Roads,0,24488,28607,Policy
+,93,Sep-12,,,PB2,Policy Support Officer,Roads,0,20855,23885,Policy
+,94,Sep-12,,,PB6,Senior Policy Adviser,Local,0,45688,57506,Policy
+,94,Sep-12,,,PB5,Policy Adviser,Local,0,35964,43120,Policy
+,94,Sep-12,,,PB4,Policy Adviser,Local,0,29672,35447,Policy
+,94,Sep-12,,,PB4FS,Policy Adviser,Local,0,27000,36435,Policy
+,94,Sep-12,,,PB3,Policy Support Officer,Local,0,24488,28607,Policy
+,94,Sep-12,,,PB2,Policy Support Officer,Local,0,20855,23885,Policy
+,95,Sep-12,,,PB6,Senior Statistician,Local,0,45688,57506,Statisticians
+,95,Sep-12,,,PB5,Statistician,Local,0,35964,43120,Statisticians
+,95,Sep-12,,,PB5,IT Manager,Local,0,35964,43120,Information Technology
+,95,Sep-12,,,PB4FS,Statistician,Local,0,27000,36435,Statisticians
+,95,Sep-12,,,PB4,Statistician,Local,0,29672,35447,Statisticians
+,95,Sep-12,,,PB4,IT Manager,Local,0,29672,35447,Information Technology
+,95,Sep-12,,,PB3,Statistical Support Officer,Local,0,24488,28607,Statisticians
+,95,Sep-12,,,PB3,Policy Support Officer,Local,0,24488,28607,Policy
+,96,Sep-12,,,PB6,Senior Policy Adviser,Local,0,45688,57506,Policy
+,96,Sep-12,,,PB5,Policy Adviser,Local,0,35964,43120,Policy
+,96,Sep-12,,,PB4,Policy Adviser,Local,0,29672,35447,Policy
+,96,Sep-12,,,PB3,Policy Support Officer,Local,0,24488,28607,Policy
+,98,Sep-12,,,PB7,Senior Policy Adviser,Local,0,56150,70859,Policy
+,98,Sep-12,,,PB6,Senior Policy Adviser,Local,0,45688,57506,Policy
+,98,Sep-12,,,PB5,Policy Adviser,Local,0,35964,43120,Policy
+,98,Sep-12,,,PB4,Policy Adviser,Local,0,29672,35447,Policy
+,98,Sep-12,,,PB3,Policy Support Officer,Local,0,24488,28607,Policy
+,98,Sep-12,,,PB2,Policy Support Officer,Local,0,20855,23885,Policy
+,99,Sep-12,,,PB2,Policy Support Officer,Local,0,20855,23885,Policy
+,99,Sep-12,,,PB7,Senior Economist,Local,0,56150,70859,Economics
+,99,Sep-12,,,PB6,Senior Economist,Local,0,45688,57506,Economics
+,99,Sep-12,,,PB4FS,Economist,Local,0,27000,36435,Economics
+,100,Sep-12,,,PB7,Senior Policy Adviser,Local,0,56150,70859,Policy
+,100,Sep-12,,,PB6,Senior Policy Adviser,Local,0,45688,57506,Policy
+,100,Sep-12,,,PB5,Policy Adviser,Local,0,35964,43120,Policy
+,100,Sep-12,,,PB4,Policy Adviser,Local,0,29672,35447,Policy
+,100,Sep-12,,,PB3,Policy Support Officer,Local,0,24488,28607,Policy
+,100,Sep-12,,,PB2,Policy Support Officer,Local,0,20855,23885,Policy
+,101,Sep-12,,,PB7,Senior Policy Adviser,"Dangerous Goods, Smart ticketing & High Speed Rail",0,56150,70859,Policy
+,101,Sep-12,,,PB6,Senior Policy Adviser,"Dangerous Goods, Smart ticketing & High Speed Rail",0,45688,57506,Policy
+,101,Sep-12,,,PB4FS,Policy Adviser,"Dangerous Goods, Smart ticketing & High Speed Rail",0,27000,36435,Policy
+,101,Sep-12,,,PB4,Policy Adviser,"Dangerous Goods, Smart ticketing & High Speed Rail",0,29672,35447,Policy
+,101,Sep-12,,,PB2,Policy Support Officer,"Dangerous Goods, Smart ticketing & High Speed Rail",0,20855,23885,Policy
+,102,Sep-12,,,PB6,Senior Policy Adviser,"Dangerous Goods, Smart ticketing & High Speed Rail",0,45688,57506,Policy
+,102,Sep-12,,,PB4FS,Policy Adviser,"Dangerous Goods, Smart ticketing & High Speed Rail",0,27000,36435,Policy
+,102,Sep-12,,,PB4,Policy Adviser,"Dangerous Goods, Smart ticketing & High Speed Rail",0,29672,35447,Policy
+,103,Sep-12,,,PB6,Senior Policy Adviser,Local,0,45688,57506,Policy
+,103,Sep-12,,,PB4FS,Policy Adviser,Local,0,27000,36435,Policy
+,103,Sep-12,,,PB4,Policy Adviser,Local,0,29672,35447,Policy
+,104,Sep-12,,,PB6,Senior Policy Adviser,Transport Direct & Travel Information,0,45688,57506,Policy
+,104,Sep-12,,,PB4,Policy Adviser,Transport Direct & Travel Information,0,29672,35447,Policy
+,104,Sep-12,,,PB3,Policy Support Officer,Transport Direct & Travel Information,0,24488,28607,Policy
+,104,Sep-12,,,PB2,Policy Support Officer,Transport Direct & Travel Information,0,20855,23885,Policy
+,105,Sep-12,,,PB7,Senior Policy Adviser,Transport Security Strategy,0,56150,70859,Policy
+,105,Sep-12,,,PB6,Senior Policy Adviser,Transport Security Strategy,0,45688,57506,Policy
+,105,Sep-12,,,PB6,Senior Policy Adviser,Transport Security Strategy,0,45688,57506,Science and Engineering
+,105,Sep-12,,,PB5,Policy Adviser,Transport Security Strategy,0,35964,43120,Policy
+,105,Sep-12,,,PB5,Policy Adviser,Transport Security Strategy,0,35964,43120,Science and Engineering
+,105,Sep-12,,,PB4FS,Policy Adviser,Transport Security Strategy,0,27000,36435,Policy
+,105,Sep-12,,,PB4,Policy Adviser,Transport Security Strategy,0,29672,35447,Policy
+,105,Sep-12,,,PB4,Policy Adviser,Transport Security Strategy,0,29672,35447,Science and Engineering
+,105,Sep-12,,,PB3,Policy Support Officer,Transport Security Strategy,0,24488,28607,Policy
+,105,Sep-12,,,PB2,Policy Support Officer,Transport Security Strategy,0,20855,23885,Policy
+,106,Sep-12,,,PB6,Senior Policy Adviser,Aviation,0,45688,57506,Policy
+,106,Sep-12,,,PB4FS,Policy Adviser,Aviation,0,27000,36435,Policy
+,106,Sep-12,,,PB4,Policy Adviser,Aviation,0,29672,35447,Policy
+,106,Sep-12,,,PB3,Policy Support Officer,Aviation,0,24488,28607,Policy
+,106,Sep-12,,,PB2,Policy Support Officer,Aviation,0,20855,23885,Policy
+,107,Sep-12,,,PB7,Senior Policy Adviser,Aviation,0,56150,70859,Policy
+,107,Sep-12,,,PB6,Senior Policy Adviser,Aviation,0,45688,57506,Policy
+,107,Sep-12,,,PB5,Policy Adviser,Aviation,0,35964,43120,Policy
+,107,Sep-12,,,PB4FS,Policy Adviser,Aviation,0,27000,36435,Policy
+,107,Sep-12,,,PB4,Policy Adviser,Aviation,0,29672,35447,Policy
+,107,Sep-12,,,PB3,Policy Support Officer,Aviation,0,24488,28607,Policy
+,107,Sep-12,,,PB2,Policy Support Officer,Aviation,0,20855,23885,Policy
+,108,Sep-12,,,PB6,Senior Policy Adviser,Aviation,0,45688,57506,Policy
+,108,Sep-12,,,PB4FS,Policy Adviser,Aviation,0,27000,36435,Policy
+,108,Sep-12,,,PB4,Policy Adviser,Aviation,0,29672,35447,Policy
+,108,Sep-12,,,PB3,Policy Support Officer,Aviation,0,24488,28607,Policy
+,108,Sep-12,,,PB2,Policy Support Officer,Aviation,0,20855,23885,Policy
+,109,Sep-12,,,PB6,Senior Policy Adviser,Aviation,0,45688,57506,Policy
+,109,Sep-12,,,PB5,Policy Adviser,Aviation,0,35964,43120,Policy
+,109,Sep-12,,,PB4FS,Policy Adviser,Aviation,0,27000,36435,Policy
+,109,Sep-12,,,PB4,Policy Adviser,Aviation,0,29672,35447,Policy
+,110,Sep-12,,,PB7,Senior Policy Adviser,Aviation,0,56150,70859,Policy
+,110,Sep-12,,,PB6,Senior Policy Adviser,Aviation,0,45688,57506,Policy
+,110,Sep-12,,,PB5,Policy Adviser,Aviation,0,35964,43120,Policy
+,110,Sep-12,,,PB4FS,Policy Adviser,Aviation,0,27000,36435,Policy
+,110,Sep-12,,,PB4,Policy Adviser,Aviation,0,29672,35447,Policy
+,110,Sep-12,,,PB3,Policy Support Officer,Aviation,0,24488,28607,Policy
+,110,Sep-12,,,PB2,Policy Support Officer,Aviation,0,20855,23885,Policy
+,111,Sep-12,,,PB6,Senior Policy Adviser,Maritime,0,45688,57506,Policy
+,111,Sep-12,,,PB4FS,Policy Adviser,Maritime,0,27000,36435,Policy
+,111,Sep-12,,,PB4,Policy Adviser,Maritime,0,29672,35447,Policy
+,111,Sep-12,,,PB3,Policy Support Officer,Maritime,0,24488,28607,Policy
+,112,Sep-12,,,PB6,Senior Policy Adviser,Maritime,0,45688,57506,Policy
+,112,Sep-12,,,PB5,Policy Adviser,Maritime,0,35964,43120,Policy
+,112,Sep-12,,,PB4,Policy Adviser,Maritime,0,29672,35447,Policy
+,112,Sep-12,,,PB3,Policy Support Officer,Maritime,0,24488,28607,Policy
+,113,Sep-12,,,PB6,Senior Policy Adviser,Maritime,0,45688,57506,Policy
+,113,Sep-12,,,PB5,Policy Adviser,Maritime,0,35964,43120,Policy
+,113,Sep-12,,,PB4FS,Policy Adviser,Maritime,0,27000,36435,Policy
+,113,Sep-12,,,PB4,Policy Adviser,Maritime,0,29672,35447,Programme and Project Management (PPM)
+,113,Sep-12,,,PB3,Policy Support Officer,Maritime,0,24488,28607,Policy
+,114,Sep-12,,,PB7,Senior Operational Manager,Maritime,0,56150,70859,Operational Delivery
+,114,Sep-12,,,PB6,Senior Operational Manager,Maritime,0,45688,57506,Operational Delivery
+,114,Sep-12,,,PB5,Operations Support Officer,Maritime,0,35964,43120,Operational Delivery
+,114,Sep-12,,,PB4,Transport Security Inspector,Maritime,0,29672,35447,Operational Delivery
+,114,Sep-12,,,PB4,Operations Support Officer,Maritime,0,29672,35447,Operational Delivery
+,114,Sep-12,,,PB3,Transport Security Support Officer,Maritime,0,24488,28607,Operational Delivery
+,114,Sep-12,,,PB3,Transport Security Inspector,Maritime,0,24488,28607,Operational Delivery
+,114,Sep-12,,,PB2,Transport Security Support Officer,Maritime,0,20855,23885,Operational Delivery
+,115,Sep-12,,,PB7,Senior Procurement Officer,Maritime,0,56150,70859,Procurement
+,115,Sep-12,,,PB6,Senior Procurement Officer,Maritime,0,45688,57506,Procurement
+,115,Sep-12,,,PB5,Procurement Support Officer,Maritime,0,35964,43120,Procurement
+,115,Sep-12,,,PB5,Transport Security Inspector,Maritime,0,35964,43120,Operational Delivery
+,115,Sep-12,,,PB4FS,Procurement Support Officer,Maritime,0,27000,36435,Procurement
+,115,Sep-12,,,PB4,Procurement Support Officer,Maritime,0,29672,35447,Procurement
+,115,Sep-12,,,PB3,Policy Support Officer,Maritime,0,24488,28607,Policy
+,115,Sep-12,,,PB2,Policy Support Officer,Maritime,0,20855,23885,Policy
+,117,Sep-12,,,PB6,Senior Policy Adviser,Greener Transport & International,0,45688,57506,Policy
+,117,Sep-12,,,PB5,Policy Adviser,Greener Transport & International,0,35964,43120,Policy
+,117,Sep-12,,,PB4FS,Policy Adviser,Greener Transport & International,0,27000,36435,Policy
+,117,Sep-12,,,PB4,Policy Adviser,Greener Transport & International,0,29672,35447,Policy
+,117,Sep-12,,,PB3,Policy Support Officer,Greener Transport & International,0,24488,28607,Policy
+,118,Sep-12,,,PB7,Senior Operational Manager,Greener Transport & International,0,56150,70859,Operational Delivery
+,118,Sep-12,,,PB6,Senior Policy Adviser,Greener Transport & International,0,45688,57506,Policy
+,118,Sep-12,,,PB6,Senior Operational Manager,Greener Transport & International,0,45688,57506,Operational Delivery
+,118,Sep-12,,,PB5,Operational Manager,Greener Transport & International,0,35964,43120,Operational Delivery
+,118,Sep-12,,,PB4FS,Policy Adviser,Greener Transport & International,0,27000,36435,Policy
+,118,Sep-12,,,PB4,Policy Adviser,Greener Transport & International,0,29672,35447,Policy
+,118,Sep-12,,,PB4,Operational Manager,Greener Transport & International,0,29672,35447,Operational Delivery
+,118,Sep-12,,,PB3,Policy Support Officer,Greener Transport & International,0,24488,28607,Policy
+,118,Sep-12,,,PB3,Operations Support Officer,Greener Transport & International,0,24488,28607,Operational Delivery
+,119,Sep-12,,,PB6,Senior Policy Adviser,Greener Transport & International,0,45688,57506,Policy
+,119,Sep-12,,,PB5,Policy Adviser,Greener Transport & International,0,35964,43120,Policy
+,119,Sep-12,,,PB4FS,Policy Adviser,Greener Transport & International,0,27000,36435,Policy
+,119,Sep-12,,,PB4,Policy Adviser,Greener Transport & International,0,29672,35447,Policy
+,119,Sep-12,,,PB3,Policy Support Officer,Greener Transport & International,0,24488,28607,Policy
+,120,Sep-12,,,PB7,Senior Economist,Strategy,0,56150,70859,Economics
+,120,Sep-12,,,PB6,Senior Policy Adviser,Strategy,0,45688,57506,Policy
+,120,Sep-12,,,PB6,Senior Economist,Strategy,0,45688,57506,Economics
+,120,Sep-12,,,PB5,Policy Adviser,Strategy,0,35964,43120,Policy
+,120,Sep-12,,,PB4FS,Economist,Strategy,0,27000,36435,Economics
+,120,Sep-12,,,PB4FS,Policy Adviser,Strategy,0,27000,36435,Policy
+,120,Sep-12,,,PB2,Policy Support Officer,Strategy,0,20855,23885,Policy
+,121,Sep-12,,,PB7,Senior Policy Adviser,Analysis & Strategy,0,56150,70859,Operational Delivery
+,121,Sep-12,,,PB6,Senior Policy Adviser,Analysis & Strategy,0,45688,57506,Science and Engineering
+,121,Sep-12,,,PB4,Policy Adviser,Analysis & Strategy,0,29672,35447,Science and Engineering
+,121,Sep-12,,,PB4FS,Policy Adviser,Analysis & Strategy,0,27000,36435,Operational Delivery
+,121,Sep-12,,,PB3,Policy Support Officer,Analysis & Strategy,0,24488,28607,Operational Delivery
+,122,Sep-12,,,PB7,Senior Transport Modeller,Analysis & Strategy,0,56150,70859,Science and Engineering
+,122,Sep-12,,,PB6,Senior Transport Modeller,Analysis & Strategy,0,45688,57506,Science and Engineering
+,122,Sep-12,,,PB6,Senior Economist,Analysis & Strategy,0,45688,57506,Economics
+,122,Sep-12,,,PB5,Transport Modeller,Analysis & Strategy,0,35964,43120,Science and Engineering
+,122,Sep-12,,,PB4FS,Economist,Analysis & Strategy,0,27000,36435,Economics
+,123,Sep-12,,,PB7,Senior Economic Adviser,Analysis & Strategy,0,56150,70859,Economics
+,123,Sep-12,,,PB6,Economic Adviser,Analysis & Strategy,0,45688,57506,Economics
+,123,Sep-12,,,PB6,Senior Transport Modeller,Analysis & Strategy,0,45688,57506,Science and Engineering
+,123,Sep-12,,,PB4FS,Economist,Analysis & Strategy,0,27000,36435,Economics
+,124,Sep-12,,,PB7,Senior Project Manager,Rail & Road Projects,0,56150,70859,Programme and Project Management (PPM)
+,124,Sep-12,,,PB6,Project Manager,Rail & Road Projects,0,45688,57506,Programme and Project Management (PPM)
+,124,Sep-12,,,PB4,Project Support Officer,Rail & Road Projects,0,29672,35447,Programme and Project Management (PPM)
+,124,Sep-12,,,PB2,Project Support Officer,Rail & Road Projects,0,20855,23885,Programme and Project Management (PPM)
+,124,Sep-12,,,PB4FS,Project Manager,Rail & Road Projects,0,27000,36435,Programme and Project Management (PPM)
+,125,Sep-12,,,PB7,Principal Sponsor,Rail & Road Projects,0,56150,70859,Science and Engineering
+,125,Sep-12,,,PB6,Senior Project Manager,Rail & Road Projects,0,45688,57506,Programme and Project Management (PPM)
+,125,Sep-12,,,PB4FS,Project Manager,Rail & Road Projects,0,27000,36435,Programme and Project Management (PPM)
+,125,Sep-12,,,PB4,Project Manager,Rail & Road Projects,0,29672,35447,Programme and Project Management (PPM)
+,125,Sep-12,,,PB2,Project Support Officer,Rail & Road Projects,0,20855,23885,Programme and Project Management (PPM)
+,126,Sep-12,,,PB7,Senior Project Manager,Rail & Road Projects,0,56150,70859,Programme and Project Management (PPM)
+,126,Sep-12,,,PB6,Project Manager,Rail & Road Projects,0,45688,57506,Programme and Project Management (PPM)
+,126,Sep-12,,,PB3,Project Support Officer,Rail & Road Projects,0,24488,28607,Programme and Project Management (PPM)
+,126,Sep-12,,,PB2,Project Support Officer,Rail & Road Projects,0,20855,23885,Programme and Project Management (PPM)
+,127,Sep-12,,,PB7,Senior Project Manager,Rail & Road Projects,0,56150,70859,Programme and Project Management (PPM)
+,127,Sep-12,,,PB6,Project Manager,Rail & Road Projects,0,45688,57506,Programme and Project Management (PPM)
+,128,Sep-12,,,PB7,Technical Manager,Commercial & Technical Services,0,56150,70859,Science and Engineering
+,128,Sep-12,,,PB6,Technical Manager,Commercial & Technical Services,0,45688,57506,Science and Engineering
+,128,Sep-12,,,PB5,Technical Support Engineer,Commercial & Technical Services,0,35964,43120,Science and Engineering
+,129,Sep-12,,,PB7,Senior Procurement Officer,Commercial & Technical Services,0,56150,70859,Procurement
+,129,Sep-12,,,PB6,Senior Procurement Officer,Commercial & Technical Services,0,45688,57506,Procurement
+,129,Sep-12,,,PB5,Procurement Officer,Commercial & Technical Services,0,35964,43120,Procurement
+,129,Sep-12,,,PB4FS,Procurement Officer,Commercial & Technical Services,0,27000,36435,Procurement
+,130,Sep-12,,,PB7,Senior Procurement Officer,Commercial & Technical Services,0,56150,70859,Procurement
+,130,Sep-12,,,PB6,Senior Procurement Officer,Commercial & Technical Services,0,45688,57506,Procurement
+,132,Sep-12,,,PB7,Senior Procurement Officer,Commercial & Technical Services,0,56150,70859,Procurement
+,132,Sep-12,,,PB7,Senior Finance Manager,Commercial & Technical Services,0,56150,70859,Finance
+,132,Sep-12,,,PB5,Procurement Officer,Commercial & Technical Services,0,35964,43120,Procurement
+,132,Sep-12,,,PB3,Procurement Support Officer,Commercial & Technical Services,0,24488,28607,Procurement
+,133,Sep-12,,,PB7,Senior Procurement Officer,Commercial & Technical Services,0,56150,70859,Procurement
+,133,Sep-12,,,PB7,Senior Finance Manager,Commercial & Technical Services,0,56150,70859,Finance
+,133,Sep-12,,,PB6,Senior Finance Manager,Commercial & Technical Services,0,45688,57506,Finance
+,133,Sep-12,,,PB6,Senior Procurement Officer,Commercial & Technical Services,0,45688,57506,Procurement
+,133,Sep-12,,,PB3,Finance Officer,Commercial & Technical Services,0,24488,28607,Finance
+,135,Sep-12,,,PB6,Senior Contract Manager,Rail Commercial,0,45688,57506,Policy
+,135,Sep-12,,,PB5,Contract Manager,Rail Commercial,0,35964,43120,Policy
+,135,Sep-12,,,PB4,Contract Manager,Rail Commercial,0,29672,35447,Policy
+,140,Sep-12,,,PB6,Senior Policy Adviser,London & Olympics,0,45688,57506,Policy
+,140,Sep-12,,,PB5,Policy Adviser,London & Olympics,0,35964,43120,Policy
+,140,Sep-12,,,PB4,Policy Adviser,London & Olympics,0,29672,35447,Policy
+,142,Sep-12,,,PB6,Senior Policy Adviser,Olympics Operations,0,45688,57506,Policy
+,142,Sep-12,,,PB3,Policy Adviser,Olympics Operations,0,24488,28607,Policy
+,144,Sep-12,,,PB7,Senior Legal Adviser,General Counsel's Office,0,56150,70859,Law
+,144,Sep-12,,,PB6,Legal Adviser,General Counsel's Office,0,45688,57506,Law
+,144,Sep-12,,,PB5,Policy Adviser,General Counsel's Office,0,35964,43120,Operational Delivery
+,144,Sep-12,,,PB3,Policy Support Officer,General Counsel's Office,0,24488,28607,Operational Delivery
+,144,Sep-12,,,PB2,Policy Support Officer,General Counsel's Office,0,20855,23885,Operational Delivery
+,144,Sep-12,,,PB1,Policy Support Officer,General Counsel's Office,0,16669,20600,Operational Delivery
+,145,Sep-12,,,PB7,Senior Legal Adviser,General Counsel's Office,0,56150,70859,Law
+,145,Sep-12,,,PB6,Legal Adviser,General Counsel's Office,0,45688,57506,Law
+,146,Sep-12,,,PB7,Senior Legal Adviser,General Counsel's Office,0,56150,70859,Law
+,146,Sep-12,,,PB6,Legal Adviser,General Counsel's Office,0,45688,57506,Law
+,146,Sep-12,,,PB5,Policy Adviser,General Counsel's Office,0,35964,43120,Operational Delivery
+,146,Sep-12,,,PB3,Policy Support Officer,General Counsel's Office,0,24488,28607,Operational Delivery
+,147,Sep-12,,,PB7,Senior Legal Adviser,General Counsel's Office,0,56150,70859,Law
+,147,Sep-12,,,PB6,Legal Adviser,General Counsel's Office,0,45688,57506,Law
+,148,Sep-12,,,PB7,Senior Legal Adviser,General Counsel's Office,0,56150,70859,Law
+,148,Sep-12,,,PB6,Legal Adviser,General Counsel's Office,0,45688,57506,Law
+,149,Sep-12,,,PB7,Senior Legal Adviser,General Counsel's Office,0,56150,70859,Law
+,149,Sep-12,,,PB6,Legal Adviser,General Counsel's Office,0,45688,57506,Law
+,149,Sep-12,,,PB5,Policy Adviser,General Counsel's Office,0,35964,43120,Operational Delivery
+,149,Sep-12,,,PB4,Policy Adviser,General Counsel's Office,0,29672,35447,Operational Delivery
+,149,Sep-12,,,PB3,Policy Support Officer,General Counsel's Office,0,24488,28607,Operational Delivery
+,150,Sep-12,,,PB7,Senior Legal Adviser,General Counsel's Office,0,56150,70859,Law
+,150,Sep-12,,,PB5,Legal Trainee,General Counsel's Office,0,35964,43120,Law
+,150,Sep-12,,,PB4FS,Legal Trainee,General Counsel's Office,0,27000,36435,Law
+,151,Sep-12,,,PB7,Senior Legal Adviser,General Counsel's Office,0,56150,70859,Law
+,151,Sep-12,,,PB6,Senior Legal Adviser,General Counsel's Office,0,45688,57506,Law
+,152,Sep-12,,,PB7,Senior Legal Adviser,General Counsel's Office,0,56150,70859,Law
+,152,Sep-12,,,PB7,Knowledge Information Management Manager,General Counsel's Office,0,56150,70859,Knowledge and Information Management (KIM)
+,152,Sep-12,,,PB7,Senior Operational Manager,General Counsel's Office,0,56150,70859,Operational Delivery
+,152,Sep-12,,,PB6,Operational Manager,General Counsel's Office,0,45688,57506,Operational Delivery
+,152,Sep-12,,,PB6,Legal Adviser,General Counsel's Office,0,45688,57506,Law
+,152,Sep-12,,,PB6,Knowledge Information Management Support Officer,General Counsel's Office,0,45688,57506,Knowledge and Information Management (KIM)
+,152,Sep-12,,,PB5,Operational Manager,General Counsel's Office,0,35964,43120,Operational Delivery
+,152,Sep-12,,,PB5,Policy Adviser,General Counsel's Office,0,35964,43120,Operational Delivery
+,152,Sep-12,,,PB4,Policy Adviser,General Counsel's Office,0,29672,35447,Operational Delivery
+,152,Sep-12,,,PB3,Policy Adviser,General Counsel's Office,0,24488,28607,Operational Delivery
+,152,Sep-12,,,PB2,Policy Support Officer,General Counsel's Office,0,20855,23885,Operational Delivery
+,153,Sep-12,,,PB7,Senior Legal Adviser,General Counsel's Office,0,56150,70859,Law
+,155,Sep-12,,,PB6,Principal Private Secretary,Private Office & Parliamentary,0,45688,57506,Policy
+,155,Sep-12,,,PB6,Business Manager,Private Office & Parliamentary,0,45688,57506,Operational Delivery
+,155,Sep-12,,,PB5,Policy Adviser,Private Office & Parliamentary,0,35964,43120,Operational Delivery
+,155,Sep-12,,,PB4FS,Private Secretary,Private Office & Parliamentary,0,27000,36435,Policy
+,155,Sep-12,,,PB4,Policy Adviser,Private Office & Parliamentary,0,29672,35447,Policy
+,155,Sep-12,,,PB4,Office Manager,Private Office & Parliamentary,0,29672,35447,Operational Delivery
+,155,Sep-12,,,PB3,Diary Manager,Private Office & Parliamentary,0,24488,28607,Policy
+,155,Sep-12,,,PB3,Policy Support Officer,Private Office & Parliamentary,0,24488,28607,Operational Delivery
+,155,Sep-12,,,PB2,Policy Support Officer,Private Office & Parliamentary,0,20855,23885,Operational Delivery
+,155,Sep-12,,,PB1,Policy Support Officer,Private Office & Parliamentary,0,16669,20600,Operational Delivery
+,156,Sep-12,,,PB7AN,Principal Accident Inspector,Air Accident Investigation,0,79640,86785,Operational Delivery
+,156,Sep-12,,,PB6AN,Accident Inspector,Air Accident Investigation,0,68666,76583,Operational Delivery
+,156,Sep-12,,,PB5,Office Manager,Air Accident Investigation,0,35964,43120,Operational Delivery
+,156,Sep-12,,,PB4,Operational Manager,Air Accident Investigation,0,29672,35447,Operational Delivery
+,156,Sep-12,,,PB3,Operations Support Officer,Air Accident Investigation,0,24488,28607,Operational Delivery
+,156,Sep-12,,,PB2,Operations Support Officer,Air Accident Investigation,0,20855,23885,Operational Delivery
+,158,Sep-12,,,PB7AN,Principal Accident Inspector,Marine Accident Investigation,0,79640,86785,Operational Delivery
+,158,Sep-12,,,PB6AN,Accident Inspector,Marine Accident Investigation,0,68666,76583,Operational Delivery
+,158,Sep-12,,,PB5,Office Manager,Marine Accident Investigation,0,35964,43120,Operational Delivery
+,158,Sep-12,,,PB4FS,Operational Manager,Marine Accident Investigation,0,27000,36435,Operational Delivery
+,158,Sep-12,,,PB4,Operational Manager,Marine Accident Investigation,0,29672,35447,Operational Delivery
+,158,Sep-12,,,PB3,Operations Support Officer,Marine Accident Investigation,0,24488,28607,Operational Delivery
+,158,Sep-12,,,PB2,Operations Support Officer,Marine Accident Investigation,0,20855,23885,Operational Delivery
+,159,Sep-12,,,PB7AN,Principal Accident Inspector,Rail Accident Investigation,0,79640,86785,Operational Delivery
+,159,Sep-12,,,PB6AN,Accident Inspector,Rail Accident Investigation,0,68666,76583,Operational Delivery
+,159,Sep-12,,,PB5,Office Manager,Rail Accident Investigation,0,35964,43120,Operational Delivery
+,159,Sep-12,,,PB4,Operational Manager,Rail Accident Investigation,0,29672,35447,Operational Delivery
+,159,Sep-12,,,PB3,Operations Support Officer,Rail Accident Investigation,0,24488,28607,Operational Delivery
+,159,Sep-12,,,PB2,Operations Support Officer,Rail Accident Investigation,0,20855,23885,Operational Delivery
+,198,Sep-12,,,PB7,Senior Policy Adviser,Aviation,0,56150,70859,Policy
+,199,Sep-12,,,PB7,Senior Operational Manager,Shared Services,0,56150,70859,Operational Delivery
+,199,Sep-12,,,PB6,Senior Operational Manager,Shared Services,0,45688,57506,Operational Delivery
+,199,Sep-12,,,PB5,Senior Operational Manager,Shared Services,0,35964,43120,Operational Delivery
+,199,Sep-12,,,PB4,Operational Manager,Shared Services,0,29672,35447,Operational Delivery
+,199,Sep-12,,,PB3,Operational Manager,Shared Services,0,24488,28607,Operational Delivery
+,199,Sep-12,,,PB2,Operations Support Officer,Shared Services,0,20855,23885,Operational Delivery
+,199,Sep-12,,,PB1,Operations Support Officer,Shared Services,0,16669,20600,Operational Delivery
+,207,Sep-12,,,PB6,Commercial Manager,Rail Commercial,0,45688,57506,Policy
+,207,Sep-12,,,PB4FS,Commercial Advisor,Rail Commercial,0,27000,36435,Policy
+,208,Sep-12,,,PB7,Senior Policy Adviser,Major Projects & London,0,56150,70859,Policy
+,208,Sep-12,,,PB6,Senior Policy Adviser,Major Projects & London,0,45688,57506,Policy
+,208,Sep-12,,,PB4FS,Policy Adviser,Major Projects & London,0,27000,36435,Policy
+,209,Sep-12,,,PB7,Senior Project Manager,Rail Road Projects,0,56150,70859,Programme and Project Management (PPM)
+,211,Sep-12,,,PB7,Senior Programme Manager,Rail Commercial,0,56150,70859,Programme and Project Management (PPM)
+,211,Sep-12,,,PB6,Programme Manager,Rail Commercial,0,45688,57506,Programme and Project Management (PPM)
+,211,Sep-12,,,PB4,Programme Office,Rail Commercial,0,29672,35447,Programme and Project Management (PPM)
+,217,Sep-12,,,PB6,Senior Procurement Officer,Group Procurement,0,45688,57506,Procurement
+,217,Sep-12,,,PB4,Procurement Officer,Group Procurement,0,29672,35447,Procurement
+,217,Sep-12,,,PB3,Procurement Officer,Group Procurement,0,24488,28607,Procurement
+,217,Sep-12,,,PB2,Procurement Support Officer,Group Procurement,0,20855,23885,Procurement
+,212,Sep-12,,,PB6,Senior Contract Manager,Rail Commercial,0,45688,57506,Policy
+,212,Sep-12,,,PB5,Contract Manager,Rail Commercial,0,35964,43120,Policy
+,212,Sep-12,,,PB4,Contract Manager,Rail Commercial,0,29672,35447,Policy
+,213,Sep-12,,,PB7,Senior Comercial Manager,Rail Commercial,0,56150,70859,Policy
+,213,Sep-12,,,PB6,Senior Comercial Manager,Rail Commercial,0,45688,57506,Policy
+,213,Sep-12,,,PB5,Comercial Manager,Rail Commercial,0,35964,43120,Policy
+,213,Sep-12,,,PB4,Contract Manager,Rail Commercial,0,29672,35447,Policy
+,214,Sep-12,,,PB7,Senior Comercial Manager,Rail Commercial,0,56150,70859,Policy
+,214,Sep-12,,,PB6,Senior Comercial Manager,Rail Commercial,0,45688,57506,Policy
+,214,Sep-12,,,PB5,Contract Manager,Rail Commercial,0,35964,43120,Policy
+,214,Sep-12,,,PB4,Contract Manager,Rail Commercial,0,29672,35447,Policy
+,215,Sep-12,,,PB7,Senior Comercial Manager,Rail Commercial,0,56150,70859,Policy
+,215,Sep-12,,,PB6,Senior Contract Manager,Rail Commercial,0,45688,57506,Policy
+,215,Sep-12,,,PB5,Contract Manager,Rail Commercial,0,35964,43120,Policy
+,215,Sep-12,,,PB4,Contract Manager,Rail Commercial,0,29672,35447,Policy
+,216,Sep-12,,,PB6,Senior Policy Adviser,Greener Transport & International,0,45688,57506,Policy
+,216,Sep-12,,,PB5,Policy Adviser,Greener Transport & International,0,35964,43120,Policy
+,216,Sep-12,,,PB4FS,Policy Adviser,Greener Transport & International,0,27000,36435,Policy
+,216,Sep-12,,,PB4,Policy Adviser,Greener Transport & International,0,29672,35447,Policy

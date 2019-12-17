@@ -1,899 +1,899 @@
-date,level,id,parentId
-Mar-14,Senior,SCS1-01-01-01,SCS2-01-01
-Mar-14,Senior,SCS1-01-01-02,SCS2-01-01
-Mar-14,Senior,SCS1-01-01-03,SCS2-01-01
-Mar-14,Senior,SCS1-01-01-04,SCS2-01-01
-Mar-14,Senior,SCS1-01-01-06,SCS2-01-01
-Mar-14,Senior,SCS1-01-02-01,SCS2-01-02
-Mar-14,Senior,SCS1-01-02-03,SCS2-01-02
-Mar-14,Senior,SCS1-01-02-06,SCS2-01-02
-Mar-14,Senior,SCS1-01-02-07,SCS2-01-02
-Mar-14,Senior,SCS1-01-02-08,SCS2-01-02
-Mar-14,Senior,SCS1-01-02-09,SCS2-01-02
-Mar-14,Senior,SCS1-01-02-10,SCS2-01-02
-Mar-14,Senior,SCS1-01-03-01,SCS2-01-03
-Mar-14,Senior,SCS1-01-03-02,SCS2-01-03
-Mar-14,Senior,SCS1-01-03-03,SCS2-01-03
-Mar-14,Senior,SCS1-01-03-04,SCS2-01-03
-Mar-14,Senior,SCS1-01-03-05,SCS2-01-03
-Mar-14,Senior,SCS1-01-03-06,SCS2-01-03
-Mar-14,Senior,SCS1-01-03-07,SCS2-01-03
-Mar-14,Senior,SCS1-01-03-08,SCS2-01-03
-Mar-14,Senior,SCS1-01-05-01,SCS2-01-05
-Mar-14,Senior,SCS1-01-06-01,SCS2-01-06
-Mar-14,Senior,SCS1-01-06-02,SCS2-01-06
-Mar-14,Senior,SCS1-01-06-03,SCS2-01-06
-Mar-14,Senior,SCS1-01-06-04,SCS2-01-06
-Mar-14,Senior,SCS1-01-06-05,SCS2-01-06
-Mar-14,Senior,SCS1-01-06-06,SCS2-01-06
-Mar-14,Senior,SCS1-01-06-07,SCS2-01-06
-Mar-14,Senior,SCS1-01-06-08,SCS2-01-06
-Mar-14,Senior,SCS1-01-06-09,SCS2-01-06
-Mar-14,Senior,SCS1-01-07-01,SCS2-01-07
-Mar-14,Senior,SCS1-01-07-02,SCS2-01-07
-Mar-14,Senior,SCS1-01-07-03,SCS2-01-07
-Mar-14,Senior,SCS1-01-07-04,SCS2-01-07
-Mar-14,Senior,SCS1-01-07-05,SCS2-01-07
-Mar-14,Senior,SCS1-01-07-06,SCS2-01-07
-Mar-14,Senior,SCS1-01-08-01,SCS2-01-08
-Mar-14,Senior,SCS1-01-08-02,SCS2-01-08
-Mar-14,Senior,SCS1-02-01-01,SCS2-02-01
-Mar-14,Senior,SCS1-02-01-02,SCS2-02-01
-Mar-14,Senior,SCS1-02-01-03,SCS2-02-01
-Mar-14,Senior,SCS1-02-01-04,SCS2-02-01
-Mar-14,Senior,SCS1-02-01-06,SCS2-02-01
-Mar-14,Senior,SCS1-02-02-01,SCS2-02-02
-Mar-14,Senior,SCS1-02-02-02,SCS2-02-02
-Mar-14,Senior,SCS1-02-02-04,SCS2-02-02
-Mar-14,Senior,SCS1-02-02-05,SCS2-02-02
-Mar-14,Senior,SCS1-02-02-06,SCS2-02-02
-Mar-14,Senior,SCS1-02-02-07,SCS2-02-02
-Mar-14,Senior,SCS1-02-03-01,SCS2-01-06
-Mar-14,Senior,SCS1-02-05-01,SCS2-02-05
-Mar-14,Senior,SCS1-02-05-02,SCS2-02-05
-Mar-14,Senior,SCS1-02-05-03,SCS2-02-05
-Mar-14,Senior,SCS1-02-05-04,SCS2-02-05
-Mar-14,Senior,SCS1-03-02-04,SCS2-03-02
-Mar-14,Senior,SCS1-03-02-05,SCS3-01
-Mar-14,Senior,SCS1-03-02-06,SCS3-04
-Mar-14,Senior,SCS1-03-02-09,SCS2-03-02
-Mar-14,Senior,SCS1-03-04-01,SCS2-03-04
-Mar-14,Senior,SCS1-03-04-02,SCS2-03-04
-Mar-14,Senior,SCS1-03-04-03,SCS2-03-04
-Mar-14,Senior,SCS1-03-04-04,SCS2-03-04
-Mar-14,Senior,SCS1-04-01-01,SCS2-04-01
-Mar-14,Senior,SCS1-04-01-02,SCS2-04-01
-Mar-14,Senior,SCS1-04-01-03,SCS2-04-01
-Mar-14,Senior,SCS1-04-01-04,SCS2-04-01
-Mar-14,Senior,SCS1-04-01-05,SCS2-04-01
-Mar-14,Senior,SCS1-04-04-01,SCS2-04-04
-Mar-14,Senior,SCS1-04-04-02,SCS2-04-04
-Mar-14,Senior,SCS1-04-04-03,SCS2-04-04
-Mar-14,Senior,SCS1-04-04-04,SCS2-04-04
-Mar-14,Senior,SCS1-04-05-01,SCS2-04-05
-Mar-14,Senior,SCS1-04-05-02,SCS2-04-05
-Mar-14,Senior,SCS1-04-05-03,SCS2-04-05
-Mar-14,Senior,SCS1-04-05-06,SCS2-04-05
-Mar-14,Senior,SCS1-05-01-01,SCS2-05-01
-Mar-14,Senior,SCS1-05-01-03,SCS2-05-01
-Mar-14,Senior,SCS1-05-01-04,SCS2-05-01
-Mar-14,Senior,SCS1-05-02-01,SCS2-05-02
-Mar-14,Senior,SCS1-05-02-02,SCS2-05-02
-Mar-14,Senior,SCS1-05-02-03,SCS2-05-02
-Mar-14,Senior,SCS1-05-04-01,SCS2-05-04
-Mar-14,Senior,SCS1-05-04-02,SCS2-05-04
-Mar-14,Senior,SCS1-05-04-03,SCS2-05-04
-Mar-14,Senior,SCS1-05-04-04,SCS2-05-04
-Mar-14,Senior,SCS1-05-05-01,SCS2-05-05
-Mar-14,Senior,SCS1-05-05-02,SCS2-05-05
-Mar-14,Senior,SCS1-05-05-03,SCS2-05-05
-Mar-14,Senior,SCS1-05-05-04,SCS2-05-05
-Mar-14,Senior,SCS1-05-05-07,SCS2-05-05
-Mar-14,Senior,SCS1-05-05-08,SCS2-05-05
-Mar-14,Senior,SCS1-05-07-01,SCS2-05-07
-Mar-14,Senior,SCS1-05-07-02,SCS2-05-07
-Mar-14,Senior,SCS1-05-07-03,SCS2-05-07
-Mar-14,Senior,SCS1-06-01-01,SCS2-06-01
-Mar-14,Senior,SCS1-06-01-02,SCS2-06-01
-Mar-14,Senior,SCS1-06-01-03,SCS2-06-01
-Mar-14,Senior,SCS1-06-01-04,SCS2-06-01
-Mar-14,Senior,SCS1-06-02-01,SCS2-06-02
-Mar-14,Senior,SCS1-06-02-02,SCS2-06-02
-Mar-14,Senior,SCS1-06-02-03,SCS2-06-02
-Mar-14,Senior,SCS1-06-03-01,SCS2-06-03
-Mar-14,Senior,SCS1-06-03-03,SCS2-06-03
-Mar-14,Senior,SCS1-06-03-04,SCS2-06-03
-Mar-14,Senior,SCS1-06-04-01,SCS2-06-04
-Mar-14,Senior,SCS1-06-05-01,SCS3-06
-Mar-14,Senior,SCS1-07-01-01,SCS2-07-01
-Mar-14,Senior,SCS1-07-01-02,SCS2-07-01
-Mar-14,Senior,SCS1-07-01-03,SCS2-07-01
-Mar-14,Senior,SCS1-07-01-04,SCS2-07-01
-Mar-14,Senior,SCS1-07-01-05,SCS2-07-01
-Mar-14,Senior,SCS1-07-01-06,SCS2-07-01
-Mar-14,Senior,SCS1-07-01-07,SCS2-07-01
-Mar-14,Senior,SCS1-07-01-08,SCS2-07-01
-Mar-14,Senior,SCS1-07-01-09,SCS2-07-01
-Mar-14,Senior,SCS1-07-02-01,SCS2-07-02
-Mar-14,Senior,SCS1-07-02-02,SCS2-07-02
-Mar-14,Senior,SCS1-07-02-03,SCS2-07-02
-Mar-14,Senior,SCS1-07-02-04,SCS2-07-02
-Mar-14,Senior,SCS1-07-02-05,SCS2-07-02
-Mar-14,Senior,SCS1-07-02-06,SCS2-07-02
-Mar-14,Senior,SCS1-07-02-07,SCS3-07
-Mar-14,Senior,SCS1-07-03-01,SCS2-07-03
-Mar-14,Senior,SCS1-07-03-02,SCS2-07-03
-Mar-14,Senior,SCS1-07-03-03,SCS2-07-03
-Mar-14,Senior,SCS1-07-03-04,SCS2-07-03
-Mar-14,Senior,SCS1-07-06-01,SCS2-07-06
-Mar-14,Senior,SCS1-07-06-02,SCS2-07-06
-Mar-14,Senior,SCS1-08-01-02,SCS2-08-01
-Mar-14,Senior,SCS1-08-01-04,SCS2-08-01
-Mar-14,Senior,SCS1-08-01-05,SCS2-08-01
-Mar-14,Senior,SCS1-08-02-03,SCS2-08-02-01
-Mar-14,Senior,SCS1-08-02-04,SCS2-08-02-01
-Mar-14,Senior,SCS1-08-02-05,SCS2-08-02
-Mar-14,Senior,SCS1-08-03-01,SCS2-08-03
-Mar-14,Senior,SCS1-08-03-02,SCS2-08-03
-Mar-14,Senior,SCS1-08-03-06,SCS2-08-05
-Mar-14,Senior,SCS1-08-04-01,SCS2-08-04
-Mar-14,Senior,SCS1-08-04-02,SCS2-08-04
-Mar-14,Senior,SCS1-08-04-03,SCS2-08-04
-Mar-14,Senior,SCS1-08-04-04,SCS2-08-04
-Mar-14,Senior,SCS1-08-05-01,SCS2-08-05
-Mar-14,Senior,SCS1-08-05-02,SCS2-08-05
-Mar-14,Senior,SCS1-08-05-03,SCS2-08-05
-Mar-14,Senior,SCS1-08-05-04,SCS2-08-05
-Mar-14,Senior,SCS1-08-05-05,SCS2-08-05
-Mar-14,Senior,SCS1-08-06-01,SCS2-08-06
-Mar-14,Senior,SCS1-08-06-02,SCS2-08-06
-Mar-14,Senior,SCS1-08-06-03,SCS2-08-06
-Mar-14,Senior,SCS1-08-06-04,SCS2-08-06
-Mar-14,Senior,SCS1-09-01-01,SCS4-09
-Mar-14,Senior,SCS1-09-01-02,SCS4-09
-Mar-14,Senior,SCS1-11-01-01,SCS2-11-01
-Mar-14,Senior,SCS1-11-01-02,SCS2-11-01
-Mar-14,Senior,SCS1-11-01-03,SCS2-11-01
-Mar-14,Senior,SCS2-01-01,SCS3-06
-Mar-14,Senior,SCS2-01-02,SCS3-06
-Mar-14,Senior,SCS2-01-03,SCS3-01
-Mar-14,Senior,SCS2-01-05,SCS3-06
-Mar-14,Senior,SCS2-01-06,SCS3-01
-Mar-14,Senior,SCS2-01-07,SCS3-06
-Mar-14,Senior,SCS2-01-08,SCS3-06
-Mar-14,Senior,SCS2-02-01,SCS3-02
-Mar-14,Senior,SCS2-02-02,SCS3-01
-Mar-14,Senior,SCS2-02-03,SCS3-01
-Mar-14,Senior,SCS2-02-05,SCS3-05
-Mar-14,Senior,SCS2-03-01,SCS3-03
-Mar-14,Senior,SCS2-03-02,SCS3-03
-Mar-14,Senior,SCS2-03-03,SCS3-03
-Mar-14,Senior,SCS2-03-04,SCS3-03
-Mar-14,Senior,SCS2-04-01,SCS3-04
-Mar-14,Senior,SCS2-04-04,SCS3-04
-Mar-14,Senior,SCS2-04-05,SCS3-04
-Mar-14,Senior,SCS2-05-01,SCS3-05
-Mar-14,Senior,SCS2-05-02,SCS3-05
-Mar-14,Senior,SCS2-05-04,SCS3-01
-Mar-14,Senior,SCS2-05-05,SCS3-01
-Mar-14,Senior,SCS2-05-07,SCS3-05
-Mar-14,Senior,SCS2-06-01,SCS3-02
-Mar-14,Senior,SCS2-06-02,SCS3-02
-Mar-14,Senior,SCS2-06-03,SCS3-02
-Mar-14,Senior,SCS2-06-04,SCS3-06
-Mar-14,Senior,SCS2-07-01,SCS3-07
-Mar-14,Senior,SCS2-07-02,SCS3-07
-Mar-14,Senior,SCS2-07-03,SCS3-07
-Mar-14,Senior,SCS2-07-06,SCS3-07
-Mar-14,Senior,SCS2-08-01,SCS3-08
-Mar-14,Senior,SCS2-08-02,SCS3-08
-Mar-14,Senior,SCS2-08-02-01,SCS2-08-02
-Mar-14,Senior,SCS2-08-03,SCS3-08
-Mar-14,Senior,SCS2-08-04,SCS3-08
-Mar-14,Senior,SCS2-08-05,SCS3-08
-Mar-14,Senior,SCS2-08-06,SCS3-08
-Mar-14,Senior,SCS2-11-01,SCS4-11
-Mar-14,Senior,SCS3-01,SCS4-09
-Mar-14,Senior,SCS3-02,SCS4-09
-Mar-14,Senior,SCS3-03,SCS4-09
-Mar-14,Senior,SCS3-04,SCS4-09
-Mar-14,Senior,SCS3-05,SCS4-09
-Mar-14,Senior,SCS3-06,SCS4-09
-Mar-14,Senior,SCS3-07,SCS4-09
-Mar-14,Senior,SCS3-08,SCS4-09
-Mar-14,Senior,SCS4-09,
-Mar-14,Senior,SCS4-11,SCS4-09
-Mar-14,Junior,,SCS1-01-01-01
-Mar-14,Junior,,SCS1-01-01-01
-Mar-14,Junior,,SCS1-01-01-01
-Mar-14,Junior,,SCS1-01-01-01
-Mar-14,Junior,,SCS1-01-01-01
-Mar-14,Junior,,SCS1-01-01-02
-Mar-14,Junior,,SCS1-01-01-02
-Mar-14,Junior,,SCS1-01-01-02
-Mar-14,Junior,,SCS1-01-01-02
-Mar-14,Junior,,SCS1-01-01-03
-Mar-14,Junior,,SCS1-01-01-03
-Mar-14,Junior,,SCS1-01-01-03
-Mar-14,Junior,,SCS1-01-01-03
-Mar-14,Junior,,SCS1-01-01-03
-Mar-14,Junior,,SCS1-01-01-04
-Mar-14,Junior,,SCS1-01-01-04
-Mar-14,Junior,,SCS1-01-01-04
-Mar-14,Junior,,SCS1-01-01-04
-Mar-14,Junior,,SCS1-01-01-04
-Mar-14,Junior,,SCS1-01-01-06
-Mar-14,Junior,,SCS1-01-01-06
-Mar-14,Junior,,SCS1-01-01-06
-Mar-14,Junior,,SCS1-01-01-06
-Mar-14,Junior,,SCS1-01-01-06
-Mar-14,Junior,,SCS1-01-02-01
-Mar-14,Junior,,SCS1-01-02-01
-Mar-14,Junior,,SCS1-01-02-01
-Mar-14,Junior,,SCS1-01-02-01
-Mar-14,Junior,,SCS1-01-02-01
-Mar-14,Junior,,SCS1-01-02-03
-Mar-14,Junior,,SCS1-01-02-06
-Mar-14,Junior,,SCS1-01-02-06
-Mar-14,Junior,,SCS1-01-02-06
-Mar-14,Junior,,SCS1-01-02-07
-Mar-14,Junior,,SCS1-01-02-07
-Mar-14,Junior,,SCS1-01-02-07
-Mar-14,Junior,,SCS1-01-02-07
-Mar-14,Junior,,SCS1-01-02-08
-Mar-14,Junior,,SCS1-01-02-08
-Mar-14,Junior,,SCS1-01-02-08
-Mar-14,Junior,,SCS1-01-02-08
-Mar-14,Junior,,SCS1-01-02-09
-Mar-14,Junior,,SCS1-01-02-09
-Mar-14,Junior,,SCS1-01-02-09
-Mar-14,Junior,,SCS1-01-02-09
-Mar-14,Junior,,SCS1-01-02-10
-Mar-14,Junior,,SCS1-01-02-10
-Mar-14,Junior,,SCS1-01-02-10
-Mar-14,Junior,,SCS1-01-02-10
-Mar-14,Junior,,SCS1-01-03-01
-Mar-14,Junior,,SCS1-01-03-01
-Mar-14,Junior,,SCS1-01-03-01
-Mar-14,Junior,,SCS1-01-03-01
-Mar-14,Junior,,SCS1-01-03-02
-Mar-14,Junior,,SCS1-01-03-02
-Mar-14,Junior,,SCS1-01-03-02
-Mar-14,Junior,,SCS1-01-03-02
-Mar-14,Junior,,SCS1-01-03-04
-Mar-14,Junior,,SCS1-01-03-04
-Mar-14,Junior,,SCS1-01-03-04
-Mar-14,Junior,,SCS1-01-03-04
-Mar-14,Junior,,SCS1-01-03-05
-Mar-14,Junior,,SCS1-01-03-05
-Mar-14,Junior,,SCS1-01-03-05
-Mar-14,Junior,,SCS1-01-03-05
-Mar-14,Junior,,SCS1-01-03-05
-Mar-14,Junior,,SCS1-01-03-06
-Mar-14,Junior,,SCS1-01-03-06
-Mar-14,Junior,,SCS1-01-03-06
-Mar-14,Junior,,SCS1-01-03-06
-Mar-14,Junior,,SCS1-01-03-06
-Mar-14,Junior,,SCS1-01-03-07
-Mar-14,Junior,,SCS1-01-03-08
-Mar-14,Junior,,SCS1-01-03-08
-Mar-14,Junior,,SCS1-01-05-01
-Mar-14,Junior,,SCS1-01-05-01
-Mar-14,Junior,,SCS1-01-05-01
-Mar-14,Junior,,SCS1-01-06-01
-Mar-14,Junior,,SCS1-01-06-01
-Mar-14,Junior,,SCS1-01-06-01
-Mar-14,Junior,,SCS1-01-06-01
-Mar-14,Junior,,SCS1-01-06-01
-Mar-14,Junior,,SCS1-01-06-01
-Mar-14,Junior,,SCS1-01-06-02
-Mar-14,Junior,,SCS1-01-06-02
-Mar-14,Junior,,SCS1-01-06-02
-Mar-14,Junior,,SCS1-01-06-02
-Mar-14,Junior,,SCS1-01-06-02
-Mar-14,Junior,,SCS1-01-06-02
-Mar-14,Junior,,SCS1-01-06-03
-Mar-14,Junior,,SCS1-01-06-03
-Mar-14,Junior,,SCS1-01-06-03
-Mar-14,Junior,,SCS1-01-06-03
-Mar-14,Junior,,SCS1-01-06-03
-Mar-14,Junior,,SCS1-01-06-03
-Mar-14,Junior,,SCS1-01-06-04
-Mar-14,Junior,,SCS1-01-06-04
-Mar-14,Junior,,SCS1-01-06-04
-Mar-14,Junior,,SCS1-01-06-04
-Mar-14,Junior,,SCS1-01-06-04
-Mar-14,Junior,,SCS1-01-06-04
-Mar-14,Junior,,SCS1-01-06-05
-Mar-14,Junior,,SCS1-01-06-05
-Mar-14,Junior,,SCS1-01-06-05
-Mar-14,Junior,,SCS1-01-06-05
-Mar-14,Junior,,SCS1-01-06-05
-Mar-14,Junior,,SCS1-01-06-06
-Mar-14,Junior,,SCS1-01-06-06
-Mar-14,Junior,,SCS1-01-06-06
-Mar-14,Junior,,SCS1-01-06-06
-Mar-14,Junior,,SCS1-01-06-06
-Mar-14,Junior,,SCS1-01-06-06
-Mar-14,Junior,,SCS1-01-06-07
-Mar-14,Junior,,SCS1-01-06-07
-Mar-14,Junior,,SCS1-01-06-07
-Mar-14,Junior,,SCS1-01-06-07
-Mar-14,Junior,,SCS1-01-06-07
-Mar-14,Junior,,SCS1-01-06-08
-Mar-14,Junior,,SCS1-01-06-08
-Mar-14,Junior,,SCS1-01-06-08
-Mar-14,Junior,,SCS1-01-06-08
-Mar-14,Junior,,SCS1-01-06-08
-Mar-14,Junior,,SCS1-01-07-01
-Mar-14,Junior,,SCS1-01-07-01
-Mar-14,Junior,,SCS1-01-07-01
-Mar-14,Junior,,SCS1-01-07-01
-Mar-14,Junior,,SCS1-01-07-02
-Mar-14,Junior,,SCS1-01-07-02
-Mar-14,Junior,,SCS1-01-07-02
-Mar-14,Junior,,SCS1-01-07-02
-Mar-14,Junior,,SCS1-01-07-02
-Mar-14,Junior,,SCS1-01-07-03
-Mar-14,Junior,,SCS1-01-07-03
-Mar-14,Junior,,SCS1-01-07-03
-Mar-14,Junior,,SCS1-01-07-03
-Mar-14,Junior,,SCS1-01-07-04
-Mar-14,Junior,,SCS1-01-07-04
-Mar-14,Junior,,SCS1-01-07-04
-Mar-14,Junior,,SCS1-01-07-04
-Mar-14,Junior,,SCS1-01-07-05
-Mar-14,Junior,,SCS1-01-07-05
-Mar-14,Junior,,SCS1-01-07-05
-Mar-14,Junior,,SCS1-01-07-05
-Mar-14,Junior,,SCS1-01-07-05
-Mar-14,Junior,,SCS1-01-07-05
-Mar-14,Junior,,SCS1-01-07-06
-Mar-14,Junior,,SCS1-01-07-06
-Mar-14,Junior,,SCS1-01-08-01
-Mar-14,Junior,,SCS1-01-08-01
-Mar-14,Junior,,SCS1-01-08-01
-Mar-14,Junior,,SCS1-01-08-02
-Mar-14,Junior,,SCS1-01-08-02
-Mar-14,Junior,,SCS1-01-08-02
-Mar-14,Junior,,SCS1-01-08-02
-Mar-14,Junior,,SCS1-01-08-02
-Mar-14,Junior,,SCS1-02-01-01
-Mar-14,Junior,,SCS1-02-01-01
-Mar-14,Junior,,SCS1-02-01-01
-Mar-14,Junior,,SCS1-02-01-01
-Mar-14,Junior,,SCS1-02-01-01
-Mar-14,Junior,,SCS1-02-01-01
-Mar-14,Junior,,SCS1-02-01-01
-Mar-14,Junior,,SCS1-02-01-03
-Mar-14,Junior,,SCS1-02-01-03
-Mar-14,Junior,,SCS1-02-01-03
-Mar-14,Junior,,SCS1-02-01-03
-Mar-14,Junior,,SCS1-02-01-04
-Mar-14,Junior,,SCS1-02-01-04
-Mar-14,Junior,,SCS1-02-01-04
-Mar-14,Junior,,SCS1-02-01-06
-Mar-14,Junior,,SCS1-02-01-06
-Mar-14,Junior,,SCS1-02-01-06
-Mar-14,Junior,,SCS1-02-01-06
-Mar-14,Junior,,SCS1-02-02-01
-Mar-14,Junior,,SCS1-02-02-01
-Mar-14,Junior,,SCS1-02-02-01
-Mar-14,Junior,,SCS1-02-02-01
-Mar-14,Junior,,SCS1-02-02-01
-Mar-14,Junior,,SCS1-02-02-02
-Mar-14,Junior,,SCS1-02-02-02
-Mar-14,Junior,,SCS1-02-02-02
-Mar-14,Junior,,SCS1-02-02-04
-Mar-14,Junior,,SCS1-02-02-04
-Mar-14,Junior,,SCS1-02-02-04
-Mar-14,Junior,,SCS1-02-02-04
-Mar-14,Junior,,SCS1-02-02-05
-Mar-14,Junior,,SCS1-02-02-05
-Mar-14,Junior,,SCS1-02-02-05
-Mar-14,Junior,,SCS1-02-02-05
-Mar-14,Junior,,SCS1-02-02-05
-Mar-14,Junior,,SCS1-02-02-07
-Mar-14,Junior,,SCS1-02-02-07
-Mar-14,Junior,,SCS1-02-02-07
-Mar-14,Junior,,SCS1-02-02-07
-Mar-14,Junior,,SCS1-02-03-01
-Mar-14,Junior,,SCS1-02-03-01
-Mar-14,Junior,,SCS1-02-03-01
-Mar-14,Junior,,SCS1-02-05-01
-Mar-14,Junior,,SCS1-02-05-01
-Mar-14,Junior,,SCS1-02-05-02
-Mar-14,Junior,,SCS1-02-05-02
-Mar-14,Junior,,SCS1-02-05-03
-Mar-14,Junior,,SCS1-02-05-03
-Mar-14,Junior,,SCS1-02-05-03
-Mar-14,Junior,,SCS1-03-02-04
-Mar-14,Junior,,SCS1-03-02-04
-Mar-14,Junior,,SCS1-03-02-04
-Mar-14,Junior,,SCS1-03-02-04
-Mar-14,Junior,,SCS1-03-02-04
-Mar-14,Junior,,SCS1-03-02-04
-Mar-14,Junior,,SCS1-03-02-05
-Mar-14,Junior,,SCS1-03-02-05
-Mar-14,Junior,,SCS1-03-02-05
-Mar-14,Junior,,SCS1-03-02-05
-Mar-14,Junior,,SCS1-03-02-05
-Mar-14,Junior,,SCS1-03-02-05
-Mar-14,Junior,,SCS1-03-02-06
-Mar-14,Junior,,SCS1-03-02-06
-Mar-14,Junior,,SCS1-03-02-06
-Mar-14,Junior,,SCS1-03-02-06
-Mar-14,Junior,,SCS1-03-02-06
-Mar-14,Junior,,SCS1-03-02-06
-Mar-14,Junior,,SCS1-03-04-01
-Mar-14,Junior,,SCS1-03-04-01
-Mar-14,Junior,,SCS1-03-04-01
-Mar-14,Junior,,SCS1-03-04-01
-Mar-14,Junior,,SCS1-03-04-02
-Mar-14,Junior,,SCS1-03-04-02
-Mar-14,Junior,,SCS1-03-04-02
-Mar-14,Junior,,SCS1-03-04-02
-Mar-14,Junior,,SCS1-03-04-03
-Mar-14,Junior,,SCS1-03-04-03
-Mar-14,Junior,,SCS1-03-04-03
-Mar-14,Junior,,SCS1-03-04-03
-Mar-14,Junior,,SCS1-03-04-04
-Mar-14,Junior,,SCS1-03-04-04
-Mar-14,Junior,,SCS1-03-04-04
-Mar-14,Junior,,SCS1-03-04-04
-Mar-14,Junior,,SCS1-03-04-04
-Mar-14,Junior,,SCS1-03-04-04
-Mar-14,Junior,,SCS1-03-04-04
-Mar-14,Junior,,SCS1-04-01-01
-Mar-14,Junior,,SCS1-04-01-01
-Mar-14,Junior,,SCS1-04-01-01
-Mar-14,Junior,,SCS1-04-01-01
-Mar-14,Junior,,SCS1-04-01-01
-Mar-14,Junior,,SCS1-04-01-02
-Mar-14,Junior,,SCS1-04-01-02
-Mar-14,Junior,,SCS1-04-01-02
-Mar-14,Junior,,SCS1-04-01-02
-Mar-14,Junior,,SCS1-04-01-03
-Mar-14,Junior,,SCS1-04-01-03
-Mar-14,Junior,,SCS1-04-01-03
-Mar-14,Junior,,SCS1-04-01-03
-Mar-14,Junior,,SCS1-04-01-03
-Mar-14,Junior,,SCS1-04-01-04
-Mar-14,Junior,,SCS1-04-01-04
-Mar-14,Junior,,SCS1-04-01-04
-Mar-14,Junior,,SCS1-04-01-04
-Mar-14,Junior,,SCS1-04-01-05
-Mar-14,Junior,,SCS1-04-01-05
-Mar-14,Junior,,SCS1-04-01-05
-Mar-14,Junior,,SCS1-04-01-05
-Mar-14,Junior,,SCS1-04-04-01
-Mar-14,Junior,,SCS1-04-04-01
-Mar-14,Junior,,SCS1-04-04-01
-Mar-14,Junior,,SCS1-04-04-01
-Mar-14,Junior,,SCS1-04-04-01
-Mar-14,Junior,,SCS1-04-04-01
-Mar-14,Junior,,SCS1-04-04-02
-Mar-14,Junior,,SCS1-04-04-02
-Mar-14,Junior,,SCS1-04-04-02
-Mar-14,Junior,,SCS1-04-04-02
-Mar-14,Junior,,SCS1-04-04-02
-Mar-14,Junior,,SCS1-04-04-02
-Mar-14,Junior,,SCS1-04-04-03
-Mar-14,Junior,,SCS1-04-04-03
-Mar-14,Junior,,SCS1-04-04-03
-Mar-14,Junior,,SCS1-04-04-03
-Mar-14,Junior,,SCS1-04-04-04
-Mar-14,Junior,,SCS1-04-05-01
-Mar-14,Junior,,SCS1-04-05-01
-Mar-14,Junior,,SCS1-04-05-01
-Mar-14,Junior,,SCS1-04-05-01
-Mar-14,Junior,,SCS1-04-05-02
-Mar-14,Junior,,SCS1-04-05-02
-Mar-14,Junior,,SCS1-04-05-02
-Mar-14,Junior,,SCS1-04-05-02
-Mar-14,Junior,,SCS1-04-05-03
-Mar-14,Junior,,SCS1-04-05-03
-Mar-14,Junior,,SCS1-04-05-03
-Mar-14,Junior,,SCS1-04-05-03
-Mar-14,Junior,,SCS1-04-05-03
-Mar-14,Junior,,SCS1-04-05-03
-Mar-14,Junior,,SCS1-04-05-06
-Mar-14,Junior,,SCS1-04-05-06
-Mar-14,Junior,,SCS1-04-05-06
-Mar-14,Junior,,SCS1-04-05-06
-Mar-14,Junior,,SCS1-04-05-06
-Mar-14,Junior,,SCS1-04-05-06
-Mar-14,Junior,,SCS1-05-01-01
-Mar-14,Junior,,SCS1-05-01-03
-Mar-14,Junior,,SCS1-05-01-03
-Mar-14,Junior,,SCS1-05-01-03
-Mar-14,Junior,,SCS1-05-01-03
-Mar-14,Junior,,SCS1-05-01-03
-Mar-14,Junior,,SCS1-05-01-03
-Mar-14,Junior,,SCS1-05-01-04
-Mar-14,Junior,,SCS1-05-01-04
-Mar-14,Junior,,SCS1-05-01-04
-Mar-14,Junior,,SCS1-05-01-04
-Mar-14,Junior,,SCS1-05-01-04
-Mar-14,Junior,,SCS1-05-01-04
-Mar-14,Junior,,SCS1-05-01-04
-Mar-14,Junior,,SCS1-05-02-01
-Mar-14,Junior,,SCS1-05-02-01
-Mar-14,Junior,,SCS1-05-02-01
-Mar-14,Junior,,SCS1-05-02-01
-Mar-14,Junior,,SCS1-05-02-01
-Mar-14,Junior,,SCS1-05-02-01
-Mar-14,Junior,,SCS1-05-02-02
-Mar-14,Junior,,SCS1-05-02-02
-Mar-14,Junior,,SCS1-05-02-02
-Mar-14,Junior,,SCS1-05-02-02
-Mar-14,Junior,,SCS1-05-02-02
-Mar-14,Junior,,SCS1-05-02-02
-Mar-14,Junior,,SCS1-05-02-03
-Mar-14,Junior,,SCS1-05-02-03
-Mar-14,Junior,,SCS1-05-02-03
-Mar-14,Junior,,SCS1-05-02-03
-Mar-14,Junior,,SCS1-05-04-01
-Mar-14,Junior,,SCS1-05-04-01
-Mar-14,Junior,,SCS1-05-04-01
-Mar-14,Junior,,SCS1-05-04-02
-Mar-14,Junior,,SCS1-05-04-02
-Mar-14,Junior,,SCS1-05-04-03
-Mar-14,Junior,,SCS1-05-04-03
-Mar-14,Junior,,SCS1-05-04-03
-Mar-14,Junior,,SCS1-05-04-03
-Mar-14,Junior,,SCS1-05-04-03
-Mar-14,Junior,,SCS1-05-04-03
-Mar-14,Junior,,SCS1-05-04-04
-Mar-14,Junior,,SCS1-05-04-04
-Mar-14,Junior,,SCS1-05-04-04
-Mar-14,Junior,,SCS1-05-05-01
-Mar-14,Junior,,SCS1-05-05-01
-Mar-14,Junior,,SCS1-05-05-02
-Mar-14,Junior,,SCS1-05-05-02
-Mar-14,Junior,,SCS1-05-05-02
-Mar-14,Junior,,SCS1-05-05-02
-Mar-14,Junior,,SCS1-05-05-03
-Mar-14,Junior,,SCS1-05-05-03
-Mar-14,Junior,,SCS1-05-05-04
-Mar-14,Junior,,SCS1-05-05-04
-Mar-14,Junior,,SCS1-05-05-07
-Mar-14,Junior,,SCS1-05-05-07
-Mar-14,Junior,,SCS1-05-05-08
-Mar-14,Junior,,SCS1-05-05-08
-Mar-14,Junior,,SCS1-05-07-01
-Mar-14,Junior,,SCS1-05-07-01
-Mar-14,Junior,,SCS1-05-07-01
-Mar-14,Junior,,SCS1-05-07-01
-Mar-14,Junior,,SCS1-05-07-01
-Mar-14,Junior,,SCS1-05-07-02
-Mar-14,Junior,,SCS1-05-07-02
-Mar-14,Junior,,SCS1-05-07-02
-Mar-14,Junior,,SCS1-05-07-03
-Mar-14,Junior,,SCS1-05-07-03
-Mar-14,Junior,,SCS1-05-07-03
-Mar-14,Junior,,SCS1-05-07-03
-Mar-14,Junior,,SCS1-06-01-01
-Mar-14,Junior,,SCS1-06-01-01
-Mar-14,Junior,,SCS1-06-01-01
-Mar-14,Junior,,SCS1-06-01-01
-Mar-14,Junior,,SCS1-06-01-02
-Mar-14,Junior,,SCS1-06-01-02
-Mar-14,Junior,,SCS1-06-01-02
-Mar-14,Junior,,SCS1-06-01-03
-Mar-14,Junior,,SCS1-06-01-03
-Mar-14,Junior,,SCS1-06-01-03
-Mar-14,Junior,,SCS1-06-01-03
-Mar-14,Junior,,SCS1-06-01-04
-Mar-14,Junior,,SCS1-06-01-04
-Mar-14,Junior,,SCS1-06-01-04
-Mar-14,Junior,,SCS1-06-01-04
-Mar-14,Junior,,SCS1-06-02-01
-Mar-14,Junior,,SCS1-06-02-01
-Mar-14,Junior,,SCS1-06-02-01
-Mar-14,Junior,,SCS1-06-02-01
-Mar-14,Junior,,SCS1-06-02-01
-Mar-14,Junior,,SCS1-06-02-01
-Mar-14,Junior,,SCS1-06-02-02
-Mar-14,Junior,,SCS1-06-02-02
-Mar-14,Junior,,SCS1-06-02-02
-Mar-14,Junior,,SCS1-06-02-02
-Mar-14,Junior,,SCS1-06-02-02
-Mar-14,Junior,,SCS1-06-02-03
-Mar-14,Junior,,SCS1-06-02-03
-Mar-14,Junior,,SCS1-06-02-03
-Mar-14,Junior,,SCS1-06-02-03
-Mar-14,Junior,,SCS1-06-02-03
-Mar-14,Junior,,SCS1-06-02-03
-Mar-14,Junior,,SCS1-06-03-01
-Mar-14,Junior,,SCS1-06-03-01
-Mar-14,Junior,,SCS1-06-03-01
-Mar-14,Junior,,SCS1-06-03-01
-Mar-14,Junior,,SCS1-06-03-01
-Mar-14,Junior,,SCS1-06-03-03
-Mar-14,Junior,,SCS1-06-03-03
-Mar-14,Junior,,SCS1-06-03-03
-Mar-14,Junior,,SCS1-06-03-03
-Mar-14,Junior,,SCS1-06-03-03
-Mar-14,Junior,,SCS1-06-03-03
-Mar-14,Junior,,SCS1-06-03-04
-Mar-14,Junior,,SCS1-06-03-04
-Mar-14,Junior,,SCS1-06-03-04
-Mar-14,Junior,,SCS1-06-03-04
-Mar-14,Junior,,SCS1-06-03-04
-Mar-14,Junior,,SCS1-06-04-01
-Mar-14,Junior,,SCS1-06-04-01
-Mar-14,Junior,,SCS1-06-04-01
-Mar-14,Junior,,SCS1-06-04-01
-Mar-14,Junior,,SCS1-06-05-01
-Mar-14,Junior,,SCS1-06-05-01
-Mar-14,Junior,,SCS1-06-05-01
-Mar-14,Junior,,SCS1-06-05-01
-Mar-14,Junior,,SCS1-06-05-01
-Mar-14,Junior,,SCS1-07-01-01
-Mar-14,Junior,,SCS1-07-01-01
-Mar-14,Junior,,SCS1-07-01-02
-Mar-14,Junior,,SCS1-07-01-02
-Mar-14,Junior,,SCS1-07-01-05
-Mar-14,Junior,,SCS1-07-01-06
-Mar-14,Junior,,SCS1-07-01-09
-Mar-14,Junior,,SCS1-07-02-01
-Mar-14,Junior,,SCS1-07-02-01
-Mar-14,Junior,,SCS1-07-02-01
-Mar-14,Junior,,SCS1-07-02-02
-Mar-14,Junior,,SCS1-07-02-02
-Mar-14,Junior,,SCS1-07-02-02
-Mar-14,Junior,,SCS1-07-02-03
-Mar-14,Junior,,SCS1-07-02-03
-Mar-14,Junior,,SCS1-07-02-03
-Mar-14,Junior,,SCS1-07-02-05
-Mar-14,Junior,,SCS1-07-02-05
-Mar-14,Junior,,SCS1-07-02-05
-Mar-14,Junior,,SCS1-07-02-06
-Mar-14,Junior,,SCS1-07-02-07
-Mar-14,Junior,,SCS1-07-02-07
-Mar-14,Junior,,SCS1-07-02-07
-Mar-14,Junior,,SCS1-07-02-07
-Mar-14,Junior,,SCS1-07-03-01
-Mar-14,Junior,,SCS1-07-03-02
-Mar-14,Junior,,SCS1-07-03-02
-Mar-14,Junior,,SCS1-07-03-03
-Mar-14,Junior,,SCS1-07-03-03
-Mar-14,Junior,,SCS1-07-03-04
-Mar-14,Junior,,SCS1-07-06-01
-Mar-14,Junior,,SCS1-07-06-01
-Mar-14,Junior,,SCS1-07-06-01
-Mar-14,Junior,,SCS1-07-06-01
-Mar-14,Junior,,SCS1-07-06-01
-Mar-14,Junior,,SCS1-07-06-02
-Mar-14,Junior,,SCS1-07-06-02
-Mar-14,Junior,,SCS1-07-06-02
-Mar-14,Junior,,SCS1-07-06-02
-Mar-14,Junior,,SCS1-08-01-02
-Mar-14,Junior,,SCS1-08-01-02
-Mar-14,Junior,,SCS1-08-01-02
-Mar-14,Junior,,SCS1-08-01-02
-Mar-14,Junior,,SCS1-08-01-02
-Mar-14,Junior,,SCS1-08-01-02
-Mar-14,Junior,,SCS1-08-01-04
-Mar-14,Junior,,SCS1-08-01-04
-Mar-14,Junior,,SCS1-08-01-04
-Mar-14,Junior,,SCS1-08-01-04
-Mar-14,Junior,,SCS1-08-01-04
-Mar-14,Junior,,SCS1-08-01-05
-Mar-14,Junior,,SCS1-08-01-05
-Mar-14,Junior,,SCS1-08-01-05
-Mar-14,Junior,,SCS1-08-01-05
-Mar-14,Junior,,SCS1-08-02-03
-Mar-14,Junior,,SCS1-08-02-03
-Mar-14,Junior,,SCS1-08-02-03
-Mar-14,Junior,,SCS1-08-02-03
-Mar-14,Junior,,SCS1-08-02-03
-Mar-14,Junior,,SCS1-08-02-04
-Mar-14,Junior,,SCS1-08-02-04
-Mar-14,Junior,,SCS1-08-02-04
-Mar-14,Junior,,SCS1-08-02-04
-Mar-14,Junior,,SCS1-08-02-04
-Mar-14,Junior,,SCS1-08-02-04
-Mar-14,Junior,,SCS1-08-03-01
-Mar-14,Junior,,SCS1-08-03-01
-Mar-14,Junior,,SCS1-08-03-01
-Mar-14,Junior,,SCS1-08-03-01
-Mar-14,Junior,,SCS1-08-03-01
-Mar-14,Junior,,SCS1-08-03-01
-Mar-14,Junior,,SCS1-08-03-06
-Mar-14,Junior,,SCS1-08-03-06
-Mar-14,Junior,,SCS1-08-03-06
-Mar-14,Junior,,SCS1-08-03-06
-Mar-14,Junior,,SCS1-08-03-06
-Mar-14,Junior,,SCS1-08-04-01
-Mar-14,Junior,,SCS1-08-04-01
-Mar-14,Junior,,SCS1-08-04-02
-Mar-14,Junior,,SCS1-08-04-02
-Mar-14,Junior,,SCS1-08-04-03
-Mar-14,Junior,,SCS1-08-04-03
-Mar-14,Junior,,SCS1-08-04-03
-Mar-14,Junior,,SCS1-08-05-01
-Mar-14,Junior,,SCS1-08-05-01
-Mar-14,Junior,,SCS1-08-05-01
-Mar-14,Junior,,SCS1-08-05-01
-Mar-14,Junior,,SCS1-08-05-01
-Mar-14,Junior,,SCS1-08-05-02
-Mar-14,Junior,,SCS1-08-05-02
-Mar-14,Junior,,SCS1-08-05-02
-Mar-14,Junior,,SCS1-08-05-02
-Mar-14,Junior,,SCS1-08-05-02
-Mar-14,Junior,,SCS1-08-05-03
-Mar-14,Junior,,SCS1-08-05-03
-Mar-14,Junior,,SCS1-08-05-03
-Mar-14,Junior,,SCS1-08-05-03
-Mar-14,Junior,,SCS1-08-05-03
-Mar-14,Junior,,SCS1-08-05-04
-Mar-14,Junior,,SCS1-08-05-04
-Mar-14,Junior,,SCS1-08-05-04
-Mar-14,Junior,,SCS1-08-05-04
-Mar-14,Junior,,SCS1-08-05-05
-Mar-14,Junior,,SCS1-08-05-05
-Mar-14,Junior,,SCS1-08-05-05
-Mar-14,Junior,,SCS1-08-05-05
-Mar-14,Junior,,SCS1-08-06-01
-Mar-14,Junior,,SCS1-08-06-01
-Mar-14,Junior,,SCS1-08-06-01
-Mar-14,Junior,,SCS1-08-06-01
-Mar-14,Junior,,SCS1-08-06-01
-Mar-14,Junior,,SCS1-08-06-01
-Mar-14,Junior,,SCS1-08-06-02
-Mar-14,Junior,,SCS1-08-06-03
-Mar-14,Junior,,SCS1-08-06-03
-Mar-14,Junior,,SCS1-08-06-03
-Mar-14,Junior,,SCS1-08-06-03
-Mar-14,Junior,,SCS1-08-06-03
-Mar-14,Junior,,SCS1-08-06-03
-Mar-14,Junior,,SCS1-08-06-04
-Mar-14,Junior,,SCS1-08-06-04
-Mar-14,Junior,,SCS1-08-06-04
-Mar-14,Junior,,SCS1-08-06-04
-Mar-14,Junior,,SCS1-09-01-01
-Mar-14,Junior,,SCS1-09-01-01
-Mar-14,Junior,,SCS1-09-01-01
-Mar-14,Junior,,SCS1-09-01-01
-Mar-14,Junior,,SCS1-09-01-01
-Mar-14,Junior,,SCS1-09-01-01
-Mar-14,Junior,,SCS1-11-01-01
-Mar-14,Junior,,SCS1-11-01-01
-Mar-14,Junior,,SCS1-11-01-01
-Mar-14,Junior,,SCS1-11-01-01
-Mar-14,Junior,,SCS1-11-01-02
-Mar-14,Junior,,SCS1-11-01-02
-Mar-14,Junior,,SCS1-11-01-02
-Mar-14,Junior,,SCS1-11-01-02
-Mar-14,Junior,,SCS1-11-01-02
-Mar-14,Junior,,SCS1-11-01-02
-Mar-14,Junior,,SCS1-11-01-03
-Mar-14,Junior,,SCS1-11-01-03
-Mar-14,Junior,,SCS1-11-01-03
-Mar-14,Junior,,SCS1-11-01-03
-Mar-14,Junior,,SCS1-11-01-03
-Mar-14,Junior,,SCS2-01-01
-Mar-14,Junior,,SCS2-01-02
-Mar-14,Junior,,SCS2-01-02
-Mar-14,Junior,,SCS2-01-03
-Mar-14,Junior,,SCS2-01-03
-Mar-14,Junior,,SCS2-01-03
-Mar-14,Junior,,SCS2-01-03
-Mar-14,Junior,,SCS2-01-05
-Mar-14,Junior,,SCS2-01-05
-Mar-14,Junior,,SCS2-01-05
-Mar-14,Junior,,SCS2-01-05
-Mar-14,Junior,,SCS2-01-05
-Mar-14,Junior,,SCS2-01-06
-Mar-14,Junior,,SCS2-01-06
-Mar-14,Junior,,SCS2-01-06
-Mar-14,Junior,,SCS2-01-06
-Mar-14,Junior,,SCS2-01-07
-Mar-14,Junior,,SCS2-01-08
-Mar-14,Junior,,SCS2-01-08
-Mar-14,Junior,,SCS2-02-01
-Mar-14,Junior,,SCS2-02-01
-Mar-14,Junior,,SCS2-02-01
-Mar-14,Junior,,SCS2-02-01
-Mar-14,Junior,,SCS2-02-05
-Mar-14,Junior,,SCS2-03-01
-Mar-14,Junior,,SCS2-03-02
-Mar-14,Junior,,SCS2-03-02
-Mar-14,Junior,,SCS2-03-02
-Mar-14,Junior,,SCS2-03-02
-Mar-14,Junior,,SCS2-03-02
-Mar-14,Junior,,SCS2-03-02
-Mar-14,Junior,,SCS2-03-03
-Mar-14,Junior,,SCS2-03-03
-Mar-14,Junior,,SCS2-03-03
-Mar-14,Junior,,SCS2-03-03
-Mar-14,Junior,,SCS2-03-03
-Mar-14,Junior,,SCS2-03-04
-Mar-14,Junior,,SCS2-04-01
-Mar-14,Junior,,SCS2-04-01
-Mar-14,Junior,,SCS2-04-01
-Mar-14,Junior,,SCS2-04-05
-Mar-14,Junior,,SCS2-05-01
-Mar-14,Junior,,SCS2-05-01
-Mar-14,Junior,,SCS2-05-01
-Mar-14,Junior,,SCS2-05-01
-Mar-14,Junior,,SCS2-05-01
-Mar-14,Junior,,SCS2-05-01
-Mar-14,Junior,,SCS2-05-02
-Mar-14,Junior,,SCS2-05-02
-Mar-14,Junior,,SCS2-05-04
-Mar-14,Junior,,SCS2-05-04
-Mar-14,Junior,,SCS2-05-04
-Mar-14,Junior,,SCS2-05-04
-Mar-14,Junior,,SCS2-05-04
-Mar-14,Junior,,SCS2-05-04
-Mar-14,Junior,,SCS2-05-05
-Mar-14,Junior,,SCS2-05-05
-Mar-14,Junior,,SCS2-05-05
-Mar-14,Junior,,SCS2-05-05
-Mar-14,Junior,,SCS2-05-05
-Mar-14,Junior,,SCS2-05-07
-Mar-14,Junior,,SCS2-05-07
-Mar-14,Junior,,SCS2-05-07
-Mar-14,Junior,,SCS2-06-01
-Mar-14,Junior,,SCS2-06-01
-Mar-14,Junior,,SCS2-06-01
-Mar-14,Junior,,SCS2-06-01
-Mar-14,Junior,,SCS2-06-03
-Mar-14,Junior,,SCS2-06-03
-Mar-14,Junior,,SCS2-06-03
-Mar-14,Junior,,SCS2-06-03
-Mar-14,Junior,,SCS2-06-03
-Mar-14,Junior,,SCS2-06-04
-Mar-14,Junior,,SCS2-07-03
-Mar-14,Junior,,SCS2-08-01
-Mar-14,Junior,,SCS2-08-01
-Mar-14,Junior,,SCS2-08-01
-Mar-14,Junior,,SCS2-08-01
-Mar-14,Junior,,SCS2-08-01
-Mar-14,Junior,,SCS2-08-02
-Mar-14,Junior,,SCS2-08-02
-Mar-14,Junior,,SCS2-08-02-01
-Mar-14,Junior,,SCS2-08-02-01
-Mar-14,Junior,,SCS2-08-02-01
-Mar-14,Junior,,SCS2-08-02-01
-Mar-14,Junior,,SCS2-08-02-01
-Mar-14,Junior,,SCS2-08-03
-Mar-14,Junior,,SCS2-08-03
-Mar-14,Junior,,SCS2-08-03
-Mar-14,Junior,,SCS2-08-03
-Mar-14,Junior,,SCS2-08-03
-Mar-14,Junior,,SCS2-08-03
-Mar-14,Junior,,SCS2-08-04
-Mar-14,Junior,,SCS2-08-04
-Mar-14,Junior,,SCS2-08-04
-Mar-14,Junior,,SCS2-08-04
-Mar-14,Junior,,SCS2-08-05
-Mar-14,Junior,,SCS2-08-05
-Mar-14,Junior,,SCS2-08-05
-Mar-14,Junior,,SCS2-08-06
-Mar-14,Junior,,SCS2-08-06
-Mar-14,Junior,,SCS2-08-06
-Mar-14,Junior,,SCS2-08-06
-Mar-14,Junior,,SCS2-08-06
-Mar-14,Junior,,SCS2-08-06
-Mar-14,Junior,,SCS2-11-01
-Mar-14,Junior,,SCS2-11-01
-Mar-14,Junior,,SCS2-11-01
-Mar-14,Junior,,SCS2-11-01
-Mar-14,Junior,,SCS2-11-01
-Mar-14,Junior,,SCS3-01
-Mar-14,Junior,,SCS3-01
-Mar-14,Junior,,SCS3-01
-Mar-14,Junior,,SCS3-01
-Mar-14,Junior,,SCS3-01
-Mar-14,Junior,,SCS3-02
-Mar-14,Junior,,SCS3-03
-Mar-14,Junior,,SCS3-03
-Mar-14,Junior,,SCS3-03
-Mar-14,Junior,,SCS3-03
-Mar-14,Junior,,SCS3-04
-Mar-14,Junior,,SCS3-05
-Mar-14,Junior,,SCS3-07
+date,id,parentId,level,name,grade,jobTitle,unit,salaryCostOfReports,payFloor,payCeil,professionalOccupationalGroup
+Mar-14,SCS1-01-01-01,SCS2-01-01,Senior,N/D,SCS1,Deputy Director - AMS - Advanced Manufacturing and Services (BS),AMS - Advanced Manufacturing Services,NaN,N/A,N/A,Policy
+Mar-14,SCS1-01-01-02,SCS2-01-01,Senior,N/D,SCS1,Deputy Director - AMS - Advanced Manufacturing and Services (BS),AMS - Advanced Manufacturing Services,NaN,N/A,N/A,Policy
+Mar-14,SCS1-01-01-03,SCS2-01-01,Senior,N/D,SCS1,Deputy Director - AMS - Advanced Manufacturing and Services (BS),AMS - Advanced Manufacturing Services,NaN,N/A,N/A,Policy
+Mar-14,SCS1-01-01-04,SCS2-01-01,Senior,N/D,SCS1,Deputy Director - AMS - Advanced Manufacturing and Services (BS),AMS - Advanced Manufacturing Services,NaN,N/A,N/A,Policy
+Mar-14,SCS1-01-01-06,SCS2-01-01,Senior,N/D,SCS1,Deputy Director - AMS - Advanced Manufacturing and Services (BS),AMS - Advanced Manufacturing Services,NaN,N/A,N/A,Policy
+Mar-14,SCS1-01-02-01,SCS2-01-02,Senior,N/D,SCS1,Deputy Director - LG - Local Growth,BLG - Local Growth Directorate,NaN,N/A,N/A,Policy
+Mar-14,SCS1-01-02-03,SCS2-01-02,Senior,N/D,SCS1,Deputy Director - LG - Local Growth,BLG - Local Growth Directorate,NaN,N/A,N/A,Policy
+Mar-14,SCS1-01-02-06,SCS2-01-02,Senior,N/D,SCS1,Deputy Director - MLG - BIS Local ,BLG - BIS Local,NaN,N/A,N/A,Policy
+Mar-14,SCS1-01-02-07,SCS2-01-02,Senior,N/D,SCS1,Deputy Director - LG - Local Growth,BLG - BIS Local,NaN,N/A,N/A,Policy
+Mar-14,SCS1-01-02-08,SCS2-01-02,Senior,N/D,SCS1,Deputy Director - MLG - BIS Local ,BLG - BIS Local,NaN,N/A,N/A,Policy
+Mar-14,SCS1-01-02-09,SCS2-01-02,Senior,N/D,SCS1,Deputy Director - MLG - BIS Local ,BLG - BIS Local,NaN,N/A,N/A,Policy
+Mar-14,SCS1-01-02-10,SCS2-01-02,Senior,N/D,SCS1,Deputy Director - MLG - BIS Local ,BLG - BIS Local,NaN,N/A,N/A,Policy
+Mar-14,SCS1-01-03-01,SCS2-01-03,Senior,N/D,SCS1,Deputy Director - ED - Enterprise Directorate (BS),E&S - Enterprise Directorate,NaN,N/A,N/A,Policy
+Mar-14,SCS1-01-03-02,SCS2-01-03,Senior,N/D,SCS1,Deputy Director - ED - Enterprise Directorate (BS),E&S - Enterprise Directorate,NaN,N/A,N/A,Policy
+Mar-14,SCS1-01-03-03,SCS2-01-03,Senior,N/D,SCS1,Deputy Director - ED - Enterprise Directorate (BS),E&S - Enterprise Directorate,0,N/A,N/A,Policy
+Mar-14,SCS1-01-03-04,SCS2-01-03,Senior,N/D,SCS1,Deputy Director - ED - Enterprise Directorate (BS),E&S - Enterprise Directorate,NaN,N/A,N/A,Policy
+Mar-14,SCS1-01-03-05,SCS2-01-03,Senior,N/D,SCS1,Deputy Director - ED - Enterprise Directorate (BS),E&S - Enterprise Directorate,NaN,N/A,N/A,Policy
+Mar-14,SCS1-01-03-06,SCS2-01-03,Senior,N/D,SCS1,Deputy Director - ED - Enterprise Directorate (BS),E&S - Enterprise Directorate,NaN,N/A,N/A,Policy
+Mar-14,SCS1-01-03-07,SCS2-01-03,Senior,N/D,SCS1,Deputy Director - ED - Enterprise Directorate (BS),E&S - Enterprise Directorate,NaN,N/A,N/A,Policy
+Mar-14,SCS1-01-03-08,SCS2-01-03,Senior,N/D,SCS1,Deputy Director - ED - Enterprise Directorate (BS),E&S - Enterprise Directorate,NaN,N/A,N/A,Policy
+Mar-14,SCS1-01-05-01,SCS2-01-05,Senior,N/D,SCS1,Deputy Director - RGFL - Regional Growth Fund and Legacy,BLG - Regional Growth Fund & Legacy,NaN,N/A,N/A,Policy
+Mar-14,SCS1-01-06-01,SCS2-01-06,Senior,N/D,SCS1,Deputy Director - VE - Vocational Education,VE - Vocational Education,NaN,N/A,N/A,Policy
+Mar-14,SCS1-01-06-02,SCS2-01-06,Senior,N/D,SCS1,Deputy Director - VE - Vocational Education,VE - Vocational Education,NaN,N/A,N/A,Policy
+Mar-14,SCS1-01-06-03,SCS2-01-06,Senior,N/D,SCS1,Deputy Director - VE - Vocational Education,VE - Vocational Education,NaN,N/A,N/A,Policy
+Mar-14,SCS1-01-06-04,SCS2-01-06,Senior,N/D,SCS1,Deputy Director - VE - Vocational Education,VE - Vocational Education,NaN,N/A,N/A,Policy
+Mar-14,SCS1-01-06-05,SCS2-01-06,Senior,N/D,SCS1,Deputy Director - VE - Vocational Education,VE - Vocational Education,NaN,N/A,N/A,Policy
+Mar-14,SCS1-01-06-06,SCS2-01-06,Senior,N/D,SCS1,Deputy Director - VE - Vocational Education,VE - Vocational Education,NaN,N/A,N/A,Policy
+Mar-14,SCS1-01-06-07,SCS2-01-06,Senior,N/D,SCS1,Deputy Director - VE - Vocational Education,VE - Vocational Education,NaN,N/A,N/A,Policy
+Mar-14,SCS1-01-06-08,SCS2-01-06,Senior,N/D,SCS1,Deputy Director - VE - Vocational Education,VE - Vocational Education,NaN,N/A,N/A,Policy
+Mar-14,SCS1-01-06-09,SCS2-01-06,Senior,N/D,SCS1,Deputy Director - VE - Vocational Education,VE - Vocational Education,0,N/A,N/A,Policy
+Mar-14,SCS1-01-07-01,SCS2-01-07,Senior,N/D,SCS1,Deputy Director - CCP - Consumer and Competition Policy (MF),BLG - Consumer and Competition Policy,NaN,N/A,N/A,Policy
+Mar-14,SCS1-01-07-02,SCS2-01-07,Senior,N/D,SCS1,Deputy Director - CCP - Consumer and Competition Policy (MF),BLG - Consumer and Competition Policy,NaN,N/A,N/A,Policy
+Mar-14,SCS1-01-07-03,SCS2-01-07,Senior,N/D,SCS1,Deputy Director - CCP - Consumer and Competition Policy (MF),BLG - Consumer and Competition Policy,NaN,N/A,N/A,Policy
+Mar-14,SCS1-01-07-04,SCS2-01-07,Senior,N/D,SCS1,Deputy Director - CCP - Consumer and Competition Policy (MF),BLG - Consumer and Competition Policy,NaN,N/A,N/A,Policy
+Mar-14,SCS1-01-07-05,SCS2-01-07,Senior,N/D,SCS1,Deputy Director - CCP - Consumer and Competition Policy (MF),BLG - Consumer and Competition Policy,NaN,N/A,N/A,Policy
+Mar-14,SCS1-01-07-06,SCS2-01-07,Senior,N/D,SCS1,Deputy Director - CCP - Consumer and Competition Policy (MF),BLG - Consumer and Competition Policy,NaN,N/A,N/A,Policy
+Mar-14,SCS1-01-08-01,SCS2-01-08,Senior,N/D,SCS1,"Deputy Director, Information Economy, Agritech and International Education","BLG - Information Economy, Agritech and International Education",NaN,N/A,N/A,Policy
+Mar-14,SCS1-01-08-02,SCS2-01-08,Senior,N/D,SCS1,"Deputy Director, Information Economy, Agritech and International Education","BLG - Information Economy, Agritech and International Education",NaN,N/A,N/A,Policy
+Mar-14,SCS1-02-01-01,SCS2-02-01,Senior,N/D,SCS1,Deputy Director - AD - Analysis Directorate,E&M - Analysis Directorate,NaN,N/A,N/A,Policy
+Mar-14,SCS1-02-01-02,SCS2-02-01,Senior,N/D,SCS1,Deputy Director - AD - Analysis Directorate,E&M - Analysis Directorate,0,N/A,N/A,Policy
+Mar-14,SCS1-02-01-03,SCS2-02-01,Senior,N/D,SCS1,Deputy Director - AD - Analysis Directorate,E&M - Analysis Directorate,NaN,N/A,N/A,Policy
+Mar-14,SCS1-02-01-04,SCS2-02-01,Senior,N/D,SCS1,Deputy Director - AD - Analysis Directorate,E&M - Analysis Directorate,NaN,N/A,N/A,Policy
+Mar-14,SCS1-02-01-06,SCS2-02-01,Senior,N/D,SCS1,Deputy Director - AD - Analysis Directorate,E&M - Analysis Directorate,NaN,N/A,N/A,Policy
+Mar-14,SCS1-02-02-01,SCS2-02-02,Senior,N/D,SCS1,Deputy Director - BRE - Better Regulation Executive,E&S - Better Regulation Executive (BRE),NaN,N/A,N/A,Policy
+Mar-14,SCS1-02-02-02,SCS2-02-02,Senior,N/D,SCS1,Deputy Director - BRE - Better Regulation Executive,E&S - Better Regulation Executive (BRE),NaN,N/A,N/A,Policy
+Mar-14,SCS1-02-02-04,SCS2-02-02,Senior,N/D,SCS1,Deputy Director - BRE - Better Regulation Executive,E&S - Better Regulation Executive (BRE),NaN,N/A,N/A,Policy
+Mar-14,SCS1-02-02-05,SCS2-02-02,Senior,N/D,SCS1,Deputy Director - BRE - Better Regulation Executive,E&S - Better Regulation Executive (BRE),NaN,N/A,N/A,Policy
+Mar-14,SCS1-02-02-06,SCS2-02-02,Senior,N/D,SCS1,Deputy Director - BRE - Better Regulation Executive,E&S - Better Regulation Executive (BRE),0,N/A,N/A,Policy
+Mar-14,SCS1-02-02-07,SCS2-02-02,Senior,N/D,SCS1,Deputy Director - BRE - Better Regulation Executive,E&S - Better Regulation Executive (BRE),NaN,N/A,N/A,Policy
+Mar-14,SCS1-02-03-01,SCS2-01-06,Senior,N/D,SCS1,Deputy Chief Scientific Advisor,VE - Vocational Education,NaN,N/A,N/A,Policy
+Mar-14,SCS1-02-05-01,SCS2-02-05,Senior,N/D,SCS1,Deputy Director - SG - Strategy and Growth,P&S - Strategy and Growth,NaN,N/A,N/A,Policy
+Mar-14,SCS1-02-05-02,SCS2-02-05,Senior,N/D,SCS1,Deputy Director - SG - Strategy and Growth,P&S - Strategy and Growth,NaN,N/A,N/A,Policy
+Mar-14,SCS1-02-05-03,SCS2-02-05,Senior,N/D,SCS1,Deputy Director - SG - Strategy and Growth,P&S - Strategy and Growth,NaN,N/A,N/A,Policy
+Mar-14,SCS1-02-05-04,SCS2-02-05,Senior,N/D,SCS1,Deputy Director - SG - Strategy and Growth,P&S - Strategy and Growth,0,N/A,N/A,Policy
+Mar-14,SCS1-03-02-04,SCS2-03-02,Senior,N/D,SCS1,Deputy Director - F&C - Finance,F&C - Finance Group,NaN,N/A,N/A,Finance
+Mar-14,SCS1-03-02-05,SCS3-01,Senior,N/D,SCS1,Deputy Director - Business and Skills and Legal,BS - Business & Skills,NaN,N/A,N/A,Policy
+Mar-14,SCS1-03-02-06,SCS3-04,Senior,N/D,SCS1,Deputy Director - FD - Finance Directorate,KIG - DG/Finance & Corporate Planning,NaN,N/A,N/A,Finance
+Mar-14,SCS1-03-02-09,SCS2-03-02,Senior,N/D,SCS1,Deputy Director - F&C - Modernisation Fund and Shared Services,F&C - Modernisation Fund and Shared Services,0,N/A,N/A,Policy
+Mar-14,SCS1-03-04-01,SCS2-03-04,Senior,N/D,SCS1,Deputy Director - ITD - Information and Technology,ITD - Information and Technology,NaN,N/A,N/A,Information Technology
+Mar-14,SCS1-03-04-02,SCS2-03-04,Senior,N/D,SCS1,Deputy Director - ITD - Information and Technology,ITD - Information and Technology,NaN,N/A,N/A,Information Technology
+Mar-14,SCS1-03-04-03,SCS2-03-04,Senior,N/D,SCS1,Deputy Director - ITD - Information and Technology,ITD - Information and Technology,NaN,N/A,N/A,Information Technology
+Mar-14,SCS1-03-04-04,SCS2-03-04,Senior,N/D,SCS1,Deputy Director - ITD - Information and Technology,ITD - Information and Technology,NaN,N/A,N/A,Information Technology
+Mar-14,SCS1-04-01-01,SCS2-04-01,Senior,N/D,SCS1,Deputy Director - HE - Higher Education,KIG - Higher Education,NaN,N/A,N/A,Policy
+Mar-14,SCS1-04-01-02,SCS2-04-01,Senior,N/D,SCS1,Deputy Director - HE - Higher Education,KIG - Higher Education,NaN,N/A,N/A,Policy
+Mar-14,SCS1-04-01-03,SCS2-04-01,Senior,N/D,SCS1,Deputy Director - HE - Higher Education,KIG - Higher Education,NaN,N/A,N/A,Policy
+Mar-14,SCS1-04-01-04,SCS2-04-01,Senior,N/D,SCS1,Deputy Director - HE - Higher Education,KIG - Higher Education,NaN,N/A,N/A,Policy
+Mar-14,SCS1-04-01-05,SCS2-04-01,Senior,N/D,SCS1,Deputy Director - HE - Higher Education,KIG - Higher Education,NaN,N/A,N/A,Policy
+Mar-14,SCS1-04-04-01,SCS2-04-04,Senior,N/D,SCS1,Deputy Director - ID - Innovation Directorate (KI),KIG - Innovation Directorate,NaN,N/A,N/A,Policy
+Mar-14,SCS1-04-04-02,SCS2-04-04,Senior,N/D,SCS1,Deputy Director - ID - Innovation Directorate (KI),KIG - Innovation Directorate,NaN,N/A,N/A,Policy
+Mar-14,SCS1-04-04-03,SCS2-04-04,Senior,N/D,SCS1,Deputy Director - ID - Innovation Directorate (KI),KIG - Innovation Directorate,NaN,N/A,N/A,Policy
+Mar-14,SCS1-04-04-04,SCS2-04-04,Senior,N/D,SCS1,Deputy Director - ID - Innovation Directorate (KI),KIG - Innovation Directorate,NaN,N/A,N/A,Policy
+Mar-14,SCS1-04-05-01,SCS2-04-05,Senior,N/D,SCS1,Deputy Director - RB - Research Base (KI),KIG - Research Base,NaN,N/A,N/A,Policy
+Mar-14,SCS1-04-05-02,SCS2-04-05,Senior,N/D,SCS1,Deputy Director - RB - Research Base (KI),KIG - Research Base,NaN,N/A,N/A,Policy
+Mar-14,SCS1-04-05-03,SCS2-04-05,Senior,N/D,SCS1,Deputy Director - RB - Research Base (KI),KIG - Research Base,NaN,N/A,N/A,Policy
+Mar-14,SCS1-04-05-06,SCS2-04-05,Senior,N/D,SCS1,Deputy Director - RB - Research Base (KI),KIG - Research Base,NaN,N/A,N/A,Policy
+Mar-14,SCS1-05-01-01,SCS2-05-01,Senior,N/D,SCS1,Deputy Director - COM - Communications,PCE - Communications Directorate,NaN,N/A,N/A,Communications
+Mar-14,SCS1-05-01-03,SCS2-05-01,Senior,N/D,SCS1,Deputy Director - COM - Communications,PCE - Communications Directorate,NaN,N/A,N/A,Communications
+Mar-14,SCS1-05-01-04,SCS2-05-01,Senior,N/D,SCS1,Deputy Director - COM - Communications,PCE - Communications Directorate,NaN,N/A,N/A,Communications
+Mar-14,SCS1-05-02-01,SCS2-05-02,Senior,N/D,SCS1,Deputy Director - HR - Human Resources,P&S - Human Resources,NaN,N/A,N/A,Human Resources
+Mar-14,SCS1-05-02-02,SCS2-05-02,Senior,N/D,SCS1,Deputy Director - HR - Human Resources,P&S - Human Resources,NaN,N/A,N/A,Human Resources
+Mar-14,SCS1-05-02-03,SCS2-05-02,Senior,Vacant,SCS1,Deputy Director - HR - Human Resources,P&S - Human Resources,NaN,N/A,N/A,Human Resources
+Mar-14,SCS1-05-04-01,SCS2-05-04,Senior,N/D,SCS1,Deputy Director - LEGA - Legal Services Directorate A,LEG - Legal Services,NaN,N/A,N/A,Law
+Mar-14,SCS1-05-04-02,SCS2-05-04,Senior,N/D,SCS1,Deputy Director - LEGA - Legal Services Directorate A,LEG - Legal Services,NaN,N/A,N/A,Law
+Mar-14,SCS1-05-04-03,SCS2-05-04,Senior,N/D,SCS1,Deputy Director - LEGA - Legal Services Directorate A,LEG - Legal Services,NaN,N/A,N/A,Law
+Mar-14,SCS1-05-04-04,SCS2-05-04,Senior,N/D,SCS1,Deputy Director - LEGA - Legal Services Directorate A,LEG - Legal Services,NaN,N/A,N/A,Law
+Mar-14,SCS1-05-05-01,SCS2-05-05,Senior,N/D,SCS1,Deputy Director - LEGB - Legal Services Directorate B,LEG - Legal Services,NaN,N/A,N/A,Law
+Mar-14,SCS1-05-05-02,SCS2-05-05,Senior,N/D,SCS1,Deputy Director - LEGA - Legal Services Directorate A,LEG - Legal Services,NaN,N/A,N/A,Law
+Mar-14,SCS1-05-05-03,SCS2-05-05,Senior,N/D,SCS1,Deputy Director - LEGB - Legal Services Directorate B,LEG - Legal Services,NaN,N/A,N/A,Law
+Mar-14,SCS1-05-05-04,SCS2-05-05,Senior,N/D,SCS1,Deputy Director - LEGB - Legal Services Directorate B,LEG - Legal Services,NaN,N/A,N/A,Law
+Mar-14,SCS1-05-05-07,SCS2-05-05,Senior,N/D,SCS1,Deputy Director - LEGB - Legal Services Directorate B,LEG - Legal Services,NaN,N/A,N/A,Law
+Mar-14,SCS1-05-05-08,SCS2-05-05,Senior,N/D,SCS1,Deputy Director - LEGB - Legal Services Directorate B,LEG - Legal Services,NaN,N/A,N/A,Law
+Mar-14,SCS1-05-07-01,SCS2-05-07,Senior,N/D,SCS1,Deputy Director - Corporate Effectiveness,"P&S - Director of Change and Corporate Effectiveness, including the BIS Secretariat",NaN,N/A,N/A,Policy
+Mar-14,SCS1-05-07-02,SCS2-05-07,Senior,N/D,SCS1,Deputy Director - Corporate Effectiveness,"P&S - Director of Change and Corporate Effectiveness, including the BIS Secretariat",NaN,N/A,N/A,Policy
+Mar-14,SCS1-05-07-03,SCS2-05-07,Senior,N/D,SCS1,Deputy Director - Corporate Effectiveness,"P&S - Director of Change and Corporate Effectiveness, including the BIS Secretariat",NaN,N/A,N/A,Policy
+Mar-14,SCS1-06-01-01,SCS2-06-01,Senior,N/D,SCS1,Deputy Director - BED - Business Environment Directorate (MF),E&M - Business Environment Directorate,NaN,N/A,N/A,Policy
+Mar-14,SCS1-06-01-02,SCS2-06-01,Senior,N/D,SCS1,Deputy Director - BED - Business Environment Directorate (MF),E&M - Business Environment Directorate,NaN,N/A,N/A,Policy
+Mar-14,SCS1-06-01-03,SCS2-06-01,Senior,N/D,SCS1,Deputy Director - BED - Business Environment Directorate (MF),E&M - Business Environment Directorate,NaN,N/A,N/A,Policy
+Mar-14,SCS1-06-01-04,SCS2-06-01,Senior,N/D,SCS1,Deputy Director - BED - Business Environment Directorate (MF),E&M - Business Environment Directorate,NaN,N/A,N/A,Policy
+Mar-14,SCS1-06-02-01,SCS2-06-02,Senior,N/D,SCS1,Deputy Director - ETID - Europe Trade and International Directorate (MF),E&M - International Trade and Export Control Directorate,NaN,N/A,N/A,Policy
+Mar-14,SCS1-06-02-02,SCS2-06-02,Senior,N/D,SCS1,Deputy Director - ETID - Europe Trade and International Directorate (MF),E&M - International Trade and Export Control Directorate,NaN,N/A,N/A,Policy
+Mar-14,SCS1-06-02-03,SCS2-06-02,Senior,N/D,SCS1,Deputy Director - ETID - Europe Trade and International Directorate (MF),E&M - International Trade and Export Control Directorate,NaN,N/A,N/A,Policy
+Mar-14,SCS1-06-03-01,SCS2-06-03,Senior,N/D,SCS1,Deputy Director - LM - Labour Market,E&M - Labour Market Directorate,NaN,N/A,N/A,Policy
+Mar-14,SCS1-06-03-03,SCS2-06-03,Senior,N/D,SCS1,Deputy Director - LM - Labour Market,E&M - Labour Market Directorate,NaN,N/A,N/A,Policy
+Mar-14,SCS1-06-03-04,SCS2-06-03,Senior,N/D,SCS1,Deputy Director - LM - Labour Market,E&M - Labour Market Directorate,NaN,N/A,N/A,Policy
+Mar-14,SCS1-06-04-01,SCS2-06-04,Senior,N/D,SCS1,Deputy Director - ERD - European Reform Directorate,BLG - European Reform Directorate,NaN,N/A,N/A,Policy
+Mar-14,SCS1-06-05-01,SCS3-06,Senior,N/D,SCS1,Deputy Director - Business and Local Growth,BLG - Business and Local Growth DG,NaN,N/A,N/A,Policy
+Mar-14,SCS1-07-01-01,SCS2-07-01,Senior,N/D,SCS1,Deputy Director - SE - Shareholder Executive,SE - Shareholder Executive,NaN,N/A,N/A,Policy
+Mar-14,SCS1-07-01-02,SCS2-07-01,Senior,N/D,SCS1,Deputy Director - SE - Shareholder Executive,SE - Shareholder Executive,NaN,N/A,N/A,Policy
+Mar-14,SCS1-07-01-03,SCS2-07-01,Senior,N/D,SCS1,Deputy Director - SE - Shareholder Executive,SE - Shareholder Executive,0,N/A,N/A,Policy
+Mar-14,SCS1-07-01-04,SCS2-07-01,Senior,N/D,SCS1,Deputy Director - SE - Shareholder Executive,SE - Shareholder Executive,0,N/A,N/A,Policy
+Mar-14,SCS1-07-01-05,SCS2-07-01,Senior,N/D,SCS1,Deputy Director - SE - Shareholder Executive,SE - Shareholder Executive,NaN,N/A,N/A,Policy
+Mar-14,SCS1-07-01-06,SCS2-07-01,Senior,N/D,SCS1,Deputy Director - SE - Shareholder Executive,SE - Shareholder Executive,NaN,N/A,N/A,Policy
+Mar-14,SCS1-07-01-07,SCS2-07-01,Senior,N/D,SCS1,Deputy Director - SE - Shareholder Executive,SE - Shareholder Executive,0,N/A,N/A,Policy
+Mar-14,SCS1-07-01-08,SCS2-07-01,Senior,N/D,SCS1,Deputy Director - SE - Shareholder Executive,SE - Shareholder Executive,0,N/A,N/A,Policy
+Mar-14,SCS1-07-01-09,SCS2-07-01,Senior,N/D,SCS1,Deputy Director - SE - Shareholder Executive,SE - Shareholder Executive,NaN,N/A,N/A,Policy
+Mar-14,SCS1-07-02-01,SCS2-07-02,Senior,N/D,SCS1,Deputy Director - SE - Shareholder Executive,SE - Shareholder Executive,NaN,N/A,N/A,Policy
+Mar-14,SCS1-07-02-02,SCS2-07-02,Senior,N/D,SCS1,Deputy Director - SE - Shareholder Executive,SE - Shareholder Executive,NaN,N/A,N/A,Policy
+Mar-14,SCS1-07-02-03,SCS2-07-02,Senior,N/D,SCS1,Deputy Director - SE - Shareholder Executive,SE - Shareholder Executive,NaN,N/A,N/A,Policy
+Mar-14,SCS1-07-02-04,SCS2-07-02,Senior,N/D,SCS1,Deputy Director - SE - Shareholder Executive,SE - Shareholder Executive,0,N/A,N/A,Policy
+Mar-14,SCS1-07-02-05,SCS2-07-02,Senior,N/D,SCS1,Deputy Director - SE - Shareholder Executive,SE - Shareholder Executive,NaN,N/A,N/A,Policy
+Mar-14,SCS1-07-02-06,SCS2-07-02,Senior,N/D,SCS1,Deputy Director - SE - Shareholder Executive,SE - Shareholder Executive,NaN,N/A,N/A,Policy
+Mar-14,SCS1-07-02-07,SCS3-07,Senior,N/D,SCS1,Deputy Director - SE - Shareholder Executive,SE - Shareholder Executive,NaN,N/A,N/A,Policy
+Mar-14,SCS1-07-03-01,SCS2-07-03,Senior,N/D,SCS1,Deputy Director - SE - Shareholder Executive,SE - Shareholder Executive,NaN,N/A,N/A,Policy
+Mar-14,SCS1-07-03-02,SCS2-07-03,Senior,N/D,SCS1,Deputy Director - SE - Shareholder Executive,SE - Shareholder Executive,NaN,N/A,N/A,Policy
+Mar-14,SCS1-07-03-03,SCS2-07-03,Senior,N/D,SCS1,Deputy Director - SE - Shareholder Executive,SE - Shareholder Executive,NaN,N/A,N/A,Policy
+Mar-14,SCS1-07-03-04,SCS2-07-03,Senior,N/D,SCS1,Deputy Director - SE - Shareholder Executive,SE - Shareholder Executive,NaN,N/A,N/A,Policy
+Mar-14,SCS1-07-06-01,SCS2-07-06,Senior,N/D,SCS1,Deputy Director - IE - Information Economy,IE - Information Economy and Cyber Security,NaN,N/A,N/A,Policy
+Mar-14,SCS1-07-06-02,SCS2-07-06,Senior,N/D,SCS1,Deputy Director - IE - Information Economy,IE - Information Economy and Cyber Security,NaN,N/A,N/A,Policy
+Mar-14,SCS1-08-01-02,SCS2-08-01,Senior,N/D,SCS1,Deputy Director - UKTI ID - Investment Development,UKTI ID - Investment Development,NaN,N/A,N/A,Policy
+Mar-14,SCS1-08-01-04,SCS2-08-01,Senior,N/D,SCS1,Deputy Director - UKTI ID - Investment Development,UKTI ID - Investment Development,NaN,N/A,N/A,Policy
+Mar-14,SCS1-08-01-05,SCS2-08-01,Senior,N/D,SCS1,Deputy Director - UKTI ID - Investment Development,UKTI ID - Investment Development,NaN,N/A,N/A,Policy
+Mar-14,SCS1-08-02-03,SCS2-08-02-01,Senior,N/D,SCS1,Deputy Director - UKTI DSO - Defence and Security Organisation,UKTI DSO - Defence and Security Organisation,NaN,N/A,N/A,Policy
+Mar-14,SCS1-08-02-04,SCS2-08-02-01,Senior,N/D,SCS1,Deputy Director - UKTI DSO - Defence and Security Organisation,UKTI DSO - Defence and Security Organisation,NaN,N/A,N/A,Policy
+Mar-14,SCS1-08-02-05,SCS2-08-02,Senior,N/D,SCS1,Deputy Director - UKTI DSO - Defence and Security Organisation,UKTI DSO - Defence and Security Organisation,0,N/A,N/A,Policy
+Mar-14,SCS1-08-03-01,SCS2-08-03,Senior,N/D,SCS1,Deputy Director - UKTI TD - Trade Development,UKTI TD - Trade Development,NaN,N/A,N/A,Policy
+Mar-14,SCS1-08-03-02,SCS2-08-03,Senior,N/D,SCS1,Deputy Director - UKTI TD - Trade Development,UKTI TD - Trade Development,0,N/A,N/A,Policy
+Mar-14,SCS1-08-03-06,SCS2-08-05,Senior,N/D,SCS1,Deputy Director - UKTI ST - Strategic Trade,UKTI ST - Strategic Trade,NaN,N/A,N/A,Policy
+Mar-14,SCS1-08-04-01,SCS2-08-04,Senior,N/D,SCS1,Deputy Director - UKTI MC - Marketing and Communications,UKTI MC - Marketing & Communications,NaN,N/A,N/A,Policy
+Mar-14,SCS1-08-04-02,SCS2-08-04,Senior,N/D,SCS1,Deputy Director - UKTI MC - Marketing and Communications,UKTI MC - Marketing & Communications,NaN,N/A,N/A,Policy
+Mar-14,SCS1-08-04-03,SCS2-08-04,Senior,N/D,SCS1,Deputy Director - UKTI MC - Marketing and Communications,UKTI MC - Marketing & Communications,NaN,N/A,N/A,Policy
+Mar-14,SCS1-08-04-04,SCS2-08-04,Senior,N/D,SCS1,Deputy Director - UKTI MC - Marketing and Communications,UKTI MC - Marketing & Communications,0,N/A,N/A,Policy
+Mar-14,SCS1-08-05-01,SCS2-08-05,Senior,N/D,SCS1,Deputy Director - UKTI ST - Strategic Trade,UKTI ST - Strategic Trade,NaN,N/A,N/A,Policy
+Mar-14,SCS1-08-05-02,SCS2-08-05,Senior,N/D,SCS1,Deputy Director - UKTI ST - Strategic Trade,UKTI ST - Strategic Trade,NaN,N/A,N/A,Policy
+Mar-14,SCS1-08-05-03,SCS2-08-05,Senior,N/D,SCS1,Deputy Director - UKTI ST - Strategic Trade,UKTI ST - Strategic Trade,NaN,N/A,N/A,Policy
+Mar-14,SCS1-08-05-04,SCS2-08-05,Senior,N/D,SCS1,Deputy Director - UKTI ST - Strategic Trade,UKTI ST - Strategic Trade,NaN,N/A,N/A,Policy
+Mar-14,SCS1-08-05-05,SCS2-08-05,Senior,N/D,SCS1,Deputy Director - UKTI ST - Strategic Trade,UKTI ST - Strategic Trade,NaN,N/A,N/A,Policy
+Mar-14,SCS1-08-06-01,SCS2-08-06,Senior,N/D,SCS1,Deputy Director - UKTI COO - Chief Operating Officer,UKTI COO - Chief Operating Officer,NaN,N/A,N/A,Policy
+Mar-14,SCS1-08-06-02,SCS2-08-06,Senior,N/D,SCS1,Deputy Director - UKTI COO - Chief Operating Officer,UKTI COO - Chief Operating Officer,NaN,N/A,N/A,Policy
+Mar-14,SCS1-08-06-03,SCS2-08-06,Senior,N/D,SCS1,Deputy Director - UKTI COO - Chief Operating Officer,UKTI COO - Chief Operating Officer,NaN,N/A,N/A,Policy
+Mar-14,SCS1-08-06-04,SCS2-08-06,Senior,N/D,SCS1,Deputy Director - UKTI COO - Chief Operating Officer,UKTI COO - Chief Operating Officer,NaN,N/A,N/A,Policy
+Mar-14,SCS1-09-01-01,SCS4-09,Senior,N/D,SCS1,Deputy Director - MPST - Ministerial and Parliamentary Supp,MPST - Ministerial and Parliamentary Support Team,NaN,N/A,N/A,Policy
+Mar-14,SCS1-09-01-02,SCS4-09,Senior,N/D,SCS1,Deputy Director - MPST - Ministerial and Parliamentary Supp,MPST - Ministerial and Parliamentary Support Team,0,N/A,N/A,Policy
+Mar-14,SCS1-11-01-01,SCS2-11-01,Senior,N/D,SCS1,Deputy Director - GO SCD - Government Office for Science Directorate,GOSC - Government Office for Science,NaN,N/A,N/A,Policy
+Mar-14,SCS1-11-01-02,SCS2-11-01,Senior,N/D,SCS1,Deputy Director - GO SCD - Government Office for Science Directorate,GOSC - Government Office for Science,NaN,N/A,N/A,Policy
+Mar-14,SCS1-11-01-03,SCS2-11-01,Senior,N/D,SCS1,Deputy Director - GO SCD - Government Office for Science Directorate,GOSC - Government Office for Science,NaN,N/A,N/A,Policy
+Mar-14,SCS2-01-01,SCS3-06,Senior,"Munday, Ms Janice M",SCS2,"Director, Advanced Manufacturing and Services",AMS - Advanced Manufacturing Services,NaN,"95,000","99,999",Policy
+Mar-14,SCS2-01-02,SCS3-06,Senior,"Ward, Miss Emma E M",SCS2,"Director, Local Growth",BLG - Local Growth Directorate,NaN,"85,000","89,999",Policy
+Mar-14,SCS2-01-03,SCS3-01,Senior,"Courtney, Ms Katherine K",SCS2,Director Enterprise,E&S - Enterprise Directorate,NaN,"130,000","134,999",Policy
+Mar-14,SCS2-01-05,SCS3-06,Senior,"Gillatt, Miss Deborah D M (Debbie)",SCS2,"Director, Regional Growth",BLG - Regional Growth Fund & Legacy,NaN,"85,000","89,999",Policy
+Mar-14,SCS2-01-06,SCS3-01,Senior,"Keoghan, Mr Michael M J",SCS2,"Director, Skills and Life Sciences",VE - Vocational Education,NaN,"85,000","89,999",Policy
+Mar-14,SCS2-01-07,SCS3-06,Senior,"Normand, Ms Caroline CJ",SCS2,"Director, Consumer and Competition Policy",BLG - Consumer and Competition Policy,NaN,"85,000","89,999",Policy
+Mar-14,SCS2-01-08,SCS3-06,Senior,"Williams, Mr Martin Wykeham",SCS2,"Director, Information Economy, Agritech and International Education","BLG - Information Economy, Agritech and International Education",NaN,"85,000","89,999",Policy
+Mar-14,SCS2-02-01,SCS3-02,Senior,"Rowlatt, Ms Amanda A",SCS2,Chief Analyst,SABR - DG & Group Support,NaN,"105,000","109,999",Policy
+Mar-14,SCS2-02-02,SCS3-01,Senior,N/D,SCS2,"Chief Executive, Better Regulation Executive",E&S - Better Regulation Executive (BRE),NaN,"85,000","89,999",Policy
+Mar-14,SCS2-02-03,SCS3-01,Senior,"Perkins, Professor John Douglas",SCS2,BIS Chief Scientific Advisor,VE - Vocational Education,0,"125,000","129,999",Policy
+Mar-14,SCS2-02-05,SCS3-05,Senior,"Hannant, Mrs Ruth R",SCS2,"Director, Strategy and Growth",P&S - Strategy and Growth,NaN,"85,000","89,999",Policy
+Mar-14,SCS2-03-01,SCS3-03,Senior,"Dodds, Mr John Charles",SCS2,Director – Future Shape of BIS Programme,F&C - Finance Group,NaN,"90,000","94,999",Policy
+Mar-14,SCS2-03-02,SCS3-03,Senior,"Allen, Mr David D",SCS2,"Director, Finance and Shared Services",F&C - Finance Group,NaN,"105,000","109,999",Policy
+Mar-14,SCS2-03-03,SCS3-03,Senior,"Whitfield, Mr Jonathan J S",SCS2,"Director, Internal Audit",F&C - Internal Audit,NaN,"85,000","89,999",Internal Audit
+Mar-14,SCS2-03-04,SCS3-03,Senior,"Midgley, Mr Darrell D",SCS2,Director  Information and Technology,ITD - Information and Technology,NaN,"85,000","89,999",Information Technology
+Mar-14,SCS2-04-01,SCS3-04,Senior,"Hilton, Mr Matthew M J",SCS2,"Director, Higher Education ",KIG - Higher Education,NaN,"90,000","94,999",Policy
+Mar-14,SCS2-04-04,SCS3-04,Senior,"Brooks, Miss Amanda A M",SCS2,Deputy Director - ID - Innovation Directorate (KI),KIG - Innovation Directorate,NaN,"80,000","84,999",Policy
+Mar-14,SCS2-04-05,SCS3-04,Senior,"Clayton, Mr Jeremy P",SCS2,"Director, Research Base",KIG - Research Base,NaN,"100,000","104,999",Policy
+Mar-14,SCS2-05-01,SCS3-05,Senior,"Grossman, Mr Russell ",SCS2,"Director, Communications",PCE - Communications Directorate,NaN,"115,000","119,999",Communications
+Mar-14,SCS2-05-02,SCS3-05,Senior,"Watkins, Mr Doug",SCS2,"Director, HR - Human Resources",P&S - Human Resources,NaN,"110,000","114,999",Human Resources
+Mar-14,SCS2-05-04,SCS3-01,Senior,"Evans, Mr Alan A",SCS2,"Director, Legal A; Enforcement, Insolvency and Corporate Law",LEG - Legal Services,NaN,"90,000","94,999",Policy
+Mar-14,SCS2-05-05,SCS3-01,Senior,"Kilgarriff, Mr Patrick P",SCS2,"Director, Legal B: Business, Consumers, Employment and Skills",LEG - Legal Services,NaN,"90,000","94,999",Policy
+Mar-14,SCS2-05-07,SCS3-05,Senior,"Evans, Ms Rachel R",SCS2,"Director, Corporate Effectiveness","P&S - Director of Change and Corporate Effectiveness, including the BIS Secretariat",NaN,"85,000","89,999",Policy
+Mar-14,SCS2-06-01,SCS3-02,Senior,"Carter, Mr Richard David",SCS2,"Director, Business Environment",E&M - Business Environment Directorate,NaN,"90,000","94,999",Policy
+Mar-14,SCS2-06-02,SCS3-02,Senior,"Barton, Mr Chris",SCS2,"Director, Trade Policy",E&M - International Trade and Export Control Directorate,NaN,"80,000","84,999",Policy
+Mar-14,SCS2-06-03,SCS3-02,Senior,"Samant, Ms Jaee",SCS2,"Director, Labour Market",E&M - Labour Market Directorate,NaN,"80,000","84,999",Policy
+Mar-14,SCS2-06-04,SCS3-06,Senior,"Simon, Ms Susannah Kate",SCS2,"Director, European Reform Directorate",BLG - European Reform Directorate,NaN,"80,000","84,999",Policy
+Mar-14,SCS2-07-01,SCS3-07,Senior,"Odgers, Mr Anthony A",SCS2,"Director, Portfolio Unit",SE - Shareholder Executive,NaN,"115,000","119,999",Policy
+Mar-14,SCS2-07-02,SCS3-07,Senior,N/D,SCS2,Director - Business Bank and Pubic Data Group,SE - Shareholder Executive,NaN,"85,000","89,999",Policy
+Mar-14,SCS2-07-03,SCS3-07,Senior,"Lowe, Mr Roger R",SCS2,"Director, Portfilo",SE - Shareholder Executive,NaN,"110,000","114,999",Policy
+Mar-14,SCS2-07-06,SCS3-07,Senior,N/D,SCS2,Director - IE - Information Economy,IE - Information Economy and Cyber Security,0,0,0,Policy
+Mar-14,SCS2-08-01,SCS3-08,Senior,"Boyd, Mr Michael M",SCS2,"Managing Director, Investment, UKTI ",UKTI ID - Investment Development,NaN,"135,000","139,999",Policy
+Mar-14,SCS2-08-02,SCS3-08,Senior,"Paniguian, Mr Richard R",SCS2,"Director, UKTI Defence and Security Organisation",UKTI DSO - Defence and Security Organisation,NaN,"170,000","174,999",Policy
+Mar-14,SCS2-08-02-01,SCS2-08-02,Senior,"Cholerton, Doctor Simon S",SCS2,Director - UKTI DSO - Defence and Security Organisation,UKTI DSO - Defence and Security Organisation,NaN,"85,000","89,999",Policy
+Mar-14,SCS2-08-03,SCS3-08,Senior,"Simon, Mr Crispin D C A",SCS2,Chief Executive - UKTI (Acting),UKTI TD - Trade Development,NaN,"135,000","139,999",Policy
+Mar-14,SCS2-08-04,SCS3-08,Senior,"Rogers, Ms Sandra S",SCS2,"Director, Marketing, UKTI",UKTI MC - Marketing & Communications,NaN,"135,000","139,999",Policy
+Mar-14,SCS2-08-05,SCS3-08,Senior,"Oakden, Mr Edward EA",SCS2,"Director, Strategic Trade, UKTI",UKTI ST - Strategic Trade,NaN,0,0,Policy
+Mar-14,SCS2-08-06,SCS3-08,Senior,"Harding, Mr Jonathan J",SCS2,"Chief Operating Officer, UKTI",UKTI COO - Chief Operating Officer,NaN,"140,000","144,999",Policy
+Mar-14,SCS2-11-01,SCS4-11,Senior,"Craig, Doctor Claire C H",SCS2,"Deputy Head, Government Office for Science ",GOSC - Government Office for Science,NaN,"105,000","109,999",Policy
+Mar-14,SCS3-01,SCS4-09,Senior,"Sandby-Thomas, Ms Rachel R",SCS3,"Director General of Enterprise and Skills, as well as Legal",BS - Business & Skills,NaN,"130,000","134,999",Policy
+Mar-14,SCS3-02,SCS4-09,Senior,"Beckett, Mrs Samantha",SCS3,"Director General, Economic and Markets",SABR - DG & Group Support,NaN,"110,000","114,999",Policy
+Mar-14,SCS3-03,SCS4-09,Senior,"Orme, Mr Howard H",SCS3,"Director General, Finance and Commercial",F&C - Finance Group,NaN,"160,000","164,999",Policy
+Mar-14,SCS3-04,SCS4-09,Senior,"O'Reilly, Sir John J",SCS3,"Director General,Knowledge and Innovation (KI)",KIG - DG/Finance & Corporate Planning,NaN,"140,000","144,999",Policy
+Mar-14,SCS3-05,SCS4-09,Senior,"Lloyd, Doctor Philippa E",SCS3,"Director General, People and Strategy","P&S - Director of Change and Corporate Effectiveness, including the BIS Secretariat",NaN,"110,000","114,999",Policy
+Mar-14,SCS3-06,SCS4-09,Senior,"Kelly, Ms Bernadette B M",SCS3,"Director General, Business and Local Growth",BLG - Business and Local Growth DG,NaN,"120,000","124,999",Policy
+Mar-14,SCS3-07,SCS4-09,Senior,"Russell, Mr Mark M",SCS3,"Chief Executive, Shareholder Executive",SE - Shareholder Executive,NaN,"160,000","164,999",Policy
+Mar-14,SCS3-08,SCS4-09,Senior,Vacant,SCS3,"Chief Executive, UKTI ",UKTI CEO - Chief Executive's Office,NaN,0,0,Policy
+Mar-14,SCS4-09,,Senior,"Donnelly, Mr Martin",SCS1A,Permanent Secretary,MPST - Ministerial and Parliamentary Support Team,NaN,"160,000","164,999",Policy
+Mar-14,SCS4-11,SCS4-09,Senior,"Walport, Sir Mark J",SCS1A,Government Chief Scientific Adviser,GOSC - Government Office for Science,0,"175,000","179,999",Policy
+Mar-14,,SCS1-01-01-01,Junior,,AO Level,Policy Support Officer,AMS - Advanced Manufacturing Services,0,"20,217","22,126",Policy
+Mar-14,,SCS1-01-01-01,Junior,,HEO Level,Policy Support Officer,AMS - Advanced Manufacturing Services,0,"28,939","33,027",Policy
+Mar-14,,SCS1-01-01-01,Junior,,SEO Level,Policy Support Officer,AMS - Advanced Manufacturing Services,0,"34,729","40,917",Policy
+Mar-14,,SCS1-01-01-01,Junior,,G7 Level,Policy Adviser,AMS - Advanced Manufacturing Services,0,"47,095","55,882",Policy
+Mar-14,,SCS1-01-01-01,Junior,,G6 Level,Policy Adviser,AMS - Advanced Manufacturing Services,0,"56,272","67,717",Policy
+Mar-14,,SCS1-01-01-02,Junior,,HEO Level,Policy Support Officer,AMS - Advanced Manufacturing Services,0,"28,939","33,027",Policy
+Mar-14,,SCS1-01-01-02,Junior,,SEO Level,Policy Support Officer,AMS - Advanced Manufacturing Services,0,"34,729","40,917",Policy
+Mar-14,,SCS1-01-01-02,Junior,,G7 Level,Policy Adviser,AMS - Advanced Manufacturing Services,0,"47,095","55,882",Policy
+Mar-14,,SCS1-01-01-02,Junior,,G6 Level,Policy Adviser,AMS - Advanced Manufacturing Services,0,"56,272","67,717",Policy
+Mar-14,,SCS1-01-01-03,Junior,,AO Level,Policy Support Officer,AMS - Advanced Manufacturing Services,0,"20,217","22,126",Policy
+Mar-14,,SCS1-01-01-03,Junior,,HEO Level,Policy Support Officer,AMS - Advanced Manufacturing Services,0,"28,939","33,027",Policy
+Mar-14,,SCS1-01-01-03,Junior,,SEO Level,Policy Support Officer,AMS - Advanced Manufacturing Services,0,"34,729","40,917",Policy
+Mar-14,,SCS1-01-01-03,Junior,,G7 Level,Policy Adviser,AMS - Advanced Manufacturing Services,0,"47,095","55,882",Policy
+Mar-14,,SCS1-01-01-03,Junior,,G6 Level,Policy Adviser,AMS - Advanced Manufacturing Services,0,"56,272","67,717",Policy
+Mar-14,,SCS1-01-01-04,Junior,,EO Level,Policy Support Officer,AMS - Advanced Manufacturing Services,0,"23,869","27,281",Policy
+Mar-14,,SCS1-01-01-04,Junior,,HEO Level,Policy Support Officer,AMS - Advanced Manufacturing Services,0,"28,939","33,027",Policy
+Mar-14,,SCS1-01-01-04,Junior,,SEO Level,Policy Support Officer,AMS - Advanced Manufacturing Services,0,"34,729","40,917",Policy
+Mar-14,,SCS1-01-01-04,Junior,,G7 Level,Policy Adviser,AMS - Advanced Manufacturing Services,0,"47,095","55,882",Policy
+Mar-14,,SCS1-01-01-04,Junior,,G6 Level,Policy Adviser,AMS - Advanced Manufacturing Services,0,"56,272","67,717",Policy
+Mar-14,,SCS1-01-01-06,Junior,,EO Level,Policy Support Officer,AMS - Advanced Manufacturing Services,0,"23,869","27,281",Policy
+Mar-14,,SCS1-01-01-06,Junior,,HEO Level,Policy Support Officer,AMS - Advanced Manufacturing Services,0,"28,939","33,027",Policy
+Mar-14,,SCS1-01-01-06,Junior,,SEO Level,Policy Support Officer,AMS - Advanced Manufacturing Services,0,"34,729","40,917",Policy
+Mar-14,,SCS1-01-01-06,Junior,,G7 Level,Policy Adviser,AMS - Advanced Manufacturing Services,0,"47,095","55,882",Policy
+Mar-14,,SCS1-01-01-06,Junior,,G6 Level,Policy Adviser,AMS - Advanced Manufacturing Services,0,"56,272","67,717",Policy
+Mar-14,,SCS1-01-02-01,Junior,,AO Level,Policy Support Officer,BLG - Local Growth Directorate,0,"20,217","22,126",Policy
+Mar-14,,SCS1-01-02-01,Junior,,EO Level,Policy Support Officer,BLG - Local Growth Directorate,0,"23,869","27,281",Policy
+Mar-14,,SCS1-01-02-01,Junior,,HEO Level,Policy Support Officer,BLG - Local Growth Directorate,0,"28,939","33,027",Policy
+Mar-14,,SCS1-01-02-01,Junior,,G7 Level,Policy Adviser,BLG - Local Growth Directorate,0,"47,095","55,882",Policy
+Mar-14,,SCS1-01-02-01,Junior,,G6 Level,Policy Adviser,BLG - Local Growth Directorate,0,"56,272","67,717",Policy
+Mar-14,,SCS1-01-02-03,Junior,,HEO Level,Policy Support Officer,BLG - Local Growth Directorate,0,"28,939","33,027",Policy
+Mar-14,,SCS1-01-02-06,Junior,,EO Level,Policy Support Officer,BLG - BIS Local,0,"23,869","27,281",Policy
+Mar-14,,SCS1-01-02-06,Junior,,HEO Level,Policy Support Officer,BLG - BIS Local,0,"28,939","33,027",Policy
+Mar-14,,SCS1-01-02-06,Junior,,G7 Level,Policy Adviser,BLG - BIS Local,0,"47,095","55,882",Policy
+Mar-14,,SCS1-01-02-07,Junior,,EO Level,Policy Support Officer,BLG - BIS Local,0,"23,869","27,281",Policy
+Mar-14,,SCS1-01-02-07,Junior,,HEO Level,Policy Support Officer,BLG - BIS Local,0,"28,939","33,027",Policy
+Mar-14,,SCS1-01-02-07,Junior,,G7 Level,Policy Adviser,BLG - BIS Local,0,"47,095","55,882",Policy
+Mar-14,,SCS1-01-02-07,Junior,,G6 Level,Policy Adviser,BLG - BIS Local,0,"56,272","67,717",Policy
+Mar-14,,SCS1-01-02-08,Junior,,EO Level,Policy Support Officer,BLG - BIS Local,0,"23,869","27,281",Policy
+Mar-14,,SCS1-01-02-08,Junior,,HEO Level,Policy Support Officer,BLG - BIS Local,0,"28,939","33,027",Policy
+Mar-14,,SCS1-01-02-08,Junior,,SEO Level,Policy Support Officer,BLG - BIS Local,0,"34,729","40,917",Policy
+Mar-14,,SCS1-01-02-08,Junior,,G7 Level,Policy Adviser,BLG - BIS Local,0,"47,095","55,882",Policy
+Mar-14,,SCS1-01-02-09,Junior,,EO Level,Policy Support Officer,BLG - BIS Local,0,"23,869","27,281",Policy
+Mar-14,,SCS1-01-02-09,Junior,,HEO Level,Policy Support Officer,BLG - BIS Local,0,"28,939","33,027",Policy
+Mar-14,,SCS1-01-02-09,Junior,,SEO Level,Policy Support Officer,BLG - BIS Local,0,"34,729","40,917",Policy
+Mar-14,,SCS1-01-02-09,Junior,,G7 Level,Policy Adviser,BLG - BIS Local,0,"47,095","55,882",Policy
+Mar-14,,SCS1-01-02-10,Junior,,AO Level,Policy Support Officer,BLG - BIS Local,0,"20,217","22,126",Policy
+Mar-14,,SCS1-01-02-10,Junior,,HEO Level,Policy Support Officer,BLG - BIS Local,0,"28,939","33,027",Policy
+Mar-14,,SCS1-01-02-10,Junior,,SEO Level,Policy Support Officer,BLG - BIS Local,0,"34,729","40,917",Policy
+Mar-14,,SCS1-01-02-10,Junior,,G7 Level,Policy Adviser,BLG - BIS Local,0,"47,095","55,882",Policy
+Mar-14,,SCS1-01-03-01,Junior,,HEO Level,Policy Support Officer,E&S - Enterprise Directorate,0,"28,939","33,027",Policy
+Mar-14,,SCS1-01-03-01,Junior,,SEO Level,Policy Support Officer,E&S - Enterprise Directorate,0,"34,729","40,917",Policy
+Mar-14,,SCS1-01-03-01,Junior,,G7 Level,Policy Adviser,E&S - Enterprise Directorate,0,"47,095","55,882",Policy
+Mar-14,,SCS1-01-03-01,Junior,,G6 Level,Policy Adviser,E&S - Enterprise Directorate,0,"56,272","67,717",Policy
+Mar-14,,SCS1-01-03-02,Junior,,EO Level,Policy Support Officer,E&S - Enterprise Directorate,0,"23,869","27,281",Policy
+Mar-14,,SCS1-01-03-02,Junior,,HEO Level,Policy Support Officer,E&S - Enterprise Directorate,0,"28,939","33,027",Policy
+Mar-14,,SCS1-01-03-02,Junior,,G7 Level,Policy Adviser,E&S - Enterprise Directorate,0,"47,095","55,882",Policy
+Mar-14,,SCS1-01-03-02,Junior,,G6 Level,Policy Adviser,E&S - Enterprise Directorate,0,"56,272","67,717",Policy
+Mar-14,,SCS1-01-03-04,Junior,,EO Level,Policy Support Officer,E&S - Enterprise Directorate,0,"23,869","27,281",Policy
+Mar-14,,SCS1-01-03-04,Junior,,HEO Level,Policy Support Officer,E&S - Enterprise Directorate,0,"28,939","33,027",Policy
+Mar-14,,SCS1-01-03-04,Junior,,G7 Level,Policy Adviser,E&S - Enterprise Directorate,0,"47,095","55,882",Policy
+Mar-14,,SCS1-01-03-04,Junior,,G6 Level,Policy Adviser,E&S - Enterprise Directorate,0,"56,272","67,717",Policy
+Mar-14,,SCS1-01-03-05,Junior,,EO Level,Policy Support Officer,E&S - Enterprise Directorate,0,"23,869","27,281",Policy
+Mar-14,,SCS1-01-03-05,Junior,,HEO Level,Policy Support Officer,E&S - Enterprise Directorate,0,"28,939","33,027",Policy
+Mar-14,,SCS1-01-03-05,Junior,,SEO Level,Policy Support Officer,E&S - Enterprise Directorate,0,"34,729","40,917",Policy
+Mar-14,,SCS1-01-03-05,Junior,,G7 Level,Policy Adviser,E&S - Enterprise Directorate,0,"47,095","55,882",Policy
+Mar-14,,SCS1-01-03-05,Junior,,G6 Level,Policy Adviser,E&S - Enterprise Directorate,0,"56,272","67,717",Policy
+Mar-14,,SCS1-01-03-06,Junior,,EO Level,Policy Support Officer,E&S - Enterprise Directorate,0,"23,869","27,281",Policy
+Mar-14,,SCS1-01-03-06,Junior,,HEO Level,Policy Support Officer,E&S - Enterprise Directorate,0,"28,939","33,027",Policy
+Mar-14,,SCS1-01-03-06,Junior,,SEO Level,Policy Support Officer,E&S - Enterprise Directorate,0,"34,729","40,917",Policy
+Mar-14,,SCS1-01-03-06,Junior,,G7 Level,Policy Adviser,E&S - Enterprise Directorate,0,"47,095","55,882",Policy
+Mar-14,,SCS1-01-03-06,Junior,,G6 Level,Policy Adviser,E&S - Enterprise Directorate,0,"56,272","67,717",Policy
+Mar-14,,SCS1-01-03-07,Junior,,G7 Level,Policy Adviser,E&S - Enterprise Directorate,0,"47,095","55,882",Policy
+Mar-14,,SCS1-01-03-08,Junior,,SEO Level,Policy Support Officer,E&S - Enterprise Directorate,0,"34,729","40,917",Policy
+Mar-14,,SCS1-01-03-08,Junior,,G7 Level,Policy Adviser,E&S - Enterprise Directorate,0,"47,095","55,882",Policy
+Mar-14,,SCS1-01-05-01,Junior,,SEO Level,Policy Support Officer,BLG - Regional Growth Fund & Legacy,0,"34,729","40,917",Policy
+Mar-14,,SCS1-01-05-01,Junior,,G7 Level,Policy Adviser,BLG - Regional Growth Fund & Legacy,0,"47,095","55,882",Policy
+Mar-14,,SCS1-01-05-01,Junior,,G6 Level,Policy Adviser,BLG - Regional Growth Fund & Legacy,0,"56,272","67,717",Policy
+Mar-14,,SCS1-01-06-01,Junior,,AO Level,Policy Support Officer,VE - Vocational Education,0,"20,217","22,126",Policy
+Mar-14,,SCS1-01-06-01,Junior,,EO Level,Policy Support Officer,VE - Vocational Education,0,"23,869","27,281",Policy
+Mar-14,,SCS1-01-06-01,Junior,,HEO Level,Policy Support Officer,VE - Vocational Education,0,"28,939","33,027",Policy
+Mar-14,,SCS1-01-06-01,Junior,,SEO Level,Policy Support Officer,VE - Vocational Education,0,"34,729","40,917",Policy
+Mar-14,,SCS1-01-06-01,Junior,,G7 Level,Policy Adviser,VE - Vocational Education,0,"47,095","55,882",Policy
+Mar-14,,SCS1-01-06-01,Junior,,G6 Level,Policy Adviser,VE - Vocational Education,0,"56,272","67,717",Policy
+Mar-14,,SCS1-01-06-02,Junior,,AO Level,Policy Support Officer,VE - Vocational Education,0,"20,217","22,126",Policy
+Mar-14,,SCS1-01-06-02,Junior,,EO Level,Policy Support Officer,VE - Vocational Education,0,"23,869","27,281",Policy
+Mar-14,,SCS1-01-06-02,Junior,,HEO Level,Policy Support Officer,VE - Vocational Education,0,"28,939","33,027",Policy
+Mar-14,,SCS1-01-06-02,Junior,,SEO Level,Policy Support Officer,VE - Vocational Education,0,"34,729","40,917",Policy
+Mar-14,,SCS1-01-06-02,Junior,,G7 Level,Policy Adviser,VE - Vocational Education,0,"47,095","55,882",Policy
+Mar-14,,SCS1-01-06-02,Junior,,G6 Level,Policy Adviser,VE - Vocational Education,0,"56,272","67,717",Policy
+Mar-14,,SCS1-01-06-03,Junior,,AO Level,Policy Support Officer,VE - Vocational Education,0,"20,217","22,126",Policy
+Mar-14,,SCS1-01-06-03,Junior,,EO Level,Policy Support Officer,VE - Vocational Education,0,"23,869","27,281",Policy
+Mar-14,,SCS1-01-06-03,Junior,,HEO Level,Policy Support Officer,VE - Vocational Education,0,"28,939","33,027",Policy
+Mar-14,,SCS1-01-06-03,Junior,,SEO Level,Policy Support Officer,VE - Vocational Education,0,"34,729","40,917",Policy
+Mar-14,,SCS1-01-06-03,Junior,,G7 Level,Policy Adviser,VE - Vocational Education,0,"47,095","55,882",Policy
+Mar-14,,SCS1-01-06-03,Junior,,G6 Level,Policy Adviser,VE - Vocational Education,0,"56,272","67,717",Policy
+Mar-14,,SCS1-01-06-04,Junior,,AO Level,Policy Support Officer,VE - Vocational Education,0,"20,217","22,126",Policy
+Mar-14,,SCS1-01-06-04,Junior,,EO Level,Policy Support Officer,VE - Vocational Education,0,"23,869","27,281",Policy
+Mar-14,,SCS1-01-06-04,Junior,,HEO Level,Policy Support Officer,VE - Vocational Education,0,"28,939","33,027",Policy
+Mar-14,,SCS1-01-06-04,Junior,,SEO Level,Policy Support Officer,VE - Vocational Education,0,"34,729","40,917",Policy
+Mar-14,,SCS1-01-06-04,Junior,,G7 Level,Policy Adviser,VE - Vocational Education,0,"47,095","55,882",Policy
+Mar-14,,SCS1-01-06-04,Junior,,G6 Level,Policy Adviser,VE - Vocational Education,0,"56,272","67,717",Policy
+Mar-14,,SCS1-01-06-05,Junior,,EO Level,Policy Support Officer,VE - Vocational Education,0,"23,869","27,281",Policy
+Mar-14,,SCS1-01-06-05,Junior,,HEO Level,Policy Support Officer,VE - Vocational Education,0,"28,939","33,027",Policy
+Mar-14,,SCS1-01-06-05,Junior,,SEO Level,Policy Support Officer,VE - Vocational Education,0,"34,729","40,917",Policy
+Mar-14,,SCS1-01-06-05,Junior,,G7 Level,Policy Adviser,VE - Vocational Education,0,"47,095","55,882",Policy
+Mar-14,,SCS1-01-06-05,Junior,,G6 Level,Policy Adviser,VE - Vocational Education,0,"56,272","67,717",Policy
+Mar-14,,SCS1-01-06-06,Junior,,AO Level,Policy Support Officer,VE - Vocational Education,0,"20,217","22,126",Policy
+Mar-14,,SCS1-01-06-06,Junior,,EO Level,Policy Support Officer,VE - Vocational Education,0,"23,869","27,281",Policy
+Mar-14,,SCS1-01-06-06,Junior,,HEO Level,Policy Support Officer,VE - Vocational Education,0,"28,939","33,027",Policy
+Mar-14,,SCS1-01-06-06,Junior,,SEO Level,Policy Support Officer,VE - Vocational Education,0,"34,729","40,917",Policy
+Mar-14,,SCS1-01-06-06,Junior,,G7 Level,Policy Adviser,VE - Vocational Education,0,"47,095","55,882",Policy
+Mar-14,,SCS1-01-06-06,Junior,,G6 Level,Policy Adviser,VE - Vocational Education,0,"56,272","67,717",Policy
+Mar-14,,SCS1-01-06-07,Junior,,EO Level,Policy Support Officer,VE - Vocational Education,0,"23,869","27,281",Policy
+Mar-14,,SCS1-01-06-07,Junior,,HEO Level,Policy Support Officer,VE - Vocational Education,0,"28,939","33,027",Policy
+Mar-14,,SCS1-01-06-07,Junior,,SEO Level,Policy Support Officer,VE - Vocational Education,0,"34,729","40,917",Policy
+Mar-14,,SCS1-01-06-07,Junior,,G7 Level,Policy Adviser,VE - Vocational Education,0,"47,095","55,882",Policy
+Mar-14,,SCS1-01-06-07,Junior,,G6 Level,Policy Adviser,VE - Vocational Education,0,"56,272","67,717",Policy
+Mar-14,,SCS1-01-06-08,Junior,,AO Level,Policy Support Officer,VE - Vocational Education,0,"20,217","22,126",Policy
+Mar-14,,SCS1-01-06-08,Junior,,HEO Level,Policy Support Officer,VE - Vocational Education,0,"28,939","33,027",Policy
+Mar-14,,SCS1-01-06-08,Junior,,SEO Level,Policy Support Officer,VE - Vocational Education,0,"34,729","40,917",Policy
+Mar-14,,SCS1-01-06-08,Junior,,G7 Level,Policy Adviser,VE - Vocational Education,0,"47,095","55,882",Policy
+Mar-14,,SCS1-01-06-08,Junior,,G6 Level,Policy Adviser,VE - Vocational Education,0,"56,272","67,717",Policy
+Mar-14,,SCS1-01-07-01,Junior,,HEO Level,Policy Support Officer,BLG - Consumer and Competition Policy,0,"28,939","33,027",Policy
+Mar-14,,SCS1-01-07-01,Junior,,SEO Level,Policy Support Officer,BLG - Consumer and Competition Policy,0,"34,729","40,917",Policy
+Mar-14,,SCS1-01-07-01,Junior,,G7 Level,Policy Adviser,BLG - Consumer and Competition Policy,0,"47,095","55,882",Policy
+Mar-14,,SCS1-01-07-01,Junior,,G6 Level,Policy Adviser,BLG - Consumer and Competition Policy,0,"56,272","67,717",Policy
+Mar-14,,SCS1-01-07-02,Junior,,EO Level,Policy Support Officer,BLG - Consumer and Competition Policy,0,"23,869","27,281",Policy
+Mar-14,,SCS1-01-07-02,Junior,,HEO Level,Policy Support Officer,BLG - Consumer and Competition Policy,0,"28,939","33,027",Policy
+Mar-14,,SCS1-01-07-02,Junior,,SEO Level,Policy Support Officer,BLG - Consumer and Competition Policy,0,"34,729","40,917",Policy
+Mar-14,,SCS1-01-07-02,Junior,,G7 Level,Policy Adviser,BLG - Consumer and Competition Policy,0,"47,095","55,882",Policy
+Mar-14,,SCS1-01-07-02,Junior,,G6 Level,Policy Adviser,BLG - Consumer and Competition Policy,0,"56,272","67,717",Policy
+Mar-14,,SCS1-01-07-03,Junior,,AO Level,Policy Support Officer,BLG - Consumer and Competition Policy,0,"20,217","22,126",Policy
+Mar-14,,SCS1-01-07-03,Junior,,EO Level,Policy Support Officer,BLG - Consumer and Competition Policy,0,"23,869","27,281",Policy
+Mar-14,,SCS1-01-07-03,Junior,,HEO Level,Policy Support Officer,BLG - Consumer and Competition Policy,0,"28,939","33,027",Policy
+Mar-14,,SCS1-01-07-03,Junior,,G7 Level,Policy Adviser,BLG - Consumer and Competition Policy,0,"47,095","55,882",Policy
+Mar-14,,SCS1-01-07-04,Junior,,HEO Level,Policy Support Officer,BLG - Consumer and Competition Policy,0,"28,939","33,027",Policy
+Mar-14,,SCS1-01-07-04,Junior,,SEO Level,Policy Support Officer,BLG - Consumer and Competition Policy,0,"34,729","40,917",Policy
+Mar-14,,SCS1-01-07-04,Junior,,G7 Level,Policy Adviser,BLG - Consumer and Competition Policy,0,"47,095","55,882",Policy
+Mar-14,,SCS1-01-07-04,Junior,,G6 Level,Policy Adviser,BLG - Consumer and Competition Policy,0,"56,272","67,717",Policy
+Mar-14,,SCS1-01-07-05,Junior,,AO Level,Policy Support Officer,BLG - Consumer and Competition Policy,0,"20,217","22,126",Policy
+Mar-14,,SCS1-01-07-05,Junior,,EO Level,Policy Support Officer,BLG - Consumer and Competition Policy,0,"23,869","27,281",Policy
+Mar-14,,SCS1-01-07-05,Junior,,HEO Level,Policy Support Officer,BLG - Consumer and Competition Policy,0,"28,939","33,027",Policy
+Mar-14,,SCS1-01-07-05,Junior,,SEO Level,Policy Support Officer,BLG - Consumer and Competition Policy,0,"34,729","40,917",Policy
+Mar-14,,SCS1-01-07-05,Junior,,G7 Level,Policy Adviser,BLG - Consumer and Competition Policy,0,"47,095","55,882",Policy
+Mar-14,,SCS1-01-07-05,Junior,,G6 Level,Policy Adviser,BLG - Consumer and Competition Policy,0,"56,272","67,717",Policy
+Mar-14,,SCS1-01-07-06,Junior,,HEO Level,Policy Support Officer,BLG - Consumer and Competition Policy,0,"28,939","33,027",Policy
+Mar-14,,SCS1-01-07-06,Junior,,G7 Level,Policy Adviser,BLG - Consumer and Competition Policy,0,"47,095","55,882",Policy
+Mar-14,,SCS1-01-08-01,Junior,,SEO Level,Policy Support Officer,"BLG - Information Economy, Agritech and International Education",0,"34,729","40,917",Policy
+Mar-14,,SCS1-01-08-01,Junior,,G7 Level,Policy Adviser,"BLG - Information Economy, Agritech and International Education",0,"47,095","55,882",Policy
+Mar-14,,SCS1-01-08-01,Junior,,G6 Level,Policy Adviser,"BLG - Information Economy, Agritech and International Education",0,"56,272","67,717",Policy
+Mar-14,,SCS1-01-08-02,Junior,,EO Level,Policy Support Officer,"BLG - Information Economy, Agritech and International Education",0,"23,869","27,281",Policy
+Mar-14,,SCS1-01-08-02,Junior,,HEO Level,Policy Support Officer,"BLG - Information Economy, Agritech and International Education",0,"28,939","33,027",Policy
+Mar-14,,SCS1-01-08-02,Junior,,SEO Level,Policy Support Officer,"BLG - Information Economy, Agritech and International Education",0,"34,729","40,917",Policy
+Mar-14,,SCS1-01-08-02,Junior,,G7 Level,Policy Adviser,"BLG - Information Economy, Agritech and International Education",0,"47,095","55,882",Policy
+Mar-14,,SCS1-01-08-02,Junior,,G6 Level,Policy Adviser,"BLG - Information Economy, Agritech and International Education",0,"56,272","67,717",Policy
+Mar-14,,SCS1-02-01-01,Junior,,AA Level,Policy Support Officer,E&M - Analysis Directorate,0,"17,277","18,617",Policy
+Mar-14,,SCS1-02-01-01,Junior,,AO Level,Policy Support Officer,E&M - Analysis Directorate,0,"20,217","22,126",Policy
+Mar-14,,SCS1-02-01-01,Junior,,EO Level,Policy Support Officer,E&M - Analysis Directorate,0,"23,869","27,281",Policy
+Mar-14,,SCS1-02-01-01,Junior,,HEO Level,Policy Support Officer,E&M - Analysis Directorate,0,"28,939","33,027",Policy
+Mar-14,,SCS1-02-01-01,Junior,,SEO Level,Policy Support Officer,E&M - Analysis Directorate,0,"34,729","40,917",Policy
+Mar-14,,SCS1-02-01-01,Junior,,G7 Level,Policy Adviser,E&M - Analysis Directorate,0,"47,095","55,882",Policy
+Mar-14,,SCS1-02-01-01,Junior,,G6 Level,Policy Adviser,E&M - Analysis Directorate,0,"56,272","67,717",Policy
+Mar-14,,SCS1-02-01-03,Junior,,HEO Level,Policy Support Officer,E&M - Analysis Directorate,0,"28,939","33,027",Policy
+Mar-14,,SCS1-02-01-03,Junior,,SEO Level,Policy Support Officer,E&M - Analysis Directorate,0,"34,729","40,917",Policy
+Mar-14,,SCS1-02-01-03,Junior,,G7 Level,Policy Adviser,E&M - Analysis Directorate,0,"47,095","55,882",Policy
+Mar-14,,SCS1-02-01-03,Junior,,G6 Level,Policy Adviser,E&M - Analysis Directorate,0,"56,272","67,717",Policy
+Mar-14,,SCS1-02-01-04,Junior,,SEO Level,Policy Support Officer,E&M - Analysis Directorate,0,"34,729","40,917",Policy
+Mar-14,,SCS1-02-01-04,Junior,,G7 Level,Policy Adviser,E&M - Analysis Directorate,0,"47,095","55,882",Policy
+Mar-14,,SCS1-02-01-04,Junior,,G6 Level,Policy Adviser,E&M - Analysis Directorate,0,"56,272","67,717",Policy
+Mar-14,,SCS1-02-01-06,Junior,,AO Level,Policy Support Officer,E&M - Analysis Directorate,0,"20,217","22,126",Policy
+Mar-14,,SCS1-02-01-06,Junior,,HEO Level,Policy Support Officer,E&M - Analysis Directorate,0,"28,939","33,027",Policy
+Mar-14,,SCS1-02-01-06,Junior,,G7 Level,Policy Adviser,E&M - Analysis Directorate,0,"47,095","55,882",Policy
+Mar-14,,SCS1-02-01-06,Junior,,G6 Level,Policy Adviser,E&M - Analysis Directorate,0,"56,272","67,717",Policy
+Mar-14,,SCS1-02-02-01,Junior,,EO Level,Policy Support Officer,E&S - Better Regulation Executive (BRE),0,"23,869","27,281",Policy
+Mar-14,,SCS1-02-02-01,Junior,,HEO Level,Policy Support Officer,E&S - Better Regulation Executive (BRE),0,"28,939","33,027",Policy
+Mar-14,,SCS1-02-02-01,Junior,,SEO Level,Policy Support Officer,E&S - Better Regulation Executive (BRE),0,"34,729","40,917",Policy
+Mar-14,,SCS1-02-02-01,Junior,,G7 Level,Policy Adviser,E&S - Better Regulation Executive (BRE),0,"47,095","55,882",Policy
+Mar-14,,SCS1-02-02-01,Junior,,G6 Level,Policy Adviser,E&S - Better Regulation Executive (BRE),0,"56,272","67,717",Policy
+Mar-14,,SCS1-02-02-02,Junior,,EO Level,Policy Support Officer,E&S - Better Regulation Executive (BRE),0,"23,869","27,281",Policy
+Mar-14,,SCS1-02-02-02,Junior,,G7 Level,Policy Adviser,E&S - Better Regulation Executive (BRE),0,"47,095","55,882",Policy
+Mar-14,,SCS1-02-02-02,Junior,,G6 Level,Policy Adviser,E&S - Better Regulation Executive (BRE),0,"56,272","67,717",Policy
+Mar-14,,SCS1-02-02-04,Junior,,HEO Level,Policy Support Officer,E&S - Better Regulation Executive (BRE),0,"28,939","33,027",Policy
+Mar-14,,SCS1-02-02-04,Junior,,SEO Level,Policy Support Officer,E&S - Better Regulation Executive (BRE),0,"34,729","40,917",Policy
+Mar-14,,SCS1-02-02-04,Junior,,G7 Level,Policy Adviser,E&S - Better Regulation Executive (BRE),0,"47,095","55,882",Policy
+Mar-14,,SCS1-02-02-04,Junior,,G6 Level,Policy Adviser,E&S - Better Regulation Executive (BRE),0,"56,272","67,717",Policy
+Mar-14,,SCS1-02-02-05,Junior,,AO Level,Policy Support Officer,E&S - Better Regulation Executive (BRE),0,"20,217","22,126",Policy
+Mar-14,,SCS1-02-02-05,Junior,,EO Level,Policy Support Officer,E&S - Better Regulation Executive (BRE),0,"23,869","27,281",Policy
+Mar-14,,SCS1-02-02-05,Junior,,HEO Level,Policy Support Officer,E&S - Better Regulation Executive (BRE),0,"28,939","33,027",Policy
+Mar-14,,SCS1-02-02-05,Junior,,G7 Level,Policy Adviser,E&S - Better Regulation Executive (BRE),0,"47,095","55,882",Policy
+Mar-14,,SCS1-02-02-05,Junior,,G6 Level,Policy Adviser,E&S - Better Regulation Executive (BRE),0,"56,272","67,717",Policy
+Mar-14,,SCS1-02-02-07,Junior,,EO Level,Policy Support Officer,E&S - Better Regulation Executive (BRE),0,"23,869","27,281",Policy
+Mar-14,,SCS1-02-02-07,Junior,,HEO Level,Policy Support Officer,E&S - Better Regulation Executive (BRE),0,"28,939","33,027",Policy
+Mar-14,,SCS1-02-02-07,Junior,,G7 Level,Policy Adviser,E&S - Better Regulation Executive (BRE),0,"47,095","55,882",Policy
+Mar-14,,SCS1-02-02-07,Junior,,G6 Level,Policy Adviser,E&S - Better Regulation Executive (BRE),0,"56,272","67,717",Policy
+Mar-14,,SCS1-02-03-01,Junior,,AO Level,Policy Support Officer,VE - Vocational Education,0,"20,217","22,126",Policy
+Mar-14,,SCS1-02-03-01,Junior,,EO Level,Policy Support Officer,VE - Vocational Education,0,"23,869","27,281",Policy
+Mar-14,,SCS1-02-03-01,Junior,,G7 Level,Policy Adviser,VE - Vocational Education,0,"47,095","55,882",Policy
+Mar-14,,SCS1-02-05-01,Junior,,HEO Level,Policy Support Officer,P&S - Strategy and Growth,0,"28,939","33,027",Policy
+Mar-14,,SCS1-02-05-01,Junior,,G7 Level,Policy Adviser,P&S - Strategy and Growth,0,"47,095","55,882",Policy
+Mar-14,,SCS1-02-05-02,Junior,,HEO Level,Policy Support Officer,P&S - Strategy and Growth,0,"28,939","33,027",Policy
+Mar-14,,SCS1-02-05-02,Junior,,G7 Level,Policy Adviser,P&S - Strategy and Growth,0,"47,095","55,882",Policy
+Mar-14,,SCS1-02-05-03,Junior,,EO Level,Policy Support Officer,P&S - Strategy and Growth,0,"23,869","27,281",Policy
+Mar-14,,SCS1-02-05-03,Junior,,HEO Level,Policy Support Officer,P&S - Strategy and Growth,0,"28,939","33,027",Policy
+Mar-14,,SCS1-02-05-03,Junior,,G7 Level,Policy Adviser,P&S - Strategy and Growth,0,"47,095","55,882",Policy
+Mar-14,,SCS1-03-02-04,Junior,,AO Level,Finance Support Officer,F&C - Finance Group,0,"20,217","22,126",Finance
+Mar-14,,SCS1-03-02-04,Junior,,EO Level,Finance Support Officer,F&C - Finance Group,0,"23,869","27,281",Finance
+Mar-14,,SCS1-03-02-04,Junior,,HEO Level,Finance Support Officer,F&C - Finance Group,0,"28,939","33,027",Finance
+Mar-14,,SCS1-03-02-04,Junior,,SEO Level,Finance Support Officer,F&C - Finance Group,0,"34,729","40,917",Finance
+Mar-14,,SCS1-03-02-04,Junior,,G7 Level,Finance Officer,F&C - Finance Group,0,"47,095","55,882",Finance
+Mar-14,,SCS1-03-02-04,Junior,,G6 Level,Finance Officer,F&C - Finance Group,0,"56,272","67,717",Finance
+Mar-14,,SCS1-03-02-05,Junior,,AO Level,Policy Support Officer,BS - Business & Skills,0,"20,217","22,126",Policy
+Mar-14,,SCS1-03-02-05,Junior,,EO Level,Policy Support Officer,BS - Business & Skills,0,"23,869","27,281",Policy
+Mar-14,,SCS1-03-02-05,Junior,,HEO Level,Policy Support Officer,BS - Business & Skills,0,"28,939","33,027",Policy
+Mar-14,,SCS1-03-02-05,Junior,,SEO Level,Policy Support Officer,BS - Business & Skills,0,"34,729","40,917",Policy
+Mar-14,,SCS1-03-02-05,Junior,,G7 Level,Policy Adviser,BS - Business & Skills,0,"47,095","55,882",Policy
+Mar-14,,SCS1-03-02-05,Junior,,G6 Level,Policy Adviser,BS - Business & Skills,0,"56,272","67,717",Policy
+Mar-14,,SCS1-03-02-06,Junior,,AO Level,Policy Support Officer,KIG - DG/Finance & Corporate Planning,0,"20,217","22,126",Policy
+Mar-14,,SCS1-03-02-06,Junior,,EO Level,Policy Support Officer,KIG - DG/Finance & Corporate Planning,0,"23,869","27,281",Policy
+Mar-14,,SCS1-03-02-06,Junior,,HEO Level,Policy Support Officer,KIG - DG/Finance & Corporate Planning,0,"28,939","33,027",Policy
+Mar-14,,SCS1-03-02-06,Junior,,SEO Level,Policy Support Officer,KIG - DG/Finance & Corporate Planning,0,"34,729","40,917",Policy
+Mar-14,,SCS1-03-02-06,Junior,,G7 Level,Policy Adviser,KIG - DG/Finance & Corporate Planning,0,"47,095","55,882",Policy
+Mar-14,,SCS1-03-02-06,Junior,,G6 Level,Policy Adviser,KIG - DG/Finance & Corporate Planning,0,"56,272","67,717",Policy
+Mar-14,,SCS1-03-04-01,Junior,,HEO Level,IT Support Officer,ITD - Information and Technology,0,"28,939","33,027",Information Technology
+Mar-14,,SCS1-03-04-01,Junior,,SEO Level,IT Support Officer,ITD - Information and Technology,0,"34,729","40,917",Information Technology
+Mar-14,,SCS1-03-04-01,Junior,,G7 Level,IT Manager,ITD - Information and Technology,0,"47,095","55,882",Information Technology
+Mar-14,,SCS1-03-04-01,Junior,,G6 Level,IT Manager,ITD - Information and Technology,0,"56,272","67,717",Information Technology
+Mar-14,,SCS1-03-04-02,Junior,,EO Level,IT Support Officer,ITD - Information and Technology,0,"23,869","27,281",Information Technology
+Mar-14,,SCS1-03-04-02,Junior,,HEO Level,IT Support Officer,ITD - Information and Technology,0,"28,939","33,027",Information Technology
+Mar-14,,SCS1-03-04-02,Junior,,G7 Level,IT Manager,ITD - Information and Technology,0,"47,095","55,882",Information Technology
+Mar-14,,SCS1-03-04-02,Junior,,G6 Level,IT Manager,ITD - Information and Technology,0,"56,272","67,717",Information Technology
+Mar-14,,SCS1-03-04-03,Junior,,EO Level,IT Support Officer,ITD - Information and Technology,0,"23,869","27,281",Information Technology
+Mar-14,,SCS1-03-04-03,Junior,,HEO Level,IT Support Officer,ITD - Information and Technology,0,"28,939","33,027",Information Technology
+Mar-14,,SCS1-03-04-03,Junior,,SEO Level,IT Support Officer,ITD - Information and Technology,0,"34,729","40,917",Information Technology
+Mar-14,,SCS1-03-04-03,Junior,,G7 Level,IT Manager,ITD - Information and Technology,0,"47,095","55,882",Information Technology
+Mar-14,,SCS1-03-04-04,Junior,,AA Level,IT Support Officer,ITD - Information and Technology,0,"17,277","18,617",Information Technology
+Mar-14,,SCS1-03-04-04,Junior,,AO Level,IT Support Officer,ITD - Information and Technology,0,"20,217","22,126",Information Technology
+Mar-14,,SCS1-03-04-04,Junior,,EO Level,IT Support Officer,ITD - Information and Technology,0,"23,869","27,281",Information Technology
+Mar-14,,SCS1-03-04-04,Junior,,HEO Level,IT Support Officer,ITD - Information and Technology,0,"28,939","33,027",Information Technology
+Mar-14,,SCS1-03-04-04,Junior,,SEO Level,IT Support Officer,ITD - Information and Technology,0,"34,729","40,917",Information Technology
+Mar-14,,SCS1-03-04-04,Junior,,G7 Level,IT Manager,ITD - Information and Technology,0,"47,095","55,882",Information Technology
+Mar-14,,SCS1-03-04-04,Junior,,G6 Level,IT Manager,ITD - Information and Technology,0,"56,272","67,717",Information Technology
+Mar-14,,SCS1-04-01-01,Junior,,AO Level,Policy Support Officer,KIG - Higher Education,0,"20,217","22,126",Policy
+Mar-14,,SCS1-04-01-01,Junior,,EO Level,Policy Support Officer,KIG - Higher Education,0,"23,869","27,281",Policy
+Mar-14,,SCS1-04-01-01,Junior,,HEO Level,Policy Support Officer,KIG - Higher Education,0,"28,939","33,027",Policy
+Mar-14,,SCS1-04-01-01,Junior,,SEO Level,Policy Support Officer,KIG - Higher Education,0,"34,729","40,917",Policy
+Mar-14,,SCS1-04-01-01,Junior,,G7 Level,Policy Adviser,KIG - Higher Education,0,"47,095","55,882",Policy
+Mar-14,,SCS1-04-01-02,Junior,,HEO Level,Policy Support Officer,KIG - Higher Education,0,"28,939","33,027",Policy
+Mar-14,,SCS1-04-01-02,Junior,,SEO Level,Policy Support Officer,KIG - Higher Education,0,"34,729","40,917",Policy
+Mar-14,,SCS1-04-01-02,Junior,,G7 Level,Policy Adviser,KIG - Higher Education,0,"47,095","55,882",Policy
+Mar-14,,SCS1-04-01-02,Junior,,G6 Level,Policy Adviser,KIG - Higher Education,0,"56,272","67,717",Policy
+Mar-14,,SCS1-04-01-03,Junior,,AO Level,Policy Support Officer,KIG - Higher Education,0,"20,217","22,126",Policy
+Mar-14,,SCS1-04-01-03,Junior,,EO Level,Policy Support Officer,KIG - Higher Education,0,"23,869","27,281",Policy
+Mar-14,,SCS1-04-01-03,Junior,,HEO Level,Policy Support Officer,KIG - Higher Education,0,"28,939","33,027",Policy
+Mar-14,,SCS1-04-01-03,Junior,,SEO Level,Policy Support Officer,KIG - Higher Education,0,"34,729","40,917",Policy
+Mar-14,,SCS1-04-01-03,Junior,,G7 Level,Policy Adviser,KIG - Higher Education,0,"47,095","55,882",Policy
+Mar-14,,SCS1-04-01-04,Junior,,EO Level,Policy Support Officer,KIG - Higher Education,0,"23,869","27,281",Policy
+Mar-14,,SCS1-04-01-04,Junior,,HEO Level,Policy Support Officer,KIG - Higher Education,0,"28,939","33,027",Policy
+Mar-14,,SCS1-04-01-04,Junior,,G7 Level,Policy Adviser,KIG - Higher Education,0,"47,095","55,882",Policy
+Mar-14,,SCS1-04-01-04,Junior,,G6 Level,Policy Adviser,KIG - Higher Education,0,"56,272","67,717",Policy
+Mar-14,,SCS1-04-01-05,Junior,,EO Level,Policy Support Officer,KIG - Higher Education,0,"23,869","27,281",Policy
+Mar-14,,SCS1-04-01-05,Junior,,HEO Level,Policy Support Officer,KIG - Higher Education,0,"28,939","33,027",Policy
+Mar-14,,SCS1-04-01-05,Junior,,SEO Level,Policy Support Officer,KIG - Higher Education,0,"34,729","40,917",Policy
+Mar-14,,SCS1-04-01-05,Junior,,G7 Level,Policy Adviser,KIG - Higher Education,0,"47,095","55,882",Policy
+Mar-14,,SCS1-04-04-01,Junior,,AO Level,Policy Support Officer,KIG - Innovation Directorate,0,"20,217","22,126",Policy
+Mar-14,,SCS1-04-04-01,Junior,,EO Level,Policy Support Officer,KIG - Innovation Directorate,0,"23,869","27,281",Policy
+Mar-14,,SCS1-04-04-01,Junior,,HEO Level,Policy Support Officer,KIG - Innovation Directorate,0,"28,939","33,027",Policy
+Mar-14,,SCS1-04-04-01,Junior,,SEO Level,Policy Support Officer,KIG - Innovation Directorate,0,"34,729","40,917",Policy
+Mar-14,,SCS1-04-04-01,Junior,,G7 Level,Policy Adviser,KIG - Innovation Directorate,0,"47,095","55,882",Policy
+Mar-14,,SCS1-04-04-01,Junior,,G6 Level,Policy Adviser,KIG - Innovation Directorate,0,"56,272","67,717",Policy
+Mar-14,,SCS1-04-04-02,Junior,,AO Level,Policy Support Officer,KIG - Innovation Directorate,0,"20,217","22,126",Policy
+Mar-14,,SCS1-04-04-02,Junior,,EO Level,Policy Support Officer,KIG - Innovation Directorate,0,"23,869","27,281",Policy
+Mar-14,,SCS1-04-04-02,Junior,,HEO Level,Policy Support Officer,KIG - Innovation Directorate,0,"28,939","33,027",Policy
+Mar-14,,SCS1-04-04-02,Junior,,SEO Level,Policy Support Officer,KIG - Innovation Directorate,0,"34,729","40,917",Policy
+Mar-14,,SCS1-04-04-02,Junior,,G7 Level,Policy Adviser,KIG - Innovation Directorate,0,"47,095","55,882",Policy
+Mar-14,,SCS1-04-04-02,Junior,,G6 Level,Policy Adviser,KIG - Innovation Directorate,0,"56,272","67,717",Policy
+Mar-14,,SCS1-04-04-03,Junior,,HEO Level,Policy Support Officer,KIG - Innovation Directorate,0,"28,939","33,027",Policy
+Mar-14,,SCS1-04-04-03,Junior,,SEO Level,Policy Support Officer,KIG - Innovation Directorate,0,"34,729","40,917",Policy
+Mar-14,,SCS1-04-04-03,Junior,,G7 Level,Policy Adviser,KIG - Innovation Directorate,0,"47,095","55,882",Policy
+Mar-14,,SCS1-04-04-03,Junior,,G6 Level,Policy Adviser,KIG - Innovation Directorate,0,"56,272","67,717",Policy
+Mar-14,,SCS1-04-04-04,Junior,,G7 Level,Policy Adviser,KIG - Innovation Directorate,0,"47,095","55,882",Policy
+Mar-14,,SCS1-04-05-01,Junior,,EO Level,Policy Support Officer,KIG - Research Base,0,"23,869","27,281",Policy
+Mar-14,,SCS1-04-05-01,Junior,,HEO Level,Policy Support Officer,KIG - Research Base,0,"28,939","33,027",Policy
+Mar-14,,SCS1-04-05-01,Junior,,SEO Level,Policy Support Officer,KIG - Research Base,0,"34,729","40,917",Policy
+Mar-14,,SCS1-04-05-01,Junior,,G7 Level,Policy Adviser,KIG - Research Base,0,"47,095","55,882",Policy
+Mar-14,,SCS1-04-05-02,Junior,,AO Level,Policy Support Officer,KIG - Research Base,0,"20,217","22,126",Policy
+Mar-14,,SCS1-04-05-02,Junior,,HEO Level,Policy Support Officer,KIG - Research Base,0,"28,939","33,027",Policy
+Mar-14,,SCS1-04-05-02,Junior,,SEO Level,Policy Support Officer,KIG - Research Base,0,"34,729","40,917",Policy
+Mar-14,,SCS1-04-05-02,Junior,,G7 Level,Policy Adviser,KIG - Research Base,0,"47,095","55,882",Policy
+Mar-14,,SCS1-04-05-03,Junior,,AO Level,Policy Support Officer,KIG - Research Base,0,"20,217","22,126",Policy
+Mar-14,,SCS1-04-05-03,Junior,,EO Level,Policy Support Officer,KIG - Research Base,0,"23,869","27,281",Policy
+Mar-14,,SCS1-04-05-03,Junior,,HEO Level,Policy Support Officer,KIG - Research Base,0,"28,939","33,027",Policy
+Mar-14,,SCS1-04-05-03,Junior,,SEO Level,Policy Support Officer,KIG - Research Base,0,"34,729","40,917",Policy
+Mar-14,,SCS1-04-05-03,Junior,,G7 Level,Policy Adviser,KIG - Research Base,0,"47,095","55,882",Policy
+Mar-14,,SCS1-04-05-03,Junior,,G6 Level,Policy Adviser,KIG - Research Base,0,"56,272","67,717",Policy
+Mar-14,,SCS1-04-05-06,Junior,,AO Level,Policy Support Officer,KIG - Research Base,0,"20,217","22,126",Policy
+Mar-14,,SCS1-04-05-06,Junior,,EO Level,Policy Support Officer,KIG - Research Base,0,"23,869","27,281",Policy
+Mar-14,,SCS1-04-05-06,Junior,,HEO Level,Policy Support Officer,KIG - Research Base,0,"28,939","33,027",Policy
+Mar-14,,SCS1-04-05-06,Junior,,SEO Level,Policy Support Officer,KIG - Research Base,0,"34,729","40,917",Policy
+Mar-14,,SCS1-04-05-06,Junior,,G7 Level,Policy Adviser,KIG - Research Base,0,"47,095","55,882",Policy
+Mar-14,,SCS1-04-05-06,Junior,,G6 Level,Policy Adviser,KIG - Research Base,0,"56,272","67,717",Policy
+Mar-14,,SCS1-05-01-01,Junior,,EO Level,Communications Support Officer,PCE - Communications Directorate,0,"23,869","27,281",Communications
+Mar-14,,SCS1-05-01-03,Junior,,AA Level,Communications Support Officer,PCE - Communications Directorate,0,"17,277","18,617",Communications
+Mar-14,,SCS1-05-01-03,Junior,,EO Level,Communications Support Officer,PCE - Communications Directorate,0,"23,869","27,281",Communications
+Mar-14,,SCS1-05-01-03,Junior,,HEO Level,Communications Support Officer,PCE - Communications Directorate,0,"28,939","33,027",Communications
+Mar-14,,SCS1-05-01-03,Junior,,SEO Level,Communications Support Officer,PCE - Communications Directorate,0,"34,729","40,917",Communications
+Mar-14,,SCS1-05-01-03,Junior,,G7 Level,Communications Manager,PCE - Communications Directorate,0,"47,095","55,882",Communications
+Mar-14,,SCS1-05-01-03,Junior,,G6 Level,Communications Manager,PCE - Communications Directorate,0,"56,272","67,717",Communications
+Mar-14,,SCS1-05-01-04,Junior,,AA Level,Communications Support Officer,PCE - Communications Directorate,0,"17,277","18,617",Communications
+Mar-14,,SCS1-05-01-04,Junior,,AO Level,Communications Support Officer,PCE - Communications Directorate,0,"20,217","22,126",Communications
+Mar-14,,SCS1-05-01-04,Junior,,EO Level,Communications Support Officer,PCE - Communications Directorate,0,"23,869","27,281",Communications
+Mar-14,,SCS1-05-01-04,Junior,,HEO Level,Communications Support Officer,PCE - Communications Directorate,0,"28,939","33,027",Communications
+Mar-14,,SCS1-05-01-04,Junior,,SEO Level,Communications Support Officer,PCE - Communications Directorate,0,"34,729","40,917",Communications
+Mar-14,,SCS1-05-01-04,Junior,,G7 Level,Communications Manager,PCE - Communications Directorate,0,"47,095","55,882",Communications
+Mar-14,,SCS1-05-01-04,Junior,,G6 Level,Communications Manager,PCE - Communications Directorate,0,"56,272","67,717",Communications
+Mar-14,,SCS1-05-02-01,Junior,,AO Level,HR Support Officer,P&S - Human Resources,0,"20,217","22,126",Human Resources
+Mar-14,,SCS1-05-02-01,Junior,,EO Level,HR Support Officer,P&S - Human Resources,0,"23,869","27,281",Human Resources
+Mar-14,,SCS1-05-02-01,Junior,,HEO Level,HR Support Officer,P&S - Human Resources,0,"28,939","33,027",Human Resources
+Mar-14,,SCS1-05-02-01,Junior,,SEO Level,HR Support Officer,P&S - Human Resources,0,"34,729","40,917",Human Resources
+Mar-14,,SCS1-05-02-01,Junior,,G7 Level,HR Officer,P&S - Human Resources,0,"47,095","55,882",Human Resources
+Mar-14,,SCS1-05-02-01,Junior,,G6 Level,HR Officer,P&S - Human Resources,0,"56,272","67,717",Human Resources
+Mar-14,,SCS1-05-02-02,Junior,,AO Level,HR Support Officer,P&S - Human Resources,0,"20,217","22,126",Human Resources
+Mar-14,,SCS1-05-02-02,Junior,,EO Level,HR Support Officer,P&S - Human Resources,0,"23,869","27,281",Human Resources
+Mar-14,,SCS1-05-02-02,Junior,,HEO Level,HR Support Officer,P&S - Human Resources,0,"28,939","33,027",Human Resources
+Mar-14,,SCS1-05-02-02,Junior,,SEO Level,HR Support Officer,P&S - Human Resources,0,"34,729","40,917",Human Resources
+Mar-14,,SCS1-05-02-02,Junior,,G7 Level,HR Officer,P&S - Human Resources,0,"47,095","55,882",Human Resources
+Mar-14,,SCS1-05-02-02,Junior,,G6 Level,HR Officer,P&S - Human Resources,0,"56,272","67,717",Human Resources
+Mar-14,,SCS1-05-02-03,Junior,,HEO Level,HR Support Officer,P&S - Human Resources,0,"28,939","33,027",Human Resources
+Mar-14,,SCS1-05-02-03,Junior,,SEO Level,HR Support Officer,P&S - Human Resources,0,"34,729","40,917",Human Resources
+Mar-14,,SCS1-05-02-03,Junior,,G7 Level,HR Officer,P&S - Human Resources,0,"47,095","55,882",Human Resources
+Mar-14,,SCS1-05-02-03,Junior,,G6 Level,HR Officer,P&S - Human Resources,0,"56,272","67,717",Human Resources
+Mar-14,,SCS1-05-04-01,Junior,,SEO Level,Legal Support Officer,LEG - Legal Services,0,"34,729","40,917",Law
+Mar-14,,SCS1-05-04-01,Junior,,G7 Level,Legal Adviser,LEG - Legal Services,0,"47,095","55,882",Law
+Mar-14,,SCS1-05-04-01,Junior,,G6 Level,Legal Adviser,LEG - Legal Services,0,"56,272","67,717",Law
+Mar-14,,SCS1-05-04-02,Junior,,G7 Level,Legal Adviser,LEG - Legal Services,0,"47,095","55,882",Law
+Mar-14,,SCS1-05-04-02,Junior,,G6 Level,Legal Adviser,LEG - Legal Services,0,"56,272","67,717",Law
+Mar-14,,SCS1-05-04-03,Junior,,AO Level,Legal Support Officer,LEG - Legal Services,0,"20,217","22,126",Law
+Mar-14,,SCS1-05-04-03,Junior,,EO Level,Legal Support Officer,LEG - Legal Services,0,"23,869","27,281",Law
+Mar-14,,SCS1-05-04-03,Junior,,HEO Level,Legal Support Officer,LEG - Legal Services,0,"28,939","33,027",Law
+Mar-14,,SCS1-05-04-03,Junior,,SEO Level,Legal Support Officer,LEG - Legal Services,0,"34,729","40,917",Law
+Mar-14,,SCS1-05-04-03,Junior,,G7 Level,Legal Adviser,LEG - Legal Services,0,"47,095","55,882",Law
+Mar-14,,SCS1-05-04-03,Junior,,G6 Level,Legal Adviser,LEG - Legal Services,0,"56,272","67,717",Law
+Mar-14,,SCS1-05-04-04,Junior,,SEO Level,Legal Support Officer,LEG - Legal Services,0,"34,729","40,917",Law
+Mar-14,,SCS1-05-04-04,Junior,,G7 Level,Legal Adviser,LEG - Legal Services,0,"47,095","55,882",Law
+Mar-14,,SCS1-05-04-04,Junior,,G6 Level,Legal Adviser,LEG - Legal Services,0,"56,272","67,717",Law
+Mar-14,,SCS1-05-05-01,Junior,,G7 Level,Legal Adviser,LEG - Legal Services,0,"47,095","55,882",Law
+Mar-14,,SCS1-05-05-01,Junior,,G6 Level,Legal Adviser,LEG - Legal Services,0,"56,272","67,717",Law
+Mar-14,,SCS1-05-05-02,Junior,,EO Level,Legal Support Officer,LEG - Legal Services,0,"23,869","27,281",Law
+Mar-14,,SCS1-05-05-02,Junior,,HEO Level,Legal Support Officer,LEG - Legal Services,0,"28,939","33,027",Law
+Mar-14,,SCS1-05-05-02,Junior,,G7 Level,Legal Adviser,LEG - Legal Services,0,"47,095","55,882",Law
+Mar-14,,SCS1-05-05-02,Junior,,G6 Level,Legal Adviser,LEG - Legal Services,0,"56,272","67,717",Law
+Mar-14,,SCS1-05-05-03,Junior,,G7 Level,Legal Adviser,LEG - Legal Services,0,"47,095","55,882",Law
+Mar-14,,SCS1-05-05-03,Junior,,G6 Level,Legal Adviser,LEG - Legal Services,0,"56,272","67,717",Law
+Mar-14,,SCS1-05-05-04,Junior,,G7 Level,Legal Adviser,LEG - Legal Services,0,"47,095","55,882",Law
+Mar-14,,SCS1-05-05-04,Junior,,G6 Level,Legal Adviser,LEG - Legal Services,0,"56,272","67,717",Law
+Mar-14,,SCS1-05-05-07,Junior,,G7 Level,Legal Adviser,LEG - Legal Services,0,"47,095","55,882",Law
+Mar-14,,SCS1-05-05-07,Junior,,G6 Level,Legal Adviser,LEG - Legal Services,0,"56,272","67,717",Law
+Mar-14,,SCS1-05-05-08,Junior,,G7 Level,Legal Adviser,LEG - Legal Services,0,"47,095","55,882",Law
+Mar-14,,SCS1-05-05-08,Junior,,G6 Level,Legal Adviser,LEG - Legal Services,0,"56,272","67,717",Law
+Mar-14,,SCS1-05-07-01,Junior,,AO Level,Policy Support Officer,"P&S - Director of Change and Corporate Effectiveness, including the BIS Secretariat",0,"20,217","22,126",Policy
+Mar-14,,SCS1-05-07-01,Junior,,HEO Level,Policy Support Officer,"P&S - Director of Change and Corporate Effectiveness, including the BIS Secretariat",0,"28,939","33,027",Policy
+Mar-14,,SCS1-05-07-01,Junior,,SEO Level,Policy Support Officer,"P&S - Director of Change and Corporate Effectiveness, including the BIS Secretariat",0,"34,729","40,917",Policy
+Mar-14,,SCS1-05-07-01,Junior,,G7 Level,Policy Adviser,"P&S - Director of Change and Corporate Effectiveness, including the BIS Secretariat",0,"47,095","55,882",Policy
+Mar-14,,SCS1-05-07-01,Junior,,G6 Level,Policy Adviser,"P&S - Director of Change and Corporate Effectiveness, including the BIS Secretariat",0,"56,272","67,717",Policy
+Mar-14,,SCS1-05-07-02,Junior,,HEO Level,Policy Support Officer,"P&S - Director of Change and Corporate Effectiveness, including the BIS Secretariat",0,"28,939","33,027",Policy
+Mar-14,,SCS1-05-07-02,Junior,,SEO Level,Policy Support Officer,"P&S - Director of Change and Corporate Effectiveness, including the BIS Secretariat",0,"34,729","40,917",Policy
+Mar-14,,SCS1-05-07-02,Junior,,G7 Level,Policy Adviser,"P&S - Director of Change and Corporate Effectiveness, including the BIS Secretariat",0,"47,095","55,882",Policy
+Mar-14,,SCS1-05-07-03,Junior,,EO Level,Policy Support Officer,"P&S - Director of Change and Corporate Effectiveness, including the BIS Secretariat",0,"23,869","27,281",Policy
+Mar-14,,SCS1-05-07-03,Junior,,SEO Level,Policy Support Officer,"P&S - Director of Change and Corporate Effectiveness, including the BIS Secretariat",0,"34,729","40,917",Policy
+Mar-14,,SCS1-05-07-03,Junior,,G7 Level,Policy Adviser,"P&S - Director of Change and Corporate Effectiveness, including the BIS Secretariat",0,"47,095","55,882",Policy
+Mar-14,,SCS1-05-07-03,Junior,,G6 Level,Policy Adviser,"P&S - Director of Change and Corporate Effectiveness, including the BIS Secretariat",0,"56,272","67,717",Policy
+Mar-14,,SCS1-06-01-01,Junior,,EO Level,Policy Support Officer,E&M - Business Environment Directorate,0,"23,869","27,281",Policy
+Mar-14,,SCS1-06-01-01,Junior,,HEO Level,Policy Support Officer,E&M - Business Environment Directorate,0,"28,939","33,027",Policy
+Mar-14,,SCS1-06-01-01,Junior,,SEO Level,Policy Support Officer,E&M - Business Environment Directorate,0,"34,729","40,917",Policy
+Mar-14,,SCS1-06-01-01,Junior,,G7 Level,Policy Adviser,E&M - Business Environment Directorate,0,"47,095","55,882",Policy
+Mar-14,,SCS1-06-01-02,Junior,,HEO Level,Policy Support Officer,E&M - Business Environment Directorate,0,"28,939","33,027",Policy
+Mar-14,,SCS1-06-01-02,Junior,,G7 Level,Policy Adviser,E&M - Business Environment Directorate,0,"47,095","55,882",Policy
+Mar-14,,SCS1-06-01-02,Junior,,G6 Level,Policy Adviser,E&M - Business Environment Directorate,0,"56,272","67,717",Policy
+Mar-14,,SCS1-06-01-03,Junior,,EO Level,Policy Support Officer,E&M - Business Environment Directorate,0,"23,869","27,281",Policy
+Mar-14,,SCS1-06-01-03,Junior,,HEO Level,Policy Support Officer,E&M - Business Environment Directorate,0,"28,939","33,027",Policy
+Mar-14,,SCS1-06-01-03,Junior,,G7 Level,Policy Adviser,E&M - Business Environment Directorate,0,"47,095","55,882",Policy
+Mar-14,,SCS1-06-01-03,Junior,,G6 Level,Policy Adviser,E&M - Business Environment Directorate,0,"56,272","67,717",Policy
+Mar-14,,SCS1-06-01-04,Junior,,AO Level,Policy Support Officer,E&M - Business Environment Directorate,0,"20,217","22,126",Policy
+Mar-14,,SCS1-06-01-04,Junior,,EO Level,Policy Support Officer,E&M - Business Environment Directorate,0,"23,869","27,281",Policy
+Mar-14,,SCS1-06-01-04,Junior,,HEO Level,Policy Support Officer,E&M - Business Environment Directorate,0,"28,939","33,027",Policy
+Mar-14,,SCS1-06-01-04,Junior,,G7 Level,Policy Adviser,E&M - Business Environment Directorate,0,"47,095","55,882",Policy
+Mar-14,,SCS1-06-02-01,Junior,,AO Level,Policy Support Officer,E&M - International Trade and Export Control Directorate,0,"20,217","22,126",Policy
+Mar-14,,SCS1-06-02-01,Junior,,EO Level,Policy Support Officer,E&M - International Trade and Export Control Directorate,0,"23,869","27,281",Policy
+Mar-14,,SCS1-06-02-01,Junior,,HEO Level,Policy Support Officer,E&M - International Trade and Export Control Directorate,0,"28,939","33,027",Policy
+Mar-14,,SCS1-06-02-01,Junior,,SEO Level,Policy Support Officer,E&M - International Trade and Export Control Directorate,0,"34,729","40,917",Policy
+Mar-14,,SCS1-06-02-01,Junior,,G7 Level,Policy Adviser,E&M - International Trade and Export Control Directorate,0,"47,095","55,882",Policy
+Mar-14,,SCS1-06-02-01,Junior,,G6 Level,Policy Adviser,E&M - International Trade and Export Control Directorate,0,"56,272","67,717",Policy
+Mar-14,,SCS1-06-02-02,Junior,,EO Level,Policy Support Officer,E&M - International Trade and Export Control Directorate,0,"23,869","27,281",Policy
+Mar-14,,SCS1-06-02-02,Junior,,HEO Level,Policy Support Officer,E&M - International Trade and Export Control Directorate,0,"28,939","33,027",Policy
+Mar-14,,SCS1-06-02-02,Junior,,SEO Level,Policy Support Officer,E&M - International Trade and Export Control Directorate,0,"34,729","40,917",Policy
+Mar-14,,SCS1-06-02-02,Junior,,G7 Level,Policy Adviser,E&M - International Trade and Export Control Directorate,0,"47,095","55,882",Policy
+Mar-14,,SCS1-06-02-02,Junior,,G6 Level,Policy Adviser,E&M - International Trade and Export Control Directorate,0,"56,272","67,717",Policy
+Mar-14,,SCS1-06-02-03,Junior,,AO Level,Policy Support Officer,E&M - International Trade and Export Control Directorate,0,"20,217","22,126",Policy
+Mar-14,,SCS1-06-02-03,Junior,,EO Level,Policy Support Officer,E&M - International Trade and Export Control Directorate,0,"23,869","27,281",Policy
+Mar-14,,SCS1-06-02-03,Junior,,HEO Level,Policy Support Officer,E&M - International Trade and Export Control Directorate,0,"28,939","33,027",Policy
+Mar-14,,SCS1-06-02-03,Junior,,SEO Level,Policy Support Officer,E&M - International Trade and Export Control Directorate,0,"34,729","40,917",Policy
+Mar-14,,SCS1-06-02-03,Junior,,G7 Level,Policy Adviser,E&M - International Trade and Export Control Directorate,0,"47,095","55,882",Policy
+Mar-14,,SCS1-06-02-03,Junior,,G6 Level,Policy Adviser,E&M - International Trade and Export Control Directorate,0,"56,272","67,717",Policy
+Mar-14,,SCS1-06-03-01,Junior,,EO Level,Policy Support Officer,E&M - Labour Market Directorate,0,"23,869","27,281",Policy
+Mar-14,,SCS1-06-03-01,Junior,,HEO Level,Policy Support Officer,E&M - Labour Market Directorate,0,"28,939","33,027",Policy
+Mar-14,,SCS1-06-03-01,Junior,,SEO Level,Policy Support Officer,E&M - Labour Market Directorate,0,"34,729","40,917",Policy
+Mar-14,,SCS1-06-03-01,Junior,,G7 Level,Policy Adviser,E&M - Labour Market Directorate,0,"47,095","55,882",Policy
+Mar-14,,SCS1-06-03-01,Junior,,G6 Level,Policy Adviser,E&M - Labour Market Directorate,0,"56,272","67,717",Policy
+Mar-14,,SCS1-06-03-03,Junior,,AA Level,Policy Support Officer,E&M - Labour Market Directorate,0,"17,277","18,617",Policy
+Mar-14,,SCS1-06-03-03,Junior,,AO Level,Policy Support Officer,E&M - Labour Market Directorate,0,"20,217","22,126",Policy
+Mar-14,,SCS1-06-03-03,Junior,,EO Level,Policy Support Officer,E&M - Labour Market Directorate,0,"23,869","27,281",Policy
+Mar-14,,SCS1-06-03-03,Junior,,HEO Level,Policy Support Officer,E&M - Labour Market Directorate,0,"28,939","33,027",Policy
+Mar-14,,SCS1-06-03-03,Junior,,SEO Level,Policy Support Officer,E&M - Labour Market Directorate,0,"34,729","40,917",Policy
+Mar-14,,SCS1-06-03-03,Junior,,G7 Level,Policy Adviser,E&M - Labour Market Directorate,0,"47,095","55,882",Policy
+Mar-14,,SCS1-06-03-04,Junior,,EO Level,Policy Support Officer,E&M - Labour Market Directorate,0,"23,869","27,281",Policy
+Mar-14,,SCS1-06-03-04,Junior,,HEO Level,Policy Support Officer,E&M - Labour Market Directorate,0,"28,939","33,027",Policy
+Mar-14,,SCS1-06-03-04,Junior,,SEO Level,Policy Support Officer,E&M - Labour Market Directorate,0,"34,729","40,917",Policy
+Mar-14,,SCS1-06-03-04,Junior,,G7 Level,Policy Adviser,E&M - Labour Market Directorate,0,"47,095","55,882",Policy
+Mar-14,,SCS1-06-03-04,Junior,,G6 Level,Policy Adviser,E&M - Labour Market Directorate,0,"56,272","67,717",Policy
+Mar-14,,SCS1-06-04-01,Junior,,AO Level,Policy Support Officer,BLG - European Reform Directorate,0,"20,217","22,126",Policy
+Mar-14,,SCS1-06-04-01,Junior,,EO Level,Policy Support Officer,BLG - European Reform Directorate,0,"23,869","27,281",Policy
+Mar-14,,SCS1-06-04-01,Junior,,HEO Level,Policy Support Officer,BLG - European Reform Directorate,0,"28,939","33,027",Policy
+Mar-14,,SCS1-06-04-01,Junior,,G7 Level,Policy Adviser,BLG - European Reform Directorate,0,"47,095","55,882",Policy
+Mar-14,,SCS1-06-05-01,Junior,,EO Level,Policy Support Officer,BLG - Business and Local Growth DG,0,"23,869","27,281",Policy
+Mar-14,,SCS1-06-05-01,Junior,,HEO Level,Policy Support Officer,BLG - Business and Local Growth DG,0,"28,939","33,027",Policy
+Mar-14,,SCS1-06-05-01,Junior,,SEO Level,Policy Support Officer,BLG - Business and Local Growth DG,0,"34,729","40,917",Policy
+Mar-14,,SCS1-06-05-01,Junior,,G7 Level,Policy Adviser,BLG - Business and Local Growth DG,0,"47,095","55,882",Policy
+Mar-14,,SCS1-06-05-01,Junior,,G6 Level,Policy Adviser,BLG - Business and Local Growth DG,0,"56,272","67,717",Policy
+Mar-14,,SCS1-07-01-01,Junior,,G7 Level,Policy Adviser,SE - Shareholder Executive,0,"47,095","55,882",Policy
+Mar-14,,SCS1-07-01-01,Junior,,G6 Level,Policy Adviser,SE - Shareholder Executive,0,"56,272","67,717",Policy
+Mar-14,,SCS1-07-01-02,Junior,,HEO Level,Policy Support Officer,SE - Shareholder Executive,0,"28,939","33,027",Policy
+Mar-14,,SCS1-07-01-02,Junior,,G6 Level,Policy Adviser,SE - Shareholder Executive,0,"56,272","67,717",Policy
+Mar-14,,SCS1-07-01-05,Junior,,G6 Level,Policy Adviser,SE - Shareholder Executive,0,"56,272","67,717",Policy
+Mar-14,,SCS1-07-01-06,Junior,,G6 Level,Policy Adviser,SE - Shareholder Executive,0,"56,272","67,717",Policy
+Mar-14,,SCS1-07-01-09,Junior,,G6 Level,Policy Adviser,SE - Shareholder Executive,0,"56,272","67,717",Policy
+Mar-14,,SCS1-07-02-01,Junior,,SEO Level,Policy Support Officer,SE - Shareholder Executive,0,"34,729","40,917",Policy
+Mar-14,,SCS1-07-02-01,Junior,,G7 Level,Policy Adviser,SE - Shareholder Executive,0,"47,095","55,882",Policy
+Mar-14,,SCS1-07-02-01,Junior,,G6 Level,Policy Adviser,SE - Shareholder Executive,0,"56,272","67,717",Policy
+Mar-14,,SCS1-07-02-02,Junior,,SEO Level,Policy Support Officer,SE - Shareholder Executive,0,"34,729","40,917",Policy
+Mar-14,,SCS1-07-02-02,Junior,,G7 Level,Policy Adviser,SE - Shareholder Executive,0,"47,095","55,882",Policy
+Mar-14,,SCS1-07-02-02,Junior,,G6 Level,Policy Adviser,SE - Shareholder Executive,0,"56,272","67,717",Policy
+Mar-14,,SCS1-07-02-03,Junior,,HEO Level,Policy Support Officer,SE - Shareholder Executive,0,"28,939","33,027",Policy
+Mar-14,,SCS1-07-02-03,Junior,,SEO Level,Policy Support Officer,SE - Shareholder Executive,0,"34,729","40,917",Policy
+Mar-14,,SCS1-07-02-03,Junior,,G7 Level,Policy Adviser,SE - Shareholder Executive,0,"47,095","55,882",Policy
+Mar-14,,SCS1-07-02-05,Junior,,SEO Level,Policy Support Officer,SE - Shareholder Executive,0,"34,729","40,917",Policy
+Mar-14,,SCS1-07-02-05,Junior,,G7 Level,Policy Adviser,SE - Shareholder Executive,0,"47,095","55,882",Policy
+Mar-14,,SCS1-07-02-05,Junior,,G6 Level,Policy Adviser,SE - Shareholder Executive,0,"56,272","67,717",Policy
+Mar-14,,SCS1-07-02-06,Junior,,G7 Level,Policy Adviser,SE - Shareholder Executive,0,"47,095","55,882",Policy
+Mar-14,,SCS1-07-02-07,Junior,,EO Level,Policy Support Officer,SE - Shareholder Executive,0,"23,869","27,281",Policy
+Mar-14,,SCS1-07-02-07,Junior,,HEO Level,Policy Support Officer,SE - Shareholder Executive,0,"28,939","33,027",Policy
+Mar-14,,SCS1-07-02-07,Junior,,G7 Level,Policy Adviser,SE - Shareholder Executive,0,"47,095","55,882",Policy
+Mar-14,,SCS1-07-02-07,Junior,,G6 Level,Policy Adviser,SE - Shareholder Executive,0,"56,272","67,717",Policy
+Mar-14,,SCS1-07-03-01,Junior,,G6 Level,Policy Adviser,SE - Shareholder Executive,0,"56,272","67,717",Policy
+Mar-14,,SCS1-07-03-02,Junior,,G7 Level,Policy Adviser,SE - Shareholder Executive,0,"47,095","55,882",Policy
+Mar-14,,SCS1-07-03-02,Junior,,G6 Level,Policy Adviser,SE - Shareholder Executive,0,"56,272","67,717",Policy
+Mar-14,,SCS1-07-03-03,Junior,,HEO Level,Policy Support Officer,SE - Shareholder Executive,0,"28,939","33,027",Policy
+Mar-14,,SCS1-07-03-03,Junior,,G6 Level,Policy Adviser,SE - Shareholder Executive,0,"56,272","67,717",Policy
+Mar-14,,SCS1-07-03-04,Junior,,G7 Level,Policy Adviser,SE - Shareholder Executive,0,"47,095","55,882",Policy
+Mar-14,,SCS1-07-06-01,Junior,,AO Level,Policy Support Officer,IE - Information Economy and Cyber Security,0,"20,217","22,126",Policy
+Mar-14,,SCS1-07-06-01,Junior,,EO Level,Policy Support Officer,IE - Information Economy and Cyber Security,0,"23,869","27,281",Policy
+Mar-14,,SCS1-07-06-01,Junior,,SEO Level,Policy Support Officer,IE - Information Economy and Cyber Security,0,"34,729","40,917",Policy
+Mar-14,,SCS1-07-06-01,Junior,,G7 Level,Policy Adviser,IE - Information Economy and Cyber Security,0,"47,095","55,882",Policy
+Mar-14,,SCS1-07-06-01,Junior,,G6 Level,Policy Adviser,IE - Information Economy and Cyber Security,0,"56,272","67,717",Policy
+Mar-14,,SCS1-07-06-02,Junior,,EO Level,Policy Support Officer,IE - Information Economy and Cyber Security,0,"23,869","27,281",Policy
+Mar-14,,SCS1-07-06-02,Junior,,SEO Level,Policy Support Officer,IE - Information Economy and Cyber Security,0,"34,729","40,917",Policy
+Mar-14,,SCS1-07-06-02,Junior,,G7 Level,Policy Adviser,IE - Information Economy and Cyber Security,0,"47,095","55,882",Policy
+Mar-14,,SCS1-07-06-02,Junior,,G6 Level,Policy Adviser,IE - Information Economy and Cyber Security,0,"56,272","67,717",Policy
+Mar-14,,SCS1-08-01-02,Junior,,AO Level,Policy Support Officer,UKTI ID - Investment Development,0,"20,217","22,126",Policy
+Mar-14,,SCS1-08-01-02,Junior,,EO Level,Policy Support Officer,UKTI ID - Investment Development,0,"23,869","27,281",Policy
+Mar-14,,SCS1-08-01-02,Junior,,HEO Level,Policy Support Officer,UKTI ID - Investment Development,0,"28,939","33,027",Policy
+Mar-14,,SCS1-08-01-02,Junior,,SEO Level,Policy Support Officer,UKTI ID - Investment Development,0,"34,729","40,917",Policy
+Mar-14,,SCS1-08-01-02,Junior,,G7 Level,Policy Adviser,UKTI ID - Investment Development,0,"47,095","55,882",Policy
+Mar-14,,SCS1-08-01-02,Junior,,G6 Level,Policy Adviser,UKTI ID - Investment Development,0,"56,272","67,717",Policy
+Mar-14,,SCS1-08-01-04,Junior,,EO Level,Policy Support Officer,UKTI ID - Investment Development,0,"23,869","27,281",Policy
+Mar-14,,SCS1-08-01-04,Junior,,HEO Level,Policy Support Officer,UKTI ID - Investment Development,0,"28,939","33,027",Policy
+Mar-14,,SCS1-08-01-04,Junior,,SEO Level,Policy Support Officer,UKTI ID - Investment Development,0,"34,729","40,917",Policy
+Mar-14,,SCS1-08-01-04,Junior,,G7 Level,Policy Adviser,UKTI ID - Investment Development,0,"47,095","55,882",Policy
+Mar-14,,SCS1-08-01-04,Junior,,G6 Level,Policy Adviser,UKTI ID - Investment Development,0,"56,272","67,717",Policy
+Mar-14,,SCS1-08-01-05,Junior,,EO Level,Policy Support Officer,UKTI ID - Investment Development,0,"23,869","27,281",Policy
+Mar-14,,SCS1-08-01-05,Junior,,HEO Level,Policy Support Officer,UKTI ID - Investment Development,0,"28,939","33,027",Policy
+Mar-14,,SCS1-08-01-05,Junior,,G7 Level,Policy Adviser,UKTI ID - Investment Development,0,"47,095","55,882",Policy
+Mar-14,,SCS1-08-01-05,Junior,,G6 Level,Policy Adviser,UKTI ID - Investment Development,0,"56,272","67,717",Policy
+Mar-14,,SCS1-08-02-03,Junior,,EO Level,Policy Support Officer,UKTI DSO - Defence and Security Organisation,0,"23,869","27,281",Policy
+Mar-14,,SCS1-08-02-03,Junior,,HEO Level,Policy Support Officer,UKTI DSO - Defence and Security Organisation,0,"28,939","33,027",Policy
+Mar-14,,SCS1-08-02-03,Junior,,SEO Level,Policy Support Officer,UKTI DSO - Defence and Security Organisation,0,"34,729","40,917",Policy
+Mar-14,,SCS1-08-02-03,Junior,,G7 Level,Policy Adviser,UKTI DSO - Defence and Security Organisation,0,"47,095","55,882",Policy
+Mar-14,,SCS1-08-02-03,Junior,,G6 Level,Policy Adviser,UKTI DSO - Defence and Security Organisation,0,"56,272","67,717",Policy
+Mar-14,,SCS1-08-02-04,Junior,,AO Level,Policy Support Officer,UKTI DSO - Defence and Security Organisation,0,"20,217","22,126",Policy
+Mar-14,,SCS1-08-02-04,Junior,,EO Level,Policy Support Officer,UKTI DSO - Defence and Security Organisation,0,"23,869","27,281",Policy
+Mar-14,,SCS1-08-02-04,Junior,,HEO Level,Policy Support Officer,UKTI DSO - Defence and Security Organisation,0,"28,939","33,027",Policy
+Mar-14,,SCS1-08-02-04,Junior,,SEO Level,Policy Support Officer,UKTI DSO - Defence and Security Organisation,0,"34,729","40,917",Policy
+Mar-14,,SCS1-08-02-04,Junior,,G7 Level,Policy Adviser,UKTI DSO - Defence and Security Organisation,0,"47,095","55,882",Policy
+Mar-14,,SCS1-08-02-04,Junior,,G6 Level,Policy Adviser,UKTI DSO - Defence and Security Organisation,0,"56,272","67,717",Policy
+Mar-14,,SCS1-08-03-01,Junior,,AO Level,Policy Support Officer,UKTI TD - Trade Development,0,"20,217","22,126",Policy
+Mar-14,,SCS1-08-03-01,Junior,,EO Level,Policy Support Officer,UKTI TD - Trade Development,0,"23,869","27,281",Policy
+Mar-14,,SCS1-08-03-01,Junior,,HEO Level,Policy Support Officer,UKTI TD - Trade Development,0,"28,939","33,027",Policy
+Mar-14,,SCS1-08-03-01,Junior,,SEO Level,Policy Support Officer,UKTI TD - Trade Development,0,"34,729","40,917",Policy
+Mar-14,,SCS1-08-03-01,Junior,,G7 Level,Policy Adviser,UKTI TD - Trade Development,0,"47,095","55,882",Policy
+Mar-14,,SCS1-08-03-01,Junior,,G6 Level,Policy Adviser,UKTI TD - Trade Development,0,"56,272","67,717",Policy
+Mar-14,,SCS1-08-03-06,Junior,,EO Level,Policy Support Officer,UKTI ST - Strategic Trade,0,"23,869","27,281",Policy
+Mar-14,,SCS1-08-03-06,Junior,,HEO Level,Policy Support Officer,UKTI ST - Strategic Trade,0,"28,939","33,027",Policy
+Mar-14,,SCS1-08-03-06,Junior,,SEO Level,Policy Support Officer,UKTI ST - Strategic Trade,0,"34,729","40,917",Policy
+Mar-14,,SCS1-08-03-06,Junior,,G7 Level,Policy Adviser,UKTI ST - Strategic Trade,0,"47,095","55,882",Policy
+Mar-14,,SCS1-08-03-06,Junior,,G6 Level,Policy Adviser,UKTI ST - Strategic Trade,0,"56,272","67,717",Policy
+Mar-14,,SCS1-08-04-01,Junior,,EO Level,Policy Support Officer,UKTI MC - Marketing & Communications,0,"23,869","27,281",Policy
+Mar-14,,SCS1-08-04-01,Junior,,SEO Level,Policy Support Officer,UKTI MC - Marketing & Communications,0,"34,729","40,917",Policy
+Mar-14,,SCS1-08-04-02,Junior,,EO Level,Policy Support Officer,UKTI MC - Marketing & Communications,0,"23,869","27,281",Policy
+Mar-14,,SCS1-08-04-02,Junior,,SEO Level,Policy Support Officer,UKTI MC - Marketing & Communications,0,"34,729","40,917",Policy
+Mar-14,,SCS1-08-04-03,Junior,,EO Level,Policy Support Officer,UKTI MC - Marketing & Communications,0,"23,869","27,281",Policy
+Mar-14,,SCS1-08-04-03,Junior,,HEO Level,Policy Support Officer,UKTI MC - Marketing & Communications,0,"28,939","33,027",Policy
+Mar-14,,SCS1-08-04-03,Junior,,G7 Level,Policy Adviser,UKTI MC - Marketing & Communications,0,"47,095","55,882",Policy
+Mar-14,,SCS1-08-05-01,Junior,,AO Level,Policy Support Officer,UKTI ST - Strategic Trade,0,"20,217","22,126",Policy
+Mar-14,,SCS1-08-05-01,Junior,,EO Level,Policy Support Officer,UKTI ST - Strategic Trade,0,"23,869","27,281",Policy
+Mar-14,,SCS1-08-05-01,Junior,,HEO Level,Policy Support Officer,UKTI ST - Strategic Trade,0,"28,939","33,027",Policy
+Mar-14,,SCS1-08-05-01,Junior,,SEO Level,Policy Support Officer,UKTI ST - Strategic Trade,0,"34,729","40,917",Policy
+Mar-14,,SCS1-08-05-01,Junior,,G7 Level,Policy Adviser,UKTI ST - Strategic Trade,0,"47,095","55,882",Policy
+Mar-14,,SCS1-08-05-02,Junior,,EO Level,Policy Support Officer,UKTI ST - Strategic Trade,0,"23,869","27,281",Policy
+Mar-14,,SCS1-08-05-02,Junior,,HEO Level,Policy Support Officer,UKTI ST - Strategic Trade,0,"28,939","33,027",Policy
+Mar-14,,SCS1-08-05-02,Junior,,SEO Level,Policy Support Officer,UKTI ST - Strategic Trade,0,"34,729","40,917",Policy
+Mar-14,,SCS1-08-05-02,Junior,,G7 Level,Policy Adviser,UKTI ST - Strategic Trade,0,"47,095","55,882",Policy
+Mar-14,,SCS1-08-05-02,Junior,,G6 Level,Policy Adviser,UKTI ST - Strategic Trade,0,"56,272","67,717",Policy
+Mar-14,,SCS1-08-05-03,Junior,,AO Level,Policy Support Officer,UKTI ST - Strategic Trade,0,"20,217","22,126",Policy
+Mar-14,,SCS1-08-05-03,Junior,,EO Level,Policy Support Officer,UKTI ST - Strategic Trade,0,"23,869","27,281",Policy
+Mar-14,,SCS1-08-05-03,Junior,,HEO Level,Policy Support Officer,UKTI ST - Strategic Trade,0,"28,939","33,027",Policy
+Mar-14,,SCS1-08-05-03,Junior,,SEO Level,Policy Support Officer,UKTI ST - Strategic Trade,0,"34,729","40,917",Policy
+Mar-14,,SCS1-08-05-03,Junior,,G7 Level,Policy Adviser,UKTI ST - Strategic Trade,0,"47,095","55,882",Policy
+Mar-14,,SCS1-08-05-04,Junior,,HEO Level,Policy Support Officer,UKTI ST - Strategic Trade,0,"28,939","33,027",Policy
+Mar-14,,SCS1-08-05-04,Junior,,SEO Level,Policy Support Officer,UKTI ST - Strategic Trade,0,"34,729","40,917",Policy
+Mar-14,,SCS1-08-05-04,Junior,,G7 Level,Policy Adviser,UKTI ST - Strategic Trade,0,"47,095","55,882",Policy
+Mar-14,,SCS1-08-05-04,Junior,,G6 Level,Policy Adviser,UKTI ST - Strategic Trade,0,"56,272","67,717",Policy
+Mar-14,,SCS1-08-05-05,Junior,,AO Level,Policy Support Officer,UKTI ST - Strategic Trade,0,"20,217","22,126",Policy
+Mar-14,,SCS1-08-05-05,Junior,,HEO Level,Policy Support Officer,UKTI ST - Strategic Trade,0,"28,939","33,027",Policy
+Mar-14,,SCS1-08-05-05,Junior,,G7 Level,Policy Adviser,UKTI ST - Strategic Trade,0,"47,095","55,882",Policy
+Mar-14,,SCS1-08-05-05,Junior,,G6 Level,Policy Adviser,UKTI ST - Strategic Trade,0,"56,272","67,717",Policy
+Mar-14,,SCS1-08-06-01,Junior,,AO Level,Policy Support Officer,UKTI COO - Chief Operating Officer,0,"20,217","22,126",Policy
+Mar-14,,SCS1-08-06-01,Junior,,EO Level,Policy Support Officer,UKTI COO - Chief Operating Officer,0,"23,869","27,281",Policy
+Mar-14,,SCS1-08-06-01,Junior,,HEO Level,Policy Support Officer,UKTI COO - Chief Operating Officer,0,"28,939","33,027",Policy
+Mar-14,,SCS1-08-06-01,Junior,,SEO Level,Policy Support Officer,UKTI COO - Chief Operating Officer,0,"34,729","40,917",Policy
+Mar-14,,SCS1-08-06-01,Junior,,G7 Level,Policy Adviser,UKTI COO - Chief Operating Officer,0,"47,095","55,882",Policy
+Mar-14,,SCS1-08-06-01,Junior,,G6 Level,Policy Adviser,UKTI COO - Chief Operating Officer,0,"56,272","67,717",Policy
+Mar-14,,SCS1-08-06-02,Junior,,G7 Level,Policy Adviser,UKTI COO - Chief Operating Officer,0,"47,095","55,882",Policy
+Mar-14,,SCS1-08-06-03,Junior,,AO Level,Policy Support Officer,UKTI COO - Chief Operating Officer,0,"20,217","22,126",Policy
+Mar-14,,SCS1-08-06-03,Junior,,EO Level,Policy Support Officer,UKTI COO - Chief Operating Officer,0,"23,869","27,281",Policy
+Mar-14,,SCS1-08-06-03,Junior,,HEO Level,Policy Support Officer,UKTI COO - Chief Operating Officer,0,"28,939","33,027",Policy
+Mar-14,,SCS1-08-06-03,Junior,,SEO Level,Policy Support Officer,UKTI COO - Chief Operating Officer,0,"34,729","40,917",Policy
+Mar-14,,SCS1-08-06-03,Junior,,G7 Level,Policy Adviser,UKTI COO - Chief Operating Officer,0,"47,095","55,882",Policy
+Mar-14,,SCS1-08-06-03,Junior,,G6 Level,Policy Adviser,UKTI COO - Chief Operating Officer,0,"56,272","67,717",Policy
+Mar-14,,SCS1-08-06-04,Junior,,AO Level,Policy Support Officer,UKTI COO - Chief Operating Officer,0,"20,217","22,126",Policy
+Mar-14,,SCS1-08-06-04,Junior,,EO Level,Policy Support Officer,UKTI COO - Chief Operating Officer,0,"23,869","27,281",Policy
+Mar-14,,SCS1-08-06-04,Junior,,SEO Level,Policy Support Officer,UKTI COO - Chief Operating Officer,0,"34,729","40,917",Policy
+Mar-14,,SCS1-08-06-04,Junior,,G7 Level,Policy Adviser,UKTI COO - Chief Operating Officer,0,"47,095","55,882",Policy
+Mar-14,,SCS1-09-01-01,Junior,,AO Level,Policy Support Officer,MPST - Ministerial and Parliamentary Support Team,0,"20,217","22,126",Policy
+Mar-14,,SCS1-09-01-01,Junior,,EO Level,Policy Support Officer,MPST - Ministerial and Parliamentary Support Team,0,"23,869","27,281",Policy
+Mar-14,,SCS1-09-01-01,Junior,,HEO Level,Policy Support Officer,MPST - Ministerial and Parliamentary Support Team,0,"28,939","33,027",Policy
+Mar-14,,SCS1-09-01-01,Junior,,SEO Level,Policy Support Officer,MPST - Ministerial and Parliamentary Support Team,0,"34,729","40,917",Policy
+Mar-14,,SCS1-09-01-01,Junior,,G7 Level,Policy Adviser,MPST - Ministerial and Parliamentary Support Team,0,"47,095","55,882",Policy
+Mar-14,,SCS1-09-01-01,Junior,,G6 Level,Policy Adviser,MPST - Ministerial and Parliamentary Support Team,0,"56,272","67,717",Policy
+Mar-14,,SCS1-11-01-01,Junior,,EO Level,Policy Support Officer,GOSC - Government Office for Science,0,"23,869","27,281",Policy
+Mar-14,,SCS1-11-01-01,Junior,,HEO Level,Policy Support Officer,GOSC - Government Office for Science,0,"28,939","33,027",Policy
+Mar-14,,SCS1-11-01-01,Junior,,G7 Level,Policy Adviser,GOSC - Government Office for Science,0,"47,095","55,882",Policy
+Mar-14,,SCS1-11-01-01,Junior,,G6 Level,Policy Adviser,GOSC - Government Office for Science,0,"56,272","67,717",Policy
+Mar-14,,SCS1-11-01-02,Junior,,AO Level,Policy Support Officer,GOSC - Government Office for Science,0,"20,217","22,126",Policy
+Mar-14,,SCS1-11-01-02,Junior,,EO Level,Policy Support Officer,GOSC - Government Office for Science,0,"23,869","27,281",Policy
+Mar-14,,SCS1-11-01-02,Junior,,HEO Level,Policy Support Officer,GOSC - Government Office for Science,0,"28,939","33,027",Policy
+Mar-14,,SCS1-11-01-02,Junior,,SEO Level,Policy Support Officer,GOSC - Government Office for Science,0,"34,729","40,917",Policy
+Mar-14,,SCS1-11-01-02,Junior,,G7 Level,Policy Adviser,GOSC - Government Office for Science,0,"47,095","55,882",Policy
+Mar-14,,SCS1-11-01-02,Junior,,G6 Level,Policy Adviser,GOSC - Government Office for Science,0,"56,272","67,717",Policy
+Mar-14,,SCS1-11-01-03,Junior,,EO Level,Policy Support Officer,GOSC - Government Office for Science,0,"23,869","27,281",Policy
+Mar-14,,SCS1-11-01-03,Junior,,HEO Level,Policy Support Officer,GOSC - Government Office for Science,0,"28,939","33,027",Policy
+Mar-14,,SCS1-11-01-03,Junior,,SEO Level,Policy Support Officer,GOSC - Government Office for Science,0,"34,729","40,917",Policy
+Mar-14,,SCS1-11-01-03,Junior,,G7 Level,Policy Adviser,GOSC - Government Office for Science,0,"47,095","55,882",Policy
+Mar-14,,SCS1-11-01-03,Junior,,G6 Level,Policy Adviser,GOSC - Government Office for Science,0,"56,272","67,717",Policy
+Mar-14,,SCS2-01-01,Junior,,EO Level,Policy Support Officer,AMS - Advanced Manufacturing Services,0,"23,869","27,281",Policy
+Mar-14,,SCS2-01-02,Junior,,EO Level,Policy Support Officer,BLG - Local Growth Directorate,0,"23,869","27,281",Policy
+Mar-14,,SCS2-01-02,Junior,,G7 Level,Policy Adviser,BLG - Local Growth Directorate,0,"47,095","55,882",Policy
+Mar-14,,SCS2-01-03,Junior,,HEO Level,Policy Support Officer,E&S - Enterprise Directorate,0,"28,939","33,027",Policy
+Mar-14,,SCS2-01-03,Junior,,SEO Level,Policy Support Officer,E&S - Enterprise Directorate,0,"34,729","40,917",Policy
+Mar-14,,SCS2-01-03,Junior,,G7 Level,Policy Adviser,E&S - Enterprise Directorate,0,"47,095","55,882",Policy
+Mar-14,,SCS2-01-03,Junior,,G6 Level,Policy Adviser,E&S - Enterprise Directorate,0,"56,272","67,717",Policy
+Mar-14,,SCS2-01-05,Junior,,EO Level,Policy Support Officer,BLG - Regional Growth Fund & Legacy,0,"23,869","27,281",Policy
+Mar-14,,SCS2-01-05,Junior,,HEO Level,Policy Support Officer,BLG - Regional Growth Fund & Legacy,0,"28,939","33,027",Policy
+Mar-14,,SCS2-01-05,Junior,,SEO Level,Policy Support Officer,BLG - Regional Growth Fund & Legacy,0,"34,729","40,917",Policy
+Mar-14,,SCS2-01-05,Junior,,G7 Level,Policy Adviser,BLG - Regional Growth Fund & Legacy,0,"47,095","55,882",Policy
+Mar-14,,SCS2-01-05,Junior,,G6 Level,Policy Adviser,BLG - Regional Growth Fund & Legacy,0,"56,272","67,717",Policy
+Mar-14,,SCS2-01-06,Junior,,AO Level,Policy Support Officer,VE - Vocational Education,0,"20,217","22,126",Policy
+Mar-14,,SCS2-01-06,Junior,,EO Level,Policy Support Officer,VE - Vocational Education,0,"23,869","27,281",Policy
+Mar-14,,SCS2-01-06,Junior,,G7 Level,Policy Adviser,VE - Vocational Education,0,"47,095","55,882",Policy
+Mar-14,,SCS2-01-06,Junior,,G6 Level,Policy Adviser,VE - Vocational Education,0,"56,272","67,717",Policy
+Mar-14,,SCS2-01-07,Junior,,HEO Level,Policy Support Officer,BLG - Consumer and Competition Policy,0,"28,939","33,027",Policy
+Mar-14,,SCS2-01-08,Junior,,EO Level,Policy Support Officer,"BLG - Information Economy, Agritech and International Education",0,"23,869","27,281",Policy
+Mar-14,,SCS2-01-08,Junior,,G6 Level,Policy Adviser,"BLG - Information Economy, Agritech and International Education",0,"56,272","67,717",Policy
+Mar-14,,SCS2-02-01,Junior,,AO Level,Policy Support Officer,SABR - DG & Group Support,0,"20,217","22,126",Policy
+Mar-14,,SCS2-02-01,Junior,,HEO Level,Policy Support Officer,SABR - DG & Group Support,0,"28,939","33,027",Policy
+Mar-14,,SCS2-02-01,Junior,,G7 Level,Policy Adviser,SABR - DG & Group Support,0,"47,095","55,882",Policy
+Mar-14,,SCS2-02-01,Junior,,G6 Level,Policy Adviser,SABR - DG & Group Support,0,"56,272","67,717",Policy
+Mar-14,,SCS2-02-05,Junior,,EO Level,Policy Support Officer,P&S - Strategy and Growth,0,"23,869","27,281",Policy
+Mar-14,,SCS2-03-01,Junior,,G6 Level,Finance Officer,F&C - Finance Group,0,"56,272","67,717",Finance
+Mar-14,,SCS2-03-02,Junior,,AO Level,Finance Support Officer,F&C - Finance Group,0,"20,217","22,126",Finance
+Mar-14,,SCS2-03-02,Junior,,EO Level,Finance Support Officer,F&C - Finance Group,0,"23,869","27,281",Finance
+Mar-14,,SCS2-03-02,Junior,,HEO Level,Finance Support Officer,F&C - Finance Group,0,"28,939","33,027",Finance
+Mar-14,,SCS2-03-02,Junior,,SEO Level,Finance Support Officer,F&C - Finance Group,0,"34,729","40,917",Finance
+Mar-14,,SCS2-03-02,Junior,,G7 Level,Finance Officer,F&C - Finance Group,0,"47,095","55,882",Finance
+Mar-14,,SCS2-03-02,Junior,,G6 Level,Finance Officer,F&C - Finance Group,0,"56,272","67,717",Finance
+Mar-14,,SCS2-03-03,Junior,,EO Level,Internal Audit Support Officer,F&C - Internal Audit,0,"23,869","27,281",Internal Audit
+Mar-14,,SCS2-03-03,Junior,,HEO Level,Internal Audit Support Officer,F&C - Internal Audit,0,"28,939","33,027",Internal Audit
+Mar-14,,SCS2-03-03,Junior,,SEO Level,Internal Audit Support Officer,F&C - Internal Audit,0,"34,729","40,917",Internal Audit
+Mar-14,,SCS2-03-03,Junior,,G7 Level,Internal Auditor,F&C - Internal Audit,0,"47,095","55,882",Internal Audit
+Mar-14,,SCS2-03-03,Junior,,G6 Level,Internal Auditor,F&C - Internal Audit,0,"56,272","67,717",Internal Audit
+Mar-14,,SCS2-03-04,Junior,,EO Level,IT Support Officer,ITD - Information and Technology,0,"23,869","27,281",Information Technology
+Mar-14,,SCS2-04-01,Junior,,EO Level,Internal Audit Support Officer,KIG - Higher Education,0,"23,869","27,281",Internal Audit
+Mar-14,,SCS2-04-01,Junior,,HEO Level,Policy Support Officer,KIG - Higher Education,0,"28,939","33,027",Policy
+Mar-14,,SCS2-04-01,Junior,,G7 Level,Policy Adviser,KIG - Higher Education,0,"47,095","55,882",Policy
+Mar-14,,SCS2-04-05,Junior,,EO Level,Policy Support Officer,KIG - Research Base,0,"23,869","27,281",Policy
+Mar-14,,SCS2-05-01,Junior,,AO Level,Communications Support Officer,PCE - Communications Directorate,0,"20,217","22,126",Communications
+Mar-14,,SCS2-05-01,Junior,,EO Level,Communications Support Officer,PCE - Communications Directorate,0,"23,869","27,281",Communications
+Mar-14,,SCS2-05-01,Junior,,HEO Level,Communications Support Officer,PCE - Communications Directorate,0,"28,939","33,027",Communications
+Mar-14,,SCS2-05-01,Junior,,SEO Level,Communications Support Officer,PCE - Communications Directorate,0,"34,729","40,917",Communications
+Mar-14,,SCS2-05-01,Junior,,G7 Level,Communications Manager,PCE - Communications Directorate,0,"47,095","55,882",Communications
+Mar-14,,SCS2-05-01,Junior,,G6 Level,Communications Manager,PCE - Communications Directorate,0,"56,272","67,717",Communications
+Mar-14,,SCS2-05-02,Junior,,EO Level,HR Support Officer,P&S - Human Resources,0,"23,869","27,281",Human Resources
+Mar-14,,SCS2-05-02,Junior,,G6 Level,HR Officer,P&S - Human Resources,0,"56,272","67,717",Human Resources
+Mar-14,,SCS2-05-04,Junior,,AO Level,Legal Support Officer,LEG - Legal Services,0,"20,217","22,126",Law
+Mar-14,,SCS2-05-04,Junior,,EO Level,Legal Support Officer,LEG - Legal Services,0,"23,869","27,281",Law
+Mar-14,,SCS2-05-04,Junior,,HEO Level,Legal Support Officer,LEG - Legal Services,0,"28,939","33,027",Law
+Mar-14,,SCS2-05-04,Junior,,SEO Level,Legal Support Officer,LEG - Legal Services,0,"34,729","40,917",Law
+Mar-14,,SCS2-05-04,Junior,,G7 Level,Legal Adviser,LEG - Legal Services,0,"47,095","55,882",Law
+Mar-14,,SCS2-05-04,Junior,,G6 Level,Legal Adviser,LEG - Legal Services,0,"56,272","67,717",Law
+Mar-14,,SCS2-05-05,Junior,,AO Level,Legal Support Officer,LEG - Legal Services,0,"20,217","22,126",Law
+Mar-14,,SCS2-05-05,Junior,,EO Level,Legal Support Officer,LEG - Legal Services,0,"23,869","27,281",Law
+Mar-14,,SCS2-05-05,Junior,,HEO Level,Legal Support Officer,LEG - Legal Services,0,"28,939","33,027",Law
+Mar-14,,SCS2-05-05,Junior,,G7 Level,Legal Adviser,LEG - Legal Services,0,"47,095","55,882",Law
+Mar-14,,SCS2-05-05,Junior,,G6 Level,Legal Adviser,LEG - Legal Services,0,"56,272","67,717",Law
+Mar-14,,SCS2-05-07,Junior,,EO Level,Policy Support Officer,"P&S - Director of Change and Corporate Effectiveness, including the BIS Secretariat",0,"23,869","27,281",Policy
+Mar-14,,SCS2-05-07,Junior,,G7 Level,Policy Adviser,"P&S - Director of Change and Corporate Effectiveness, including the BIS Secretariat",0,"47,095","55,882",Policy
+Mar-14,,SCS2-05-07,Junior,,G6 Level,Policy Adviser,"P&S - Director of Change and Corporate Effectiveness, including the BIS Secretariat",0,"56,272","67,717",Policy
+Mar-14,,SCS2-06-01,Junior,,AO Level,Policy Support Officer,E&M - Business Environment Directorate,0,"20,217","22,126",Policy
+Mar-14,,SCS2-06-01,Junior,,EO Level,Policy Support Officer,E&M - Business Environment Directorate,0,"23,869","27,281",Policy
+Mar-14,,SCS2-06-01,Junior,,SEO Level,Policy Support Officer,E&M - Business Environment Directorate,0,"34,729","40,917",Policy
+Mar-14,,SCS2-06-01,Junior,,G7 Level,Policy Adviser,E&M - Business Environment Directorate,0,"47,095","55,882",Policy
+Mar-14,,SCS2-06-03,Junior,,AO Level,Policy Support Officer,E&M - Labour Market Directorate,0,"20,217","22,126",Policy
+Mar-14,,SCS2-06-03,Junior,,EO Level,Policy Support Officer,E&M - Labour Market Directorate,0,"23,869","27,281",Policy
+Mar-14,,SCS2-06-03,Junior,,HEO Level,Policy Support Officer,E&M - Labour Market Directorate,0,"28,939","33,027",Policy
+Mar-14,,SCS2-06-03,Junior,,G7 Level,Policy Adviser,E&M - Labour Market Directorate,0,"47,095","55,882",Policy
+Mar-14,,SCS2-06-03,Junior,,G6 Level,Policy Adviser,E&M - Labour Market Directorate,0,"56,272","67,717",Policy
+Mar-14,,SCS2-06-04,Junior,,EO Level,Policy Support Officer,BLG - European Reform Directorate,0,"23,869","27,281",Policy
+Mar-14,,SCS2-07-03,Junior,,G6 Level,Policy Adviser,SE - Shareholder Executive,0,"56,272","67,717",Policy
+Mar-14,,SCS2-08-01,Junior,,EO Level,Policy Support Officer,UKTI ID - Investment Development,0,"23,869","27,281",Policy
+Mar-14,,SCS2-08-01,Junior,,HEO Level,Policy Support Officer,UKTI ID - Investment Development,0,"28,939","33,027",Policy
+Mar-14,,SCS2-08-01,Junior,,SEO Level,Policy Support Officer,UKTI ID - Investment Development,0,"34,729","40,917",Policy
+Mar-14,,SCS2-08-01,Junior,,G7 Level,Policy Adviser,UKTI ID - Investment Development,0,"47,095","55,882",Policy
+Mar-14,,SCS2-08-01,Junior,,G6 Level,Policy Adviser,UKTI ID - Investment Development,0,"56,272","67,717",Policy
+Mar-14,,SCS2-08-02,Junior,,AO Level,Policy Support Officer,UKTI DSO - Defence and Security Organisation,0,"20,217","22,126",Policy
+Mar-14,,SCS2-08-02,Junior,,SEO Level,Policy Support Officer,UKTI DSO - Defence and Security Organisation,0,"34,729","40,917",Policy
+Mar-14,,SCS2-08-02-01,Junior,,AO Level,Policy Support Officer,UKTI DSO - Defence and Security Organisation,0,"20,217","22,126",Policy
+Mar-14,,SCS2-08-02-01,Junior,,EO Level,Policy Support Officer,UKTI DSO - Defence and Security Organisation,0,"23,869","27,281",Policy
+Mar-14,,SCS2-08-02-01,Junior,,HEO Level,Policy Support Officer,UKTI DSO - Defence and Security Organisation,0,"28,939","33,027",Policy
+Mar-14,,SCS2-08-02-01,Junior,,SEO Level,Policy Support Officer,UKTI DSO - Defence and Security Organisation,0,"34,729","40,917",Policy
+Mar-14,,SCS2-08-02-01,Junior,,G7 Level,Policy Adviser,UKTI DSO - Defence and Security Organisation,0,"47,095","55,882",Policy
+Mar-14,,SCS2-08-03,Junior,,AO Level,Policy Support Officer,UKTI TD - Trade Development,0,"20,217","22,126",Policy
+Mar-14,,SCS2-08-03,Junior,,EO Level,Policy Support Officer,UKTI TD - Trade Development,0,"23,869","27,281",Policy
+Mar-14,,SCS2-08-03,Junior,,HEO Level,Policy Support Officer,UKTI TD - Trade Development,0,"28,939","33,027",Policy
+Mar-14,,SCS2-08-03,Junior,,SEO Level,Policy Support Officer,UKTI TD - Trade Development,0,"34,729","40,917",Policy
+Mar-14,,SCS2-08-03,Junior,,G7 Level,Policy Adviser,UKTI TD - Trade Development,0,"47,095","55,882",Policy
+Mar-14,,SCS2-08-03,Junior,,G6 Level,Policy Adviser,UKTI TD - Trade Development,0,"56,272","67,717",Policy
+Mar-14,,SCS2-08-04,Junior,,EO Level,Policy Support Officer,UKTI MC - Marketing & Communications,0,"23,869","27,281",Policy
+Mar-14,,SCS2-08-04,Junior,,HEO Level,Policy Support Officer,UKTI MC - Marketing & Communications,0,"28,939","33,027",Policy
+Mar-14,,SCS2-08-04,Junior,,SEO Level,Policy Support Officer,UKTI MC - Marketing & Communications,0,"34,729","40,917",Policy
+Mar-14,,SCS2-08-04,Junior,,G6 Level,Policy Adviser,UKTI MC - Marketing & Communications,0,"56,272","67,717",Policy
+Mar-14,,SCS2-08-05,Junior,,HEO Level,Policy Support Officer,UKTI ST - Strategic Trade,0,"28,939","33,027",Policy
+Mar-14,,SCS2-08-05,Junior,,SEO Level,Policy Support Officer,UKTI ST - Strategic Trade,0,"34,729","40,917",Policy
+Mar-14,,SCS2-08-05,Junior,,G7 Level,Policy Adviser,UKTI ST - Strategic Trade,0,"47,095","55,882",Policy
+Mar-14,,SCS2-08-06,Junior,,AO Level,Policy Support Officer,UKTI COO - Chief Operating Officer,0,"20,217","22,126",Policy
+Mar-14,,SCS2-08-06,Junior,,EO Level,Policy Support Officer,UKTI COO - Chief Operating Officer,0,"23,869","27,281",Policy
+Mar-14,,SCS2-08-06,Junior,,HEO Level,Policy Support Officer,UKTI COO - Chief Operating Officer,0,"28,939","33,027",Policy
+Mar-14,,SCS2-08-06,Junior,,SEO Level,Policy Support Officer,UKTI COO - Chief Operating Officer,0,"34,729","40,917",Policy
+Mar-14,,SCS2-08-06,Junior,,G7 Level,Policy Adviser,UKTI COO - Chief Operating Officer,0,"47,095","55,882",Policy
+Mar-14,,SCS2-08-06,Junior,,G6 Level,Policy Adviser,UKTI COO - Chief Operating Officer,0,"56,272","67,717",Policy
+Mar-14,,SCS2-11-01,Junior,,EO Level,Policy Support Officer,GOSC - Government Office for Science,0,"23,869","27,281",Policy
+Mar-14,,SCS2-11-01,Junior,,HEO Level,Policy Support Officer,GOSC - Government Office for Science,0,"28,939","33,027",Policy
+Mar-14,,SCS2-11-01,Junior,,SEO Level,Policy Support Officer,GOSC - Government Office for Science,0,"34,729","40,917",Policy
+Mar-14,,SCS2-11-01,Junior,,G7 Level,Policy Adviser,GOSC - Government Office for Science,0,"47,095","55,882",Policy
+Mar-14,,SCS2-11-01,Junior,,G6 Level,Policy Adviser,GOSC - Government Office for Science,0,"56,272","67,717",Policy
+Mar-14,,SCS3-01,Junior,,EO Level,Policy Support Officer,BS - Business & Skills,0,"23,869","27,281",Policy
+Mar-14,,SCS3-01,Junior,,HEO Level,Policy Support Officer,BS - Business & Skills,0,"28,939","33,027",Policy
+Mar-14,,SCS3-01,Junior,,SEO Level,Policy Support Officer,BS - Business & Skills,0,"34,729","40,917",Policy
+Mar-14,,SCS3-01,Junior,,G7 Level,Policy Adviser,BS - Business & Skills,0,"47,095","55,882",Policy
+Mar-14,,SCS3-01,Junior,,G6 Level,Policy Adviser,BS - Business & Skills,0,"56,272","67,717",Policy
+Mar-14,,SCS3-02,Junior,,HEO Level,Policy Support Officer,SABR - DG & Group Support,0,"28,939","33,027",Policy
+Mar-14,,SCS3-03,Junior,,HEO Level,Finance Support Officer,F&C - Finance Group,0,"28,939","33,027",Finance
+Mar-14,,SCS3-03,Junior,,SEO Level,Finance Support Officer,F&C - Finance Group,0,"34,729","40,917",Finance
+Mar-14,,SCS3-03,Junior,,G7 Level,Finance Officer,F&C - Finance Group,0,"47,095","55,882",Finance
+Mar-14,,SCS3-03,Junior,,G6 Level,Finance Officer,F&C - Finance Group,0,"56,272","67,717",Finance
+Mar-14,,SCS3-04,Junior,,EO Level,Policy Support Officer,KIG - DG/Finance & Corporate Planning,0,"23,869","27,281",Policy
+Mar-14,,SCS3-05,Junior,,EO Level,Policy Support Officer,"P&S - Director of Change and Corporate Effectiveness, including the BIS Secretariat",0,"23,869","27,281",Policy
+Mar-14,,SCS3-07,Junior,,G6 Level,Policy Adviser,SE - Shareholder Executive,0,"56,272","67,717",Policy

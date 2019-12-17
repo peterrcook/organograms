@@ -1,858 +1,858 @@
-date,level,id,parentId
-Sep-15,,DFE-1127,DFE-1009
-Sep-15,,DFE-1094,DFE-1020
-Sep-15,,DFE-1256,DFE-1135
-Sep-15,,DFE-1026,DFE-1049
-Sep-15,,DFE-1016,DFE-1002
-Sep-15,,DFE-1257,DFE-1133
-Sep-15,,DFE-1210,DFE-1049
-Sep-15,,DFE-1105,DFE-1135
-Sep-15,,DFE-1171,DFE-1017
-Sep-15,,DFE-1133,DFE-1136
-Sep-15,,DFE-1032,DFE-1087
-Sep-15,,DFE-1258,DFE-1020
-Sep-15,,DFE-1259,DFE-1084
-Sep-15,,DFE-1220,DFE-1003
-Sep-15,,DFE-1017,DFE-1003
-Sep-15,,DFE-1085,DFE-1002
-Sep-15,,DFE-1239,DFE-1213
-Sep-15,,DFE-1275,DFE-1006
-Sep-15,,DFE-1260,DFE-1016
-Sep-15,,DFE-1083,DFE-1021
-Sep-15,,DFE-1035,DFE-1005
-Sep-15,,DFE-1087,DFE-1003
-Sep-15,,DFE-1245,DFE-1213
-Sep-15,,DFE-1053,DFE-1137
-Sep-15,,DFE-1214,DFE-1003
-Sep-15,,DFE-1278,DFE-1019
-Sep-15,,DFE-1253,DFE-1251
-Sep-15,,DFE-1025,DFE-1021
-Sep-15,,DFE-1072,DFE-1133
-Sep-15,,DFE-1238,DFE-1213
-Sep-15,,DFE-1099,DFE-1137
-Sep-15,,DFE-1262,DFE-1124
-Sep-15,,DFE-1237,DFE-1009
-Sep-15,,DFE-1150,DFE-1215
-Sep-15,,DFE-1250,DFE-1277
-Sep-15,,DFE-1003,DFE-1001
-Sep-15,,DFE-1124,DFE-1084
-Sep-15,,DFE-1123,DFE-1191
-Sep-15,,DFE-1267,DFE-1214
-Sep-15,,DFE-1011,DFE-1263
-Sep-15,,DFE-1031,DFE-1020
-Sep-15,,DFE-1183,DFE-1124
-Sep-15,,DFE-1135,DFE-1136
-Sep-15,,DFE-1213,DFE-1084
-Sep-15,,DFE-1264,DFE-1192
-Sep-15,,DFE-1042,DFE-1020
-Sep-15,,DFE-1006,DFE-1002
-Sep-15,,DFE-1265,DFE-1019
-Sep-15,,DFE-1266,DFE-1009
-Sep-15,,DFE-1225,DFE-1135
-Sep-15,,DFE-1022,DFE-1009
-Sep-15,,DFE-1244,DFE-1084
-Sep-15,,DFE-1111,DFE-1220
-Sep-15,,DFE-1081,DFE-1192
-Sep-15,,DFE-1033,DFE-1277
-Sep-15,,DFE-1086,DFE-1084
-Sep-15,,DFE-1064,DFE-1137
-Sep-15,,DFE-1170,DFE-1086
-Sep-15,,DFE-1040,DFE-1017
-Sep-15,,DFE-1009,DFE-1263
-Sep-15,,DFE-1192,DFE-1135
-Sep-15,,DFE-1106,DFE-1135
-Sep-15,,DFE-1172,DFE-1005
-Sep-15,,DFE-1005,DFE-1003
-Sep-15,,DFE-1002,DFE-1001
-Sep-15,,DFE-1208,DFE-1220
-Sep-15,,DFE-1187,DFE-1090
-Sep-15,,DFE-1268,DFE-1016
-Sep-15,,DFE-1136,DFE-1084
-Sep-15,,DFE-1119,DFE-1006
-Sep-15,,DFE-1215,DFE-1001
-Sep-15,,DFE-1227,DFE-1021
-Sep-15,,DFE-1270,DFE-1017
-Sep-15,,DFE-1221,DFE-1124
-Sep-15,,DFE-1075,DFE-1011
-Sep-15,,DFE-1084,DFE-1001
-Sep-15,,DFE-1065,DFE-1133
-Sep-15,,DFE-1247,DFE-1124
-Sep-15,,DFE-1277,DFE-1084
-Sep-15,,DFE-1028,DFE-1049
-Sep-15,,DFE-1173,DFE-1006
-Sep-15,,DFE-1276,DFE-1009
-Sep-15,,DFE-1137,DFE-1136
-Sep-15,,DFE-1151,DFE-1020
-Sep-15,,DFE-1153,DFE-1011
-Sep-15,,DFE-1021,DFE-1015
-Sep-15,,DFE-1272,DFE-1087
-Sep-15,,DFE-1243,DFE-1215
-Sep-15,,DFE-1020,DFE-1136
-Sep-15,,DFE-1029,DFE-1020
-Sep-15,,DFE-1242,DFE-1213
-Sep-15,,DFE-1273,DFE-1249
-Sep-15,,DFE-1249,DFE-1002
-Sep-15,,DFE-1139,DFE-1133
-Sep-15,,DFE-1129,DFE-1090
-Sep-15,,DFE-1241,DFE-1213
-Sep-15,,DFE-1062,DFE-1020
-Sep-15,,DFE-1246,DFE-1084
-Sep-15,,DFE-1226,DFE-1086
-Sep-15,,DFE-1142,DFE-1137
-Sep-15,,DFE-1108,DFE-1020
-Sep-15,,DFE-1240,DFE-1213
-Sep-15,,DFE-1061,DFE-1135
-Sep-15,,DFE-1146,DFE-1090
-Sep-15,,DFE-1283,DFE-1214
-Sep-15,,DFE-1191,DFE-1001
-Sep-15,,DFE-1122,DFE-1090
-Sep-15,,DFE-1057,DFE-1277
-Sep-15,,DFE-1223,DFE-1213
-Sep-15,,DFE-1097,DFE-1214
-Sep-15,,DFE-1109,DFE-1021
-Sep-15,,DFE-1019,DFE-1002
-Sep-15,,DFE-1154,DFE-1135
-Sep-15,,DFE-1152,DFE-1086
-Sep-15,,DFE-1156,DFE-1136
-Sep-15,,DFE-1219,DFE-1192
-Sep-15,,DFE-1067,DFE-1006
-Sep-15,,DFE-1203,DFE-1259
-Sep-15,,DFE-1269,DFE-1277
-Sep-15,,DFE-1178,DFE-1009
-Sep-15,,DFE-1204,DFE-1002
-Sep-15,,DFE-1049,DFE-1021
-Sep-15,,DFE-1201,DFE-1019
-Sep-15,,DFE-1248,DFE-1086
-Sep-15,,DFE-1280,DFE-1020
-Sep-15,,DFE-1060,DFE-1087
-Sep-15,,DFE-1092,DFE-1191
-Sep-15,,DFE-1090,DFE-1084
-Sep-15,,DFE-1281,DFE-1137
-Sep-15,,DFE-1279,DFE-1011
-Sep-15,,DFE-1205,DFE-1006
-Sep-15,,DFE-1148,DFE-1137
-Sep-15,,DFE-1161,DFE-1135
-Sep-15,,DFE-1216,DFE-1135
-Sep-15,,DFE-1001,
-Sep-15,,DFE-1102,DFE-1017
-Sep-15,,DFE-1251,DFE-1002
-Sep-15,,DFE-1252,DFE-1251
-Sep-15,,DFE-1254,DFE-1251
-Sep-15,,DFE-1255,DFE-1251
-Sep-15,,DFE-1263,DFE-1001
-Sep-15,,DFE-1078,DFE-1002
-Sep-15,,DFE-1271,DFE-1016
-Sep-15,,DFE-1015,DFE-1003
-Sep-15,,,DFE-1171
-Sep-15,,,DFE-1258
-Sep-15,,,DFE-1221
-Sep-15,,,DFE-1006
-Sep-15,,,DFE-1028
-Sep-15,,,DFE-1028
-Sep-15,,,DFE-1221
-Sep-15,,,DFE-1011
-Sep-15,,,DFE-1250
-Sep-15,,,DFE-1161
-Sep-15,,,DFE-1270
-Sep-15,,,DFE-1111
-Sep-15,,,DFE-1216
-Sep-15,,,DFE-1227
-Sep-15,,,DFE-1111
-Sep-15,,,DFE-1219
-Sep-15,,,DFE-1083
-Sep-15,,,DFE-1087
-Sep-15,,,DFE-1119
-Sep-15,,,DFE-1173
-Sep-15,,,DFE-1042
-Sep-15,,,DFE-1025
-Sep-15,,,DFE-1250
-Sep-15,,,DFE-1139
-Sep-15,,,DFE-1146
-Sep-15,,,DFE-1099
-Sep-15,,,DFE-1085
-Sep-15,,,DFE-1102
-Sep-15,,,DFE-1262
-Sep-15,,,DFE-1099
-Sep-15,,,DFE-1108
-Sep-15,,,DFE-1026
-Sep-15,,,DFE-1173
-Sep-15,,,DFE-1057
-Sep-15,,,DFE-1201
-Sep-15,,,DFE-1266
-Sep-15,,,DFE-1151
-Sep-15,,,DFE-1270
-Sep-15,,,DFE-1111
-Sep-15,,,DFE-1097
-Sep-15,,,DFE-1060
-Sep-15,,,DFE-1033
-Sep-15,,,DFE-1031
-Sep-15,,,DFE-1060
-Sep-15,,,DFE-1094
-Sep-15,,,DFE-1267
-Sep-15,,,DFE-1249
-Sep-15,,,DFE-1173
-Sep-15,,,DFE-1060
-Sep-15,,,DFE-1266
-Sep-15,,,DFE-1020
-Sep-15,,,DFE-1220
-Sep-15,,,DFE-1102
-Sep-15,,,DFE-1032
-Sep-15,,,DFE-1203
-Sep-15,,,DFE-1280
-Sep-15,,,DFE-1057
-Sep-15,,,DFE-1258
-Sep-15,,,DFE-1243
-Sep-15,,,DFE-1142
-Sep-15,,,DFE-1099
-Sep-15,,,DFE-1028
-Sep-15,,,DFE-1208
-Sep-15,,,DFE-1119
-Sep-15,,,DFE-1102
-Sep-15,,,DFE-1032
-Sep-15,,,DFE-1139
-Sep-15,,,DFE-1105
-Sep-15,,,DFE-1225
-Sep-15,,,DFE-1257
-Sep-15,,,DFE-1213
-Sep-15,,,DFE-1081
-Sep-15,,,DFE-1083
-Sep-15,,,DFE-1031
-Sep-15,,,DFE-1061
-Sep-15,,,DFE-1171
-Sep-15,,,DFE-1247
-Sep-15,,,DFE-1151
-Sep-15,,,DFE-1057
-Sep-15,,,DFE-1111
-Sep-15,,,DFE-1122
-Sep-15,,,DFE-1210
-Sep-15,,,DFE-1025
-Sep-15,,,DFE-1033
-Sep-15,,,DFE-1139
-Sep-15,,,DFE-1220
-Sep-15,,,DFE-1150
-Sep-15,,,DFE-1085
-Sep-15,,,DFE-1237
-Sep-15,,,DFE-1225
-Sep-15,,,DFE-1122
-Sep-15,,,DFE-1237
-Sep-15,,,DFE-1109
-Sep-15,,,DFE-1017
-Sep-15,,,DFE-1083
-Sep-15,,,DFE-1146
-Sep-15,,,DFE-1031
-Sep-15,,,DFE-1275
-Sep-15,,,DFE-1033
-Sep-15,,,DFE-1281
-Sep-15,,,DFE-1026
-Sep-15,,,DFE-1129
-Sep-15,,,DFE-1081
-Sep-15,,,DFE-1245
-Sep-15,,,DFE-1203
-Sep-15,,,DFE-1153
-Sep-15,,,DFE-1262
-Sep-15,,,DFE-1151
-Sep-15,,,DFE-1258
-Sep-15,,,DFE-1002
-Sep-15,,,DFE-1203
-Sep-15,,,DFE-1208
-Sep-15,,,DFE-1225
-Sep-15,,,DFE-1244
-Sep-15,,,DFE-1127
-Sep-15,,,DFE-1022
-Sep-15,,,DFE-1151
-Sep-15,,,DFE-1258
-Sep-15,,,DFE-1016
-Sep-15,,,DFE-1122
-Sep-15,,,DFE-1187
-Sep-15,,,DFE-1026
-Sep-15,,,DFE-1151
-Sep-15,,,DFE-1142
-Sep-15,,,DFE-1240
-Sep-15,,,DFE-1031
-Sep-15,,,DFE-1035
-Sep-15,,,DFE-1220
-Sep-15,,,DFE-1201
-Sep-15,,,DFE-1243
-Sep-15,,,DFE-1221
-Sep-15,,,DFE-1001
-Sep-15,,,DFE-1219
-Sep-15,,,DFE-1219
-Sep-15,,,DFE-1099
-Sep-15,,,DFE-1022
-Sep-15,,,DFE-1161
-Sep-15,,,DFE-1154
-Sep-15,,,DFE-1221
-Sep-15,,,DFE-1257
-Sep-15,,,DFE-1002
-Sep-15,,,DFE-1250
-Sep-15,,,DFE-1279
-Sep-15,,,DFE-1053
-Sep-15,,,DFE-1075
-Sep-15,,,DFE-1247
-Sep-15,,,DFE-1183
-Sep-15,,,DFE-1191
-Sep-15,,,DFE-1247
-Sep-15,,,DFE-1127
-Sep-15,,,DFE-1262
-Sep-15,,,DFE-1269
-Sep-15,,,DFE-1191
-Sep-15,,,DFE-1065
-Sep-15,,,DFE-1214
-Sep-15,,,DFE-1142
-Sep-15,,,DFE-1139
-Sep-15,,,DFE-1053
-Sep-15,,,DFE-1031
-Sep-15,,,DFE-1171
-Sep-15,,,DFE-1221
-Sep-15,,,DFE-1278
-Sep-15,,,DFE-1250
-Sep-15,,,DFE-1214
-Sep-15,,,DFE-1262
-Sep-15,,,DFE-1152
-Sep-15,,,DFE-1139
-Sep-15,,,DFE-1065
-Sep-15,,,DFE-1276
-Sep-15,,,DFE-1097
-Sep-15,,,DFE-1097
-Sep-15,,,DFE-1075
-Sep-15,,,DFE-1178
-Sep-15,,,DFE-1172
-Sep-15,,,DFE-1081
-Sep-15,,,DFE-1129
-Sep-15,,,DFE-1002
-Sep-15,,,DFE-1109
-Sep-15,,,DFE-1001
-Sep-15,,,DFE-1227
-Sep-15,,,DFE-1152
-Sep-15,,,DFE-1029
-Sep-15,,,DFE-1085
-Sep-15,,,DFE-1214
-Sep-15,,,DFE-1216
-Sep-15,,,DFE-1099
-Sep-15,,,DFE-1208
-Sep-15,,,DFE-1035
-Sep-15,,,DFE-1148
-Sep-15,,,DFE-1173
-Sep-15,,,DFE-1020
-Sep-15,,,DFE-1172
-Sep-15,,,DFE-1172
-Sep-15,,,DFE-1102
-Sep-15,,,DFE-1085
-Sep-15,,,DFE-1002
-Sep-15,,,DFE-1150
-Sep-15,,,DFE-1057
-Sep-15,,,DFE-1129
-Sep-15,,,DFE-1269
-Sep-15,,,DFE-1266
-Sep-15,,,DFE-1085
-Sep-15,,,DFE-1248
-Sep-15,,,DFE-1102
-Sep-15,,,DFE-1020
-Sep-15,,,DFE-1057
-Sep-15,,,DFE-1152
-Sep-15,,,DFE-1250
-Sep-15,,,DFE-1256
-Sep-15,,,DFE-1219
-Sep-15,,,DFE-1283
-Sep-15,,,DFE-1142
-Sep-15,,,DFE-1161
-Sep-15,,,DFE-1280
-Sep-15,,,DFE-1025
-Sep-15,,,DFE-1139
-Sep-15,,,DFE-1002
-Sep-15,,,DFE-1248
-Sep-15,,,DFE-1153
-Sep-15,,,DFE-1258
-Sep-15,,,DFE-1170
-Sep-15,,,DFE-1106
-Sep-15,,,DFE-1033
-Sep-15,,,DFE-1153
-Sep-15,,,DFE-1108
-Sep-15,,,DFE-1203
-Sep-15,,,DFE-1111
-Sep-15,,,DFE-1266
-Sep-15,,,DFE-1280
-Sep-15,,,DFE-1270
-Sep-15,,,DFE-1083
-Sep-15,,,DFE-1122
-Sep-15,,,DFE-1061
-Sep-15,,,DFE-1269
-Sep-15,,,DFE-1266
-Sep-15,,,DFE-1269
-Sep-15,,,DFE-1247
-Sep-15,,,DFE-1208
-Sep-15,,,DFE-1216
-Sep-15,,,DFE-1020
-Sep-15,,,DFE-1210
-Sep-15,,,DFE-1170
-Sep-15,,,DFE-1085
-Sep-15,,,DFE-1262
-Sep-15,,,DFE-1248
-Sep-15,,,DFE-1283
-Sep-15,,,DFE-1220
-Sep-15,,,DFE-1249
-Sep-15,,,DFE-1173
-Sep-15,,,DFE-1020
-Sep-15,,,DFE-1278
-Sep-15,,,DFE-1237
-Sep-15,,,DFE-1146
-Sep-15,,,DFE-1247
-Sep-15,,,DFE-1205
-Sep-15,,,DFE-1119
-Sep-15,,,DFE-1106
-Sep-15,,,DFE-1247
-Sep-15,,,DFE-1201
-Sep-15,,,DFE-1170
-Sep-15,,,DFE-1064
-Sep-15,,,DFE-1092
-Sep-15,,,DFE-1019
-Sep-15,,,DFE-1275
-Sep-15,,,DFE-1035
-Sep-15,,,DFE-1032
-Sep-15,,,DFE-1256
-Sep-15,,,DFE-1022
-Sep-15,,,DFE-1029
-Sep-15,,,DFE-1187
-Sep-15,,,DFE-1171
-Sep-15,,,DFE-1001
-Sep-15,,,DFE-1257
-Sep-15,,,DFE-1065
-Sep-15,,,DFE-1152
-Sep-15,,,DFE-1152
-Sep-15,,,DFE-1065
-Sep-15,,,DFE-1269
-Sep-15,,,DFE-1032
-Sep-15,,,DFE-1192
-Sep-15,,,DFE-1005
-Sep-15,,,DFE-1257
-Sep-15,,,DFE-1092
-Sep-15,,,DFE-1237
-Sep-15,,,DFE-1142
-Sep-15,,,DFE-1002
-Sep-15,,,DFE-1109
-Sep-15,,,DFE-1109
-Sep-15,,,DFE-1203
-Sep-15,,,DFE-1225
-Sep-15,,,DFE-1019
-Sep-15,,,DFE-1022
-Sep-15,,,DFE-1172
-Sep-15,,,DFE-1035
-Sep-15,,,DFE-1025
-Sep-15,,,DFE-1187
-Sep-15,,,DFE-1245
-Sep-15,,,DFE-1171
-Sep-15,,,DFE-1249
-Sep-15,,,DFE-1248
-Sep-15,,,DFE-1019
-Sep-15,,,DFE-1248
-Sep-15,,,DFE-1154
-Sep-15,,,DFE-1020
-Sep-15,,,DFE-1227
-Sep-15,,,DFE-1279
-Sep-15,,,DFE-1109
-Sep-15,,,DFE-1214
-Sep-15,,,DFE-1260
-Sep-15,,,DFE-1219
-Sep-15,,,DFE-1227
-Sep-15,,,DFE-1102
-Sep-15,,,DFE-1075
-Sep-15,,,DFE-1283
-Sep-15,,,DFE-1064
-Sep-15,,,DFE-1016
-Sep-15,,,DFE-1033
-Sep-15,,,DFE-1281
-Sep-15,,,DFE-1146
-Sep-15,,,DFE-1022
-Sep-15,,,DFE-1170
-Sep-15,,,DFE-1275
-Sep-15,,,DFE-1220
-Sep-15,,,DFE-1259
-Sep-15,,,DFE-1283
-Sep-15,,,DFE-1265
-Sep-15,,,DFE-1210
-Sep-15,,,DFE-1150
-Sep-15,,,DFE-1016
-Sep-15,,,DFE-1183
-Sep-15,,,DFE-1148
-Sep-15,,,DFE-1280
-Sep-15,,,DFE-1029
-Sep-15,,,DFE-1161
-Sep-15,,,DFE-1216
-Sep-15,,,DFE-1276
-Sep-15,,,DFE-1060
-Sep-15,,,DFE-1172
-Sep-15,,,DFE-1205
-Sep-15,,,DFE-1201
-Sep-15,,,DFE-1003
-Sep-15,,,DFE-1137
-Sep-15,,,DFE-1001
-Sep-15,,,DFE-1171
-Sep-15,,,DFE-1279
-Sep-15,,,DFE-1171
-Sep-15,,,DFE-1102
-Sep-15,,,DFE-1267
-Sep-15,,,DFE-1019
-Sep-15,,,DFE-1192
-Sep-15,,,DFE-1062
-Sep-15,,,DFE-1267
-Sep-15,,,DFE-1072
-Sep-15,,,DFE-1020
-Sep-15,,,DFE-1081
-Sep-15,,,DFE-1276
-Sep-15,,,DFE-1075
-Sep-15,,,DFE-1033
-Sep-15,,,DFE-1281
-Sep-15,,,DFE-1028
-Sep-15,,,DFE-1081
-Sep-15,,,DFE-1136
-Sep-15,,,DFE-1025
-Sep-15,,,DFE-1139
-Sep-15,,,DFE-1227
-Sep-15,,,DFE-1028
-Sep-15,,,DFE-1022
-Sep-15,,,DFE-1127
-Sep-15,,,DFE-1156
-Sep-15,,,DFE-1016
-Sep-15,,,DFE-1260
-Sep-15,,,DFE-1053
-Sep-15,,,DFE-1142
-Sep-15,,,DFE-1011
-Sep-15,,,DFE-1133
-Sep-15,,,DFE-1031
-Sep-15,,,DFE-1072
-Sep-15,,,DFE-1040
-Sep-15,,,DFE-1127
-Sep-15,,,DFE-1249
-Sep-15,,,DFE-1216
-Sep-15,,,DFE-1072
-Sep-15,,,DFE-1183
-Sep-15,,,DFE-1026
-Sep-15,,,DFE-1173
-Sep-15,,,DFE-1262
-Sep-15,,,DFE-1005
-Sep-15,,,DFE-1249
-Sep-15,,,DFE-1035
-Sep-15,,,DFE-1028
-Sep-15,,,DFE-1020
-Sep-15,,,DFE-1081
-Sep-15,,,DFE-1011
-Sep-15,,,DFE-1237
-Sep-15,,,DFE-1064
-Sep-15,,,DFE-1108
-Sep-15,,,DFE-1187
-Sep-15,,,DFE-1060
-Sep-15,,,DFE-1243
-Sep-15,,,DFE-1153
-Sep-15,,,DFE-1154
-Sep-15,,,DFE-1281
-Sep-15,,,DFE-1260
-Sep-15,,,DFE-1032
-Sep-15,,,DFE-1002
-Sep-15,,,DFE-1237
-Sep-15,,,DFE-1205
-Sep-15,,,DFE-1129
-Sep-15,,,DFE-1003
-Sep-15,,,DFE-1111
-Sep-15,,,DFE-1148
-Sep-15,,,DFE-1214
-Sep-15,,,DFE-1156
-Sep-15,,,DFE-1153
-Sep-15,,,DFE-1192
-Sep-15,,,DFE-1029
-Sep-15,,,DFE-1242
-Sep-15,,,DFE-1262
-Sep-15,,,DFE-1192
-Sep-15,,,DFE-1020
-Sep-15,,,DFE-1072
-Sep-15,,,DFE-1183
-Sep-15,,,DFE-1183
-Sep-15,,,DFE-1219
-Sep-15,,,DFE-1006
-Sep-15,,,DFE-1216
-Sep-15,,,DFE-1210
-Sep-15,,,DFE-1075
-Sep-15,,,DFE-1042
-Sep-15,,,DFE-1031
-Sep-15,,,DFE-1099
-Sep-15,,,DFE-1266
-Sep-15,,,DFE-1242
-Sep-15,,,DFE-1249
-Sep-15,,,DFE-1106
-Sep-15,,,DFE-1061
-Sep-15,,,DFE-1241
-Sep-15,,,DFE-1223
-Sep-15,,,DFE-1009
-Sep-15,,,DFE-1016
-Sep-15,,,DFE-1280
-Sep-15,,,DFE-1219
-Sep-15,,,DFE-1040
-Sep-15,,,DFE-1267
-Sep-15,,,DFE-1171
-Sep-15,,,DFE-1002
-Sep-15,,,DFE-1280
-Sep-15,,,DFE-1240
-Sep-15,,,DFE-1219
-Sep-15,,,DFE-1072
-Sep-15,,,DFE-1178
-Sep-15,,,DFE-1154
-Sep-15,,,DFE-1205
-Sep-15,,,DFE-1084
-Sep-15,,,DFE-1276
-Sep-15,,,DFE-1213
-Sep-15,,,DFE-1208
-Sep-15,,,DFE-1242
-Sep-15,,,DFE-1136
-Sep-15,,,DFE-1097
-Sep-15,,,DFE-1151
-Sep-15,,,DFE-1031
-Sep-15,,,DFE-1262
-Sep-15,,,DFE-1225
-Sep-15,,,DFE-1092
-Sep-15,,,DFE-1040
-Sep-15,,,DFE-1127
-Sep-15,,,DFE-1239
-Sep-15,,,DFE-1247
-Sep-15,,,DFE-1065
-Sep-15,,,DFE-1156
-Sep-15,,,DFE-1127
-Sep-15,,,DFE-1106
-Sep-15,,,DFE-1108
-Sep-15,,,DFE-1146
-Sep-15,,,DFE-1244
-Sep-15,,,DFE-1040
-Sep-15,,,DFE-1257
-Sep-15,,,DFE-1243
-Sep-15,,,DFE-1005
-Sep-15,,,DFE-1032
-Sep-15,,,DFE-1187
-Sep-15,,,DFE-1241
-Sep-15,,,DFE-1001
-Sep-15,,,DFE-1262
-Sep-15,,,DFE-1260
-Sep-15,,,DFE-1148
-Sep-15,,,DFE-1022
-Sep-15,,,DFE-1221
-Sep-15,,,DFE-1210
-Sep-15,,,DFE-1016
-Sep-15,,,DFE-1268
-Sep-15,,,DFE-1151
-Sep-15,,,DFE-1161
-Sep-15,,,DFE-1227
-Sep-15,,,DFE-1022
-Sep-15,,,DFE-1136
-Sep-15,,,DFE-1170
-Sep-15,,,DFE-1276
-Sep-15,,,DFE-1119
-Sep-15,,,DFE-1033
-Sep-15,,,DFE-1214
-Sep-15,,,DFE-1136
-Sep-15,,,DFE-1090
-Sep-15,,,DFE-1150
-Sep-15,,,DFE-1085
-Sep-15,,,DFE-1280
-Sep-15,,,DFE-1280
-Sep-15,,,DFE-1022
-Sep-15,,,DFE-1016
-Sep-15,,,DFE-1192
-Sep-15,,,DFE-1256
-Sep-15,,,DFE-1119
-Sep-15,,,DFE-1154
-Sep-15,,,DFE-1139
-Sep-15,,,DFE-1035
-Sep-15,,,DFE-1178
-Sep-15,,,DFE-1223
-Sep-15,,,DFE-1146
-Sep-15,,,DFE-1092
-Sep-15,,,DFE-1016
-Sep-15,,,DFE-1011
-Sep-15,,,DFE-1170
-Sep-15,,,DFE-1223
-Sep-15,,,DFE-1122
-Sep-15,,,DFE-1278
-Sep-15,,,DFE-1003
-Sep-15,,,DFE-1249
-Sep-15,,,DFE-1267
-Sep-15,,,DFE-1022
-Sep-15,,,DFE-1006
-Sep-15,,,DFE-1239
-Sep-15,,,DFE-1264
-Sep-15,,,DFE-1150
-Sep-15,,,DFE-1084
-Sep-15,,,DFE-1064
-Sep-15,,,DFE-1002
-Sep-15,,,DFE-1151
-Sep-15,,,DFE-1276
-Sep-15,,,DFE-1257
-Sep-15,,,DFE-1171
-Sep-15,,,DFE-1029
-Sep-15,,,DFE-1226
-Sep-15,,,DFE-1105
-Sep-15,,,DFE-1215
-Sep-15,,,DFE-1249
-Sep-15,,,DFE-1238
-Sep-15,,,DFE-1161
-Sep-15,,,DFE-1106
-Sep-15,,,DFE-1245
-Sep-15,,,DFE-1127
-Sep-15,,,DFE-1025
-Sep-15,,,DFE-1064
-Sep-15,,,DFE-1213
-Sep-15,,,DFE-1092
-Sep-15,,,DFE-1042
-Sep-15,,,DFE-1148
-Sep-15,,,DFE-1225
-Sep-15,,,DFE-1256
-Sep-15,,,DFE-1019
-Sep-15,,,DFE-1136
-Sep-15,,,DFE-1237
-Sep-15,,,DFE-1279
-Sep-15,,,DFE-1216
-Sep-15,,,DFE-1240
-Sep-15,,,DFE-1097
-Sep-15,,,DFE-1026
-Sep-15,,,DFE-1266
-Sep-15,,,DFE-1178
-Sep-15,,,DFE-1087
-Sep-15,,,DFE-1153
-Sep-15,,,DFE-1237
-Sep-15,,,DFE-1244
-Sep-15,,,DFE-1003
-Sep-15,,,DFE-1279
-Sep-15,,,DFE-1243
-Sep-15,,,DFE-1265
-Sep-15,,,DFE-1019
-Sep-15,,,DFE-1183
-Sep-15,,,DFE-1142
-Sep-15,,,DFE-1099
-Sep-15,,,DFE-1152
-Sep-15,,,DFE-1280
-Sep-15,,,DFE-1225
-Sep-15,,,DFE-1172
-Sep-15,,,DFE-1136
-Sep-15,,,DFE-1003
-Sep-15,,,DFE-1084
-Sep-15,,,DFE-1220
-Sep-15,,,DFE-1171
-Sep-15,,,DFE-1266
-Sep-15,,,DFE-1239
-Sep-15,,,DFE-1260
-Sep-15,,,DFE-1203
-Sep-15,,,DFE-1090
-Sep-15,,,DFE-1150
-Sep-15,,,DFE-1011
-Sep-15,,,DFE-1213
-Sep-15,,,DFE-1256
-Sep-15,,,DFE-1257
-Sep-15,,,DFE-1249
-Sep-15,,,DFE-1062
-Sep-15,,,DFE-1172
-Sep-15,,,DFE-1270
-Sep-15,,,DFE-1264
-Sep-15,,,DFE-1250
-Sep-15,,,DFE-1266
-Sep-15,,,DFE-1061
-Sep-15,,,DFE-1264
-Sep-15,,,DFE-1129
-Sep-15,,,DFE-1201
-Sep-15,,,DFE-1241
-Sep-15,,,DFE-1191
-Sep-15,,,DFE-1106
-Sep-15,,,DFE-1270
-Sep-15,,,DFE-1210
-Sep-15,,,DFE-1192
-Sep-15,,,DFE-1092
-Sep-15,,,DFE-1256
-Sep-15,,,DFE-1148
-Sep-15,,,DFE-1148
-Sep-15,,,DFE-1006
-Sep-15,,,DFE-1223
-Sep-15,,,DFE-1250
-Sep-15,,,DFE-1203
-Sep-15,,,DFE-1262
-Sep-15,,,DFE-1097
-Sep-15,,,DFE-1072
-Sep-15,,,DFE-1156
-Sep-15,,,DFE-1002
-Sep-15,,,DFE-1249
-Sep-15,,,DFE-1119
-Sep-15,,,DFE-1266
-Sep-15,,,DFE-1239
-Sep-15,,,DFE-1064
-Sep-15,,,DFE-1002
-Sep-15,,,DFE-1035
-Sep-15,,,DFE-1244
-Sep-15,,,DFE-1019
-Sep-15,,,DFE-1057
-Sep-15,,,DFE-1020
-Sep-15,,,DFE-1264
-Sep-15,,,DFE-1283
-Sep-15,,,DFE-1192
-Sep-15,,,DFE-1214
-Sep-15,,,DFE-1031
-Sep-15,,,DFE-1208
-Sep-15,,,DFE-1216
-Sep-15,,,DFE-1215
-Sep-15,,,DFE-1105
-Sep-15,,,DFE-1245
-Sep-15,,,DFE-1142
-Sep-15,,,DFE-1281
-Sep-15,,,DFE-1226
-Sep-15,,,DFE-1275
-Sep-15,,,DFE-1262
-Sep-15,,,DFE-1040
-Sep-15,,,DFE-1257
-Sep-15,,,DFE-1238
-Sep-15,,,DFE-1062
-Sep-15,,,DFE-1151
-Sep-15,,,DFE-1241
-Sep-15,,,DFE-1001
-Sep-15,,,DFE-1278
-Sep-15,,,DFE-1256
-Sep-15,,,DFE-1139
-Sep-15,,,DFE-1275
-Sep-15,,,DFE-1108
-Sep-15,,,DFE-1283
-Sep-15,,,DFE-1042
-Sep-15,,,DFE-1031
-Sep-15,,,DFE-1192
-Sep-15,,,DFE-1269
-Sep-15,,,DFE-1205
-Sep-15,,,DFE-1146
-Sep-15,,,DFE-1009
-Sep-15,,,DFE-1026
-Sep-15,,,DFE-1006
-Sep-15,,,DFE-1090
-Sep-15,,,DFE-1171
-Sep-15,,,DFE-1094
-Sep-15,,,DFE-1072
-Sep-15,,,DFE-1129
-Sep-15,,,DFE-1020
-Sep-15,,,DFE-1031
-Sep-15,,,DFE-1099
-Sep-15,,,DFE-1084
-Sep-15,,,DFE-1275
-Sep-15,,,DFE-1239
-Sep-15,,,DFE-1242
-Sep-15,,,DFE-1019
-Sep-15,,,DFE-1108
-Sep-15,,,DFE-1022
-Sep-15,,,DFE-1226
-Sep-15,,,DFE-1223
-Sep-15,,,DFE-1172
-Sep-15,,,DFE-1109
-Sep-15,,,DFE-1245
-Sep-15,,,DFE-1237
-Sep-15,,,DFE-1031
-Sep-15,,,DFE-1238
-Sep-15,,,DFE-1106
-Sep-15,,,DFE-1127
-Sep-15,,,DFE-1240
-Sep-15,,,DFE-1278
-Sep-15,,,DFE-1281
-Sep-15,,,DFE-1142
-Sep-15,,,DFE-1260
-Sep-15,,,DFE-1083
-Sep-15,,,DFE-1090
-Sep-15,,,DFE-1242
-Sep-15,,,DFE-1225
-Sep-15,,,DFE-1139
+date,id,parentId,level,name,grade,jobTitle,unit,salaryCostOfReports,payFloor,payCeil,professionalOccupationalGroup
+Sep-15,DFE-1127,DFE-1009,,N/D,SCS1,Deputy Director,Finance & Commercial Group,1168561.59,0,0,Finance
+Sep-15,DFE-1094,DFE-1020,,N/D,SCS1,Deputy Director,IT Group,122342,0,0,Information Technology
+Sep-15,DFE-1256,DFE-1135,,N/D,SCS1,Deputy Director,Education Funding Agency,1044388.24,0,0,Operational Delivery
+Sep-15,DFE-1026,DFE-1049,,N/D,SCS1,Deputy Director,National College for School Leadership,1760531.07,0,0,Policy
+Sep-15,DFE-1016,DFE-1002,,Graham Archer,SCS2,Director,"Childcare, Special Needs and Children’s Services Strategy",1983407.15,85000,89999,Policy
+Sep-15,DFE-1257,DFE-1133,,N/D,SCS1,Deputy Director,Education Funding Agency,1841602.555,0,0,Operational Delivery
+Sep-15,DFE-1210,DFE-1049,,N/D,SCS1,Deputy Director,National College for School Leadership,1056206.125,0,0,Policy
+Sep-15,DFE-1105,DFE-1135,,N/D,SCS1,Deputy Director,Education Funding Agency,428210.5,0,0,Operational Delivery
+Sep-15,DFE-1171,DFE-1017,,N/D,SCS1,Deputy Director,Teachers and Teaching Group,1680511.985,0,0,Policy
+Sep-15,DFE-1133,DFE-1136,,Susan Baldwin,SCS2,Director,Education Funding Agency,322399,95000,99999,Operational Delivery
+Sep-15,DFE-1032,DFE-1087,,N/D,SCS1,Deputy Director,Standards and Testing Agency,1915236.115,0,0,Operational Delivery
+Sep-15,DFE-1258,DFE-1020,,N/D,SCS1,Deputy Director,IT Group,2983627.895,0,0,Information Technology
+Sep-15,DFE-1259,DFE-1084,,Hardip Begol,SCS2,Director,Due Diligence and Counter Extremism Group,129534.02,85000,89999,Policy
+Sep-15,DFE-1220,DFE-1003,,Iain Bell,SCS2,Director,Systems and Accountability,932290.16,85000,89999,Policy
+Sep-15,DFE-1017,DFE-1003,,Marcus Bell,SCS2,Director,Teachers and Teaching Group,295856,95000,99999,Policy
+Sep-15,DFE-1085,DFE-1002,,N/D,SCS1,Deputy Director,Strategy Performance and Private Office Group,2970483.76,0,0,Communications and Marketing
+Sep-15,DFE-1239,DFE-1213,,Jennifer Bexon-Smith,SCS2,Director,Regional Schools Commissioners Group,223011.91,140000,144999,Operational Delivery
+Sep-15,DFE-1275,DFE-1006,,N/D,SCS1,Deputy Director,"Childcare, Special Needs and Children’s Services Strategy",406856.29,0,0,Policy
+Sep-15,DFE-1260,DFE-1016,,N/D,SCS1,Deputy Director,"Childcare, Special Needs and Children’s Services Strategy",1368402.64,0,0,Policy
+Sep-15,DFE-1083,DFE-1021,,N/D,SCS1,Deputy Director,National College for School Leadership,1727780.83,0,0,Policy
+Sep-15,DFE-1035,DFE-1005,,N/D,SCS1,Deputy Director,"Assessment, Curriculum and General Qualifications",1430148.405,0,0,Policy
+Sep-15,DFE-1087,DFE-1003,,Claire Burton,SCS2,Director,Standards and Testing Agency,312548.5,85000,89999,Operational Delivery
+Sep-15,DFE-1245,DFE-1213,,David Carter,SCS2,Director,Regional Schools Commissioners Group,288352.3,140000,144999,Operational Delivery
+Sep-15,DFE-1053,DFE-1137,,N/D,SCS1,Deputy Director,Education Funding Agency,197064,0,0,Operational Delivery
+Sep-15,DFE-1214,DFE-1003,,Juliet Chua,SCS2,Director,Post 16 and Disadvantage,722078.02,105000,109999,Policy
+Sep-15,DFE-1278,DFE-1019,,N/D,SCS1,Deputy Director,"Childcare, Special Needs and Children’s Services Strategy",512083.37,0,0,Policy
+Sep-15,DFE-1253,DFE-1251,,N/D,SCS1,Deputy Director,Strategy Performance and Private Office Group,0,0,0,Business Unit Support
+Sep-15,DFE-1025,DFE-1021,,N/D,SCS1,Deputy Director,National College for School Leadership,1240143.75,0,0,Policy
+Sep-15,DFE-1072,DFE-1133,,N/D,SCS1,Deputy Director,Education Funding Agency,1020789.72,0,0,Operational Delivery
+Sep-15,DFE-1238,DFE-1213,,Tim Coulson,SCS2,Director,Regional Schools Commissioners Group,120750.9,130000,134999,Operational Delivery
+Sep-15,DFE-1099,DFE-1137,,N/D,SCS1,Deputy Director,Education Funding Agency,1912347.84,0,0,Operational Delivery
+Sep-15,DFE-1262,DFE-1124,,N/D,SCS1,Deputy Director,Education Funding Agency,1729858.83,0,0,Operational Delivery
+Sep-15,DFE-1237,DFE-1009,,N/D,SCS1,Deputy Director,Finance & Commercial Group,1831889.355,0,0,Procurement
+Sep-15,DFE-1150,DFE-1215,,N/D,SCS1,Deputy Director,Strategic Analysis Research and Policy Impact Group,600122.38,0,0,Policy
+Sep-15,DFE-1250,DFE-1277,,N/D,SCS1,Deputy Director,Academies Group,2248649.46,0,0,Policy
+Sep-15,DFE-1003,DFE-1001,,Shona Dunn,SCS3,Director General,Education Standards Directorate,1178082.1,120000,124999,Policy
+Sep-15,DFE-1124,DFE-1084,,Anthony Foot,SCS2,Director,Education Funding Group,267846,70000,74999,Policy
+Sep-15,DFE-1123,DFE-1191,,N/D,SCS1,Deputy Director,Strategy Performance and Private Office Group,0,0,0,Strategy
+Sep-15,DFE-1267,DFE-1214,,N/D,SCS1,Deputy Director,Post 16 and Disadvantage,969399.85,0,0,Policy
+Sep-15,DFE-1011,DFE-1263,,Simon Fryer,SCS2,Director,HR and Change Group,683165.82,95000,99999,Human Resources
+Sep-15,DFE-1031,DFE-1020,,N/D,SCS1,Deputy Director,Education Funding Agency,2470667.77,0,0,Operational Delivery
+Sep-15,DFE-1183,DFE-1124,,N/D,SCS1,Deputy Director,Education Funding Group,769352.6,0,0,Policy
+Sep-15,DFE-1135,DFE-1136,,Mike Green,SCS2,Director,Education Funding Agency,750875,130000,134999,Operational Delivery
+Sep-15,DFE-1213,DFE-1084,,Frank Green,SCS2,Director,Regional Schools Commissioners Group,1210102.3,140000,144999,Policy
+Sep-15,DFE-1264,DFE-1192,,N/D,SCS1,Deputy Director,Education Funding Agency,272876.8,0,0,Operational Delivery
+Sep-15,DFE-1042,DFE-1020,,N/D,SCS1,Deputy Director,Education Funding Agency,210381.5,0,0,Finance
+Sep-15,DFE-1006,DFE-1002,,Ann Gross,SCS2,Director,"Childcare, Special Needs and Children’s Services Strategy",725261.625,90000,94999,Policy
+Sep-15,DFE-1265,DFE-1019,,N/D,SCS1,Deputy Director,"Childcare, Special Needs and Children’s Services Strategy",87472.5,0,0,Policy
+Sep-15,DFE-1266,DFE-1009,,N/D,SCS1,Deputy Director,Finance & Commercial Group,1539674.49,0,0,Finance
+Sep-15,DFE-1225,DFE-1135,,N/D,SCS1,Deputy Director,Education Funding Agency,1500864.445,0,0,Operational Delivery
+Sep-15,DFE-1022,DFE-1009,,N/D,SCS1,Deputy Director,Finance & Commercial Group,1324440.665,0,0,Business Unit Support
+Sep-15,DFE-1244,DFE-1084,,Dominic Herrington,SCS2,Director,Regional Schools Commissioners Group,308874.5,125000,129999,Operational Delivery
+Sep-15,DFE-1111,DFE-1220,,N/D,SCS1,Deputy Director,Systems and Accountability,3288452.775,0,0,Policy
+Sep-15,DFE-1081,DFE-1192,,N/D,SCS1,Deputy Director,Education Funding Agency,1245607.075,0,0,Operational Delivery
+Sep-15,DFE-1033,DFE-1277,,N/D,SCS1,Deputy Director,Academies Group,1984540.96,0,0,Policy
+Sep-15,DFE-1086,DFE-1084,,Elizabeth Jackson,SCS2,Director,System Reform Group,277373,85000,89999,Policy
+Sep-15,DFE-1064,DFE-1137,,N/D,SCS1,Deputy Director,Education Funding Agency,773184.245,0,0,Operational Delivery
+Sep-15,DFE-1170,DFE-1086,,N/D,SCS1,Deputy Director,System Reform Group,1378366.31,0,0,Policy
+Sep-15,DFE-1040,DFE-1017,,N/D,SCS1,Deputy Director,Teachers and Teaching Group,282238.005,0,0,Policy
+Sep-15,DFE-1009,DFE-1263,,Simon Judge,SCS2,Director,Finance & Commercial Group,572953,95000,99999,Finance
+Sep-15,DFE-1192,DFE-1135,,N/D,SCS1,Deputy Director,Education Funding Agency,1283508.15,0,0,Operational Delivery
+Sep-15,DFE-1106,DFE-1135,,N/D,SCS1,Deputy Director,Education Funding Agency,655507.94,0,0,Operational Delivery
+Sep-15,DFE-1172,DFE-1005,,N/D,SCS1,Deputy Director,"Assessment, Curriculum and General Qualifications",1106654.83,0,0,Policy
+Sep-15,DFE-1005,DFE-1003,,Julia Kinniburgh,SCS2,Director,"Assessment, Curriculum and General Qualifications",263221.5,85000,89999,Policy
+Sep-15,DFE-1002,DFE-1001,,Paul Kissack,SCS3,Director General,Children Services and Departmental Strategy,3122591.88,125000,129999,Business Unit Support
+Sep-15,DFE-1208,DFE-1220,,N/D,SCS1,Deputy Director,Systems and Accountability,1963902.215,0,0,Policy
+Sep-15,DFE-1187,DFE-1090,,N/D,SCS1,Deputy Director,Free Schools Group,1464516.915,0,0,Policy
+Sep-15,DFE-1268,DFE-1016,,N/D,SCS1,Deputy Director,"Childcare, Special Needs and Children’s Services Strategy",46039.32,0,0,Policy
+Sep-15,DFE-1136,DFE-1084,,Peter Lauener,SCS3,Director General,Education Funding Agency,918231.5,140000,144999,Business Unit Support
+Sep-15,DFE-1119,DFE-1006,,N/D,SCS1,Deputy Director,"Childcare, Special Needs and Children’s Services Strategy",757074.96,0,0,Policy
+Sep-15,DFE-1215,DFE-1001,,Tim Leunig,SCS2,Director,Strategic Analysis Research and Policy Impact Group,209256,125000,129999,Economics
+Sep-15,DFE-1227,DFE-1021,,N/D,SCS1,Deputy Director,National College for School Leadership,1058097.67,0,0,Policy
+Sep-15,DFE-1270,DFE-1017,,N/D,SCS1,Deputy Director,"Assessment, Curriculum and General Qualifications",849782.08,0,0,Policy
+Sep-15,DFE-1221,DFE-1124,,N/D,SCS1,Deputy Director,Education Funding Group,1285921.9,0,0,Policy
+Sep-15,DFE-1075,DFE-1011,,N/D,SCS1,Deputy Director,HR and Change Group,1153662.715,0,0,Economics
+Sep-15,DFE-1084,DFE-1001,,Andrew McCully,SCS3,Director General,Infrastructure and Funding Directorate,1130743.5,125000,129999,Operational Delivery
+Sep-15,DFE-1065,DFE-1133,,N/D,SCS1,Deputy Director,Education Funding Agency,1577812.42,0,0,Programme and Project Management (PPM)
+Sep-15,DFE-1247,DFE-1124,,N/D,SCS1,Deputy Director,Education Funding Group,1469916.85,0,0,Policy
+Sep-15,DFE-1277,DFE-1084,,Claudine Menashe-Jones,SCS2,Director,Academies Group,281913,85000,89999,Policy
+Sep-15,DFE-1028,DFE-1049,,N/D,SCS1,Deputy Director,National College for School Leadership,1351694.325,0,0,Policy
+Sep-15,DFE-1173,DFE-1006,,N/D,SCS1,Deputy Director,"Childcare, Special Needs and Children’s Services Strategy",1162941.605,0,0,Estates and Facilities Management
+Sep-15,DFE-1276,DFE-1009,,N/D,SCS1,Deputy Director,Finance & Commercial Group,1564004.805,0,0,Operational Delivery
+Sep-15,DFE-1137,DFE-1136,,Peter Mucklow,SCS2,Director,Education Funding Agency,492214,90000,94999,Operational Delivery
+Sep-15,DFE-1151,DFE-1020,,N/D,SCS1,Deputy Director,Education Funding Agency,1337315.445,0,0,Human Resources
+Sep-15,DFE-1153,DFE-1011,,N/D,SCS1,Deputy Director,HR and Change Group,685590.335,0,0,Policy
+Sep-15,DFE-1021,DFE-1015,,Sinead O'Sullivan,SCS2,Director,National College for School Leadership,425029,85000,89999,Policy
+Sep-15,DFE-1272,DFE-1087,,N/D,SCS1,Deputy Director,"Assessment, Curriculum and General Qualifications",0,0,0,Economics
+Sep-15,DFE-1243,DFE-1215,,N/D,SCS1,Deputy Director,Strategic Analysis Research and Policy Impact Group,703081.505,0,0,Business Unit Support
+Sep-15,DFE-1020,DFE-1136,,Simon Parkes,SCS2,Director,Education Funding Agency,2822528.315,135000,139999,Operational Delivery
+Sep-15,DFE-1029,DFE-1020,,N/D,SCS1,Deputy Director,Education Funding Agency,292876,0,0,Operational Delivery
+Sep-15,DFE-1242,DFE-1213,,Pankaj Patel,SCS2,Director,Regional Schools Commissioners Group,273196,125000,129999,Business Unit Support
+Sep-15,DFE-1273,DFE-1249,,N/D,SCS1,Deputy Director,Strategy Performance and Private Office Group,0,0,0,Business Unit Support
+Sep-15,DFE-1249,DFE-1002,,N/D,SCS1,Deputy Director,Strategy Performance and Private Office Group,1658230.25,0,0,Operational Delivery
+Sep-15,DFE-1139,DFE-1133,,N/D,SCS1,Deputy Director,Education Funding Agency,2653528.425,0,0,Policy
+Sep-15,DFE-1129,DFE-1090,,N/D,SCS1,Deputy Director,Free Schools Group,1276874.545,0,0,Operational Delivery
+Sep-15,DFE-1241,DFE-1213,,Martin Post,SCS2,Director,Regional Schools Commissioners Group,222267,125000,129999,Finance
+Sep-15,DFE-1062,DFE-1020,,N/D,SCS1,Deputy Director,Education Funding Agency,121780,0,0,Business Unit Support
+Sep-15,DFE-1246,DFE-1084,,Rosemary Pratt,SCS2,Director,Infrastructure and Funding Directorate,0,85000,89999,Policy
+Sep-15,DFE-1226,DFE-1086,,N/D,SCS1,Deputy Director,System Reform Group,149725,0,0,Operational Delivery
+Sep-15,DFE-1142,DFE-1137,,N/D,SCS1,Deputy Director,Education Funding Agency,1559986.75,0,0,Operational Delivery
+Sep-15,DFE-1108,DFE-1020,,N/D,SCS1,Deputy Director,Education Funding Agency,617075.015,0,0,Operational Delivery
+Sep-15,DFE-1240,DFE-1213,,Janet Renou,SCS2,Director,Regional Schools Commissioners Group,294778.5,125000,129999,Operational Delivery
+Sep-15,DFE-1061,DFE-1135,,N/D,SCS1,Deputy Director,Education Funding Agency,1001518.5,0,0,Policy
+Sep-15,DFE-1146,DFE-1090,,N/D,SCS1,Deputy Director,Free Schools Group,1591015.31,0,0,Policy
+Sep-15,DFE-1283,DFE-1214,,N/D,SCS1,Deputy Director,Post 16 and Disadvantage,974148.595,0,0,Strategy
+Sep-15,DFE-1191,DFE-1001,,Tom Shinner,SCS2,Director,Strategy Performance and Private Office Group,894416.26,125000,129999,Policy
+Sep-15,DFE-1122,DFE-1090,,N/D,SCS1,Deputy Director,Free Schools Group,1081895.29,0,0,Policy
+Sep-15,DFE-1057,DFE-1277,,N/D,SCS1,Deputy Director,Academies Group,2677811.485,0,0,Operational Delivery
+Sep-15,DFE-1223,DFE-1213,,Paul Smith,SCS2,Director,Regional Schools Commissioners Group,239954.3,110000,114999,Policy
+Sep-15,DFE-1097,DFE-1214,,N/D,SCS1,Deputy Director,Post 16 and Disadvantage,958621.42,0,0,Policy
+Sep-15,DFE-1109,DFE-1021,,N/D,SCS1,Deputy Director,National College for School Leadership,1906670.26,0,0,Policy
+Sep-15,DFE-1019,DFE-1002,,Helen Stephenson,SCS2,Director,"Childcare, Special Needs and Children’s Services Strategy",1392705.33,85000,89999,Operational Delivery
+Sep-15,DFE-1154,DFE-1135,,N/D,SCS1,Deputy Director,Education Funding Agency,1909263,0,0,Policy
+Sep-15,DFE-1152,DFE-1086,,N/D,SCS1,Deputy Director,System Reform Group,733475.89,0,0,Business Unit Support
+Sep-15,DFE-1156,DFE-1136,,N/D,SCS1,Deputy Director,Education Funding Agency,561942.525,0,0,Operational Delivery
+Sep-15,DFE-1219,DFE-1192,,N/D,SCS1,Deputy Director,Education Funding Agency,1131693.405,0,0,Policy
+Sep-15,DFE-1067,DFE-1006,,N/D,SCS1,Deputy Director,"Childcare, Special Needs and Children’s Services Strategy",0,0,0,Policy
+Sep-15,DFE-1203,DFE-1259,,N/D,SCS1,Deputy Director,Due Diligence and Counter Extremism Group,1357694.47,0,0,Policy
+Sep-15,DFE-1269,DFE-1277,,N/D,SCS1,Deputy Director,Academies Group,1648429.46,0,0,Finance
+Sep-15,DFE-1178,DFE-1009,,N/D,SCS1,Deputy Director,Finance & Commercial Group,249667,0,0,Policy
+Sep-15,DFE-1204,DFE-1002,,Isabelle Trowler,SCS2,Director,"Childcare, Special Needs and Children’s Services Strategy",0,130000,134999,Policy
+Sep-15,DFE-1049,DFE-1021,,Brian Tytherleigh,SCS2,Director,National College for School Leadership,295780,95000,99999,Policy
+Sep-15,DFE-1201,DFE-1019,,N/D,SCS1,Deputy Director,"Childcare, Special Needs and Children’s Services Strategy",846802.185,0,0,Policy
+Sep-15,DFE-1248,DFE-1086,,N/D,SCS1,Deputy Director,System Reform Group,1322375.205,0,0,Information Technology
+Sep-15,DFE-1280,DFE-1020,,N/D,SCS1,Deputy Director,IT Group,1514577.18,0,0,Economics
+Sep-15,DFE-1060,DFE-1087,,N/D,SCS1,Deputy Director,Standards and Testing Agency,2146856.485,0,0,Operational Delivery
+Sep-15,DFE-1092,DFE-1191,,N/D,SCS1,Deputy Director,Strategy Performance and Private Office Group,820180.5,0,0,Strategy
+Sep-15,DFE-1090,DFE-1084,,Mela Watts,SCS2,Director,Free Schools Group,409751.32,90000,94999,Policy
+Sep-15,DFE-1281,DFE-1137,,N/D,SCS1,Deputy Director,Education Funding Agency,765676.14,0,0,Operational Delivery
+Sep-15,DFE-1279,DFE-1011,,N/D,SCS1,Deputy Director,HR and Change Group,781037.845,0,0,Human Resources
+Sep-15,DFE-1205,DFE-1006,,N/D,SCS1,Deputy Director,"Childcare, Special Needs and Children’s Services Strategy",864436.85,0,0,Policy
+Sep-15,DFE-1148,DFE-1137,,N/D,SCS1,Deputy Director,Education Funding Agency,843817,0,0,Operational Delivery
+Sep-15,DFE-1161,DFE-1135,,N/D,SCS1,Deputy Director,Education Funding Agency,1955050.725,0,0,Operational Delivery
+Sep-15,DFE-1216,DFE-1135,,N/D,SCS1,Deputy Director,Education Funding Agency,1144172.46,0,0,Operational Delivery
+Sep-15,DFE-1001,,,Chris Wormald,SCS4,Permanent Secretary,Permanent Secretary’s Office,1508171,160000,164999,Business Unit Support
+Sep-15,DFE-1102,DFE-1017,,N/D,SCS1,Deputy Director,Teachers and Teaching Group,1464313.85,0,0,Policy
+Sep-15,DFE-1251,DFE-1002,,Alison Pritchard,SCS2,Director,Government Equalities Office,269910.07,90000,94999,Policy
+Sep-15,DFE-1252,DFE-1251,,N/D,SCS1,Deputy Director,Government Equalities Office,0,0,0,Policy
+Sep-15,DFE-1254,DFE-1251,,N/D,SCS1,Deputy Director,Government Equalities Office,0,0,0,Policy
+Sep-15,DFE-1255,DFE-1251,,N/D,SCS1,Deputy Director,Government Equalities Office,0,0,0,Policy
+Sep-15,DFE-1263,DFE-1001,,Richard Calvert,SCS3,Director General,Financial and Corporate,194585,140000,144999,Strategy
+Sep-15,DFE-1078,DFE-1002,,Suzy Jenner,SCS2,Director,Communications Group,0,65000,69999,Communications and Marketing
+Sep-15,DFE-1271,DFE-1016,,N/D,SCS1,Deputy Director,Local Authority Performance and Intervention,0,0,0,Policy
+Sep-15,DFE-1015,DFE-1003,,Vacant - Chief Exec,SCS2,Director,National College for School Leadership,89000,140000,144999,Policy
+Sep-15,,DFE-1171,,,EO,Executive Assistant,Teachers and Teaching Group,0,22681,33209,Policy
+Sep-15,,DFE-1258,,,EO,Executive Assistant,IT Group,0,22681,33209,Information Technology
+Sep-15,,DFE-1221,,,EO,Executive Assistant,Education Funding Group,0,22681,33209,Policy
+Sep-15,,DFE-1006,,,GRADE 6,Business Manager,"Childcare, Special Needs and Children’s Services Strategy",0,57309,70578,Policy
+Sep-15,,DFE-1028,,,SEO,Policy Adviser,National College for School Leadership,0,34282,48182,Policy
+Sep-15,,DFE-1028,,,EO,Executive Assistant,National College for School Leadership,0,22681,33209,Policy
+Sep-15,,DFE-1221,,,EA AO,Executive Assistant,Education Funding Group,0,18474,23084,Policy
+Sep-15,,DFE-1011,,,GRADE 6,Business Manager,HR and Change Group,0,57309,70578,Human Resources
+Sep-15,,DFE-1250,,,GRADE 6,Business Manager,Academies Group,0,57309,70578,Policy
+Sep-15,,DFE-1161,,,GRADE 6,Operational Manager,Education Funding Agency,0,57309,70578,Operational Delivery
+Sep-15,,DFE-1270,,,GRADE 7,Business Manager,"Assessment, Curriculum and General Qualifications",0,46833,58373,Policy
+Sep-15,,DFE-1111,,,EA AO,Executive Assistant,Systems and Accountability,0,18474,23084,Policy
+Sep-15,,DFE-1216,,,HEO,Operations Support Officer,Education Funding Agency,0,27674,42065,Operational Delivery
+Sep-15,,DFE-1227,,,HEO,Policy Support Officer,National College for School Leadership,0,27674,42065,Policy
+Sep-15,,DFE-1111,,,EO,Executive Assistant,Systems and Accountability,0,22681,33209,Policy
+Sep-15,,DFE-1219,,,EO,Executive Assistant,Education Funding Agency,0,22681,33209,Operational Delivery
+Sep-15,,DFE-1083,,,SEO,Policy Adviser,National College for School Leadership,0,34282,48182,Policy
+Sep-15,,DFE-1087,,,HEO,Operations Support Officer,Standards and Testing Agency,0,27674,42065,Operational Delivery
+Sep-15,,DFE-1119,,,EO,Executive Assistant,"Childcare, Special Needs and Children’s Services Strategy",0,22681,33209,Policy
+Sep-15,,DFE-1173,,,GRADE 7,Business Manager,"Childcare, Special Needs and Children’s Services Strategy",0,46833,58373,Policy
+Sep-15,,DFE-1042,,,SEO,Policy Adviser,Education Funding Agency,0,34282,48182,Business Unit Support
+Sep-15,,DFE-1025,,,SEO,Policy Adviser,National College for School Leadership,0,34282,48182,Policy
+Sep-15,,DFE-1250,,,SEO,Policy Adviser,Academies Group,0,34282,48182,Policy
+Sep-15,,DFE-1139,,,HEO,Operations Support Officer,Education Funding Agency,0,27674,42065,Operational Delivery
+Sep-15,,DFE-1146,,,GRADE 7,Business Manager,Free Schools Group,0,46833,58373,Policy
+Sep-15,,DFE-1099,,,SEO,Operational Manager,Education Funding Agency,0,34282,48182,Operational Delivery
+Sep-15,,DFE-1085,,,EO,Executive Assistant,Strategy Performance and Private Office Group,0,22681,33209,Communications and Marketing
+Sep-15,,DFE-1102,,,EO,Executive Assistant,Teachers and Teaching Group,0,22681,33209,Policy
+Sep-15,,DFE-1262,,,EO,Executive Assistant,Education Funding Agency,0,22681,33209,Operational Delivery
+Sep-15,,DFE-1099,,,GRADE 6,Operational Manager,Education Funding Agency,0,57309,70578,Operational Delivery
+Sep-15,,DFE-1108,,,SEO,Operational Manager,Education Funding Agency,0,34282,48182,Operational Delivery
+Sep-15,,DFE-1026,,,SEO,Policy Adviser,National College for School Leadership,0,34282,48182,Policy
+Sep-15,,DFE-1173,,,GRADE 7,Business Manager,"Childcare, Special Needs and Children’s Services Strategy",0,46833,58373,Business Unit Support
+Sep-15,,DFE-1057,,,EO,Executive Assistant,Academies Group,0,22681,33209,Policy
+Sep-15,,DFE-1201,,,HEO,Policy Support Officer,"Childcare, Special Needs and Children’s Services Strategy",0,27674,42065,Policy
+Sep-15,,DFE-1266,,,HEO,Operations Support Officer,Finance & Commercial Group,0,27674,42065,Business Unit Support
+Sep-15,,DFE-1151,,,GRADE 7,Operational Manager,Education Funding Agency,0,46833,58373,Operational Delivery
+Sep-15,,DFE-1270,,,HEO,Policy Support Officer,"Assessment, Curriculum and General Qualifications",0,27674,42065,Policy
+Sep-15,,DFE-1111,,,HEO,Policy Support Officer,Systems and Accountability,0,27674,42065,Policy
+Sep-15,,DFE-1097,,,EO,Executive Assistant,Post 16 and Disadvantage,0,22681,33209,Policy
+Sep-15,,DFE-1060,,,HEO,Operations Support Officer,Standards and Testing Agency,0,27674,42065,Operational Delivery
+Sep-15,,DFE-1033,,,EO,Executive Assistant,Academies Group,0,22681,33209,Policy
+Sep-15,,DFE-1031,,,HEO,Operations Support Officer,Education Funding Agency,0,27674,42065,Operational Delivery
+Sep-15,,DFE-1060,,,SEO,Operational Manager,Standards and Testing Agency,0,34282,48182,Operational Delivery
+Sep-15,,DFE-1094,,,HEO,Operations Support Officer,IT Group,0,27674,42065,Information Technology
+Sep-15,,DFE-1267,,,GRADE 7,Business Manager,Post 16 and Disadvantage,0,46833,58373,Policy
+Sep-15,,DFE-1249,,,EA AO,Executive Assistant,Strategy Performance and Private Office Group,0,18474,23084,Communications and Marketing
+Sep-15,,DFE-1173,,,EO,Executive Assistant,"Childcare, Special Needs and Children’s Services Strategy",0,22681,33209,Policy
+Sep-15,,DFE-1060,,,GRADE 7,Operational Manager,Standards and Testing Agency,0,46833,58373,Operational Delivery
+Sep-15,,DFE-1266,,,HEO,Operations Support Officer,Finance & Commercial Group,0,27674,42065,Finance
+Sep-15,,DFE-1020,,,SEO,Operational Manager,Education Funding Agency,0,34282,48182,Operational Delivery
+Sep-15,,DFE-1220,,,EO,Executive Assistant,Systems and Accountability,0,22681,33209,Policy
+Sep-15,,DFE-1102,,,GRADE 6,Business Manager,Teachers and Teaching Group,0,57309,70578,Policy
+Sep-15,,DFE-1032,,,SEO,Operational Manager,Standards and Testing Agency,0,34282,48182,Operational Delivery
+Sep-15,,DFE-1203,,,EO,Executive Assistant,Due Diligence and Counter Extremism Group,0,22681,33209,Policy
+Sep-15,,DFE-1280,,,HEO,Operations Support Officer,IT Group,0,27674,42065,Information Technology
+Sep-15,,DFE-1057,,,HEO,Policy Support Officer,Academies Group,0,27674,42065,Policy
+Sep-15,,DFE-1258,,,GRADE 7,IT Manager,IT Group,0,46833,58373,Information Technology
+Sep-15,,DFE-1243,,,SEO,Economist,Strategic Analysis Research and Policy Impact Group,0,34282,48182,Finance
+Sep-15,,DFE-1142,,,EA AO,Executive Assistant,Education Funding Agency,0,18474,23084,Operational Delivery
+Sep-15,,DFE-1099,,,EO,Executive Assistant,Education Funding Agency,0,22681,33209,Operational Delivery
+Sep-15,,DFE-1028,,,EA AO,Executive Assistant,National College for School Leadership,0,18474,23084,Policy
+Sep-15,,DFE-1208,,,SEO,Policy Adviser,Systems and Accountability,0,34282,48182,Policy
+Sep-15,,DFE-1119,,,SEO,Policy Adviser,"Childcare, Special Needs and Children’s Services Strategy",0,34282,48182,Policy
+Sep-15,,DFE-1102,,,HEO,Policy Support Officer,Teachers and Teaching Group,0,27674,42065,Policy
+Sep-15,,DFE-1032,,,HEO,Operations Support Officer,Standards and Testing Agency,0,27674,42065,Operational Delivery
+Sep-15,,DFE-1139,,,SEO,Finance Officer,Education Funding Agency,0,34282,48182,Finance
+Sep-15,,DFE-1105,,,GRADE 6,Operational Manager,Education Funding Agency,0,57309,70578,Operational Delivery
+Sep-15,,DFE-1225,,,GRADE 7,Operational Manager,Education Funding Agency,0,46833,58373,Operational Delivery
+Sep-15,,DFE-1257,,,SEO,Operational Manager,Education Funding Agency,0,34282,48182,Operational Delivery
+Sep-15,,DFE-1213,,,EO,Executive Assistant,Regional Schools Commissioners Group,0,22681,33209,Operational Delivery
+Sep-15,,DFE-1081,,,GRADE 7,Business Manager,Education Funding Agency,0,46833,58373,Business Unit Support
+Sep-15,,DFE-1083,,,GRADE 7,Business Manager,National College for School Leadership,0,46833,58373,Policy
+Sep-15,,DFE-1031,,,SEO,Operational Manager,Education Funding Agency,0,34282,48182,Operational Delivery
+Sep-15,,DFE-1061,,,GRADE 6,Operational Manager,Education Funding Agency,0,57309,70578,Operational Delivery
+Sep-15,,DFE-1171,,,GRADE 7,Business Manager,Teachers and Teaching Group,0,46833,58373,Policy
+Sep-15,,DFE-1247,,,GRADE 6,Programme Manager,Education Funding Group,0,57309,70578,Programme and Project Management (PPM)
+Sep-15,,DFE-1151,,,HEO,Operations Support Officer,Education Funding Agency,0,27674,42065,Operational Delivery
+Sep-15,,DFE-1057,,,GRADE 7,Business Manager,Academies Group,0,46833,58373,Policy
+Sep-15,,DFE-1111,,,SEO,Policy Adviser,Systems and Accountability,0,34282,48182,Policy
+Sep-15,,DFE-1122,,,EO,Executive Assistant,Free Schools Group,0,22681,33209,Policy
+Sep-15,,DFE-1210,,,EO,Executive Assistant,National College for School Leadership,0,22681,33209,Policy
+Sep-15,,DFE-1025,,,GRADE 7,Business Manager,National College for School Leadership,0,46833,58373,Policy
+Sep-15,,DFE-1033,,,SEO,Policy Adviser,Academies Group,0,34282,48182,Policy
+Sep-15,,DFE-1139,,,EO,Executive Assistant,Education Funding Agency,0,22681,33209,Operational Delivery
+Sep-15,,DFE-1220,,,GRADE 7,Business Manager,Systems and Accountability,0,46833,58373,Policy
+Sep-15,,DFE-1150,,,GRADE 7,Business Manager,Strategic Analysis Research and Policy Impact Group,0,46833,58373,Policy
+Sep-15,,DFE-1085,,,GRADE 7,Communications Manager,Strategy Performance and Private Office Group,0,46833,58373,Communications and Marketing
+Sep-15,,DFE-1237,,,GRADE 7,Business Manager,Finance & Commercial Group,0,46833,58373,Procurement
+Sep-15,,DFE-1225,,,HEO,Operations Support Officer,Education Funding Agency,0,27674,42065,Operational Delivery
+Sep-15,,DFE-1122,,,GRADE 6,Business Manager,Free Schools Group,0,57309,70578,Policy
+Sep-15,,DFE-1237,,,SEO,Procurement Officer,Finance & Commercial Group,0,34282,48182,Procurement
+Sep-15,,DFE-1109,,,EO,Executive Assistant,National College for School Leadership,0,22681,33209,Policy
+Sep-15,,DFE-1017,,,EO,Executive Assistant,Teachers and Teaching Group,0,22681,33209,Policy
+Sep-15,,DFE-1083,,,EO,Executive Assistant,National College for School Leadership,0,22681,33209,Policy
+Sep-15,,DFE-1146,,,SEO,Policy Adviser,Free Schools Group,0,34282,48182,Policy
+Sep-15,,DFE-1031,,,GRADE 7,Operational Manager,Education Funding Agency,0,46833,58373,Operational Delivery
+Sep-15,,DFE-1275,,,GRADE 7,Business Manager,"Childcare, Special Needs and Children’s Services Strategy",0,46833,58373,Policy
+Sep-15,,DFE-1033,,,GRADE 7,Business Manager,Academies Group,0,46833,58373,Policy
+Sep-15,,DFE-1281,,,GRADE 7,Operational Manager,Education Funding Agency,0,46833,58373,Operational Delivery
+Sep-15,,DFE-1026,,,EO,Executive Assistant,National College for School Leadership,0,22681,33209,Policy
+Sep-15,,DFE-1129,,,HEO,Policy Support Officer,Free Schools Group,0,27674,42065,Policy
+Sep-15,,DFE-1081,,,SEO,Operational Manager,Education Funding Agency,0,34282,48182,Operational Delivery
+Sep-15,,DFE-1245,,,EO,Executive Assistant,Regional Schools Commissioners Group,0,22681,33209,Operational Delivery
+Sep-15,,DFE-1203,,,GRADE 7,Business Manager,Due Diligence and Counter Extremism Group,0,46833,58373,Policy
+Sep-15,,DFE-1153,,,HEO,HR Support Officer,HR and Change Group,0,27674,42065,Human Resources
+Sep-15,,DFE-1262,,,GRADE 6,Operational Manager,Education Funding Agency,0,57309,70578,Operational Delivery
+Sep-15,,DFE-1151,,,EA AO,Executive Assistant,Education Funding Agency,0,18474,23084,Operational Delivery
+Sep-15,,DFE-1258,,,SEO,IT Manager,IT Group,0,34282,48182,Information Technology
+Sep-15,,DFE-1002,,,SEO,Communications Manager,Children Services and Departmental Strategy,0,34282,48182,Communications and Marketing
+Sep-15,,DFE-1203,,,SEO,Policy Adviser,Due Diligence and Counter Extremism Group,0,34282,48182,Policy
+Sep-15,,DFE-1208,,,GRADE 7,Business Manager,Systems and Accountability,0,46833,58373,Policy
+Sep-15,,DFE-1225,,,GRADE 6,Operational Manager,Education Funding Agency,0,57309,70578,Operational Delivery
+Sep-15,,DFE-1244,,,EO,Executive Assistant,Regional Schools Commissioners Group,0,22681,33209,Operational Delivery
+Sep-15,,DFE-1127,,,SEO,Finance Officer,Finance & Commercial Group,0,34282,48182,Finance
+Sep-15,,DFE-1022,,,HEO,Operations Support Officer,Finance & Commercial Group,0,27674,42065,Business Unit Support
+Sep-15,,DFE-1151,,,EO,Executive Assistant,Education Funding Agency,0,22681,33209,Operational Delivery
+Sep-15,,DFE-1258,,,HEO,Operations Support Officer,IT Group,0,27674,42065,Information Technology
+Sep-15,,DFE-1016,,,GRADE 7,Business Manager,"Childcare, Special Needs and Children’s Services Strategy",0,46833,58373,Policy
+Sep-15,,DFE-1122,,,HEO,Policy Support Officer,Free Schools Group,0,27674,42065,Policy
+Sep-15,,DFE-1187,,,SEO,Policy Adviser,Free Schools Group,0,34282,48182,Policy
+Sep-15,,DFE-1026,,,GRADE 7,Business Manager,National College for School Leadership,0,46833,58373,Policy
+Sep-15,,DFE-1151,,,SEO,Operational Manager,Education Funding Agency,0,34282,48182,Operational Delivery
+Sep-15,,DFE-1142,,,GRADE 7,Operational Manager,Education Funding Agency,0,46833,58373,Operational Delivery
+Sep-15,,DFE-1240,,,EO,Executive Assistant,Regional Schools Commissioners Group,0,22681,33209,Operational Delivery
+Sep-15,,DFE-1031,,,EO,Executive Assistant,Education Funding Agency,0,22681,33209,Operational Delivery
+Sep-15,,DFE-1035,,,EA AO,Executive Assistant,"Assessment, Curriculum and General Qualifications",0,18474,23084,Policy
+Sep-15,,DFE-1220,,,HEO,Policy Support Officer,Systems and Accountability,0,27674,42065,Policy
+Sep-15,,DFE-1201,,,GRADE 6,Business Manager,"Childcare, Special Needs and Children’s Services Strategy",0,57309,70578,Policy
+Sep-15,,DFE-1243,,,GRADE 7,Economist,Strategic Analysis Research and Policy Impact Group,0,46833,58373,Economics
+Sep-15,,DFE-1221,,,GRADE 6,Business Manager,Education Funding Group,0,57309,70578,Policy
+Sep-15,,DFE-1001,,,GRADE 7,Business Manager,Permanent Secretary’s Office,0,46833,58373,Legal Advisors
+Sep-15,,DFE-1219,,,EO,Executive Assistant,Education Funding Agency,0,22681,33209,Finance
+Sep-15,,DFE-1219,,,GRADE 6,Office Manager,Education Funding Agency,0,57309,70578,Business Unit Support
+Sep-15,,DFE-1099,,,GRADE 7,Operational Manager,Education Funding Agency,0,46833,58373,Operational Delivery
+Sep-15,,DFE-1022,,,GRADE 7,Business Manager,Finance & Commercial Group,0,46833,58373,Business Unit Support
+Sep-15,,DFE-1161,,,EO,Executive Assistant,Education Funding Agency,0,22681,33209,Operational Delivery
+Sep-15,,DFE-1154,,,GRADE 7,Operational Manager,Education Funding Agency,0,46833,58373,Operational Delivery
+Sep-15,,DFE-1221,,,GRADE 7,Business Manager,Education Funding Group,0,46833,58373,Operational Delivery
+Sep-15,,DFE-1257,,,HEO,Operations Support Officer,Education Funding Agency,0,27674,42065,Operational Delivery
+Sep-15,,DFE-1002,,,GRADE 6,Business Manager,Children Services and Departmental Strategy,0,57309,70578,Policy
+Sep-15,,DFE-1250,,,GRADE 7,Business Manager,Academies Group,0,46833,58373,Policy
+Sep-15,,DFE-1279,,,HEO,HR Support Officer,HR and Change Group,0,27674,42065,Human Resources
+Sep-15,,DFE-1053,,,GRADE 6,Operational Manager,Education Funding Agency,0,57309,70578,Operational Delivery
+Sep-15,,DFE-1075,,,EO,Executive Assistant,HR and Change Group,0,22681,33209,Policy
+Sep-15,,DFE-1247,,,GRADE 7,Programme Manager,Education Funding Group,0,46833,58373,Programme and Project Management (PPM)
+Sep-15,,DFE-1183,,,HEO,Policy Support Officer,Education Funding Group,0,27674,42065,Policy
+Sep-15,,DFE-1191,,,GRADE 7,Operational Manager,Strategy Performance and Private Office Group,0,46833,58373,Strategy
+Sep-15,,DFE-1247,,,EO,Executive Assistant,Education Funding Group,0,22681,33209,Programme and Project Management (PPM)
+Sep-15,,DFE-1127,,,HEO,Operations Support Officer,Finance & Commercial Group,0,27674,42065,Finance
+Sep-15,,DFE-1262,,,SEO,Operational Manager,Education Funding Agency,0,34282,48182,Operational Delivery
+Sep-15,,DFE-1269,,,GRADE 6,Business Manager,Academies Group,0,57309,70578,Policy
+Sep-15,,DFE-1191,,,GRADE 6,Operational Manager,Strategy Performance and Private Office Group,0,57309,70578,Strategy
+Sep-15,,DFE-1065,,,GRADE 7,Operational Manager,Education Funding Agency,0,46833,58373,Operational Delivery
+Sep-15,,DFE-1214,,,HEO,Policy Support Officer,Post 16 and Disadvantage,0,27674,42065,Policy
+Sep-15,,DFE-1142,,,EO,Executive Assistant,Education Funding Agency,0,22681,33209,Operational Delivery
+Sep-15,,DFE-1139,,,SEO,Operational Manager,Education Funding Agency,0,34282,48182,Operational Delivery
+Sep-15,,DFE-1053,,,EO,Executive Assistant,Education Funding Agency,0,22681,33209,Operational Delivery
+Sep-15,,DFE-1031,,,GRADE 6,Business Manager,Education Funding Agency,0,57309,70578,Finance
+Sep-15,,DFE-1171,,,HEO,Policy Support Officer,Teachers and Teaching Group,0,27674,42065,Policy
+Sep-15,,DFE-1221,,,HEO,Policy Support Officer,Education Funding Group,0,27674,42065,Policy
+Sep-15,,DFE-1278,,,SEO,Policy Adviser,"Childcare, Special Needs and Children’s Services Strategy",0,34282,48182,Policy
+Sep-15,,DFE-1250,,,HEO,Policy Support Officer,Academies Group,0,27674,42065,Policy
+Sep-15,,DFE-1214,,,SEO,Policy Adviser,Post 16 and Disadvantage,0,34282,48182,Policy
+Sep-15,,DFE-1262,,,GRADE 7,Operational Manager,Education Funding Agency,0,46833,58373,Operational Delivery
+Sep-15,,DFE-1152,,,HEO,Policy Support Officer,System Reform Group,0,27674,42065,Policy
+Sep-15,,DFE-1139,,,GRADE 6,Operational Manager,Education Funding Agency,0,57309,70578,Operational Delivery
+Sep-15,,DFE-1065,,,SEO,Operational Manager,Education Funding Agency,0,34282,48182,Operational Delivery
+Sep-15,,DFE-1276,,,SEO,Operational Manager,Finance & Commercial Group,0,34282,48182,Estates and Facilities Management
+Sep-15,,DFE-1097,,,HEO,Policy Support Officer,Post 16 and Disadvantage,0,27674,42065,Policy
+Sep-15,,DFE-1097,,,GRADE 7,Business Manager,Post 16 and Disadvantage,0,46833,58373,Policy
+Sep-15,,DFE-1075,,,HEO,HR Support Officer,HR and Change Group,0,27674,42065,Policy
+Sep-15,,DFE-1178,,,EO,Executive Assistant,Finance & Commercial Group,0,22681,33209,Finance
+Sep-15,,DFE-1172,,,GRADE 6,Business Manager,"Assessment, Curriculum and General Qualifications",0,57309,70578,Policy
+Sep-15,,DFE-1081,,,GRADE 7,Operational Manager,Education Funding Agency,0,46833,58373,Operational Delivery
+Sep-15,,DFE-1129,,,SEO,Policy Adviser,Free Schools Group,0,34282,48182,Policy
+Sep-15,,DFE-1002,,,HEO,Communications Support Officer,Children Services and Departmental Strategy,0,27674,42065,Communications and Marketing
+Sep-15,,DFE-1109,,,GRADE 7,Business Manager,National College for School Leadership,0,46833,58373,Policy
+Sep-15,,DFE-1001,,,SEO,Legal Adviser,Permanent Secretary’s Office,0,34282,48182,Legal Advisors
+Sep-15,,DFE-1227,,,SEO,Policy Adviser,National College for School Leadership,0,34282,48182,Policy
+Sep-15,,DFE-1152,,,GRADE 7,Business Manager,System Reform Group,0,46833,58373,Policy
+Sep-15,,DFE-1029,,,SEO,Operational Manager,Education Funding Agency,0,34282,48182,Operational Delivery
+Sep-15,,DFE-1085,,,SEO,Policy Adviser,Strategy Performance and Private Office Group,0,34282,48182,Policy
+Sep-15,,DFE-1214,,,EO,Executive Assistant,Post 16 and Disadvantage,0,22681,33209,Policy
+Sep-15,,DFE-1216,,,EO,Executive Assistant,Education Funding Agency,0,22681,33209,Operational Delivery
+Sep-15,,DFE-1099,,,HEO,Operations Support Officer,Education Funding Agency,0,27674,42065,Operational Delivery
+Sep-15,,DFE-1208,,,EO,Executive Assistant,Systems and Accountability,0,22681,33209,Policy
+Sep-15,,DFE-1035,,,GRADE 6,Business Manager,"Assessment, Curriculum and General Qualifications",0,57309,70578,Policy
+Sep-15,,DFE-1148,,,SEO,Operational Manager,Education Funding Agency,0,34282,48182,Operational Delivery
+Sep-15,,DFE-1173,,,GRADE 6,Business Manager,"Childcare, Special Needs and Children’s Services Strategy",0,57309,70578,Policy
+Sep-15,,DFE-1020,,,GRADE 7,Operational Manager,Education Funding Agency,0,46833,58373,Operational Delivery
+Sep-15,,DFE-1172,,,HEO,Operations Support Officer,"Assessment, Curriculum and General Qualifications",0,27674,42065,Operational Delivery
+Sep-15,,DFE-1172,,,SEO,Policy Adviser,"Assessment, Curriculum and General Qualifications",0,34282,48182,Policy
+Sep-15,,DFE-1102,,,GRADE 7,Business Manager,Teachers and Teaching Group,0,46833,58373,Policy
+Sep-15,,DFE-1085,,,HEO,Communications Support Officer,Strategy Performance and Private Office Group,0,27674,42065,Communications and Marketing
+Sep-15,,DFE-1002,,,SEO,Policy Adviser,Children Services and Departmental Strategy,0,34282,48182,Policy
+Sep-15,,DFE-1150,,,GRADE 6,Business Manager,Strategic Analysis Research and Policy Impact Group,0,57309,70578,Policy
+Sep-15,,DFE-1057,,,SEO,Policy Adviser,Academies Group,0,34282,48182,Policy
+Sep-15,,DFE-1129,,,GRADE 7,Business Manager,Free Schools Group,0,46833,58373,Policy
+Sep-15,,DFE-1269,,,GRADE 7,Business Manager,Academies Group,0,46833,58373,Policy
+Sep-15,,DFE-1266,,,EO,Executive Assistant,Finance & Commercial Group,0,22681,33209,Finance
+Sep-15,,DFE-1085,,,SEO,Communications Manager,Strategy Performance and Private Office Group,0,34282,48182,Communications and Marketing
+Sep-15,,DFE-1248,,,EO,Executive Assistant,System Reform Group,0,22681,33209,Policy
+Sep-15,,DFE-1102,,,SEO,Policy Adviser,Teachers and Teaching Group,0,34282,48182,Policy
+Sep-15,,DFE-1020,,,GRADE 6,Business Manager,Education Funding Agency,0,57309,70578,Finance
+Sep-15,,DFE-1057,,,GRADE 6,Business Manager,Academies Group,0,57309,70578,Policy
+Sep-15,,DFE-1152,,,EO,Executive Assistant,System Reform Group,0,22681,33209,Policy
+Sep-15,,DFE-1250,,,EO,Executive Assistant,Academies Group,0,22681,33209,Policy
+Sep-15,,DFE-1256,,,GRADE 7,Operational Manager,Education Funding Agency,0,46833,58373,Operational Delivery
+Sep-15,,DFE-1219,,,GRADE 6,Operational Manager,Education Funding Agency,0,57309,70578,Operational Delivery
+Sep-15,,DFE-1283,,,SEO,Policy Adviser,Post 16 and Disadvantage,0,34282,48182,Policy
+Sep-15,,DFE-1142,,,SEO,Operational Manager,Education Funding Agency,0,34282,48182,Operational Delivery
+Sep-15,,DFE-1161,,,GRADE 7,Operational Manager,Education Funding Agency,0,46833,58373,Operational Delivery
+Sep-15,,DFE-1280,,,SEO,IT Manager,IT Group,0,34282,48182,Information Technology
+Sep-15,,DFE-1025,,,EO,Executive Assistant,National College for School Leadership,0,22681,33209,Policy
+Sep-15,,DFE-1139,,,GRADE 7,Operational Manager,Education Funding Agency,0,46833,58373,Operational Delivery
+Sep-15,,DFE-1002,,,GRADE 7,Communications Manager,Children Services and Departmental Strategy,0,46833,58373,Communications and Marketing
+Sep-15,,DFE-1248,,,SEO,Policy Adviser,System Reform Group,0,34282,48182,Policy
+Sep-15,,DFE-1153,,,EA AO,Executive Assistant,HR and Change Group,0,18474,23084,Human Resources
+Sep-15,,DFE-1258,,,GRADE 6,IT Manager,IT Group,0,57309,70578,Information Technology
+Sep-15,,DFE-1170,,,EO,Executive Assistant,System Reform Group,0,22681,33209,Policy
+Sep-15,,DFE-1106,,,GRADE 7,Business Manager,Education Funding Agency,0,46833,58373,Business Unit Support
+Sep-15,,DFE-1033,,,HEO,Policy Support Officer,Academies Group,0,27674,42065,Policy
+Sep-15,,DFE-1153,,,SEO,HR Officer,HR and Change Group,0,34282,48182,Human Resources
+Sep-15,,DFE-1108,,,GRADE 7,Operational Manager,Education Funding Agency,0,46833,58373,Operational Delivery
+Sep-15,,DFE-1203,,,HEO,Policy Support Officer,Due Diligence and Counter Extremism Group,0,27674,42065,Policy
+Sep-15,,DFE-1111,,,GRADE 7,Business Manager,Systems and Accountability,0,46833,58373,Policy
+Sep-15,,DFE-1266,,,EO,Executive Assistant,Finance & Commercial Group,0,22681,33209,Business Unit Support
+Sep-15,,DFE-1280,,,HEO,Operations Support Officer,IT Group,0,27674,42065,Business Unit Support
+Sep-15,,DFE-1270,,,SEO,Policy Adviser,"Assessment, Curriculum and General Qualifications",0,34282,48182,Policy
+Sep-15,,DFE-1083,,,HEO,Policy Support Officer,National College for School Leadership,0,27674,42065,Policy
+Sep-15,,DFE-1122,,,GRADE 7,Business Manager,Free Schools Group,0,46833,58373,Policy
+Sep-15,,DFE-1061,,,GRADE 7,Operational Manager,Education Funding Agency,0,46833,58373,Operational Delivery
+Sep-15,,DFE-1269,,,SEO,Policy Adviser,Academies Group,0,34282,48182,Policy
+Sep-15,,DFE-1266,,,GRADE 7,Business Manager,Finance & Commercial Group,0,46833,58373,Finance
+Sep-15,,DFE-1269,,,HEO,Policy Support Officer,Academies Group,0,27674,42065,Policy
+Sep-15,,DFE-1247,,,SEO,Operational Manager,Education Funding Group,0,34282,48182,Operational Delivery
+Sep-15,,DFE-1208,,,HEO,Policy Support Officer,Systems and Accountability,0,27674,42065,Policy
+Sep-15,,DFE-1216,,,GRADE 6,Operational Manager,Education Funding Agency,0,57309,70578,Operational Delivery
+Sep-15,,DFE-1020,,,EO,Executive Assistant,Education Funding Agency,0,22681,33209,Information Technology
+Sep-15,,DFE-1210,,,EA AO,Executive Assistant,National College for School Leadership,0,18474,23084,Policy
+Sep-15,,DFE-1170,,,GRADE 6,Business Manager,System Reform Group,0,57309,70578,Policy
+Sep-15,,DFE-1085,,,EA AO,Executive Assistant,Strategy Performance and Private Office Group,0,18474,23084,Communications and Marketing
+Sep-15,,DFE-1262,,,EO,Executive Assistant,Education Funding Agency,0,22681,33209,Finance
+Sep-15,,DFE-1248,,,HEO,Policy Support Officer,System Reform Group,0,27674,42065,Policy
+Sep-15,,DFE-1283,,,EO,Executive Assistant,Post 16 and Disadvantage,0,22681,33209,Policy
+Sep-15,,DFE-1220,,,GRADE 6,Business Manager,Systems and Accountability,0,57309,70578,Policy
+Sep-15,,DFE-1249,,,GRADE 7,Business Manager,Strategy Performance and Private Office Group,0,46833,58373,Business Unit Support
+Sep-15,,DFE-1173,,,SEO,Policy Adviser,"Childcare, Special Needs and Children’s Services Strategy",0,34282,48182,Policy
+Sep-15,,DFE-1020,,,HEO,Operations Support Officer,Education Funding Agency,0,27674,42065,Operational Delivery
+Sep-15,,DFE-1278,,,GRADE 7,Business Manager,"Childcare, Special Needs and Children’s Services Strategy",0,46833,58373,Policy
+Sep-15,,DFE-1237,,,EO,Executive Assistant,Finance & Commercial Group,0,22681,33209,Procurement
+Sep-15,,DFE-1146,,,GRADE 6,Business Manager,Free Schools Group,0,57309,70578,Policy
+Sep-15,,DFE-1247,,,SEO,Programme Manager,Education Funding Group,0,34282,48182,Programme and Project Management (PPM)
+Sep-15,,DFE-1205,,,GRADE 7,Business Manager,"Childcare, Special Needs and Children’s Services Strategy",0,46833,58373,Policy
+Sep-15,,DFE-1119,,,GRADE 7,Business Manager,"Childcare, Special Needs and Children’s Services Strategy",0,46833,58373,Policy
+Sep-15,,DFE-1106,,,EO,Executive Assistant,Education Funding Agency,0,22681,33209,Operational Delivery
+Sep-15,,DFE-1247,,,HEO,Operations Support Officer,Education Funding Group,0,27674,42065,Programme and Project Management (PPM)
+Sep-15,,DFE-1201,,,GRADE 7,Business Manager,"Childcare, Special Needs and Children’s Services Strategy",0,46833,58373,Policy
+Sep-15,,DFE-1170,,,SEO,Policy Adviser,System Reform Group,0,34282,48182,Policy
+Sep-15,,DFE-1064,,,HEO,Operations Support Officer,Education Funding Agency,0,27674,42065,Operational Delivery
+Sep-15,,DFE-1092,,,GRADE 7,Operational Manager,Strategy Performance and Private Office Group,0,46833,58373,Strategy
+Sep-15,,DFE-1019,,,EO,Executive Assistant,"Childcare, Special Needs and Children’s Services Strategy",0,22681,33209,Policy
+Sep-15,,DFE-1275,,,HEO,Policy Support Officer,"Childcare, Special Needs and Children’s Services Strategy",0,27674,42065,Business Unit Support
+Sep-15,,DFE-1035,,,HEO,Policy Support Officer,"Assessment, Curriculum and General Qualifications",0,27674,42065,Policy
+Sep-15,,DFE-1032,,,SEO,Policy Adviser,Standards and Testing Agency,0,34282,48182,Policy
+Sep-15,,DFE-1256,,,GRADE 6,Operational Manager,Education Funding Agency,0,57309,70578,Operational Delivery
+Sep-15,,DFE-1022,,,EO,Executive Assistant,Finance & Commercial Group,0,22681,33209,Finance
+Sep-15,,DFE-1029,,,SEO,IT Manager,Education Funding Agency,0,34282,48182,Information Technology
+Sep-15,,DFE-1187,,,GRADE 7,Business Manager,Free Schools Group,0,46833,58373,Policy
+Sep-15,,DFE-1171,,,GRADE 7,Operational Manager,Teachers and Teaching Group,0,46833,58373,Operational Delivery
+Sep-15,,DFE-1001,,,EO,Executive Assistant,Permanent Secretary’s Office,0,22681,33209,Legal Advisors
+Sep-15,,DFE-1257,,,EO,Executive Assistant,Education Funding Agency,0,22681,33209,Operational Delivery
+Sep-15,,DFE-1065,,,GRADE 6,Operational Manager,Education Funding Agency,0,57309,70578,Operational Delivery
+Sep-15,,DFE-1152,,,EA AO,Executive Assistant,System Reform Group,0,18474,23084,Policy
+Sep-15,,DFE-1152,,,SEO,Policy Adviser,System Reform Group,0,34282,48182,Policy
+Sep-15,,DFE-1065,,,EO,Executive Assistant,Education Funding Agency,0,22681,33209,Operational Delivery
+Sep-15,,DFE-1269,,,EO,Executive Assistant,Academies Group,0,22681,33209,Policy
+Sep-15,,DFE-1032,,,EO,Executive Assistant,Standards and Testing Agency,0,22681,33209,Operational Delivery
+Sep-15,,DFE-1192,,,GRADE 6,Operational Manager,Education Funding Agency,0,57309,70578,Operational Delivery
+Sep-15,,DFE-1005,,,EO,Executive Assistant,"Assessment, Curriculum and General Qualifications",0,22681,33209,Business Unit Support
+Sep-15,,DFE-1257,,,GRADE 7,Operational Manager,Education Funding Agency,0,46833,58373,Operational Delivery
+Sep-15,,DFE-1092,,,HEO,Operations Support Officer,Strategy Performance and Private Office Group,0,27674,42065,Strategy
+Sep-15,,DFE-1237,,,GRADE 7,Business Manager,Finance & Commercial Group,0,46833,58373,Strategy
+Sep-15,,DFE-1142,,,GRADE 6,Operational Manager,Education Funding Agency,0,57309,70578,Operational Delivery
+Sep-15,,DFE-1002,,,EO,Executive Assistant,Children Services and Departmental Strategy,0,22681,33209,Policy
+Sep-15,,DFE-1109,,,SEO,Policy Adviser,National College for School Leadership,0,34282,48182,Policy
+Sep-15,,DFE-1109,,,HEO,Policy Support Officer,National College for School Leadership,0,27674,42065,Policy
+Sep-15,,DFE-1203,,,GRADE 6,Business Manager,Due Diligence and Counter Extremism Group,0,57309,70578,Policy
+Sep-15,,DFE-1225,,,GRADE 6,Business Manager,Education Funding Agency,0,57309,70578,Finance
+Sep-15,,DFE-1019,,,SEO,Policy Adviser,"Childcare, Special Needs and Children’s Services Strategy",0,34282,48182,Policy
+Sep-15,,DFE-1022,,,SEO,Finance Officer,Finance & Commercial Group,0,34282,48182,Business Unit Support
+Sep-15,,DFE-1172,,,GRADE 7,Business Manager,"Assessment, Curriculum and General Qualifications",0,46833,58373,Policy
+Sep-15,,DFE-1035,,,GRADE 7,Business Manager,"Assessment, Curriculum and General Qualifications",0,46833,58373,Policy
+Sep-15,,DFE-1025,,,EA AO,Executive Assistant,National College for School Leadership,0,18474,23084,Policy
+Sep-15,,DFE-1187,,,GRADE 6,Business Manager,Free Schools Group,0,57309,70578,Policy
+Sep-15,,DFE-1245,,,GRADE 6,Operational Manager,Regional Schools Commissioners Group,0,57309,70578,Operational Delivery
+Sep-15,,DFE-1171,,,SEO,Operational Manager,Teachers and Teaching Group,0,34282,48182,Operational Delivery
+Sep-15,,DFE-1249,,,HEO,Policy Support Officer,Strategy Performance and Private Office Group,0,27674,42065,Policy
+Sep-15,,DFE-1248,,,GRADE 7,Business Manager,System Reform Group,0,46833,58373,Policy
+Sep-15,,DFE-1019,,,GRADE 7,Business Manager,"Childcare, Special Needs and Children’s Services Strategy",0,46833,58373,Policy
+Sep-15,,DFE-1248,,,GRADE 6,Business Manager,System Reform Group,0,57309,70578,Policy
+Sep-15,,DFE-1154,,,GRADE 6,Operational Manager,Education Funding Agency,0,57309,70578,Operational Delivery
+Sep-15,,DFE-1020,,,SEO,IT Manager,Education Funding Agency,0,34282,48182,Information Technology
+Sep-15,,DFE-1227,,,GRADE 6,Business Manager,National College for School Leadership,0,57309,70578,Policy
+Sep-15,,DFE-1279,,,GRADE 7,Business Manager,HR and Change Group,0,46833,58373,Human Resources
+Sep-15,,DFE-1109,,,EA AO,Executive Assistant,National College for School Leadership,0,18474,23084,Policy
+Sep-15,,DFE-1214,,,GRADE 6,Business Manager,Post 16 and Disadvantage,0,57309,70578,Policy
+Sep-15,,DFE-1260,,,HEO,Policy Support Officer,"Childcare, Special Needs and Children’s Services Strategy",0,27674,42065,Policy
+Sep-15,,DFE-1219,,,GRADE 7,Business Manager,Education Funding Agency,0,46833,58373,Business Unit Support
+Sep-15,,DFE-1227,,,GRADE 7,Business Manager,National College for School Leadership,0,46833,58373,Policy
+Sep-15,,DFE-1102,,,EA AO,Executive Assistant,Teachers and Teaching Group,0,18474,23084,Business Unit Support
+Sep-15,,DFE-1075,,,SEO,Policy Adviser,HR and Change Group,0,34282,48182,Policy
+Sep-15,,DFE-1283,,,HEO,Policy Support Officer,Post 16 and Disadvantage,0,27674,42065,Policy
+Sep-15,,DFE-1064,,,GRADE 7,Operational Manager,Education Funding Agency,0,46833,58373,Operational Delivery
+Sep-15,,DFE-1016,,,GRADE 6,Business Manager,"Childcare, Special Needs and Children’s Services Strategy",0,57309,70578,Policy
+Sep-15,,DFE-1033,,,EO,Executive Assistant,Academies Group,0,22681,33209,Operational Delivery
+Sep-15,,DFE-1281,,,SEO,Operational Manager,Education Funding Agency,0,34282,48182,Operational Delivery
+Sep-15,,DFE-1146,,,HEO,Policy Support Officer,Free Schools Group,0,27674,42065,Policy
+Sep-15,,DFE-1022,,,HEO,Operations Support Officer,Finance & Commercial Group,0,27674,42065,Policy
+Sep-15,,DFE-1170,,,HEO,Policy Support Officer,System Reform Group,0,27674,42065,Policy
+Sep-15,,DFE-1275,,,HEO,Policy Support Officer,"Childcare, Special Needs and Children’s Services Strategy",0,27674,42065,Policy
+Sep-15,,DFE-1220,,,SEO,Policy Adviser,Systems and Accountability,0,34282,48182,Policy
+Sep-15,,DFE-1259,,,GRADE 6,Business Manager,Due Diligence and Counter Extremism Group,0,57309,70578,Policy
+Sep-15,,DFE-1283,,,GRADE 7,Business Manager,Post 16 and Disadvantage,0,46833,58373,Policy
+Sep-15,,DFE-1265,,,HEO,Policy Support Officer,"Childcare, Special Needs and Children’s Services Strategy",0,27674,42065,Policy
+Sep-15,,DFE-1210,,,SEO,Policy Adviser,National College for School Leadership,0,34282,48182,Policy
+Sep-15,,DFE-1150,,,SEO,Policy Adviser,Strategic Analysis Research and Policy Impact Group,0,34282,48182,Policy
+Sep-15,,DFE-1016,,,HEO,Policy Support Officer,"Childcare, Special Needs and Children’s Services Strategy",0,27674,42065,Policy
+Sep-15,,DFE-1183,,,GRADE 7,Business Manager,Education Funding Group,0,46833,58373,Policy
+Sep-15,,DFE-1148,,,GRADE 6,Operational Manager,Education Funding Agency,0,57309,70578,Operational Delivery
+Sep-15,,DFE-1280,,,EO,Executive Assistant,IT Group,0,22681,33209,Information Technology
+Sep-15,,DFE-1029,,,GRADE 7,IT Manager,Education Funding Agency,0,46833,58373,Information Technology
+Sep-15,,DFE-1161,,,GRADE 6,Business Manager,Education Funding Agency,0,57309,70578,Finance
+Sep-15,,DFE-1216,,,GRADE 7,Operational Manager,Education Funding Agency,0,46833,58373,Operational Delivery
+Sep-15,,DFE-1276,,,GRADE 7,Business Manager,Finance & Commercial Group,0,46833,58373,Estates and Facilities Management
+Sep-15,,DFE-1060,,,EO,Executive Assistant,Standards and Testing Agency,0,22681,33209,Operational Delivery
+Sep-15,,DFE-1172,,,HEO,Policy Support Officer,"Assessment, Curriculum and General Qualifications",0,27674,42065,Policy
+Sep-15,,DFE-1205,,,HEO,Policy Support Officer,"Childcare, Special Needs and Children’s Services Strategy",0,27674,42065,Policy
+Sep-15,,DFE-1201,,,SEO,Policy Adviser,"Childcare, Special Needs and Children’s Services Strategy",0,34282,48182,Policy
+Sep-15,,DFE-1003,,,EO,Executive Assistant,Education Standards Directorate,0,22681,33209,Business Unit Support
+Sep-15,,DFE-1137,,,EO,Executive Assistant,Education Funding Agency,0,22681,33209,Operational Delivery
+Sep-15,,DFE-1001,,,HEO,Legal Support Officer,Permanent Secretary’s Office,0,27674,42065,Legal Advisors
+Sep-15,,DFE-1171,,,EO,Executive Assistant,Teachers and Teaching Group,0,22681,33209,Business Unit Support
+Sep-15,,DFE-1279,,,EO,Executive Assistant,HR and Change Group,0,22681,33209,Human Resources
+Sep-15,,DFE-1171,,,SEO,Policy Adviser,Teachers and Teaching Group,0,34282,48182,Policy
+Sep-15,,DFE-1102,,,EO,Executive Assistant,Teachers and Teaching Group,0,22681,33209,Business Unit Support
+Sep-15,,DFE-1267,,,GRADE 6,Business Manager,Post 16 and Disadvantage,0,57309,70578,Policy
+Sep-15,,DFE-1019,,,HEO,Policy Support Officer,"Childcare, Special Needs and Children’s Services Strategy",0,27674,42065,Policy
+Sep-15,,DFE-1192,,,SEO,Operational Manager,Education Funding Agency,0,34282,48182,Operational Delivery
+Sep-15,,DFE-1062,,,GRADE 7,Business Manager,Education Funding Agency,0,46833,58373,Finance
+Sep-15,,DFE-1267,,,HEO,Policy Support Officer,Post 16 and Disadvantage,0,27674,42065,Policy
+Sep-15,,DFE-1072,,,GRADE 6,Operational Manager,Education Funding Agency,0,57309,70578,Operational Delivery
+Sep-15,,DFE-1020,,,GRADE 6,Operational Manager,Education Funding Agency,0,57309,70578,Operational Delivery
+Sep-15,,DFE-1081,,,GRADE 6,Office Manager,Education Funding Agency,0,57309,70578,Business Unit Support
+Sep-15,,DFE-1276,,,EO,Executive Assistant,Finance & Commercial Group,0,22681,33209,Estates and Facilities Management
+Sep-15,,DFE-1075,,,GRADE 7,Business Manager,HR and Change Group,0,46833,58373,Policy
+Sep-15,,DFE-1033,,,EA AO,Executive Assistant,Academies Group,0,18474,23084,Policy
+Sep-15,,DFE-1281,,,HEO,Operations Support Officer,Education Funding Agency,0,27674,42065,Operational Delivery
+Sep-15,,DFE-1028,,,HEO,Policy Support Officer,National College for School Leadership,0,27674,42065,Policy
+Sep-15,,DFE-1081,,,GRADE 6,Operational Manager,Education Funding Agency,0,57309,70578,Operational Delivery
+Sep-15,,DFE-1136,,,SEO,Policy Adviser,Education Funding Agency,0,34282,48182,Business Unit Support
+Sep-15,,DFE-1025,,,HEO,Policy Support Officer,National College for School Leadership,0,27674,42065,Policy
+Sep-15,,DFE-1139,,,EA AO,Executive Assistant,Education Funding Agency,0,18474,23084,Operational Delivery
+Sep-15,,DFE-1227,,,EO,Executive Assistant,National College for School Leadership,0,22681,33209,Policy
+Sep-15,,DFE-1028,,,GRADE 7,Business Manager,National College for School Leadership,0,46833,58373,Policy
+Sep-15,,DFE-1022,,,HEO,Operations Support Officer,Finance & Commercial Group,0,27674,42065,Finance
+Sep-15,,DFE-1127,,,GRADE 6,Business Manager,Finance & Commercial Group,0,57309,70578,Estates and Facilities Management
+Sep-15,,DFE-1156,,,GRADE 6,Operational Manager,Education Funding Agency,0,57309,70578,Operational Delivery
+Sep-15,,DFE-1016,,,EO,Executive Assistant,"Childcare, Special Needs and Children’s Services Strategy",0,22681,33209,Policy
+Sep-15,,DFE-1260,,,GRADE 7,Business Manager,"Childcare, Special Needs and Children’s Services Strategy",0,46833,58373,Policy
+Sep-15,,DFE-1053,,,SEO,Operational Manager,Education Funding Agency,0,34282,48182,Operational Delivery
+Sep-15,,DFE-1142,,,HEO,Operations Support Officer,Education Funding Agency,0,27674,42065,Operational Delivery
+Sep-15,,DFE-1011,,,GRADE 7,Business Manager,HR and Change Group,0,46833,58373,Human Resources
+Sep-15,,DFE-1133,,,EO,Executive Assistant,Education Funding Agency,0,22681,33209,Operational Delivery
+Sep-15,,DFE-1031,,,EO,Executive Assistant,Education Funding Agency,0,22681,33209,Business Unit Support
+Sep-15,,DFE-1072,,,GRADE 7,Operational Manager,Education Funding Agency,0,46833,58373,Operational Delivery
+Sep-15,,DFE-1040,,,EO,Executive Assistant,Teachers and Teaching Group,0,22681,33209,Business Unit Support
+Sep-15,,DFE-1127,,,GRADE 7,Business Manager,Finance & Commercial Group,0,46833,58373,Finance
+Sep-15,,DFE-1249,,,EO,Executive Assistant,Strategy Performance and Private Office Group,0,22681,33209,Business Unit Support
+Sep-15,,DFE-1216,,,EA AO,Executive Assistant,Education Funding Agency,0,18474,23084,Operational Delivery
+Sep-15,,DFE-1072,,,GRADE 7,Business Manager,Education Funding Agency,0,46833,58373,Finance
+Sep-15,,DFE-1183,,,EO,Executive Assistant,Education Funding Group,0,22681,33209,Policy
+Sep-15,,DFE-1026,,,HEO,Policy Support Officer,National College for School Leadership,0,27674,42065,Policy
+Sep-15,,DFE-1173,,,HEO,Policy Support Officer,"Childcare, Special Needs and Children’s Services Strategy",0,27674,42065,Policy
+Sep-15,,DFE-1262,,,GRADE 6,Business Manager,Education Funding Agency,0,57309,70578,Policy
+Sep-15,,DFE-1005,,,EO,Executive Assistant,"Assessment, Curriculum and General Qualifications",0,22681,33209,Policy
+Sep-15,,DFE-1249,,,HEO,Operations Support Officer,Strategy Performance and Private Office Group,0,27674,42065,Strategy
+Sep-15,,DFE-1035,,,SEO,Policy Adviser,"Assessment, Curriculum and General Qualifications",0,34282,48182,Policy
+Sep-15,,DFE-1028,,,GRADE 6,Business Manager,National College for School Leadership,0,57309,70578,Policy
+Sep-15,,DFE-1020,,,HEO,Operations Support Officer,Education Funding Agency,0,27674,42065,Information Technology
+Sep-15,,DFE-1081,,,EO,Executive Assistant,Education Funding Agency,0,22681,33209,Operational Delivery
+Sep-15,,DFE-1011,,,SEO,HR Officer,HR and Change Group,0,34282,48182,Human Resources
+Sep-15,,DFE-1237,,,GRADE 6,Business Manager,Finance & Commercial Group,0,57309,70578,Procurement
+Sep-15,,DFE-1064,,,SEO,Operational Manager,Education Funding Agency,0,34282,48182,Operational Delivery
+Sep-15,,DFE-1108,,,HEO,Operations Support Officer,Education Funding Agency,0,27674,42065,Operational Delivery
+Sep-15,,DFE-1187,,,HEO,Policy Support Officer,Free Schools Group,0,27674,42065,Policy
+Sep-15,,DFE-1060,,,GRADE 6,Operational Manager,Standards and Testing Agency,0,57309,70578,Operational Delivery
+Sep-15,,DFE-1243,,,HEO,Finance Officer,Strategic Analysis Research and Policy Impact Group,0,27674,42065,Economics
+Sep-15,,DFE-1153,,,EO,Executive Assistant,HR and Change Group,0,22681,33209,Human Resources
+Sep-15,,DFE-1154,,,GRADE 7,Business Manager,Education Funding Agency,0,46833,58373,Business Unit Support
+Sep-15,,DFE-1281,,,GRADE 6,Operational Manager,Education Funding Agency,0,57309,70578,Operational Delivery
+Sep-15,,DFE-1260,,,SEO,Policy Adviser,"Childcare, Special Needs and Children’s Services Strategy",0,34282,48182,Policy
+Sep-15,,DFE-1032,,,GRADE 7,Operational Manager,Standards and Testing Agency,0,46833,58373,Operational Delivery
+Sep-15,,DFE-1002,,,GRADE 7,Business Manager,Children Services and Departmental Strategy,0,46833,58373,Policy
+Sep-15,,DFE-1237,,,HEO,Procurement Support Officer,Finance & Commercial Group,0,27674,42065,Procurement
+Sep-15,,DFE-1205,,,EO,Executive Assistant,"Childcare, Special Needs and Children’s Services Strategy",0,22681,33209,Policy
+Sep-15,,DFE-1129,,,EO,Executive Assistant,Free Schools Group,0,22681,33209,Policy
+Sep-15,,DFE-1003,,,GRADE 7,Business Manager,Education Standards Directorate,0,46833,58373,Business Unit Support
+Sep-15,,DFE-1111,,,GRADE 6,Business Manager,Systems and Accountability,0,57309,70578,Policy
+Sep-15,,DFE-1148,,,GRADE 7,Operational Manager,Education Funding Agency,0,46833,58373,Operational Delivery
+Sep-15,,DFE-1214,,,EA AO,Executive Assistant,Post 16 and Disadvantage,0,18474,23084,Policy
+Sep-15,,DFE-1156,,,GRADE 7,Business Manager,Education Funding Agency,0,46833,58373,Policy
+Sep-15,,DFE-1153,,,GRADE 7,Business Manager,HR and Change Group,0,46833,58373,Human Resources
+Sep-15,,DFE-1192,,,GRADE 6,Office Manager,Education Funding Agency,0,57309,70578,Business Unit Support
+Sep-15,,DFE-1029,,,GRADE 7,Operational Manager,Education Funding Agency,0,46833,58373,Operational Delivery
+Sep-15,,DFE-1242,,,SEO,Operational Manager,Regional Schools Commissioners Group,0,34282,48182,Operational Delivery
+Sep-15,,DFE-1262,,,GRADE 6,Business Manager,Education Funding Agency,0,57309,70578,Finance
+Sep-15,,DFE-1192,,,HEO,Policy Adviser,Education Funding Agency,0,27674,42065,Business Unit Support
+Sep-15,,DFE-1020,,,GRADE 7,IT Manager,Education Funding Agency,0,46833,58373,Information Technology
+Sep-15,,DFE-1072,,,EO,Executive Assistant,Education Funding Agency,0,22681,33209,Operational Delivery
+Sep-15,,DFE-1183,,,SEO,Policy Adviser,Education Funding Group,0,34282,48182,Policy
+Sep-15,,DFE-1183,,,GRADE 6,Business Manager,Education Funding Group,0,57309,70578,Policy
+Sep-15,,DFE-1219,,,SEO,Policy Adviser,Education Funding Agency,0,34282,48182,Business Unit Support
+Sep-15,,DFE-1006,,,EO,Executive Assistant,"Childcare, Special Needs and Children’s Services Strategy",0,22681,33209,Policy
+Sep-15,,DFE-1216,,,SEO,Operational Manager,Education Funding Agency,0,34282,48182,Operational Delivery
+Sep-15,,DFE-1210,,,GRADE 7,Business Manager,National College for School Leadership,0,46833,58373,Policy
+Sep-15,,DFE-1075,,,GRADE 6,Business Manager,HR and Change Group,0,57309,70578,Policy
+Sep-15,,DFE-1042,,,GRADE 6,Operational Manager,Education Funding Agency,0,57309,70578,Operational Delivery
+Sep-15,,DFE-1031,,,GRADE 6,Operational Manager,Education Funding Agency,0,57309,70578,Operational Delivery
+Sep-15,,DFE-1099,,,EA AO,Executive Assistant,Education Funding Agency,0,18474,23084,Operational Delivery
+Sep-15,,DFE-1266,,,SEO,Finance Officer,Finance & Commercial Group,0,34282,48182,Finance
+Sep-15,,DFE-1242,,,GRADE 7,Operational Manager,Regional Schools Commissioners Group,0,46833,58373,Operational Delivery
+Sep-15,,DFE-1249,,,HEO,Policy Adviser,Strategy Performance and Private Office Group,0,27674,42065,Business Unit Support
+Sep-15,,DFE-1106,,,GRADE 7,Operational Manager,Education Funding Agency,0,46833,58373,Operational Delivery
+Sep-15,,DFE-1061,,,SEO,Operational Manager,Education Funding Agency,0,34282,48182,Operational Delivery
+Sep-15,,DFE-1241,,,GRADE 7,Operational Manager,Regional Schools Commissioners Group,0,46833,58373,Operational Delivery
+Sep-15,,DFE-1223,,,GRADE 6,Operational Manager,Regional Schools Commissioners Group,0,57309,70578,Operational Delivery
+Sep-15,,DFE-1009,,,SEO,Operational Manager,Finance & Commercial Group,0,34282,48182,Estates and Facilities Management
+Sep-15,,DFE-1016,,,SEO,Policy Adviser,"Childcare, Special Needs and Children’s Services Strategy",0,34282,48182,Policy
+Sep-15,,DFE-1280,,,EA AO,Executive Assistant,IT Group,0,18474,23084,Information Technology
+Sep-15,,DFE-1219,,,GRADE 7,Operational Manager,Education Funding Agency,0,46833,58373,Operational Delivery
+Sep-15,,DFE-1040,,,HEO,Policy Support Officer,Teachers and Teaching Group,0,27674,42065,Policy
+Sep-15,,DFE-1267,,,EO,Executive Assistant,Post 16 and Disadvantage,0,22681,33209,Policy
+Sep-15,,DFE-1171,,,GRADE 6,Business Manager,Teachers and Teaching Group,0,57309,70578,Policy
+Sep-15,,DFE-1002,,,GRADE 6,Communications Manager,Children Services and Departmental Strategy,0,57309,70578,Communications and Marketing
+Sep-15,,DFE-1280,,,HEO,Procurement Officer,IT Group,0,27674,42065,Contract Management.
+Sep-15,,DFE-1240,,,HEO,Operations Support Officer,Regional Schools Commissioners Group,0,27674,42065,Operational Delivery
+Sep-15,,DFE-1219,,,HEO,Operations Support Officer,Education Funding Agency,0,27674,42065,Operational Delivery
+Sep-15,,DFE-1072,,,SEO,Operational Manager,Education Funding Agency,0,34282,48182,Operational Delivery
+Sep-15,,DFE-1178,,,GRADE 6,Business Manager,Finance & Commercial Group,0,57309,70578,Finance
+Sep-15,,DFE-1154,,,EO,Executive Assistant,Education Funding Agency,0,22681,33209,Operational Delivery
+Sep-15,,DFE-1205,,,SEO,Policy Adviser,"Childcare, Special Needs and Children’s Services Strategy",0,34282,48182,Policy
+Sep-15,,DFE-1084,,,EO,Executive Assistant,Infrastructure and Funding Directorate,0,22681,33209,Business Unit Support
+Sep-15,,DFE-1276,,,HEO,Operations Support Officer,Finance & Commercial Group,0,27674,42065,Estates and Facilities Management
+Sep-15,,DFE-1213,,,GRADE 6,Business Manager,Regional Schools Commissioners Group,0,57309,70578,Policy
+Sep-15,,DFE-1208,,,GRADE 6,Business Manager,Systems and Accountability,0,57309,70578,Policy
+Sep-15,,DFE-1242,,,HEO,Operations Support Officer,Regional Schools Commissioners Group,0,27674,42065,Operational Delivery
+Sep-15,,DFE-1136,,,HEO,Operations Support Officer,Education Funding Agency,0,27674,42065,Operational Delivery
+Sep-15,,DFE-1097,,,SEO,Policy Adviser,Post 16 and Disadvantage,0,34282,48182,Policy
+Sep-15,,DFE-1151,,,EO,Executive Assistant,Education Funding Agency,0,22681,33209,Finance
+Sep-15,,DFE-1031,,,GRADE 7,Business Manager,Education Funding Agency,0,46833,58373,Business Unit Support
+Sep-15,,DFE-1262,,,HEO,Operations Support Officer,Education Funding Agency,0,27674,42065,Operational Delivery
+Sep-15,,DFE-1225,,,GRADE 7,Business Manager,Education Funding Agency,0,46833,58373,Business Unit Support
+Sep-15,,DFE-1092,,,GRADE 7,Communications Manager,Strategy Performance and Private Office Group,0,46833,58373,Communications and Marketing
+Sep-15,,DFE-1040,,,GRADE 6,Business Manager,Teachers and Teaching Group,0,57309,70578,Policy
+Sep-15,,DFE-1127,,,EA AO,Executive Assistant,Finance & Commercial Group,0,18474,23084,Finance
+Sep-15,,DFE-1239,,,GRADE 6,Operational Manager,Regional Schools Commissioners Group,0,57309,70578,Operational Delivery
+Sep-15,,DFE-1247,,,HEO,Policy Support Officer,Education Funding Group,0,27674,42065,Policy
+Sep-15,,DFE-1065,,,HEO,Operations Support Officer,Education Funding Agency,0,27674,42065,Operational Delivery
+Sep-15,,DFE-1156,,,GRADE 6,Business Manager,Education Funding Agency,0,57309,70578,Policy
+Sep-15,,DFE-1127,,,EO,Executive Assistant,Finance & Commercial Group,0,22681,33209,Finance
+Sep-15,,DFE-1106,,,EA AO,Executive Assistant,Education Funding Agency,0,18474,23084,Operational Delivery
+Sep-15,,DFE-1108,,,EO,Executive Assistant,Education Funding Agency,0,22681,33209,Operational Delivery
+Sep-15,,DFE-1146,,,HEO,Operations Support Officer,Free Schools Group,0,27674,42065,Operational Delivery
+Sep-15,,DFE-1244,,,GRADE 7,Business Manager,Regional Schools Commissioners Group,0,46833,58373,Policy
+Sep-15,,DFE-1040,,,GRADE 7,Business Manager,Teachers and Teaching Group,0,46833,58373,Policy
+Sep-15,,DFE-1257,,,EA AO,Executive Assistant,Education Funding Agency,0,18474,23084,Finance
+Sep-15,,DFE-1243,,,EO,Executive Assistant,Strategic Analysis Research and Policy Impact Group,0,22681,33209,Economics
+Sep-15,,DFE-1005,,,HEO,Policy Support Officer,"Assessment, Curriculum and General Qualifications",0,27674,42065,Policy
+Sep-15,,DFE-1032,,,GRADE 6,Operational Manager,Standards and Testing Agency,0,57309,70578,Operational Delivery
+Sep-15,,DFE-1187,,,EO,Executive Assistant,Free Schools Group,0,22681,33209,Policy
+Sep-15,,DFE-1241,,,EO,Executive Assistant,Regional Schools Commissioners Group,0,22681,33209,Policy
+Sep-15,,DFE-1001,,,GRADE 6,Business Manager,Permanent Secretary’s Office,0,57309,70578,Legal Advisors
+Sep-15,,DFE-1262,,,SEO,Policy Adviser,Education Funding Agency,0,34282,48182,Business Unit Support
+Sep-15,,DFE-1260,,,EO,Executive Assistant,"Childcare, Special Needs and Children’s Services Strategy",0,22681,33209,Policy
+Sep-15,,DFE-1148,,,EO,Executive Assistant,Education Funding Agency,0,22681,33209,Operational Delivery
+Sep-15,,DFE-1022,,,EO,Executive Assistant,Finance & Commercial Group,0,22681,33209,Business Unit Support
+Sep-15,,DFE-1221,,,SEO,Policy Adviser,Education Funding Group,0,34282,48182,Policy
+Sep-15,,DFE-1210,,,HEO,Policy Support Officer,National College for School Leadership,0,27674,42065,Policy
+Sep-15,,DFE-1016,,,EA AO,Executive Assistant,"Childcare, Special Needs and Children’s Services Strategy",0,18474,23084,Policy
+Sep-15,,DFE-1268,,,GRADE 6,Business Manager,"Childcare, Special Needs and Children’s Services Strategy",0,57309,70578,Policy
+Sep-15,,DFE-1151,,,GRADE 6,Operational Manager,Education Funding Agency,0,57309,70578,Operational Delivery
+Sep-15,,DFE-1161,,,SEO,Operational Manager,Education Funding Agency,0,34282,48182,Operational Delivery
+Sep-15,,DFE-1227,,,EA AO,Executive Assistant,National College for School Leadership,0,18474,23084,Policy
+Sep-15,,DFE-1022,,,SEO,Finance Officer,Finance & Commercial Group,0,34282,48182,Finance
+Sep-15,,DFE-1136,,,GRADE 7,Business Manager,Education Funding Agency,0,46833,58373,Business Unit Support
+Sep-15,,DFE-1170,,,GRADE 7,Business Manager,System Reform Group,0,46833,58373,Policy
+Sep-15,,DFE-1276,,,Grade 6,Business Manager,Finance & Commercial Group,0,57309,70578,Estates and Facilities Management
+Sep-15,,DFE-1119,,,GRADE 6,Business Manager,"Childcare, Special Needs and Children’s Services Strategy",0,57309,70578,Policy
+Sep-15,,DFE-1033,,,GRADE 6,Business Manager,Academies Group,0,57309,70578,Policy
+Sep-15,,DFE-1214,,,GRADE 7,Business Manager,Post 16 and Disadvantage,0,46833,58373,Policy
+Sep-15,,DFE-1136,,,EO,Executive Assistant,Education Funding Agency,0,22681,33209,Business Unit Support
+Sep-15,,DFE-1090,,,GRADE 7,Business Manager,Free Schools Group,0,46833,58373,Policy
+Sep-15,,DFE-1150,,,HEO,Policy Support Officer,Strategic Analysis Research and Policy Impact Group,0,27674,42065,Policy
+Sep-15,,DFE-1085,,,GRADE 6,Communications Manager,Strategy Performance and Private Office Group,0,57309,70578,Communications
+Sep-15,,DFE-1280,,,GRADE 6,IT Manager,IT Group,0,57309,70578,Information Technology
+Sep-15,,DFE-1280,,,GRADE 7,IT Manager,IT Group,0,46833,58373,Information Technology
+Sep-15,,DFE-1022,,,GRADE 7,Business Manager,Finance & Commercial Group,0,46833,58373,Finance
+Sep-15,,DFE-1016,,,SEO,Policy Adviser,"Childcare, Special Needs and Children’s Services Strategy",0,34282,48182,Business Unit Support
+Sep-15,,DFE-1192,,,GRADE 7,Business Manager,Education Funding Agency,0,46833,58373,Business Unit Support
+Sep-15,,DFE-1256,,,EO,Executive Assistant,Education Funding Agency,0,22681,33209,Operational Delivery
+Sep-15,,DFE-1119,,,GRADE 6,Operational Manager,"Childcare, Special Needs and Children’s Services Strategy",0,57309,70578,Operational Delivery
+Sep-15,,DFE-1154,,,SEO,Operational Manager,Education Funding Agency,0,34282,48182,Operational Delivery
+Sep-15,,DFE-1139,,,EO,Executive Assistant,Education Funding Agency,0,22681,33209,Finance
+Sep-15,,DFE-1035,,,EO,Executive Assistant,"Assessment, Curriculum and General Qualifications",0,22681,33209,Policy
+Sep-15,,DFE-1178,,,SEO,Finance Officer,Finance & Commercial Group,0,34282,48182,Business Unit Support
+Sep-15,,DFE-1223,,,GRADE 7,Operational Manager,Regional Schools Commissioners Group,0,46833,58373,Operational Delivery
+Sep-15,,DFE-1146,,,EO,Executive Assistant,Free Schools Group,0,22681,33209,Policy
+Sep-15,,DFE-1092,,,SEO,Operational Manager,Strategy Performance and Private Office Group,0,34282,48182,Strategy
+Sep-15,,DFE-1016,,,GRADE 7,Business Manager,"Childcare, Special Needs and Children’s Services Strategy",0,46833,58373,Business Unit Support
+Sep-15,,DFE-1011,,,EO,Executive Assistant,HR and Change Group,0,22681,33209,Human Resources
+Sep-15,,DFE-1170,,,EA AO,Executive Assistant,System Reform Group,0,18474,23084,Policy
+Sep-15,,DFE-1223,,,EA AO,Executive Assistant,Regional Schools Commissioners Group,0,18474,23084,Operational Delivery
+Sep-15,,DFE-1122,,,SEO,Policy Adviser,Free Schools Group,0,34282,48182,Policy
+Sep-15,,DFE-1278,,,GRADE 6,Business Manager,"Childcare, Special Needs and Children’s Services Strategy",0,57309,70578,Policy
+Sep-15,,DFE-1003,,,HEO,Policy Support Officer,Education Standards Directorate,0,27674,42065,Business Unit Support
+Sep-15,,DFE-1249,,,SEO,Operational Manager,Strategy Performance and Private Office Group,0,34282,48182,Business Unit Support
+Sep-15,,DFE-1267,,,SEO,Policy Adviser,Post 16 and Disadvantage,0,34282,48182,Policy
+Sep-15,,DFE-1022,,,GRADE 6,Office Manager,Finance & Commercial Group,0,57309,70578,Business Unit Support
+Sep-15,,DFE-1006,,,GRADE 7,Business Manager,"Childcare, Special Needs and Children’s Services Strategy",0,46833,58373,Policy
+Sep-15,,DFE-1239,,,EO,Executive Assistant,Regional Schools Commissioners Group,0,22681,33209,Operational Delivery
+Sep-15,,DFE-1264,,,GRADE 6,Business Manager,Education Funding Agency,0,57309,70578,Finance
+Sep-15,,DFE-1150,,,EO,Executive Assistant,Strategic Analysis Research and Policy Impact Group,0,22681,33209,Policy
+Sep-15,,DFE-1084,,,HEO,Operations Support Officer,Infrastructure and Funding Directorate,0,27674,42065,Finance
+Sep-15,,DFE-1064,,,SEO,Policy Adviser,Education Funding Agency,0,34282,48182,Business Unit Support
+Sep-15,,DFE-1002,,,EO,Executive Assistant,Children Services and Departmental Strategy,0,22681,33209,Communications and Marketing
+Sep-15,,DFE-1151,,,SEO,Finance Officer,Education Funding Agency,0,34282,48182,Finance
+Sep-15,,DFE-1276,,,EA AO,Executive Assistant,Finance & Commercial Group,0,18474,23084,Estates and Facilities Management
+Sep-15,,DFE-1257,,,EA AO,Executive Assistant,Education Funding Agency,0,18474,23084,Operational Delivery
+Sep-15,,DFE-1171,,,HEO,Operations Support Officer,Teachers and Teaching Group,0,27674,42065,Operational Delivery
+Sep-15,,DFE-1029,,,GRADE 7,Business Manager,Education Funding Agency,0,46833,58373,Policy
+Sep-15,,DFE-1226,,,SEO,Policy Adviser,System Reform Group,0,34282,48182,Policy
+Sep-15,,DFE-1105,,,EO,Executive Assistant,Education Funding Agency,0,22681,33209,Operational Delivery
+Sep-15,,DFE-1215,,,EO,Executive Assistant,Strategic Analysis Research and Policy Impact Group,0,22681,33209,Economics
+Sep-15,,DFE-1249,,,GRADE 6,Office Manager,Strategy Performance and Private Office Group,0,57309,70578,Business Unit Support
+Sep-15,,DFE-1238,,,SEO,Operational Manager,Regional Schools Commissioners Group,0,34282,48182,Operational Delivery
+Sep-15,,DFE-1161,,,HEO,Operations Support Officer,Education Funding Agency,0,27674,42065,Operational Delivery
+Sep-15,,DFE-1106,,,GRADE 6,Operational Manager,Education Funding Agency,0,57309,70578,Operational Delivery
+Sep-15,,DFE-1245,,,GRADE 7,Operational Manager,Regional Schools Commissioners Group,0,46833,58373,Operational Delivery
+Sep-15,,DFE-1127,,,GRADE 7,Business Manager,Finance & Commercial Group,0,46833,58373,Business Unit Support
+Sep-15,,DFE-1025,,,GRADE 6,Business Manager,National College for School Leadership,0,57309,70578,Policy
+Sep-15,,DFE-1064,,,EO,Executive Assistant,Education Funding Agency,0,22681,33209,Operational Delivery
+Sep-15,,DFE-1213,,,HEO,Policy Support Officer,Regional Schools Commissioners Group,0,27674,42065,Policy
+Sep-15,,DFE-1092,,,EO,Executive Assistant,Strategy Performance and Private Office Group,0,22681,33209,Strategy
+Sep-15,,DFE-1042,,,GRADE 7,Business Manager,Education Funding Agency,0,46833,58373,Finance
+Sep-15,,DFE-1148,,,HEO,Operations Support Officer,Education Funding Agency,0,27674,42065,Operational Delivery
+Sep-15,,DFE-1225,,,GRADE 7,Business Manager,Education Funding Agency,0,46833,58373,Finance
+Sep-15,,DFE-1256,,,HEO,Operations Support Officer,Education Funding Agency,0,27674,42065,Operational Delivery
+Sep-15,,DFE-1019,,,HEO,Finance Officer,"Childcare, Special Needs and Children’s Services Strategy",0,27674,42065,Economics
+Sep-15,,DFE-1136,,,GRADE 6,Operational Manager,Education Funding Agency,0,57309,70578,Operational Delivery
+Sep-15,,DFE-1237,,,SEO,Finance Officer,Finance & Commercial Group,0,34282,48182,Business Unit Support
+Sep-15,,DFE-1279,,,SEO,HR Officer,HR and Change Group,0,34282,48182,Human Resources
+Sep-15,,DFE-1216,,,EO,Executive Assistant,Education Funding Agency,0,22681,33209,Finance
+Sep-15,,DFE-1240,,,GRADE 7,Operational Manager,Regional Schools Commissioners Group,0,46833,58373,Operational Delivery
+Sep-15,,DFE-1097,,,GRADE 6,Business Manager,Post 16 and Disadvantage,0,57309,70578,Policy
+Sep-15,,DFE-1026,,,GRADE 6,Business Manager,National College for School Leadership,0,57309,70578,Policy
+Sep-15,,DFE-1266,,,GRADE 6,Business Manager,Finance & Commercial Group,0,57309,70578,Finance
+Sep-15,,DFE-1178,,,GRADE 7,Business Manager,Finance & Commercial Group,0,46833,58373,Finance
+Sep-15,,DFE-1087,,,GRADE 7,Operational Manager,Standards and Testing Agency,0,46833,58373,Operational Delivery
+Sep-15,,DFE-1153,,,GRADE 6,Business Manager,HR and Change Group,0,57309,70578,Human Resources
+Sep-15,,DFE-1237,,,EA AO,Executive Assistant,Finance & Commercial Group,0,18474,23084,Procurement
+Sep-15,,DFE-1244,,,GRADE 6,Operational Manager,Regional Schools Commissioners Group,0,57309,70578,Operational Delivery
+Sep-15,,DFE-1003,,,SEO,Policy Adviser,Education Standards Directorate,0,34282,48182,Business Unit Support
+Sep-15,,DFE-1279,,,GRADE 6,Business Manager,HR and Change Group,0,57309,70578,Human Resources
+Sep-15,,DFE-1243,,,GRADE 6,Economist,Strategic Analysis Research and Policy Impact Group,0,57309,70578,Economics
+Sep-15,,DFE-1265,,,GRADE 7,Business Manager,"Childcare, Special Needs and Children’s Services Strategy",0,46833,58373,Policy
+Sep-15,,DFE-1019,,,GRADE 6,Business Manager,"Childcare, Special Needs and Children’s Services Strategy",0,57309,70578,Policy
+Sep-15,,DFE-1183,,,EO,Executive Assistant,Education Funding Group,0,22681,33209,Finance
+Sep-15,,DFE-1142,,,HEO,Operations Support Officer,Education Funding Agency,0,27674,42065,Finance
+Sep-15,,DFE-1099,,,HEO,Policy Adviser,Education Funding Agency,0,27674,42065,Business Unit Support
+Sep-15,,DFE-1152,,,GRADE 6,Business Manager,System Reform Group,0,57309,70578,Policy
+Sep-15,,DFE-1280,,,SEO,Operational Manager,IT Group,0,34282,48182,Contract Management.
+Sep-15,,DFE-1225,,,EO,Executive Assistant,Education Funding Agency,0,22681,33209,Operational Delivery
+Sep-15,,DFE-1172,,,EO,Executive Assistant,"Assessment, Curriculum and General Qualifications",0,22681,33209,Policy
+Sep-15,,DFE-1136,,,EA AO,Executive Assistant,Education Funding Agency,0,18474,23084,Business Unit Support
+Sep-15,,DFE-1003,,,GRADE 6,Office Manager,Education Standards Directorate,0,57309,70578,Business Unit Support
+Sep-15,,DFE-1084,,,GRADE 7,Business Manager,Infrastructure and Funding Directorate,0,46833,58373,Business Unit Support
+Sep-15,,DFE-1220,,,EO,Executive Assistant,Systems and Accountability,0,22681,33209,Business Unit Support
+Sep-15,,DFE-1171,,,EO,Executive Assistant,Teachers and Teaching Group,0,22681,33209,Operational Delivery
+Sep-15,,DFE-1266,,,GRADE 6,Office Manager,Finance & Commercial Group,0,57309,70578,Business Unit Support
+Sep-15,,DFE-1239,,,GRADE 7,Operational Manager,Regional Schools Commissioners Group,0,46833,58373,Operational Delivery
+Sep-15,,DFE-1260,,,EA AO,Executive Assistant,"Childcare, Special Needs and Children’s Services Strategy",0,18474,23084,Policy
+Sep-15,,DFE-1203,,,GRADE 7,Operational Manager,Due Diligence and Counter Extremism Group,0,46833,58373,Operational Delivery
+Sep-15,,DFE-1090,,,EO,Executive Assistant,Free Schools Group,0,22681,33209,Policy
+Sep-15,,DFE-1150,,,EA AO,Executive Assistant,Strategic Analysis Research and Policy Impact Group,0,18474,23084,Policy
+Sep-15,,DFE-1011,,,EO,Executive Assistant,HR and Change Group,0,22681,33209,Business Unit Support
+Sep-15,,DFE-1213,,,GRADE 7,Business Manager,Regional Schools Commissioners Group,0,46833,58373,Policy
+Sep-15,,DFE-1256,,,GRADE 7,Business Manager,Education Funding Agency,0,46833,58373,Business Unit Support
+Sep-15,,DFE-1257,,,GRADE 6,Operational Manager,Education Funding Agency,0,57309,70578,Operational Delivery
+Sep-15,,DFE-1249,,,EO,Executive Assistant,Strategy Performance and Private Office Group,0,22681,33209,Policy
+Sep-15,,DFE-1062,,,SEO,Operational Manager,Education Funding Agency,0,34282,48182,Operational Delivery
+Sep-15,,DFE-1172,,,EO,Executive Assistant,"Assessment, Curriculum and General Qualifications",0,22681,33209,Business Unit Support
+Sep-15,,DFE-1270,,,GRADE 6,Business Manager,"Assessment, Curriculum and General Qualifications",0,57309,70578,Policy
+Sep-15,,DFE-1264,,,GRADE 6,Office Manager,Education Funding Agency,0,57309,70578,Business Unit Support
+Sep-15,,DFE-1250,,,EA AO,Executive Assistant,Academies Group,0,18474,23084,Policy
+Sep-15,,DFE-1266,,,GRADE 7,Business Manager,Finance & Commercial Group,0,46833,58373,Business Unit Support
+Sep-15,,DFE-1061,,,EO,Executive Assistant,Education Funding Agency,0,22681,33209,Operational Delivery
+Sep-15,,DFE-1264,,,GRADE 7,Business Manager,Education Funding Agency,0,46833,58373,Business Unit Support
+Sep-15,,DFE-1129,,,GRADE 6,Business Manager,Free Schools Group,0,57309,70578,Policy
+Sep-15,,DFE-1201,,,EO,Executive Assistant,"Childcare, Special Needs and Children’s Services Strategy",0,22681,33209,Policy
+Sep-15,,DFE-1241,,,EO,Executive Assistant,Regional Schools Commissioners Group,0,22681,33209,Operational Delivery
+Sep-15,,DFE-1191,,,EO,Executive Assistant,Strategy Performance and Private Office Group,0,22681,33209,Policy
+Sep-15,,DFE-1106,,,HEO,Operations Support Officer,Education Funding Agency,0,27674,42065,Operational Delivery
+Sep-15,,DFE-1270,,,EO,Executive Assistant,"Assessment, Curriculum and General Qualifications",0,22681,33209,Policy
+Sep-15,,DFE-1210,,,GRADE 6,Business Manager,National College for School Leadership,0,57309,70578,Policy
+Sep-15,,DFE-1192,,,GRADE 7,Business Manager,Education Funding Agency,0,46833,58373,Policy
+Sep-15,,DFE-1092,,,GRADE 6,Operational Manager,Strategy Performance and Private Office Group,0,57309,70578,Strategy
+Sep-15,,DFE-1256,,,EO,Executive Assistant,Education Funding Agency,0,22681,33209,Business Unit Support
+Sep-15,,DFE-1148,,,EA AO,Executive Assistant,Education Funding Agency,0,18474,23084,Operational Delivery
+Sep-15,,DFE-1148,,,EO,Executive Assistant,Education Funding Agency,0,22681,33209,Finance
+Sep-15,,DFE-1006,,,SEO,Policy Adviser,"Childcare, Special Needs and Children’s Services Strategy",0,34282,48182,Policy
+Sep-15,,DFE-1223,,,HEO,Operations Support Officer,Regional Schools Commissioners Group,0,27674,42065,Operational Delivery
+Sep-15,,DFE-1250,,,EO,Executive Assistant,Academies Group,0,22681,33209,Operational Delivery
+Sep-15,,DFE-1203,,,EA AO,Executive Assistant,Due Diligence and Counter Extremism Group,0,18474,23084,Policy
+Sep-15,,DFE-1262,,,GRADE 7,Business Manager,Education Funding Agency,0,46833,58373,Finance
+Sep-15,,DFE-1097,,,HEO,Policy Support Officer,Post 16 and Disadvantage,0,27674,42065,Business Unit Support
+Sep-15,,DFE-1072,,,SEO,Finance Officer,Education Funding Agency,0,34282,48182,Finance
+Sep-15,,DFE-1156,,,EO,Executive Assistant,Education Funding Agency,0,22681,33209,Business Unit Support
+Sep-15,,DFE-1002,,,GRADE 7,Business Manager,Children Services and Departmental Strategy,0,46833,58373,Business Unit Support
+Sep-15,,DFE-1249,,,EA AO,Executive Assistant,Strategy Performance and Private Office Group,0,18474,23084,Business Unit Support
+Sep-15,,DFE-1119,,,HEO,Policy Support Officer,"Childcare, Special Needs and Children’s Services Strategy",0,27674,42065,Policy
+Sep-15,,DFE-1266,,,SEO,Finance Officer,Finance & Commercial Group,0,34282,48182,Business Unit Support
+Sep-15,,DFE-1239,,,HEO,Operations Support Officer,Regional Schools Commissioners Group,0,27674,42065,Operational Delivery
+Sep-15,,DFE-1064,,,GRADE 6,Operational Manager,Education Funding Agency,0,57309,70578,Operational Delivery
+Sep-15,,DFE-1002,,,HEO,Policy Support Officer,Children Services and Departmental Strategy,0,27674,42065,Policy
+Sep-15,,DFE-1035,,,EO,Executive Assistant,"Assessment, Curriculum and General Qualifications",0,22681,33209,Operational Delivery
+Sep-15,,DFE-1244,,,GRADE 7,Operational Manager,Regional Schools Commissioners Group,0,46833,58373,Operational Delivery
+Sep-15,,DFE-1019,,,EA AO,Executive Assistant,"Childcare, Special Needs and Children’s Services Strategy",0,18474,23084,Policy
+Sep-15,,DFE-1057,,,EA AO,Executive Assistant,Academies Group,0,18474,23084,Policy
+Sep-15,,DFE-1020,,,GRADE 7,Business Manager,Education Funding Agency,0,46833,58373,Business Unit Support
+Sep-15,,DFE-1264,,,SEO,Policy Adviser,Education Funding Agency,0,34282,48182,Business Unit Support
+Sep-15,,DFE-1283,,,GRADE 6,Business Manager,Post 16 and Disadvantage,0,57309,70578,Policy
+Sep-15,,DFE-1192,,,EO,Executive Assistant,Education Funding Agency,0,22681,33209,Business Unit Support
+Sep-15,,DFE-1214,,,EO,Executive Assistant,Post 16 and Disadvantage,0,22681,33209,Communications and Marketing
+Sep-15,,DFE-1031,,,EA AO,Executive Assistant,Education Funding Agency,0,18474,23084,Operational Delivery
+Sep-15,,DFE-1208,,,HEO,Policy Support Officer,Systems and Accountability,0,27674,42065,Business Unit Support
+Sep-15,,DFE-1216,,,EO,Executive Assistant,Education Funding Agency,0,22681,33209,Policy
+Sep-15,,DFE-1215,,,SEO,Economist,Strategic Analysis Research and Policy Impact Group,0,34282,48182,Finance
+Sep-15,,DFE-1105,,,GRADE 7,Operational Manager,Education Funding Agency,0,46833,58373,Operational Delivery
+Sep-15,,DFE-1245,,,HEO,Operations Support Officer,Regional Schools Commissioners Group,0,27674,42065,Operational Delivery
+Sep-15,,DFE-1142,,,EO,Executive Assistant,Education Funding Agency,0,22681,33209,Finance
+Sep-15,,DFE-1281,,,EO,Executive Assistant,Education Funding Agency,0,22681,33209,Operational Delivery
+Sep-15,,DFE-1226,,,EO,Executive Assistant,System Reform Group,0,22681,33209,Policy
+Sep-15,,DFE-1275,,,SEO,Policy Adviser,"Childcare, Special Needs and Children’s Services Strategy",0,34282,48182,Policy
+Sep-15,,DFE-1262,,,SEO,Finance Officer,Education Funding Agency,0,34282,48182,Finance
+Sep-15,,DFE-1040,,,SEO,Policy Adviser,Teachers and Teaching Group,0,34282,48182,Policy
+Sep-15,,DFE-1257,,,SEO,Finance Officer,Education Funding Agency,0,34282,48182,Finance
+Sep-15,,DFE-1238,,,GRADE 6,Operational Manager,Regional Schools Commissioners Group,0,57309,70578,Operational Delivery
+Sep-15,,DFE-1062,,,EO,Executive Assistant,Education Funding Agency,0,22681,33209,Finance
+Sep-15,,DFE-1151,,,HEO,Operations Support Officer,Education Funding Agency,0,27674,42065,Finance
+Sep-15,,DFE-1241,,,HEO,Operations Support Officer,Regional Schools Commissioners Group,0,27674,42065,Operational Delivery
+Sep-15,,DFE-1001,,,EO,Executive Assistant,Permanent Secretary’s Office,0,22681,33209,Policy
+Sep-15,,DFE-1278,,,EO,Executive Assistant,"Childcare, Special Needs and Children’s Services Strategy",0,22681,33209,Policy
+Sep-15,,DFE-1256,,,SEO,Policy Adviser,Education Funding Agency,0,34282,48182,Business Unit Support
+Sep-15,,DFE-1139,,,GRADE 6,Office Manager,Education Funding Agency,0,57309,70578,Business Unit Support
+Sep-15,,DFE-1275,,,EO,Executive Assistant,"Childcare, Special Needs and Children’s Services Strategy",0,22681,33209,Policy
+Sep-15,,DFE-1108,,,GRADE 6,Operational Manager,Education Funding Agency,0,57309,70578,Operational Delivery
+Sep-15,,DFE-1283,,,EA AO,Executive Assistant,Post 16 and Disadvantage,0,18474,23084,Policy
+Sep-15,,DFE-1042,,,GRADE 7,Operational Manager,Education Funding Agency,0,46833,58373,Operational Delivery
+Sep-15,,DFE-1031,,,SEO,Finance Officer,Education Funding Agency,0,34282,48182,Finance
+Sep-15,,DFE-1192,,,GRADE 7,Operational Manager,Education Funding Agency,0,46833,58373,Operational Delivery
+Sep-15,,DFE-1269,,,EA AO,Executive Assistant,Academies Group,0,18474,23084,Policy
+Sep-15,,DFE-1205,,,GRADE 6,Business Manager,"Childcare, Special Needs and Children’s Services Strategy",0,57309,70578,Policy
+Sep-15,,DFE-1146,,,EA AO,Executive Assistant,Free Schools Group,0,18474,23084,Policy
+Sep-15,,DFE-1009,,,EO,Executive Assistant,Finance & Commercial Group,0,22681,33209,Estates and Facilities Management
+Sep-15,,DFE-1026,,,EA AO,Executive Assistant,National College for School Leadership,0,18474,23084,Policy
+Sep-15,,DFE-1006,,,HEO,Policy Support Officer,"Childcare, Special Needs and Children’s Services Strategy",0,27674,42065,Policy
+Sep-15,,DFE-1090,,,EA AO,Executive Assistant,Free Schools Group,0,18474,23084,Policy
+Sep-15,,DFE-1171,,,GRADE 6,Operational Manager,Teachers and Teaching Group,0,57309,70578,Operational Delivery
+Sep-15,,DFE-1094,,,GRADE 7,IT Manager,IT Group,0,46833,58373,Information Technology
+Sep-15,,DFE-1072,,,HEO,Operations Support Officer,Education Funding Agency,0,27674,42065,Operational Delivery
+Sep-15,,DFE-1129,,,EA AO,Executive Assistant,Free Schools Group,0,18474,23084,Policy
+Sep-15,,DFE-1020,,,EO,Executive Assistant,Education Funding Agency,0,22681,33209,Business Unit Support
+Sep-15,,DFE-1031,,,HEO,Operations Support Officer,Education Funding Agency,0,27674,42065,Finance
+Sep-15,,DFE-1099,,,EA AO,Executive Assistant,Education Funding Agency,0,18474,23084,Finance
+Sep-15,,DFE-1084,,,SEO,Finance Officer,Infrastructure and Funding Directorate,0,34282,48182,Finance
+Sep-15,,DFE-1275,,,GRADE 6,Business Manager,"Childcare, Special Needs and Children’s Services Strategy",0,57309,70578,Policy
+Sep-15,,DFE-1239,,,GRADE 7,Business Manager,Regional Schools Commissioners Group,0,46833,58373,Policy
+Sep-15,,DFE-1242,,,EO,Executive Assistant,Regional Schools Commissioners Group,0,22681,33209,Operational Delivery
+Sep-15,,DFE-1019,,,SEO,Policy Adviser,"Childcare, Special Needs and Children’s Services Strategy",0,34282,48182,Business Unit Support
+Sep-15,,DFE-1108,,,GRADE 7,Business Manager,Education Funding Agency,0,46833,58373,Finance
+Sep-15,,DFE-1022,,,EA AO,Executive Assistant,Finance & Commercial Group,0,18474,23084,Finance
+Sep-15,,DFE-1226,,,GRADE 7,Business Manager,System Reform Group,0,46833,58373,Policy
+Sep-15,,DFE-1223,,,EO,Executive Assistant,Regional Schools Commissioners Group,0,22681,33209,Operational Delivery
+Sep-15,,DFE-1172,,,EA AO,Executive Assistant,"Assessment, Curriculum and General Qualifications",0,18474,23084,Policy
+Sep-15,,DFE-1109,,,GRADE 6,Business Manager,National College for School Leadership,0,57309,70578,Policy
+Sep-15,,DFE-1245,,,SEO,Operational Manager,Regional Schools Commissioners Group,0,34282,48182,Operational Delivery
+Sep-15,,DFE-1237,,,HEO,Operations Support Officer,Finance & Commercial Group,0,27674,42065,Business Unit Support
+Sep-15,,DFE-1031,,,EA AO,Executive Assistant,Education Funding Agency,0,18474,23084,Finance
+Sep-15,,DFE-1238,,,EO,Executive Assistant,Regional Schools Commissioners Group,0,22681,33209,Operational Delivery
+Sep-15,,DFE-1106,,,SEO,Operational Manager,Education Funding Agency,0,34282,48182,Operational Delivery
+Sep-15,,DFE-1127,,,HEO,Operations Support Officer,Finance & Commercial Group,0,27674,42065,Business Unit Support
+Sep-15,,DFE-1240,,,GRADE 6,Operational Manager,Regional Schools Commissioners Group,0,57309,70578,Operational Delivery
+Sep-15,,DFE-1278,,,HEO,Policy Support Officer,"Childcare, Special Needs and Children’s Services Strategy",0,27674,42065,Policy
+Sep-15,,DFE-1281,,,EA AO,Executive Assistant,Education Funding Agency,0,18474,23084,Operational Delivery
+Sep-15,,DFE-1142,,,SEO,Finance Officer,Education Funding Agency,0,34282,48182,Finance
+Sep-15,,DFE-1260,,,GRADE 6,Business Manager,"Childcare, Special Needs and Children’s Services Strategy",0,57309,70578,Policy
+Sep-15,,DFE-1083,,,GRADE 6,Business Manager,National College for School Leadership,0,57309,70578,Policy
+Sep-15,,DFE-1090,,,HEO,Policy Support Officer,Free Schools Group,0,27674,42065,Policy
+Sep-15,,DFE-1242,,,GRADE 6,Operational Manager,Regional Schools Commissioners Group,0,57309,70578,Operational Delivery
+Sep-15,,DFE-1225,,,EA AO,Executive Assistant,Education Funding Agency,0,18474,23084,Operational Delivery
+Sep-15,,DFE-1139,,,HEO,Operations Support Officer,Education Funding Agency,0,27674,42065,Finance

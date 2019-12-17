@@ -1,823 +1,823 @@
-date,level,id,parentId
-Sep-14,Senior,PS,
-Sep-14,Senior,DG01,PS
-Sep-14,Senior,DG02,PS
-Sep-14,Senior,DG03,PS
-Sep-14,Senior,DG04,PS
-Sep-14,Senior,D01,DG01
-Sep-14,Senior,D02,DG01
-Sep-14,Senior,D03,DG01
-Sep-14,Senior,D04,DG01
-Sep-14,Senior,D06,DG03
-Sep-14,Senior,D07,DG03
-Sep-14,Senior,D08,DG03
-Sep-14,Senior,D09,DG02
-Sep-14,Senior,D10,DG02
-Sep-14,Senior,D11,DG02
-Sep-14,Senior,D12,DG02
-Sep-14,Senior,D13,DG02
-Sep-14,Senior,D14,DG02
-Sep-14,Senior,D15,DG03
-Sep-14,Senior,D17,DG03
-Sep-14,Senior,D18,DG03
-Sep-14,Senior,D20,DG03
-Sep-14,Senior,D22,DG03
-Sep-14,Senior,D23,DG01
-Sep-14,Senior,D24,DG01
-Sep-14,Senior,DD01,D01
-Sep-14,Senior,DD02,D01
-Sep-14,Senior,DD03,D01
-Sep-14,Senior,DD04,D01
-Sep-14,Senior,DD05,D01
-Sep-14,Senior,DD07,D02
-Sep-14,Senior,DD08,D02
-Sep-14,Senior,DD09,D02
-Sep-14,Senior,DD10,D02
-Sep-14,Senior,DD11,D02
-Sep-14,Senior,DD12,D03
-Sep-14,Senior,DD13,D03
-Sep-14,Senior,DD14,D03
-Sep-14,Senior,DD17,D04
-Sep-14,Senior,DD20,D06
-Sep-14,Senior,DD21,D07
-Sep-14,Senior,DD22,D06
-Sep-14,Senior,DD23,D07
-Sep-14,Senior,DD24,D07
-Sep-14,Senior,DD25,D09
-Sep-14,Senior,DD27,D09
-Sep-14,Senior,DD30,D09
-Sep-14,Senior,DD31,D09
-Sep-14,Senior,DD32,D10
-Sep-14,Senior,DD33,D10
-Sep-14,Senior,DD34,D10
-Sep-14,Senior,DD35,D09
-Sep-14,Senior,DD37,D11
-Sep-14,Senior,DD38,D14
-Sep-14,Senior,DD39,D11
-Sep-14,Senior,DD40,D11
-Sep-14,Senior,DD41,D11
-Sep-14,Senior,DD42,D12
-Sep-14,Senior,DD43,D13
-Sep-14,Senior,DD44,D12
-Sep-14,Senior,DD45,D12
-Sep-14,Senior,DD46,D12
-Sep-14,Senior,DD47,D12
-Sep-14,Senior,DD48,D12
-Sep-14,Senior,DD49,D12
-Sep-14,Senior,DD50,D13
-Sep-14,Senior,DD51,D18
-Sep-14,Senior,DD52,D13
-Sep-14,Senior,DD53,D15
-Sep-14,Senior,DD54,D13
-Sep-14,Senior,DD55,D13
-Sep-14,Senior,DD56,D13
-Sep-14,Senior,DD57,D13
-Sep-14,Senior,DD58,D14
-Sep-14,Senior,DD59,D14
-Sep-14,Senior,DD60,D14
-Sep-14,Senior,DD62,D14
-Sep-14,Senior,DD63,D14
-Sep-14,Senior,DD64,D17
-Sep-14,Senior,DD65,D17
-Sep-14,Senior,DD67,D18
-Sep-14,Senior,DD68,D18
-Sep-14,Senior,DD69,D15
-Sep-14,Senior,DD70,D18
-Sep-14,Senior,DD72,D18
-Sep-14,Senior,DD75,D20
-Sep-14,Senior,DD77,D06
-Sep-14,Senior,DD78,D20
-Sep-14,Senior,DD79,D01
-Sep-14,Senior,DD81,D15
-Sep-14,Senior,DD82,D06
-Sep-14,Senior,DD83,D09
-Sep-14,Senior,DD84,D23
-Sep-14,Senior,DD85,D07
-Sep-14,Senior,DD88,D10
-Sep-14,Senior,DD89,D01
-Sep-14,Senior,DD90,D12
-Sep-14,Senior,DD91,D14
-Sep-14,Senior,DD92,D09
-Sep-14,Senior,DD93,D22
-Sep-14,Senior,DD94,D22
-Sep-14,Senior,DD95,D23
-Sep-14,Senior,DD96,D23
-Sep-14,Senior,DD97,D14
-Sep-14,Senior,DD98,D06
-Sep-14,Senior,DD99,D18
-Sep-14,Senior,DD100,D14
-Sep-14,Junior,,DD20
-Sep-14,Junior,,DD20
-Sep-14,Junior,,DD20
-Sep-14,Junior,,DD20
-Sep-14,Junior,,DD20
-Sep-14,Junior,,DD20
-Sep-14,Junior,,DD20
-Sep-14,Junior,,DD20
-Sep-14,Junior,,DD21
-Sep-14,Junior,,DD21
-Sep-14,Junior,,DD21
-Sep-14,Junior,,DD21
-Sep-14,Junior,,DD21
-Sep-14,Junior,,DD21
-Sep-14,Junior,,DD21
-Sep-14,Junior,,DD21
-Sep-14,Junior,,DD22
-Sep-14,Junior,,DD22
-Sep-14,Junior,,DD22
-Sep-14,Junior,,DD22
-Sep-14,Junior,,DD22
-Sep-14,Junior,,DD22
-Sep-14,Junior,,DD22
-Sep-14,Junior,,DD22
-Sep-14,Junior,,DD22
-Sep-14,Junior,,DD77
-Sep-14,Junior,,DD77
-Sep-14,Junior,,DD77
-Sep-14,Junior,,DD77
-Sep-14,Junior,,DD77
-Sep-14,Junior,,DD82
-Sep-14,Junior,,DD82
-Sep-14,Junior,,DD82
-Sep-14,Junior,,DD82
-Sep-14,Junior,,DD82
-Sep-14,Junior,,DD82
-Sep-14,Junior,,DD82
-Sep-14,Junior,,DD82
-Sep-14,Junior,,DD82
-Sep-14,Junior,,DD82
-Sep-14,Junior,,DD82
-Sep-14,Junior,,DD82
-Sep-14,Junior,,DD96
-Sep-14,Junior,,DD96
-Sep-14,Junior,,DD96
-Sep-14,Junior,,DD96
-Sep-14,Junior,,DD96
-Sep-14,Junior,,DD96
-Sep-14,Junior,,DD96
-Sep-14,Junior,,DD96
-Sep-14,Junior,,DD96
-Sep-14,Junior,,DD96
-Sep-14,Junior,,DD96
-Sep-14,Junior,,DD96
-Sep-14,Junior,,DD96
-Sep-14,Junior,,DD96
-Sep-14,Junior,,DD96
-Sep-14,Junior,,DD96
-Sep-14,Junior,,DD96
-Sep-14,Junior,,D04
-Sep-14,Junior,,D04
-Sep-14,Junior,,D04
-Sep-14,Junior,,D04
-Sep-14,Junior,,D04
-Sep-14,Junior,,D04
-Sep-14,Junior,,D04
-Sep-14,Junior,,D04
-Sep-14,Junior,,D04
-Sep-14,Junior,,D04
-Sep-14,Junior,,D04
-Sep-14,Junior,,D04
-Sep-14,Junior,,D04
-Sep-14,Junior,,D04
-Sep-14,Junior,,D04
-Sep-14,Junior,,D04
-Sep-14,Junior,,D04
-Sep-14,Junior,,D04
-Sep-14,Junior,,D04
-Sep-14,Junior,,D04
-Sep-14,Junior,,D04
-Sep-14,Junior,,D04
-Sep-14,Junior,,D04
-Sep-14,Junior,,D04
-Sep-14,Junior,,D04
-Sep-14,Junior,,D04
-Sep-14,Junior,,D04
-Sep-14,Junior,,D04
-Sep-14,Junior,,D04
-Sep-14,Junior,,D04
-Sep-14,Junior,,DD17
-Sep-14,Junior,,DD17
-Sep-14,Junior,,DD17
-Sep-14,Junior,,DD17
-Sep-14,Junior,,DD17
-Sep-14,Junior,,DD17
-Sep-14,Junior,,DD17
-Sep-14,Junior,,DD17
-Sep-14,Junior,,DD17
-Sep-14,Junior,,DD17
-Sep-14,Junior,,D01
-Sep-14,Junior,,DD01
-Sep-14,Junior,,DD01
-Sep-14,Junior,,DD01
-Sep-14,Junior,,DD01
-Sep-14,Junior,,DD01
-Sep-14,Junior,,DD01
-Sep-14,Junior,,DD02
-Sep-14,Junior,,DD02
-Sep-14,Junior,,DD02
-Sep-14,Junior,,DD03
-Sep-14,Junior,,DD03
-Sep-14,Junior,,DD03
-Sep-14,Junior,,DD03
-Sep-14,Junior,,DD03
-Sep-14,Junior,,DD03
-Sep-14,Junior,,DD03
-Sep-14,Junior,,DD03
-Sep-14,Junior,,DD04
-Sep-14,Junior,,DD04
-Sep-14,Junior,,DD04
-Sep-14,Junior,,DD04
-Sep-14,Junior,,DD04
-Sep-14,Junior,,DD04
-Sep-14,Junior,,DD04
-Sep-14,Junior,,DD04
-Sep-14,Junior,,DD04
-Sep-14,Junior,,DD04
-Sep-14,Junior,,DD04
-Sep-14,Junior,,DD04
-Sep-14,Junior,,DD05
-Sep-14,Junior,,DD05
-Sep-14,Junior,,DD05
-Sep-14,Junior,,DD05
-Sep-14,Junior,,DD05
-Sep-14,Junior,,DD05
-Sep-14,Junior,,DD05
-Sep-14,Junior,,DD05
-Sep-14,Junior,,DD05
-Sep-14,Junior,,DD05
-Sep-14,Junior,,DD05
-Sep-14,Junior,,DD05
-Sep-14,Junior,,DD05
-Sep-14,Junior,,DD05
-Sep-14,Junior,,DD05
-Sep-14,Junior,,DD79
-Sep-14,Junior,,DD79
-Sep-14,Junior,,DD79
-Sep-14,Junior,,DD79
-Sep-14,Junior,,DD89
-Sep-14,Junior,,DD89
-Sep-14,Junior,,DD89
-Sep-14,Junior,,DD89
-Sep-14,Junior,,DD89
-Sep-14,Junior,,DD64
-Sep-14,Junior,,DD64
-Sep-14,Junior,,DD64
-Sep-14,Junior,,DD64
-Sep-14,Junior,,DD64
-Sep-14,Junior,,DD64
-Sep-14,Junior,,DD64
-Sep-14,Junior,,DD64
-Sep-14,Junior,,DD64
-Sep-14,Junior,,DD64
-Sep-14,Junior,,DD64
-Sep-14,Junior,,DD65
-Sep-14,Junior,,DD65
-Sep-14,Junior,,DD65
-Sep-14,Junior,,DD65
-Sep-14,Junior,,DD65
-Sep-14,Junior,,D18
-Sep-14,Junior,,D18
-Sep-14,Junior,,D18
-Sep-14,Junior,,D18
-Sep-14,Junior,,D18
-Sep-14,Junior,,DD51
-Sep-14,Junior,,DD51
-Sep-14,Junior,,DD51
-Sep-14,Junior,,DD51
-Sep-14,Junior,,DD51
-Sep-14,Junior,,DD51
-Sep-14,Junior,,DD51
-Sep-14,Junior,,DD51
-Sep-14,Junior,,DD51
-Sep-14,Junior,,DD67
-Sep-14,Junior,,DD67
-Sep-14,Junior,,DD67
-Sep-14,Junior,,DD67
-Sep-14,Junior,,DD67
-Sep-14,Junior,,DD67
-Sep-14,Junior,,DD67
-Sep-14,Junior,,DD67
-Sep-14,Junior,,DD68
-Sep-14,Junior,,DD68
-Sep-14,Junior,,DD68
-Sep-14,Junior,,DD68
-Sep-14,Junior,,DD68
-Sep-14,Junior,,DD70
-Sep-14,Junior,,DD70
-Sep-14,Junior,,DD70
-Sep-14,Junior,,DD70
-Sep-14,Junior,,DD70
-Sep-14,Junior,,DD70
-Sep-14,Junior,,DD70
-Sep-14,Junior,,DD72
-Sep-14,Junior,,DD72
-Sep-14,Junior,,DD72
-Sep-14,Junior,,DD72
-Sep-14,Junior,,DD72
-Sep-14,Junior,,DD72
-Sep-14,Junior,,DD72
-Sep-14,Junior,,DD72
-Sep-14,Junior,,D02
-Sep-14,Junior,,DD07
-Sep-14,Junior,,DD07
-Sep-14,Junior,,DD07
-Sep-14,Junior,,DD07
-Sep-14,Junior,,DD07
-Sep-14,Junior,,DD07
-Sep-14,Junior,,DD07
-Sep-14,Junior,,DD07
-Sep-14,Junior,,DD08
-Sep-14,Junior,,DD08
-Sep-14,Junior,,DD08
-Sep-14,Junior,,DD08
-Sep-14,Junior,,DD08
-Sep-14,Junior,,DD08
-Sep-14,Junior,,DD08
-Sep-14,Junior,,DD08
-Sep-14,Junior,,DD08
-Sep-14,Junior,,DD08
-Sep-14,Junior,,DD08
-Sep-14,Junior,,DD08
-Sep-14,Junior,,DD08
-Sep-14,Junior,,DD09
-Sep-14,Junior,,DD09
-Sep-14,Junior,,DD09
-Sep-14,Junior,,DD09
-Sep-14,Junior,,DD09
-Sep-14,Junior,,DD09
-Sep-14,Junior,,DD09
-Sep-14,Junior,,DD09
-Sep-14,Junior,,DD09
-Sep-14,Junior,,DD10
-Sep-14,Junior,,DD10
-Sep-14,Junior,,DD10
-Sep-14,Junior,,DD10
-Sep-14,Junior,,DD10
-Sep-14,Junior,,DD10
-Sep-14,Junior,,DD10
-Sep-14,Junior,,DD10
-Sep-14,Junior,,DD10
-Sep-14,Junior,,DD10
-Sep-14,Junior,,DD11
-Sep-14,Junior,,DD11
-Sep-14,Junior,,DD11
-Sep-14,Junior,,DD11
-Sep-14,Junior,,DD11
-Sep-14,Junior,,DD11
-Sep-14,Junior,,DD11
-Sep-14,Junior,,DD11
-Sep-14,Junior,,DD32
-Sep-14,Junior,,DD32
-Sep-14,Junior,,DD32
-Sep-14,Junior,,DD32
-Sep-14,Junior,,DD32
-Sep-14,Junior,,DD32
-Sep-14,Junior,,DD32
-Sep-14,Junior,,DD32
-Sep-14,Junior,,DD32
-Sep-14,Junior,,DD32
-Sep-14,Junior,,DD33
-Sep-14,Junior,,DD33
-Sep-14,Junior,,DD33
-Sep-14,Junior,,DD33
-Sep-14,Junior,,DD33
-Sep-14,Junior,,DD33
-Sep-14,Junior,,DD33
-Sep-14,Junior,,DD34
-Sep-14,Junior,,DD34
-Sep-14,Junior,,DD34
-Sep-14,Junior,,DD34
-Sep-14,Junior,,DD34
-Sep-14,Junior,,DD34
-Sep-14,Junior,,DD34
-Sep-14,Junior,,D03
-Sep-14,Junior,,DD12
-Sep-14,Junior,,DD12
-Sep-14,Junior,,DD12
-Sep-14,Junior,,DD12
-Sep-14,Junior,,DD12
-Sep-14,Junior,,DD12
-Sep-14,Junior,,DD12
-Sep-14,Junior,,DD12
-Sep-14,Junior,,DD12
-Sep-14,Junior,,DD12
-Sep-14,Junior,,DD12
-Sep-14,Junior,,DD12
-Sep-14,Junior,,DD12
-Sep-14,Junior,,DD12
-Sep-14,Junior,,DD12
-Sep-14,Junior,,DD12
-Sep-14,Junior,,DD13
-Sep-14,Junior,,DD13
-Sep-14,Junior,,DD13
-Sep-14,Junior,,DD13
-Sep-14,Junior,,DD13
-Sep-14,Junior,,DD14
-Sep-14,Junior,,DD14
-Sep-14,Junior,,DD14
-Sep-14,Junior,,DD14
-Sep-14,Junior,,DD14
-Sep-14,Junior,,DD14
-Sep-14,Junior,,DD37
-Sep-14,Junior,,DD37
-Sep-14,Junior,,DD37
-Sep-14,Junior,,DD37
-Sep-14,Junior,,DD37
-Sep-14,Junior,,DD37
-Sep-14,Junior,,DD37
-Sep-14,Junior,,DD37
-Sep-14,Junior,,DD37
-Sep-14,Junior,,DD39
-Sep-14,Junior,,DD39
-Sep-14,Junior,,DD39
-Sep-14,Junior,,DD39
-Sep-14,Junior,,DD39
-Sep-14,Junior,,DD39
-Sep-14,Junior,,DD41
-Sep-14,Junior,,DD41
-Sep-14,Junior,,DD41
-Sep-14,Junior,,DD41
-Sep-14,Junior,,DD41
-Sep-14,Junior,,DD41
-Sep-14,Junior,,DD41
-Sep-14,Junior,,DD41
-Sep-14,Junior,,DD41
-Sep-14,Junior,,DD41
-Sep-14,Junior,,DD83
-Sep-14,Junior,,DD83
-Sep-14,Junior,,DD83
-Sep-14,Junior,,DD83
-Sep-14,Junior,,DD40
-Sep-14,Junior,,DD40
-Sep-14,Junior,,DD40
-Sep-14,Junior,,DD40
-Sep-14,Junior,,DD40
-Sep-14,Junior,,DD40
-Sep-14,Junior,,DD40
-Sep-14,Junior,,D07
-Sep-14,Junior,,D07
-Sep-14,Junior,,D07
-Sep-14,Junior,,D07
-Sep-14,Junior,,DD21
-Sep-14,Junior,,DD21
-Sep-14,Junior,,DD21
-Sep-14,Junior,,DD21
-Sep-14,Junior,,DD21
-Sep-14,Junior,,DD21
-Sep-14,Junior,,DD21
-Sep-14,Junior,,DD21
-Sep-14,Junior,,DD21
-Sep-14,Junior,,DD21
-Sep-14,Junior,,DD21
-Sep-14,Junior,,DD23
-Sep-14,Junior,,DD23
-Sep-14,Junior,,DD23
-Sep-14,Junior,,DD23
-Sep-14,Junior,,DD23
-Sep-14,Junior,,DD23
-Sep-14,Junior,,DD23
-Sep-14,Junior,,DD23
-Sep-14,Junior,,DD23
-Sep-14,Junior,,DD23
-Sep-14,Junior,,DD23
-Sep-14,Junior,,DD23
-Sep-14,Junior,,DD24
-Sep-14,Junior,,DD24
-Sep-14,Junior,,DD24
-Sep-14,Junior,,DD24
-Sep-14,Junior,,DD24
-Sep-14,Junior,,DD24
-Sep-14,Junior,,DD24
-Sep-14,Junior,,DD24
-Sep-14,Junior,,DD24
-Sep-14,Junior,,DD24
-Sep-14,Junior,,DD24
-Sep-14,Junior,,DD85
-Sep-14,Junior,,DD85
-Sep-14,Junior,,DD85
-Sep-14,Junior,,D09
-Sep-14,Junior,,D09
-Sep-14,Junior,,D09
-Sep-14,Junior,,D09
-Sep-14,Junior,,D09
-Sep-14,Junior,,DD25
-Sep-14,Junior,,DD25
-Sep-14,Junior,,DD25
-Sep-14,Junior,,DD25
-Sep-14,Junior,,DD25
-Sep-14,Junior,,DD25
-Sep-14,Junior,,DD25
-Sep-14,Junior,,DD25
-Sep-14,Junior,,DD25
-Sep-14,Junior,,DD25
-Sep-14,Junior,,DD25
-Sep-14,Junior,,DD25
-Sep-14,Junior,,DD25
-Sep-14,Junior,,DD25
-Sep-14,Junior,,DD25
-Sep-14,Junior,,DD27
-Sep-14,Junior,,DD27
-Sep-14,Junior,,DD27
-Sep-14,Junior,,DD27
-Sep-14,Junior,,DD27
-Sep-14,Junior,,DD27
-Sep-14,Junior,,DD27
-Sep-14,Junior,,DD27
-Sep-14,Junior,,DD27
-Sep-14,Junior,,DD27
-Sep-14,Junior,,DD27
-Sep-14,Junior,,DD30
-Sep-14,Junior,,DD30
-Sep-14,Junior,,DD30
-Sep-14,Junior,,DD30
-Sep-14,Junior,,DD30
-Sep-14,Junior,,DD30
-Sep-14,Junior,,DD30
-Sep-14,Junior,,DD30
-Sep-14,Junior,,DD30
-Sep-14,Junior,,DD30
-Sep-14,Junior,,DD30
-Sep-14,Junior,,DD31
-Sep-14,Junior,,DD31
-Sep-14,Junior,,DD31
-Sep-14,Junior,,DD31
-Sep-14,Junior,,DD31
-Sep-14,Junior,,DD35
-Sep-14,Junior,,DD35
-Sep-14,Junior,,DD35
-Sep-14,Junior,,DD35
-Sep-14,Junior,,DD35
-Sep-14,Junior,,DD35
-Sep-14,Junior,,DD83
-Sep-14,Junior,,DD83
-Sep-14,Junior,,DD83
-Sep-14,Junior,,DD83
-Sep-14,Junior,,DD83
-Sep-14,Junior,,DD83
-Sep-14,Junior,,DD42
-Sep-14,Junior,,DD42
-Sep-14,Junior,,DD42
-Sep-14,Junior,,DD42
-Sep-14,Junior,,DD42
-Sep-14,Junior,,DD43
-Sep-14,Junior,,DD43
-Sep-14,Junior,,DD43
-Sep-14,Junior,,DD43
-Sep-14,Junior,,DD44
-Sep-14,Junior,,DD44
-Sep-14,Junior,,DD44
-Sep-14,Junior,,DD44
-Sep-14,Junior,,DD44
-Sep-14,Junior,,DD45
-Sep-14,Junior,,DD45
-Sep-14,Junior,,DD45
-Sep-14,Junior,,DD45
-Sep-14,Junior,,DD45
-Sep-14,Junior,,DD45
-Sep-14,Junior,,DD46
-Sep-14,Junior,,DD46
-Sep-14,Junior,,DD46
-Sep-14,Junior,,DD46
-Sep-14,Junior,,DD46
-Sep-14,Junior,,DD46
-Sep-14,Junior,,DD46
-Sep-14,Junior,,DD46
-Sep-14,Junior,,DD46
-Sep-14,Junior,,DD47
-Sep-14,Junior,,DD47
-Sep-14,Junior,,DD47
-Sep-14,Junior,,DD47
-Sep-14,Junior,,DD47
-Sep-14,Junior,,DD47
-Sep-14,Junior,,DD47
-Sep-14,Junior,,DD47
-Sep-14,Junior,,DD47
-Sep-14,Junior,,DD47
-Sep-14,Junior,,DD47
-Sep-14,Junior,,DD47
-Sep-14,Junior,,DD47
-Sep-14,Junior,,DD47
-Sep-14,Junior,,DD47
-Sep-14,Junior,,DD48
-Sep-14,Junior,,DD48
-Sep-14,Junior,,DD48
-Sep-14,Junior,,DD48
-Sep-14,Junior,,DD48
-Sep-14,Junior,,DD48
-Sep-14,Junior,,DD48
-Sep-14,Junior,,DD48
-Sep-14,Junior,,DD48
-Sep-14,Junior,,DD48
-Sep-14,Junior,,DD48
-Sep-14,Junior,,DD49
-Sep-14,Junior,,DD49
-Sep-14,Junior,,DD49
-Sep-14,Junior,,DD49
-Sep-14,Junior,,DD49
-Sep-14,Junior,,DD49
-Sep-14,Junior,,DD49
-Sep-14,Junior,,DD49
-Sep-14,Junior,,DD49
-Sep-14,Junior,,DD49
-Sep-14,Junior,,DD93
-Sep-14,Junior,,DD93
-Sep-14,Junior,,DD93
-Sep-14,Junior,,DD93
-Sep-14,Junior,,DD93
-Sep-14,Junior,,DD93
-Sep-14,Junior,,DD93
-Sep-14,Junior,,DD93
-Sep-14,Junior,,DD93
-Sep-14,Junior,,DD93
-Sep-14,Junior,,DD69
-Sep-14,Junior,,DD81
-Sep-14,Junior,,DD81
-Sep-14,Junior,,DD81
-Sep-14,Junior,,DD81
-Sep-14,Junior,,DD81
-Sep-14,Junior,,DD81
-Sep-14,Junior,,DD81
-Sep-14,Junior,,DD81
-Sep-14,Junior,,DD81
-Sep-14,Junior,,DD81
-Sep-14,Junior,,DD81
-Sep-14,Junior,,DD81
-Sep-14,Junior,,DD81
-Sep-14,Junior,,DD81
-Sep-14,Junior,,DD81
-Sep-14,Junior,,D15
-Sep-14,Junior,,D15
-Sep-14,Junior,,D15
-Sep-14,Junior,,D15
-Sep-14,Junior,,D15
-Sep-14,Junior,,D15
-Sep-14,Junior,,D20
-Sep-14,Junior,,D20
-Sep-14,Junior,,D20
-Sep-14,Junior,,D20
-Sep-14,Junior,,D20
-Sep-14,Junior,,D20
-Sep-14,Junior,,D20
-Sep-14,Junior,,D20
-Sep-14,Junior,,D20
-Sep-14,Junior,,D20
-Sep-14,Junior,,DD68
-Sep-14,Junior,,DD75
-Sep-14,Junior,,DD75
-Sep-14,Junior,,DD75
-Sep-14,Junior,,DD75
-Sep-14,Junior,,DD75
-Sep-14,Junior,,DD75
-Sep-14,Junior,,DD75
-Sep-14,Junior,,DD75
-Sep-14,Junior,,DD78
-Sep-14,Junior,,DD75
-Sep-14,Junior,,DD75
-Sep-14,Junior,,DD75
-Sep-14,Junior,,DD75
-Sep-14,Junior,,DD75
-Sep-14,Junior,,DD75
-Sep-14,Junior,,D15
-Sep-14,Junior,,D13
-Sep-14,Junior,,D13
-Sep-14,Junior,,D13
-Sep-14,Junior,,D13
-Sep-14,Junior,,DD43
-Sep-14,Junior,,DD43
-Sep-14,Junior,,DD43
-Sep-14,Junior,,DD43
-Sep-14,Junior,,DD43
-Sep-14,Junior,,DD43
-Sep-14,Junior,,DD43
-Sep-14,Junior,,DD43
-Sep-14,Junior,,DD43
-Sep-14,Junior,,DD43
-Sep-14,Junior,,DD43
-Sep-14,Junior,,DD43
-Sep-14,Junior,,DD43
-Sep-14,Junior,,DD43
-Sep-14,Junior,,DD50
-Sep-14,Junior,,DD50
-Sep-14,Junior,,DD50
-Sep-14,Junior,,DD50
-Sep-14,Junior,,DD50
-Sep-14,Junior,,DD50
-Sep-14,Junior,,DD50
-Sep-14,Junior,,DD50
-Sep-14,Junior,,DD50
-Sep-14,Junior,,DD50
-Sep-14,Junior,,DD50
-Sep-14,Junior,,DD52
-Sep-14,Junior,,DD52
-Sep-14,Junior,,DD52
-Sep-14,Junior,,DD52
-Sep-14,Junior,,DD52
-Sep-14,Junior,,DD52
-Sep-14,Junior,,DD52
-Sep-14,Junior,,DD52
-Sep-14,Junior,,DD52
-Sep-14,Junior,,DD54
-Sep-14,Junior,,DD54
-Sep-14,Junior,,DD54
-Sep-14,Junior,,DD54
-Sep-14,Junior,,DD54
-Sep-14,Junior,,DD54
-Sep-14,Junior,,DD54
-Sep-14,Junior,,DD54
-Sep-14,Junior,,DD54
-Sep-14,Junior,,DD54
-Sep-14,Junior,,DD54
-Sep-14,Junior,,DD54
-Sep-14,Junior,,DD55
-Sep-14,Junior,,DD55
-Sep-14,Junior,,DD55
-Sep-14,Junior,,DD55
-Sep-14,Junior,,DD55
-Sep-14,Junior,,DD55
-Sep-14,Junior,,DD55
-Sep-14,Junior,,DD55
-Sep-14,Junior,,DD55
-Sep-14,Junior,,DD55
-Sep-14,Junior,,DD55
-Sep-14,Junior,,DD56
-Sep-14,Junior,,DD56
-Sep-14,Junior,,DD56
-Sep-14,Junior,,DD56
-Sep-14,Junior,,DD56
-Sep-14,Junior,,DD56
-Sep-14,Junior,,DD56
-Sep-14,Junior,,DD56
-Sep-14,Junior,,DD56
-Sep-14,Junior,,DD56
-Sep-14,Junior,,DD56
-Sep-14,Junior,,DD57
-Sep-14,Junior,,DD57
-Sep-14,Junior,,DD83
-Sep-14,Junior,,D14
-Sep-14,Junior,,D14
-Sep-14,Junior,,D14
-Sep-14,Junior,,D14
-Sep-14,Junior,,D14
-Sep-14,Junior,,D14
-Sep-14,Junior,,D14
-Sep-14,Junior,,D14
-Sep-14,Junior,,DD38
-Sep-14,Junior,,DD38
-Sep-14,Junior,,DD38
-Sep-14,Junior,,DD38
-Sep-14,Junior,,DD38
-Sep-14,Junior,,DD38
-Sep-14,Junior,,DD38
-Sep-14,Junior,,DD38
-Sep-14,Junior,,DD38
-Sep-14,Junior,,DD38
-Sep-14,Junior,,DD52
-Sep-14,Junior,,DD52
-Sep-14,Junior,,DD52
-Sep-14,Junior,,DD52
-Sep-14,Junior,,DD58
-Sep-14,Junior,,DD58
-Sep-14,Junior,,DD58
-Sep-14,Junior,,DD58
-Sep-14,Junior,,DD58
-Sep-14,Junior,,DD58
-Sep-14,Junior,,DD58
-Sep-14,Junior,,DD58
-Sep-14,Junior,,DD58
-Sep-14,Junior,,DD58
-Sep-14,Junior,,DD58
-Sep-14,Junior,,DD58
-Sep-14,Junior,,DD59
-Sep-14,Junior,,DD59
-Sep-14,Junior,,DD59
-Sep-14,Junior,,DD59
-Sep-14,Junior,,DD59
-Sep-14,Junior,,DD59
-Sep-14,Junior,,DD59
-Sep-14,Junior,,DD59
-Sep-14,Junior,,DD60
-Sep-14,Junior,,DD60
-Sep-14,Junior,,DD60
-Sep-14,Junior,,DD60
-Sep-14,Junior,,DD60
-Sep-14,Junior,,DD60
-Sep-14,Junior,,DD62
-Sep-14,Junior,,DD62
-Sep-14,Junior,,DD62
-Sep-14,Junior,,DD62
-Sep-14,Junior,,DD62
-Sep-14,Junior,,DD62
-Sep-14,Junior,,DD62
-Sep-14,Junior,,DD63
-Sep-14,Junior,,DD63
-Sep-14,Junior,,DD63
-Sep-14,Junior,,DD63
-Sep-14,Junior,,DD63
-Sep-14,Junior,,DD63
-Sep-14,Junior,,DD63
-Sep-14,Junior,,DD63
-Sep-14,Junior,,DD63
-Sep-14,Junior,,DD97
-Sep-14,Junior,,DD97
-Sep-14,Junior,,DG03
-Sep-14,Junior,,DG03
+date,id,parentId,level,name,grade,jobTitle,unit,salaryCostOfReports,payFloor,payCeil,professionalOccupationalGroup
+Sep-14,PS,,Senior,Bronwyn Hill,SCS4,Permanent Secretary,Strategy & Private Office,0,160000,164999,Policy
+Sep-14,DG01,PS,Senior,Betsy Bassis,SCS3,Chief Operating Officer,Director General Offices,210000,140000,144999,Policy
+Sep-14,DG02,PS,Senior,Peter Unwin,SCS3,Director General Policy Delivery Group,Director General Offices,0,130000,134999,Policy
+Sep-14,DG03,PS,Senior,Nicholas Joicey,SCS3,"Director General Strategy, International & Biosecurity",Director General Offices,414000,105000,109999,Policy
+Sep-14,DG04,PS,Senior,Ian Boyd,SCS3,Chief Scientific Adviser,Strategic Evidence & Analysis,0,95000,99999,Science and Engineering
+Sep-14,D01,DG01,Senior,Martin Hurst,SCS2,Commercial Director,Commercial,771000,90000,94999,Property and asset management
+Sep-14,D02,DG01,Senior,Alastair Bridges,SCS2,Director of Finance & Performance,Finance,0,85000,89999,Finance
+Sep-14,D03,DG01,Senior,Lorraine Jainudeen,SCS2,Group HR Director,Human Resources,0,100000,104999,Human Resources
+Sep-14,D04,DG01,Senior,Julie Pierce,SCS2,"Chief Information Officer, Director of Information Services",Chief Information Officer,3234000,115000,119999,Knowledge and Information Management (KIM)
+Sep-14,D06,DG03,Senior,N/D,SCS2,"Director, Animal Health & Welfare (Disease Control)",Animal Health & Welfare: Disease Control,0,85000,89999,Policy
+Sep-14,D07,DG03,Senior,Alick Simmons,SCS2,Director of Plant & Animal Health and Deputy Chief Veterinary Officer,Plant & Animal Health,181000,100000,104999,Vets
+Sep-14,D08,DG03,Senior,Nigel Gibbens,SCS2,Chief Veterinary Officer,Plant & Animal Health,0,115000,119999,Vets
+Sep-14,D09,DG02,Senior,Colin Church,SCS2,"Director, Resource, Atmosphere & Sustainability",Resource Atmosphere & Sustainability,643000,90000,94999,Policy
+Sep-14,D10,DG02,Senior,Sarah Church,SCS2,"Director, Food and Environmental Risk",Food & Environmental Risk,0,85000,89999,Policy
+Sep-14,D11,DG02,Senior,John Robbs,SCS2,Director: Marine and Fisheries,Marine & Fisheries,0,110000,114999,Policy
+Sep-14,D12,DG02,Senior,Sarah Hendry,SCS2,"Director Rural Development, Sustainable Communities & Crops","Rural Development, Sustainable Communities & Crops",0,90000,94999,Policy
+Sep-14,D13,DG02,Senior,Shirley Trundle,SCS2,Director Sustainable Land Management and Livestock Farming,Sustainable Land Management & Livestock Farming,308000,110000,114999,Policy
+Sep-14,D14,DG02,Senior,Sonia Phippard,SCS2,"Director, Water and Flood Risk Management",Water & Flood Management,784000,115000,119999,Policy
+Sep-14,D15,DG03,Senior,Ulrike Hotopp,SCS2,Director Analysis and Chief Economist,Strategic Evidence & Analysis,448000,85000,89999,Economics
+Sep-14,D17,DG03,Senior,Emily Tofield,SCS2,Director of Communications,Communications,0,85000,89999,Communications
+Sep-14,D18,DG03,Senior,Amy Holmes,SCS2,"Director: Better Regulation, EU and International","EU, International & CAP Reform",262000,85000,89999,Policy
+Sep-14,D20,DG03,Senior,Jeremy Marlow,SCS2,Principal Private Secretary and Director of Strategy,Strategy & Private Office,1310000,85000,89999,Policy
+Sep-14,D22,DG03,Senior,Tom Holton,SCS2,"Director, Defra Network One Business",Strategic Alignment,0,95000,99999,Information Technology
+Sep-14,D23,DG01,Senior,Jonathan Broomfield,SCS2,"Director, CAP Delivery Programme",CAP Delivery,187000,0,0,Policy
+Sep-14,D24,DG01,Senior,Dave Webster,SCS2,"Interim Director, Network Corporate Services",Director General Offices,0,110000,114999,Policy
+Sep-14,DD01,D01,Senior,N/D,SCS1,"Deputy Director, Commercial Projects and Strategy",Commercial,312000,N/A,,Policy
+Sep-14,DD02,D01,Senior,N/D,SCS1,"Head, Kew Sponsorship and Agency Futures Team",Commercial,0,N/A,,Policy
+Sep-14,DD03,D01,Senior,N/D,SCS1,Head of Commercial Projects,Commercial,421000,N/A,,Policy
+Sep-14,DD04,D01,Senior,N/D,SCS1,Head of Procurement & Contracts Function,Commercial,1593000,N/A,,Procurement
+Sep-14,DD05,D01,Senior,N/D,SCS1,Deputy Director Managing the Defra network Estate,Commercial,1455000,N/A,,Property and asset management
+Sep-14,DD07,D02,Senior,N/D,SCS1,Head of Financial Business Partnering,Finance,1438000,N/A,,Finance
+Sep-14,DD08,D02,Senior,N/D,SCS1,"Head of Finance, Planning, Performance and Governance",Finance,1348000,N/A,,Finance
+Sep-14,DD09,D02,Senior,N/D,SCS1,Group Chief Internal Auditor - Defra Shared Audit Service (DSAS),Finance,708000,N/A,,Internal Audit
+Sep-14,DD10,D02,Senior,N/D,SCS1,Deputy Director Financial Reporting and Control,Finance,1705000,N/A,,Finance
+Sep-14,DD11,D02,Senior,N/D,SCS1,Lead Finance Business Partner for Enablers,Finance,603000,N/A,,Finance
+Sep-14,DD12,D03,Senior,N/D,SCS1,Deputy Director HR Expert Services,Human Resources,1585000,N/A,,Human Resources
+Sep-14,DD13,D03,Senior,N/D,SCS1,"Deputy Director, Defra HR Senior Business Partnering",Human Resources,392000,N/A,,Human Resources
+Sep-14,DD14,D03,Senior,N/D,SCS1,Deputy Director - Strategy,Human Resources,604000,N/A,,Human Resources
+Sep-14,DD17,D04,Senior,N/D,SCS1,Defra Group Deputy CIO,Chief Information Officer,1549000,N/A,,Information Technology
+Sep-14,DD20,D06,Senior,N/D,SCS1,Deputy Director Animal Welfare,Animal Health & Welfare: Disease Control,782000,N/A,,Policy
+Sep-14,DD21,D07,Senior,N/D,SCS1,Deputy Director Animal Health and Welfare (Disease Control),Plant & Animal Health,1176000,N/A,,Social Research
+Sep-14,DD22,D06,Senior,N/D,SCS1,Head of bTB Programme,Animal Health & Welfare: Disease Control,1107000,N/A,,Policy
+Sep-14,DD23,D07,Senior,N/D,SCS1,Deputy Director Animal Health,Plant & Animal Health,1948000,N/A,,Vets
+Sep-14,DD24,D07,Senior,N/D,SCS1,Deputy Director Animal Health and Welfare (Disease Control),Plant & Animal Health,850000,N/A,,Policy
+Sep-14,DD25,D09,Senior,N/D,SCS1,Head of Atmosphere and Noise,Resource Atmosphere & Sustainability,1666000,N/A,,Policy
+Sep-14,DD27,D09,Senior,N/D,SCS1,Deputy Director Analysis and Evidence,Resource Atmosphere & Sustainability,889000,N/A,,Policy
+Sep-14,DD30,D09,Senior,N/D,SCS1,Head of Waste Policy and Regulation,Resource Atmosphere & Sustainability,1322000,N/A,,Policy
+Sep-14,DD31,D09,Senior,N/D,SCS1,"Deputy Director – Waste Infrastructure, Growth and International",Resource Atmosphere & Sustainability,760000,N/A,,Policy
+Sep-14,DD32,D10,Senior,N/D,SCS1,"Head, Chemicals and Emerging Technologies",Food & Environmental Risk,1092000,N/A,,Policy
+Sep-14,DD33,D10,Senior,N/D,SCS1,"Deputy Director, Food Security and Food Standards",Food & Environmental Risk,1161000,N/A,,Policy
+Sep-14,DD34,D10,Senior,N/D,SCS1,"Deputy Director, Food Policy, Competitiveness and Growth",Food & Environmental Risk,738000,N/A,,Policy
+Sep-14,DD35,D09,Senior,N/D,SCS1,Head of Sustainable Business,Resource Atmosphere & Sustainability,1009000,N/A,,Policy
+Sep-14,DD37,D11,Senior,N/D,SCS1,"Deputy Director, Marine Environment Strategy",Marine & Fisheries,618000,N/A,,Policy
+Sep-14,DD38,D14,Senior,N/D,SCS1,Deputy Director for CBRN Recovery & Evidence,Water & Flood Management,1023000,N/A,,Science and Engineering
+Sep-14,DD39,D11,Senior,N/D,SCS1,"Deputy Director, Head of Sea Fisheries Conservation",Marine & Fisheries,729000,N/A,,Policy
+Sep-14,DD40,D11,Senior,N/D,SCS1,Deputy Director Marine Planning and Sustainable Fisheries,Marine & Fisheries,942000,N/A,,Policy
+Sep-14,DD41,D11,Senior,N/D,SCS1,Deputy Director Marine Biodiversity,Marine & Fisheries,640000,N/A,,Policy
+Sep-14,DD42,D12,Senior,N/D,SCS1,CAP Direct Payments Policy,"Rural Development, Sustainable Communities & Crops",363000,N/A,,Policy
+Sep-14,DD43,D13,Senior,N/D,SCS1,Evidence Deputy Director,"Rural Development, Sustainable Communities & Crops",1584000,N/A,,Statisticians
+Sep-14,DD44,D12,Senior,N/D,SCS1,"Deputy Director, CAP Implementation","Rural Development, Sustainable Communities & Crops",437000,N/A,,Policy
+Sep-14,DD45,D12,Senior,Vacant,SCS1,"Deputy Director, Crops & Horticulture Policy Delivery","Rural Development, Sustainable Communities & Crops",578000,N/A,,Policy
+Sep-14,DD46,D12,Senior,N/D,SCS1,Deputy Director Rural Development Programme Policy,"Rural Development, Sustainable Communities & Crops",688000,N/A,,Policy
+Sep-14,DD47,D12,Senior,N/D,SCS1,Rural Development Director - RPA,"Rural Development, Sustainable Communities & Crops",3631000,N/A,,Policy
+Sep-14,DD48,D12,Senior,N/D,SCS1,"Head, Rural Communities Policy Unit","Rural Development, Sustainable Communities & Crops",1360000,N/A,,Policy
+Sep-14,DD49,D12,Senior,N/D,SCS1,"Deputy Director Landscape, Outdoor Recreation and Forestry","Rural Development, Sustainable Communities & Crops",1003000,N/A,,Policy
+Sep-14,DD50,D13,Senior,N/D,SCS1,Head of UK/EU Bioversity,Sustainable Land Management & Livestock Farming,1382000,N/A,,Policy
+Sep-14,DD51,D18,Senior,N/D,SCS1,Deputy Director International Biodiversity,"EU, International & CAP Reform",635000,N/A,,Policy
+Sep-14,DD52,D13,Senior,N/D,SCS1,Deputy Director Sponsorship and Public Body Reform,Sustainable Land Management & Livestock Farming,655000,N/A,,Policy
+Sep-14,DD53,D15,Senior,N/D,SCS1,Evidence Deputy Director,Food & Environmental Risk,0,N/A,,Economics
+Sep-14,DD54,D13,Senior,N/D,SCS1,"Deputy Director, Sustainable and Competitive Farming Strategy",Sustainable Land Management & Livestock Farming,1718000,N/A,,Communications
+Sep-14,DD55,D13,Senior,N/D,SCS1,Deputy Director Sustainable Land and Soils,Sustainable Land Management & Livestock Farming,1111000,N/A,,Policy
+Sep-14,DD56,D13,Senior,N/D,SCS1,Deputy Director Sustainable Land and Rural Evidence and Analysis,Sustainable Land Management & Livestock Farming,748000,N/A,,Policy
+Sep-14,DD57,D13,Senior,N/D,SCS1,Head of NCC Secretariat,Sustainable Land Management & Livestock Farming,0,N/A,,Policy
+Sep-14,DD58,D14,Senior,N/D,SCS1,"Deputy Director, Flood and Coastal Erosion Risk Management",Water & Flood Management,1451000,N/A,,Policy
+Sep-14,DD59,D14,Senior,N/D,SCS1,Chief Inspector of Drinking Water,Water & Flood Management,1647000,N/A,,Operational Delivery
+Sep-14,DD60,D14,Senior,N/D,SCS1,"Deputy Director, Water Programme - Water Reform",Water & Flood Management,545000,N/A,,Policy
+Sep-14,DD62,D14,Senior,N/D,SCS1,"Deputy Director, Water Programme - Water Quality",Water & Flood Management,1385000,N/A,,Policy
+Sep-14,DD63,D14,Senior,N/D,SCS1,"Deputy Director for Water Supply and Infrastructure, Water Availabilty and Quality Programme",Water & Flood Management,1566000,N/A,,Policy
+Sep-14,DD64,D17,Senior,N/D,SCS1,"Deputy Director, Internal Communications, Stakeholder Management & Engagement and Local Growth",Communications,1047000,N/A,,Policy
+Sep-14,DD65,D17,Senior,N/D,SCS1,Head of News and External Communications,Communications,800000,N/A,,Communications
+Sep-14,DD67,D18,Senior,N/D,SCS1,Head of International,"EU, International & CAP Reform",597000,N/A,,Policy
+Sep-14,DD68,D18,Senior,N/D,SCS1,Deputy Director for International and Strategy Analysis,"EU, International & CAP Reform",539000,N/A,,Economics
+Sep-14,DD69,D15,Senior,N/D,SCS1,Chief Statistician,Strategic Evidence & Analysis,0,N/A,,Statisticians
+Sep-14,DD70,D18,Senior,N/D,SCS1,Deputy Director EU Strategy,"EU, International & CAP Reform",694000,N/A,,Policy
+Sep-14,DD72,D18,Senior,N/D,SCS1,Head of Better Regulation Team,"EU, International & CAP Reform",982000,N/A,,Policy
+Sep-14,DD75,D20,Senior,N/D,SCS1,"Head of Strategy and Implementation Unit and Parliamentary and Cabinet Team, Defra",Strategy & Private Office,715000,N/A,,Policy
+Sep-14,DD77,D06,Senior,N/D,SCS1,Deputy Director Animal Health & Welfare,Animal Health & Welfare: Disease Control,338000,N/A,,Policy
+Sep-14,DD78,D20,Senior,N/D,SCS1,Deputy Director Strategy & CCU,Strategy & Private Office,1519000,N/A,,Policy
+Sep-14,DD79,D01,Senior,N/D,SCS1,Deputy Director Lead - SOP Transformation Delivery Lead,Commercial,0,N/A,,Operational Delivery
+Sep-14,DD81,D15,Senior,N/D,SCS1,Deputy Chief Scientific Adviser,Strategic Evidence & Analysis,1291000,N/A,,Policy
+Sep-14,DD82,D06,Senior,N/D,SCS1,Deputy Director Animal Health Policy and Implementation,Animal Health & Welfare: Disease Control,1330000,N/A,,Policy
+Sep-14,DD83,D09,Senior,N/D,SCS1,Deputy Director Sustainable Development,Strategic Evidence & Analysis,759000,N/A,,Other
+Sep-14,DD84,D23,Senior,N/D,SCS1,"Assurance Director, CAP Delivery Programme",CAP Delivery,0,N/A,,Policy
+Sep-14,DD85,D07,Senior,N/D,SCS1,Chief Plant Health Officer,Plant & Animal Health,0,N/A,,Policy
+Sep-14,DD88,D10,Senior,Eliminated,SCS1,Deputy Director Review of the Integrity & Assurance of Food Supply Network,Eliminated,0,N/A,,Policy
+Sep-14,DD89,D01,Senior,N/D,SCS1,SOP Delivery director,Commercial,0,N/A,,Operational Delivery
+Sep-14,DD90,D12,Senior,N/D,SCS1,"Director, UK Co-ordinating Body","Rural Development, Sustainable Communities & Crops",0,N/A,,Policy
+Sep-14,DD91,D14,Senior,Eliminated,SCS1,Deputy Director Floods Emergency response,Eliminated,0,N/A,,Policy
+Sep-14,DD92,D09,Senior,Eliminated,SCS1,"Deputy Director, Waste Strategy and Management",Eliminated,0,N/A,,Policy
+Sep-14,DD93,D22,Senior,Vacant,SCS1,Head of Strategic Alignment Finance & Performance,Strategic Alignment,802000,N/A,,Policy
+Sep-14,DD94,D22,Senior,N/D,SCS1,Deputy Director - Estates,Strategic Alignment,0,N/A,,Policy
+Sep-14,DD95,D23,Senior,N/D,SCS1,Deputy Director CAP Delivery Programme,CAP Delivery,0,N/A,,Policy
+Sep-14,DD96,D23,Senior,N/D,SCS1,Deputy Programme Director,CAP Delivery,1813000,N/A,,Policy
+Sep-14,DD97,D14,Senior,N/D,SCS1,"Deputy Director, Flood Recovery",Water & Flood Management,0,N/A,,Policy
+Sep-14,DD98,D06,Senior,N/D,SCS1,bTB Programme,Animal Health & Welfare: Disease Control,0,N/A,,Policy
+Sep-14,DD99,D18,Senior,Eliminated,SCS1,Better Regulation,Eliminated,0,N/A,,Policy
+Sep-14,DD100,D14,Senior,N/D,SCS1,Deputy Director in Flood Risk Management,Water & Flood Management,0,N/A,,Policy
+Sep-14,,DD20,Junior,,AA (L),Administrative Assistant,Animal Health & Welfare: Disease Control,0,19320,19890,Policy
+Sep-14,,DD20,Junior,,AO (L),Administrative Officer,Animal Health & Welfare: Disease Control,0,22070,23170,Policy
+Sep-14,,DD20,Junior,,AO (L),Personal Secretary,Animal Health & Welfare: Disease Control,0,22070,23170,Policy
+Sep-14,,DD20,Junior,,EO (L),Executive Officer,Animal Health & Welfare: Disease Control,0,25500,29210,Policy
+Sep-14,,DD20,Junior,,FS (L),Higher Executive Officer (D),Animal Health & Welfare: Disease Control,0,27500,36000,Policy
+Sep-14,,DD20,Junior,,G7 (L),Grade 7,Animal Health & Welfare: Disease Control,0,49400,59290,Policy
+Sep-14,,DD20,Junior,,HEO (L),Higher Executive Officer,Animal Health & Welfare: Disease Control,0,30510,35350,Policy
+Sep-14,,DD20,Junior,,SEO (L),Senior Executive Officer,Animal Health & Welfare: Disease Control,0,36610,43190,Policy
+Sep-14,,DD21,Junior,,AO (L),Administrative Officer,Animal Health & Welfare: Disease Control,0,22070,23170,Policy
+Sep-14,,DD21,Junior,,EO (L),Executive Officer,Animal Health & Welfare: Disease Control,0,25500,29210,Policy
+Sep-14,,DD21,Junior,,EO (N),Executive Officer,Animal Health & Welfare: Disease Control,0,22820,26040,Policy
+Sep-14,,DD21,Junior,,FS (L),Assistant Economist,Animal Health & Welfare: Disease Control,0,27500,36000,Economics
+Sep-14,,DD21,Junior,,G6 (L),Grade 6,Animal Health & Welfare: Disease Control,0,59050,70310,Policy
+Sep-14,,DD21,Junior,,G7 (L),Grade 7,Animal Health & Welfare: Disease Control,0,49400,59290,Policy
+Sep-14,,DD21,Junior,,G7 (N),Grade 7,Animal Health & Welfare: Disease Control,0,44970,53910,Policy
+Sep-14,,DD21,Junior,,HEO (N),Higher Executive Officer,Animal Health & Welfare: Disease Control,0,27400,31680,Policy
+Sep-14,,DD22,Junior,,AO (L),Administrative Officer,Animal Health & Welfare: Disease Control,0,22070,23170,Policy
+Sep-14,,DD22,Junior,,EO (L),Executive Officer,Animal Health & Welfare: Disease Control,0,25500,29210,Policy
+Sep-14,,DD22,Junior,,FS (L),Higher Executive Officer (D),Animal Health & Welfare: Disease Control,0,27500,36000,Policy
+Sep-14,,DD22,Junior,,G6 (L),Grade 6,Animal Health & Welfare: Disease Control,0,59050,70310,Policy
+Sep-14,,DD22,Junior,,G7 (L),Grade 7,Animal Health & Welfare: Disease Control,0,49400,59290,Policy
+Sep-14,,DD22,Junior,,G7 (L),Not in Post,Animal Health & Welfare: Disease Control,0,49400,59290,Policy
+Sep-14,,DD22,Junior,,HEO (L),Higher Executive Officer,Animal Health & Welfare: Disease Control,0,30510,35350,Policy
+Sep-14,,DD22,Junior,,HEO (N),Higher Executive Officer,Animal Health & Welfare: Disease Control,0,27400,31680,Policy
+Sep-14,,DD22,Junior,,SEO (L),Senior Executive Officer,Animal Health & Welfare: Disease Control,0,36610,43190,Policy
+Sep-14,,DD77,Junior,,AO (L),Administrative Officer,Animal Health & Welfare: Disease Control,0,22070,23170,Policy
+Sep-14,,DD77,Junior,,EO (L),Executive Officer,Animal Health & Welfare: Disease Control,0,25500,29210,Policy
+Sep-14,,DD77,Junior,,FS (L),Higher Executive Officer (D),Animal Health & Welfare: Disease Control,0,27500,36000,Policy
+Sep-14,,DD77,Junior,,G7 (L),Grade 7,Animal Health & Welfare: Disease Control,0,49400,59290,Policy
+Sep-14,,DD77,Junior,,HEO (L),Higher Executive Officer,Animal Health & Welfare: Disease Control,0,30510,35350,Policy
+Sep-14,,DD82,Junior,,AO (L),Administrative Officer,Animal Health & Welfare: Disease Control,0,22070,23170,Policy
+Sep-14,,DD82,Junior,,AO (L),Personal Secretary,Animal Health & Welfare: Disease Control,0,22070,23170,Policy
+Sep-14,,DD82,Junior,,EO (L),Executive Officer,Animal Health & Welfare: Disease Control,0,25500,29210,Policy
+Sep-14,,DD82,Junior,,FS (L),Higher Executive Officer (D),Animal Health & Welfare: Disease Control,0,27500,36000,Policy
+Sep-14,,DD82,Junior,,G6 (L),Grade 6,Animal Health & Welfare: Disease Control,0,59050,70310,Policy
+Sep-14,,DD82,Junior,,G6 (N),Grade 6,Animal Health & Welfare: Disease Control,0,54310,65080,Policy
+Sep-14,,DD82,Junior,,G7 (L),Grade 7,Animal Health & Welfare: Disease Control,0,49400,59290,Policy
+Sep-14,,DD82,Junior,,HEO (L),Higher Executive Officer,Animal Health & Welfare: Disease Control,0,30510,35350,Policy
+Sep-14,,DD82,Junior,,HEO (L),Higher Scientific Officer,Animal Health & Welfare: Disease Control,0,30510,35350,Policy
+Sep-14,,DD82,Junior,,HEO (N),Higher Executive Officer,Animal Health & Welfare: Disease Control,0,27400,31680,Policy
+Sep-14,,DD82,Junior,,SEO (L),Senior Executive Officer,Animal Health & Welfare: Disease Control,0,36610,43190,Policy
+Sep-14,,DD82,Junior,,SEO (N),Senior Executive Officer,Animal Health & Welfare: Disease Control,0,33900,40000,Policy
+Sep-14,,DD96,Junior,,AO (N),Administrative Officer,CAP Delivery,0,19060,20010,Policy
+Sep-14,,DD96,Junior,,EO (L),Executive Officer,CAP Delivery,0,25500,29210,Policy
+Sep-14,,DD96,Junior,,EO (L),Not in Post,CAP Delivery,0,25500,29210,Policy
+Sep-14,,DD96,Junior,,EO (N),Executive Officer,CAP Delivery,0,22820,26040,Policy
+Sep-14,,DD96,Junior,,FS (L),Higher Executive Officer (D),CAP Delivery,0,27500,36000,Information Technology
+Sep-14,,DD96,Junior,,FS (L),Higher Executive Officer (D),CAP Delivery,0,27500,36000,Policy
+Sep-14,,DD96,Junior,,G6 (L),Grade 6,CAP Delivery,0,59050,70310,Policy
+Sep-14,,DD96,Junior,,G6 (N),Grade 6,CAP Delivery,0,54310,65080,Policy
+Sep-14,,DD96,Junior,,G7 (L),Grade 7,CAP Delivery,0,49400,59290,Policy
+Sep-14,,DD96,Junior,,G7 (N),Grade 7,CAP Delivery,0,44970,53910,Policy
+Sep-14,,DD96,Junior,,HEO (L),Higher Executive Officer,CAP Delivery,0,30510,35350,Finance
+Sep-14,,DD96,Junior,,HEO (L),Higher Executive Officer,CAP Delivery,0,30510,35350,Policy
+Sep-14,,DD96,Junior,,HEO (N),Higher Executive Officer,CAP Delivery,0,27400,31680,Policy
+Sep-14,,DD96,Junior,,SEO (L),Senior Executive Officer,CAP Delivery,0,36610,43190,Internal Audit
+Sep-14,,DD96,Junior,,SEO (L),Senior Executive Officer,CAP Delivery,0,36610,43190,Policy
+Sep-14,,DD96,Junior,,SEO (N),Senior Executive Officer,CAP Delivery,0,33900,40000,Information Technology
+Sep-14,,DD96,Junior,,SEO (N),Senior Executive Officer,CAP Delivery,0,33900,40000,Policy
+Sep-14,,D04,Junior,,AA (N),Support Grade Band 2,Chief Information Officer,0,15980,16450,Knowledge and Information Management (KIM)
+Sep-14,,D04,Junior,,AO (L),Administrative Officer,Chief Information Officer,0,22070,23170,Knowledge and Information Management (KIM)
+Sep-14,,D04,Junior,,AO (N),Administrative Officer,Chief Information Officer,0,19060,20010,Knowledge and Information Management (KIM)
+Sep-14,,D04,Junior,,EO (L),Assistant Librarian,Chief Information Officer,0,25500,29210,Knowledge and Information Management (KIM)
+Sep-14,,D04,Junior,,EO (L),Executive Officer,Chief Information Officer,0,25500,29210,Information Technology
+Sep-14,,D04,Junior,,EO (L),Executive Officer,Chief Information Officer,0,25500,29210,Knowledge and Information Management (KIM)
+Sep-14,,D04,Junior,,EO (L),Not in Post,Chief Information Officer,0,25500,29210,Information Technology
+Sep-14,,D04,Junior,,EO (N),Executive Officer,Chief Information Officer,0,22820,26040,Knowledge and Information Management (KIM)
+Sep-14,,D04,Junior,,EO (N),Not in Post,Chief Information Officer,0,22820,26040,Knowledge and Information Management (KIM)
+Sep-14,,D04,Junior,,FS (L),Higher Executive Officer (D),Chief Information Officer,0,27500,36000,Information Technology
+Sep-14,,D04,Junior,,FS (N),Higher Executive Officer (D),Chief Information Officer,0,27500,36000,Knowledge and Information Management (KIM)
+Sep-14,,D04,Junior,,G6 (L),Grade 6,Chief Information Officer,0,59050,70310,Information Technology
+Sep-14,,D04,Junior,,G6 (L),Grade 6,Chief Information Officer,0,59050,70310,Knowledge and Information Management (KIM)
+Sep-14,,D04,Junior,,G6 (N),Grade 6,Chief Information Officer,0,54310,65080,Information Technology
+Sep-14,,D04,Junior,,G6 (N),Grade 6,Chief Information Officer,0,54310,65080,Knowledge and Information Management (KIM)
+Sep-14,,D04,Junior,,G7 (L),Grade 7,Chief Information Officer,0,49400,59290,Information Technology
+Sep-14,,D04,Junior,,G7 (L),Grade 7,Chief Information Officer,0,49400,59290,Knowledge and Information Management (KIM)
+Sep-14,,D04,Junior,,G7 (N),Grade 7,Chief Information Officer,0,44970,53910,Information Technology
+Sep-14,,D04,Junior,,G7 (N),Grade 7,Chief Information Officer,0,44970,53910,Knowledge and Information Management (KIM)
+Sep-14,,D04,Junior,,HEO (L),Higher Executive Officer,Chief Information Officer,0,30510,35350,Information Technology
+Sep-14,,D04,Junior,,HEO (L),Higher Executive Officer,Chief Information Officer,0,30510,35350,Knowledge and Information Management (KIM)
+Sep-14,,D04,Junior,,HEO (L),Librarian,Chief Information Officer,0,30510,35350,Knowledge and Information Management (KIM)
+Sep-14,,D04,Junior,,HEO (N),Higher Executive Officer,Chief Information Officer,0,27400,31680,Information Technology
+Sep-14,,D04,Junior,,HEO (N),Higher Executive Officer,Chief Information Officer,0,27400,31680,Knowledge and Information Management (KIM)
+Sep-14,,D04,Junior,,SEO (L),Senior Executive Officer,Chief Information Officer,0,36610,43190,Information Technology
+Sep-14,,D04,Junior,,SEO (L),Senior Executive Officer,Chief Information Officer,0,36610,43190,Knowledge and Information Management (KIM)
+Sep-14,,D04,Junior,,SEO (L),Senior Librarian,Chief Information Officer,0,36610,43190,Knowledge and Information Management (KIM)
+Sep-14,,D04,Junior,,SEO (L),Translator Grade I,Chief Information Officer,0,36610,43190,Knowledge and Information Management (KIM)
+Sep-14,,D04,Junior,,SEO (N),Senior Executive Officer,Chief Information Officer,0,33900,40000,Information Technology
+Sep-14,,D04,Junior,,SEO (N),Senior Executive Officer,Chief Information Officer,0,33900,40000,Knowledge and Information Management (KIM)
+Sep-14,,DD17,Junior,,EO (L),Executive Officer,Chief Information Officer,0,25500,29210,Information Technology
+Sep-14,,DD17,Junior,,EO (N),Executive Officer,Chief Information Officer,0,22820,26040,Information Technology
+Sep-14,,DD17,Junior,,EO (N),Not in Post,Chief Information Officer,0,22820,26040,Information Technology
+Sep-14,,DD17,Junior,,G6 (L),Grade 6,Chief Information Officer,0,59050,70310,Information Technology
+Sep-14,,DD17,Junior,,G7 (L),Grade 7,Chief Information Officer,0,49400,59290,Information Technology
+Sep-14,,DD17,Junior,,G7 (N),Grade 7,Chief Information Officer,0,44970,53910,Information Technology
+Sep-14,,DD17,Junior,,HEO (L),Higher Executive Officer,Chief Information Officer,0,30510,35350,Information Technology
+Sep-14,,DD17,Junior,,HEO (L),Higher Executive Officer,Chief Information Officer,0,30510,35350,Knowledge and Information Management (KIM)
+Sep-14,,DD17,Junior,,HEO (N),Higher Executive Officer,Chief Information Officer,0,27400,31680,Information Technology
+Sep-14,,DD17,Junior,,SEO (L),Senior Executive Officer,Chief Information Officer,0,36610,43190,Information Technology
+Sep-14,,D01,Junior,,G7 (L),Grade 7,Commercial,0,49400,59290,Procurement
+Sep-14,,DD01,Junior,,AO (L),Personal Secretary,Commercial,0,22070,23170,Policy
+Sep-14,,DD01,Junior,,G7 (L),Grade 7,Commercial,0,49400,59290,Policy
+Sep-14,,DD01,Junior,,G7 (N),Grade 7,Commercial,0,44970,53910,Policy
+Sep-14,,DD01,Junior,,HEO (L),Higher Executive Officer,Commercial,0,30510,35350,Policy
+Sep-14,,DD01,Junior,,HEO (L),Not in Post,Commercial,0,30510,35350,Policy
+Sep-14,,DD01,Junior,,SEO (L),Senior Executive Officer,Commercial,0,36610,43190,Policy
+Sep-14,,DD02,Junior,,G6 (N),Grade 6,Commercial,0,54310,65080,Policy
+Sep-14,,DD02,Junior,,G7 (L),Grade 7,Commercial,0,49400,59290,Policy
+Sep-14,,DD02,Junior,,HEO (L),Higher Executive Officer,Commercial,0,30510,35350,Policy
+Sep-14,,DD03,Junior,,AO (L),Administrative Officer,Commercial,0,22070,23170,Policy
+Sep-14,,DD03,Junior,,AO (N),Administrative Officer,Commercial,0,19060,20010,Policy
+Sep-14,,DD03,Junior,,EO (N),Executive Officer,Commercial,0,22820,26040,Policy
+Sep-14,,DD03,Junior,,G7 (L),Grade 7,Commercial,0,49400,59290,Policy
+Sep-14,,DD03,Junior,,G7 (N),Grade 7,Commercial,0,44970,53910,Policy
+Sep-14,,DD03,Junior,,HEO (L),Higher Executive Officer,Commercial,0,30510,35350,Policy
+Sep-14,,DD03,Junior,,HEO (L),Higher Executive Officer,Commercial,0,30510,35350,Property and asset management
+Sep-14,,DD03,Junior,,HEO (N),Higher Executive Officer,Commercial,0,27400,31680,Policy
+Sep-14,,DD04,Junior,,AO (L),Administrative Officer,Commercial,0,22070,23170,Procurement
+Sep-14,,DD04,Junior,,EO (L),Executive Officer,Commercial,0,25500,29210,Procurement
+Sep-14,,DD04,Junior,,EO (N),Executive Officer,Commercial,0,22820,26040,Procurement
+Sep-14,,DD04,Junior,,EO (N),Not in Post,Commercial,0,22820,26040,Procurement
+Sep-14,,DD04,Junior,,G6 (N),Grade 6,Commercial,0,54310,65080,Procurement
+Sep-14,,DD04,Junior,,G7 (L),Grade 7,Commercial,0,49400,59290,Procurement
+Sep-14,,DD04,Junior,,G7 (N),Grade 7,Commercial,0,44970,53910,Procurement
+Sep-14,,DD04,Junior,,HEO (L),Higher Executive Officer,Commercial,0,30510,35350,Policy
+Sep-14,,DD04,Junior,,HEO (L),Higher Executive Officer,Commercial,0,30510,35350,Procurement
+Sep-14,,DD04,Junior,,HEO (N),Higher Executive Officer,Commercial,0,27400,31680,Procurement
+Sep-14,,DD04,Junior,,SEO (L),Senior Executive Officer,Commercial,0,36610,43190,Procurement
+Sep-14,,DD04,Junior,,SEO (N),Senior Executive Officer,Commercial,0,33900,40000,Procurement
+Sep-14,,DD05,Junior,,AO (L),Administrative Officer,Commercial,0,22070,23170,Property and asset management
+Sep-14,,DD05,Junior,,AO (N),Administrative Officer,Commercial,0,19060,20010,Property and asset management
+Sep-14,,DD05,Junior,,EO (N),Executive Officer,Commercial,0,22820,26040,Property and asset management
+Sep-14,,DD05,Junior,,G6 (L),Grade 6,Commercial,0,59050,70310,Property and asset management
+Sep-14,,DD05,Junior,,G6 (N),Grade 6,Commercial,0,54310,65080,Property and asset management
+Sep-14,,DD05,Junior,,G7 (L),Grade 7,Commercial,0,49400,59290,Other
+Sep-14,,DD05,Junior,,G7 (L),Grade 7,Commercial,0,49400,59290,Property and asset management
+Sep-14,,DD05,Junior,,G7 (N),Grade 7,Commercial,0,44970,53910,Property and asset management
+Sep-14,,DD05,Junior,,G7 (OL),Grade 7,Commercial,0,48100,57720,Property and asset management
+Sep-14,,DD05,Junior,,HEO (L),Higher Executive Officer,Commercial,0,30510,35350,Other
+Sep-14,,DD05,Junior,,HEO (L),Higher Executive Officer,Commercial,0,30510,35350,Property and asset management
+Sep-14,,DD05,Junior,,HEO (N),Higher Executive Officer,Commercial,0,27400,31680,Other
+Sep-14,,DD05,Junior,,HEO (N),Higher Executive Officer,Commercial,0,27400,31680,Property and asset management
+Sep-14,,DD05,Junior,,SEO (L),Senior Executive Officer,Commercial,0,36610,43190,Property and asset management
+Sep-14,,DD05,Junior,,SEO (N),Senior Executive Officer,Commercial,0,33900,40000,Property and asset management
+Sep-14,,DD79,Junior,,G6 (N),Grade 6,Commercial,0,54310,65080,Programme and Project Management (PPM)
+Sep-14,,DD79,Junior,,G7 (N),Grade 7,Commercial,0,44970,53910,Programme and Project Management (PPM)
+Sep-14,,DD79,Junior,,HEO (N),Higher Executive Officer,Commercial,0,27400,31680,Programme and Project Management (PPM)
+Sep-14,,DD79,Junior,,SEO (N),Senior Executive Officer,Commercial,0,33900,40000,Programme and Project Management (PPM)
+Sep-14,,DD89,Junior,,EO (L),Executive Officer,Commercial,0,25500,29210,Finance
+Sep-14,,DD89,Junior,,G6 (N),Grade 6,Commercial,0,54310,65080,Finance
+Sep-14,,DD89,Junior,,G7 (L),Grade 7,Commercial,0,49400,59290,Finance
+Sep-14,,DD89,Junior,,G7 (N),Grade 7,Commercial,0,44970,53910,Information Technology
+Sep-14,,DD89,Junior,,SEO (L),Senior Executive Officer,Commercial,0,36610,43190,Finance
+Sep-14,,DD64,Junior,,AA (L),Administrative Assistant,Communications,0,19320,19890,Communications
+Sep-14,,DD64,Junior,,AO (L),Administrative Officer,Communications,0,22070,23170,Communications
+Sep-14,,DD64,Junior,,AO (L),Personal Secretary,Communications,0,22070,23170,Communications
+Sep-14,,DD64,Junior,,EO (L),Executive Officer,Communications,0,25500,29210,Communications
+Sep-14,,DD64,Junior,,EO (L),Senior Personal Secretary,Communications,0,25500,29210,Communications
+Sep-14,,DD64,Junior,,G6 (L),Grade 6,Communications,0,59050,70310,Communications
+Sep-14,,DD64,Junior,,G7 (L),Grade 7,Communications,0,49400,59290,Communications
+Sep-14,,DD64,Junior,,HEO (L),Higher Executive Officer,Communications,0,30510,35350,Communications
+Sep-14,,DD64,Junior,,HEO (L),Information Officer,Communications,0,30510,35350,Communications
+Sep-14,,DD64,Junior,,SEO (L),Senior Executive Officer,Communications,0,36610,43190,Communications
+Sep-14,,DD64,Junior,,SEO (L),Senior Information Officer,Communications,0,36610,43190,Communications
+Sep-14,,DD65,Junior,,G6 (L),Grade 6,Communications,0,59050,70310,Communications
+Sep-14,,DD65,Junior,,G7 (L),Grade 7,Communications,0,49400,59290,Communications
+Sep-14,,DD65,Junior,,HEO (L),Higher Executive Officer,Communications,0,30510,35350,Communications
+Sep-14,,DD65,Junior,,SEO (L),Senior Executive Officer,Communications,0,36610,43190,Communications
+Sep-14,,DD65,Junior,,SEO (L),Senior Information Officer,Communications,0,36610,43190,Communications
+Sep-14,,D18,Junior,,AA (L),Administrative Assistant,"EU, International & CAP Reform",0,19320,19890,Policy
+Sep-14,,D18,Junior,,AO (L),Administrative Officer,"EU, International & CAP Reform",0,22070,23170,Policy
+Sep-14,,D18,Junior,,EO (L),Executive Officer,"EU, International & CAP Reform",0,25500,29210,Policy
+Sep-14,,D18,Junior,,G7 (L),Not in Post,"EU, International & CAP Reform",0,49400,59290,Policy
+Sep-14,,D18,Junior,,HEO (L),Not in Post,"EU, International & CAP Reform",0,30510,35350,Policy
+Sep-14,,DD51,Junior,,EO (N),Executive Officer,"EU, International & CAP Reform",0,22820,26040,Policy
+Sep-14,,DD51,Junior,,FS (L),Higher Executive Officer (D),"EU, International & CAP Reform",0,27500,36000,Policy
+Sep-14,,DD51,Junior,,FS (L),Not in Post,"EU, International & CAP Reform",0,27500,36000,Policy
+Sep-14,,DD51,Junior,,G6 (L),Grade 6,"EU, International & CAP Reform",0,59050,70310,Policy
+Sep-14,,DD51,Junior,,G7 (L),Grade 7,"EU, International & CAP Reform",0,49400,59290,Policy
+Sep-14,,DD51,Junior,,G7 (N),Not in Post,"EU, International & CAP Reform",0,44970,53910,Policy
+Sep-14,,DD51,Junior,,HEO (L),Higher Executive Officer,"EU, International & CAP Reform",0,30510,35350,Policy
+Sep-14,,DD51,Junior,,HEO (N),Higher Executive Officer,"EU, International & CAP Reform",0,27400,31680,Policy
+Sep-14,,DD51,Junior,,SEO (N),Senior Executive Officer,"EU, International & CAP Reform",0,33900,40000,Policy
+Sep-14,,DD67,Junior,,AO (L),Administrative Officer,"EU, International & CAP Reform",0,22070,23170,Policy
+Sep-14,,DD67,Junior,,EO (L),Executive Officer,"EU, International & CAP Reform",0,25500,29210,Policy
+Sep-14,,DD67,Junior,,FS (L),Higher Executive Officer (D),"EU, International & CAP Reform",0,27500,36000,Policy
+Sep-14,,DD67,Junior,,FS (L),Not in Post,"EU, International & CAP Reform",0,27500,36000,Policy
+Sep-14,,DD67,Junior,,G7 (L),Grade 7,"EU, International & CAP Reform",0,49400,59290,Policy
+Sep-14,,DD67,Junior,,G7 (L),Not in Post,"EU, International & CAP Reform",0,49400,59290,Policy
+Sep-14,,DD67,Junior,,HEO (L),Higher Executive Officer,"EU, International & CAP Reform",0,30510,35350,Policy
+Sep-14,,DD67,Junior,,SEO (L),Senior Executive Officer,"EU, International & CAP Reform",0,36610,43190,Policy
+Sep-14,,DD68,Junior,,AO (L),Administrative Officer,"EU, International & CAP Reform",0,22070,23170,Policy
+Sep-14,,DD68,Junior,,FS (L),Assistant Economist,"EU, International & CAP Reform",0,27500,36000,Economics
+Sep-14,,DD68,Junior,,FS (L),Higher Executive Officer (D),"EU, International & CAP Reform",0,27500,36000,Policy
+Sep-14,,DD68,Junior,,G7 (L),Grade 7,"EU, International & CAP Reform",0,49400,59290,Policy
+Sep-14,,DD68,Junior,,SEO (L),Senior Executive Officer,"EU, International & CAP Reform",0,36610,43190,Policy
+Sep-14,,DD70,Junior,,EO (L),Executive Officer,"EU, International & CAP Reform",0,25500,29210,Policy
+Sep-14,,DD70,Junior,,G6 (L),Grade 6,"EU, International & CAP Reform",0,59050,70310,Policy
+Sep-14,,DD70,Junior,,G7 (L),Grade 7,"EU, International & CAP Reform",0,49400,59290,Policy
+Sep-14,,DD70,Junior,,G7 (N),Grade 7,"EU, International & CAP Reform",0,44970,53910,Policy
+Sep-14,,DD70,Junior,,HEO (L),Higher Executive Officer,"EU, International & CAP Reform",0,30510,35350,Policy
+Sep-14,,DD70,Junior,,HEO (N),Higher Executive Officer,"EU, International & CAP Reform",0,27400,31680,Policy
+Sep-14,,DD70,Junior,,SEO (L),Senior Executive Officer,"EU, International & CAP Reform",0,36610,43190,Policy
+Sep-14,,DD72,Junior,,AO (L),Administrative Officer,"EU, International & CAP Reform",0,22070,23170,Policy
+Sep-14,,DD72,Junior,,EO (L),Executive Officer,"EU, International & CAP Reform",0,25500,29210,Policy
+Sep-14,,DD72,Junior,,FS (L),Assistant Economist,"EU, International & CAP Reform",0,27500,36000,Economics
+Sep-14,,DD72,Junior,,G7 (L),Grade 7,"EU, International & CAP Reform",0,49400,59290,Policy
+Sep-14,,DD72,Junior,,HEO (L),Higher Executive Officer,"EU, International & CAP Reform",0,30510,35350,Policy
+Sep-14,,DD72,Junior,,HEO (N),Higher Executive Officer,"EU, International & CAP Reform",0,27400,31680,Policy
+Sep-14,,DD72,Junior,,SEO (L),Senior Executive Officer,"EU, International & CAP Reform",0,36610,43190,Policy
+Sep-14,,DD72,Junior,,SEO (N),Senior Executive Officer,"EU, International & CAP Reform",0,33900,40000,Policy
+Sep-14,,D02,Junior,,EO (L),Executive Officer,Finance,0,25500,29210,Finance
+Sep-14,,DD07,Junior,,EO (N),Executive Officer,Finance,0,22820,26040,Finance
+Sep-14,,DD07,Junior,,G6 (L),Grade 6,Finance,0,59050,70310,Finance
+Sep-14,,DD07,Junior,,G7 (L),Grade 7,Finance,0,49400,59290,Finance
+Sep-14,,DD07,Junior,,G7 (N),Grade 7,Finance,0,44970,53910,Finance
+Sep-14,,DD07,Junior,,HEO (L),Higher Executive Officer,Finance,0,30510,35350,Finance
+Sep-14,,DD07,Junior,,HEO (N),Higher Executive Officer,Finance,0,27400,31680,Finance
+Sep-14,,DD07,Junior,,SEO (L),Senior Executive Officer,Finance,0,36610,43190,Finance
+Sep-14,,DD07,Junior,,SEO (N),Senior Executive Officer,Finance,0,33900,40000,Finance
+Sep-14,,DD08,Junior,,AO (L),Administrative Officer,Finance,0,22070,23170,Finance
+Sep-14,,DD08,Junior,,AO (L),Administrative Officer,Finance,0,22070,23170,Policy
+Sep-14,,DD08,Junior,,EO (L),Executive Officer,Finance,0,25500,29210,Finance
+Sep-14,,DD08,Junior,,EO (L),Executive Officer,Finance,0,25500,29210,Policy
+Sep-14,,DD08,Junior,,EO (N),Executive Officer,Finance,0,22820,26040,Finance
+Sep-14,,DD08,Junior,,G6 (L),Grade 6,Finance,0,59050,70310,Finance
+Sep-14,,DD08,Junior,,G7 (L),Grade 7,Finance,0,49400,59290,Finance
+Sep-14,,DD08,Junior,,HEO (L),Higher Executive Officer,Finance,0,30510,35350,Finance
+Sep-14,,DD08,Junior,,HEO (L),Higher Executive Officer,Finance,0,30510,35350,Policy
+Sep-14,,DD08,Junior,,HEO (N),Higher Executive Officer,Finance,0,27400,31680,Policy
+Sep-14,,DD08,Junior,,SEO (L),Senior Executive Officer,Finance,0,36610,43190,Finance
+Sep-14,,DD08,Junior,,SEO (L),Senior Executive Officer,Finance,0,36610,43190,Policy
+Sep-14,,DD08,Junior,,SEO (N),Senior Executive Officer,Finance,0,33900,40000,Finance
+Sep-14,,DD09,Junior,,EO (L),Executive Officer,Finance,0,25500,29210,Finance
+Sep-14,,DD09,Junior,,G6 (L),Grade 6,Finance,0,59050,70310,Internal Audit
+Sep-14,,DD09,Junior,,G7 (L),Grade 7,Finance,0,49400,59290,Internal Audit
+Sep-14,,DD09,Junior,,G7 (N),Grade 7,Finance,0,44970,53910,Internal Audit
+Sep-14,,DD09,Junior,,HEO (L),Higher Executive Officer,Finance,0,30510,35350,Internal Audit
+Sep-14,,DD09,Junior,,HEO (N),Higher Executive Officer,Finance,0,27400,31680,Internal Audit
+Sep-14,,DD09,Junior,,HEO (N),Not in Post,Finance,0,27400,31680,Internal Audit
+Sep-14,,DD09,Junior,,SEO (L),Senior Executive Officer,Finance,0,36610,43190,Internal Audit
+Sep-14,,DD09,Junior,,SEO (N),Senior Executive Officer,Finance,0,33900,40000,Internal Audit
+Sep-14,,DD10,Junior,,AO (L),Administrative Officer,Finance,0,22070,23170,Finance
+Sep-14,,DD10,Junior,,AO (N),Administrative Officer,Finance,0,19060,20010,Finance
+Sep-14,,DD10,Junior,,EO (L),Executive Officer,Finance,0,25500,29210,Finance
+Sep-14,,DD10,Junior,,EO (N),Executive Officer,Finance,0,22820,26040,Finance
+Sep-14,,DD10,Junior,,G6 (N),Grade 6,Finance,0,54310,65080,Finance
+Sep-14,,DD10,Junior,,G7 (N),Grade 7,Finance,0,44970,53910,Finance
+Sep-14,,DD10,Junior,,HEO (L),Higher Executive Officer,Finance,0,30510,35350,Finance
+Sep-14,,DD10,Junior,,HEO (N),Higher Executive Officer,Finance,0,27400,31680,Finance
+Sep-14,,DD10,Junior,,SEO (L),Senior Executive Officer,Finance,0,36610,43190,Finance
+Sep-14,,DD10,Junior,,SEO (N),Senior Executive Officer,Finance,0,33900,40000,Finance
+Sep-14,,DD11,Junior,,EO (L),Executive Officer,Finance,0,25500,29210,Finance
+Sep-14,,DD11,Junior,,G6 (L),Grade 6,Finance,0,59050,70310,Finance
+Sep-14,,DD11,Junior,,G7 (L),Grade 7,Finance,0,49400,59290,Finance
+Sep-14,,DD11,Junior,,G7 (N),Grade 7,Finance,0,44970,53910,Finance
+Sep-14,,DD11,Junior,,HEO (L),Higher Executive Officer,Finance,0,30510,35350,Finance
+Sep-14,,DD11,Junior,,HEO (N),Higher Executive Officer,Finance,0,27400,31680,Finance
+Sep-14,,DD11,Junior,,SEO (L),Senior Executive Officer,Finance,0,36610,43190,Finance
+Sep-14,,DD11,Junior,,SEO (N),Senior Executive Officer,Finance,0,33900,40000,Finance
+Sep-14,,DD32,Junior,,AO (L),Administrative Officer,Food & Environmental Risk,0,22070,23170,Policy
+Sep-14,,DD32,Junior,,AO (N),Administrative Officer,Food & Environmental Risk,0,19060,20010,Policy
+Sep-14,,DD32,Junior,,EO (L),Executive Officer,Food & Environmental Risk,0,25500,29210,Policy
+Sep-14,,DD32,Junior,,G7 (L),Grade 7,Food & Environmental Risk,0,49400,59290,Policy
+Sep-14,,DD32,Junior,,G7 (N),Grade 7,Food & Environmental Risk,0,44970,53910,Policy
+Sep-14,,DD32,Junior,,HEO (L),Higher Executive Officer,Food & Environmental Risk,0,30510,35350,Policy
+Sep-14,,DD32,Junior,,HEO (L),Higher Scientific Officer,Food & Environmental Risk,0,30510,35350,Science and Engineering
+Sep-14,,DD32,Junior,,HEO (N),Higher Executive Officer,Food & Environmental Risk,0,27400,31680,Policy
+Sep-14,,DD32,Junior,,SEO (L),Senior Executive Officer,Food & Environmental Risk,0,36610,43190,Policy
+Sep-14,,DD32,Junior,,SEO (L),Senior Scientific Officer,Food & Environmental Risk,0,36610,43190,Science and Engineering
+Sep-14,,DD33,Junior,,EO (L),Executive Officer,Food & Environmental Risk,0,25500,29210,Policy
+Sep-14,,DD33,Junior,,EO (N),Executive Officer,Food & Environmental Risk,0,22820,26040,Policy
+Sep-14,,DD33,Junior,,G6 (L),Grade 6,Food & Environmental Risk,0,59050,70310,Policy
+Sep-14,,DD33,Junior,,G7 (L),Grade 7,Food & Environmental Risk,0,49400,59290,Policy
+Sep-14,,DD33,Junior,,G7 (L),Not in Post,Food & Environmental Risk,0,49400,59290,Policy
+Sep-14,,DD33,Junior,,HEO (L),Higher Executive Officer,Food & Environmental Risk,0,30510,35350,Policy
+Sep-14,,DD33,Junior,,SEO (L),Senior Executive Officer,Food & Environmental Risk,0,36610,43190,Policy
+Sep-14,,DD34,Junior,,EO (L),Executive Officer,Food & Environmental Risk,0,25500,29210,Policy
+Sep-14,,DD34,Junior,,FS (L),Assistant Economist,Food & Environmental Risk,0,27500,36000,Economics
+Sep-14,,DD34,Junior,,FS (L),Higher Executive Officer (D),Food & Environmental Risk,0,27500,36000,Policy
+Sep-14,,DD34,Junior,,G7 (L),Grade 7,Food & Environmental Risk,0,49400,59290,Policy
+Sep-14,,DD34,Junior,,G7 (L),Not in Post,Food & Environmental Risk,0,49400,59290,Policy
+Sep-14,,DD34,Junior,,HEO (L),Higher Executive Officer,Food & Environmental Risk,0,30510,35350,Policy
+Sep-14,,DD34,Junior,,SEO (L),Senior Executive Officer,Food & Environmental Risk,0,36610,43190,Policy
+Sep-14,,D03,Junior,,G6 (L),Grade 6,Human Resources,0,59050,70310,Human Resources
+Sep-14,,DD12,Junior,,AO (L),Personal Secretary,Human Resources,0,22070,23170,Other
+Sep-14,,DD12,Junior,,EO (L),Executive Officer,Human Resources,0,25500,29210,Human Resources
+Sep-14,,DD12,Junior,,EO (N),Executive Officer,Human Resources,0,22820,26040,Human Resources
+Sep-14,,DD12,Junior,,EO (N),Executive Officer,Human Resources,0,22820,26040,Other
+Sep-14,,DD12,Junior,,FS (L),Higher Executive Officer (D),Human Resources,0,27500,36000,Human Resources
+Sep-14,,DD12,Junior,,FS (N),Higher Executive Officer (D),Human Resources,0,27500,36000,Human Resources
+Sep-14,,DD12,Junior,,G6 (L),Grade 6,Human Resources,0,59050,70310,Human Resources
+Sep-14,,DD12,Junior,,G6 (N),Grade 6,Human Resources,0,54310,65080,Human Resources
+Sep-14,,DD12,Junior,,G7 (L),Grade 7,Human Resources,0,49400,59290,Human Resources
+Sep-14,,DD12,Junior,,G7 (N),Grade 7,Human Resources,0,44970,53910,Human Resources
+Sep-14,,DD12,Junior,,HEO (L),Higher Executive Officer,Human Resources,0,30510,35350,Human Resources
+Sep-14,,DD12,Junior,,HEO (N),Higher Executive Officer,Human Resources,0,27400,31680,Human Resources
+Sep-14,,DD12,Junior,,HEO (N),Not in Post,Human Resources,0,27400,31680,Human Resources
+Sep-14,,DD12,Junior,,SEO (L),Senior Executive Officer,Human Resources,0,36610,43190,Human Resources
+Sep-14,,DD12,Junior,,SEO (N),Senior Executive Officer,Human Resources,0,33900,40000,Human Resources
+Sep-14,,DD12,Junior,,SEO (N),Not in Post,Human Resources,0,33900,40000,Other
+Sep-14,,DD13,Junior,,EO (L),Executive Officer,Human Resources,0,25500,29210,Policy
+Sep-14,,DD13,Junior,,G6 (L),Grade 6,Human Resources,0,59050,70310,Human Resources
+Sep-14,,DD13,Junior,,G7 (L),Grade 7,Human Resources,0,49400,59290,Human Resources
+Sep-14,,DD13,Junior,,HEO (L),Higher Executive Officer,Human Resources,0,30510,35350,Human Resources
+Sep-14,,DD13,Junior,,SEO (L),Senior Executive Officer,Human Resources,0,36610,43190,Human Resources
+Sep-14,,DD14,Junior,,EO (L),Executive Officer,Human Resources,0,25500,29210,Human Resources
+Sep-14,,DD14,Junior,,EO (L),Executive Officer,Human Resources,0,25500,29210,Policy
+Sep-14,,DD14,Junior,,G6 (L),Grade 6,Human Resources,0,59050,70310,Human Resources
+Sep-14,,DD14,Junior,,G7 (L),Grade 7,Human Resources,0,49400,59290,Human Resources
+Sep-14,,DD14,Junior,,HEO (L),Information Officer,Human Resources,0,30510,35350,Human Resources
+Sep-14,,DD14,Junior,,SEO (L),Senior Executive Officer,Human Resources,0,36610,43190,Human Resources
+Sep-14,,DD37,Junior,,AA (L),Administrative Assistant,Marine & Fisheries,0,19320,19890,Policy
+Sep-14,,DD37,Junior,,AO (L),Administrative Officer,Marine & Fisheries,0,22070,23170,Policy
+Sep-14,,DD37,Junior,,EO (L),Executive Officer,Marine & Fisheries,0,25500,29210,Policy
+Sep-14,,DD37,Junior,,EO (L),Senior Personal Secretary,Marine & Fisheries,0,25500,29210,Policy
+Sep-14,,DD37,Junior,,FS (L),Assistant Economist,Marine & Fisheries,0,27500,36000,Economics
+Sep-14,,DD37,Junior,,G7 (L),Grade 7,Marine & Fisheries,0,49400,59290,Policy
+Sep-14,,DD37,Junior,,HEO (L),Higher Executive Officer,Marine & Fisheries,0,30510,35350,Policy
+Sep-14,,DD37,Junior,,HEO (L),Higher Scientific Officer,Marine & Fisheries,0,30510,35350,Science and Engineering
+Sep-14,,DD37,Junior,,SEO (L),Senior Executive Officer,Marine & Fisheries,0,36610,43190,Policy
+Sep-14,,DD39,Junior,,AO (L),Administrative Officer,Marine & Fisheries,0,22070,23170,Policy
+Sep-14,,DD39,Junior,,EO (L),Executive Officer,Marine & Fisheries,0,25500,29210,Policy
+Sep-14,,DD39,Junior,,FS (L),Higher Executive Officer (D),Marine & Fisheries,0,27500,36000,Policy
+Sep-14,,DD39,Junior,,G7 (L),Grade 7,Marine & Fisheries,0,49400,59290,Policy
+Sep-14,,DD39,Junior,,HEO (L),Higher Executive Officer,Marine & Fisheries,0,30510,35350,Policy
+Sep-14,,DD39,Junior,,SEO (L),Senior Executive Officer,Marine & Fisheries,0,36610,43190,Policy
+Sep-14,,DD41,Junior,,AO (L),Administrative Officer,Marine & Fisheries,0,22070,23170,Policy
+Sep-14,,DD41,Junior,,EO (L),Executive Officer,Marine & Fisheries,0,25500,29210,Policy
+Sep-14,,DD41,Junior,,EO (N),Executive Officer,Marine & Fisheries,0,22820,26040,Policy
+Sep-14,,DD41,Junior,,G6 (L),Grade 6,Marine & Fisheries,0,59050,70310,Policy
+Sep-14,,DD41,Junior,,G7 (L),Grade 7,Marine & Fisheries,0,49400,59290,Policy
+Sep-14,,DD41,Junior,,G7 (N),Grade 7,Marine & Fisheries,0,44970,53910,Policy
+Sep-14,,DD41,Junior,,HEO (L),Higher Executive Officer,Marine & Fisheries,0,30510,35350,Policy
+Sep-14,,DD41,Junior,,HEO (N),Higher Executive Officer,Marine & Fisheries,0,27400,31680,Policy
+Sep-14,,DD41,Junior,,HEO (N),Not in Post,Marine & Fisheries,0,27400,31680,Policy
+Sep-14,,DD41,Junior,,SEO (L),Senior Executive Officer,Marine & Fisheries,0,36610,43190,Policy
+Sep-14,,DD83,Junior,,G7 (L),Grade 7,Marine & Fisheries,0,49400,59290,Economics
+Sep-14,,DD83,Junior,,G7 (L),Grade 7,Marine & Fisheries,0,49400,59290,Policy
+Sep-14,,DD83,Junior,,HEO (L),Higher Executive Officer,Marine & Fisheries,0,30510,35350,Policy
+Sep-14,,DD83,Junior,,SEO (L),Senior Executive Officer,Marine & Fisheries,0,36610,43190,Policy
+Sep-14,,DD40,Junior,,EO (L),Executive Officer,Marine & Fisheries,0,25500,29210,Policy
+Sep-14,,DD40,Junior,,EO (L),Senior Personal Secretary,Marine & Fisheries,0,25500,29210,Policy
+Sep-14,,DD40,Junior,,FS (L),Higher Executive Officer (D),Marine & Fisheries,0,27500,36000,Policy
+Sep-14,,DD40,Junior,,G7 (L),Grade 7,Marine & Fisheries,0,49400,59290,Policy
+Sep-14,,DD40,Junior,,HEO (L),Higher Executive Officer,Marine & Fisheries,0,30510,35350,Policy
+Sep-14,,DD40,Junior,,SEO (L),Senior Executive Officer,Marine & Fisheries,0,36610,43190,Policy
+Sep-14,,DD40,Junior,,SEO (L),Not in Post,Marine & Fisheries,0,36610,43190,Policy
+Sep-14,,D07,Junior,,AO (L),Personal Secretary,Plant & Animal Health,0,22070,23170,Policy
+Sep-14,,D07,Junior,,EO (L),Executive Officer,Plant & Animal Health,0,25500,29210,Policy
+Sep-14,,D07,Junior,,G7 (L),Not in Post,Plant & Animal Health,0,49400,59290,Policy
+Sep-14,,D07,Junior,,SEO (L),Senior Executive Officer,Plant & Animal Health,0,36610,43190,Policy
+Sep-14,,DD21,Junior,,AO (L),Administrative Officer,Plant & Animal Health,0,22070,23170,Policy
+Sep-14,,DD21,Junior,,AO (L),Personal Secretary,Plant & Animal Health,0,22070,23170,Policy
+Sep-14,,DD21,Junior,,G6 (L),Grade 6,Plant & Animal Health,0,59050,70310,Policy
+Sep-14,,DD21,Junior,,G7 (L),Grade 7,Plant & Animal Health,0,49400,59290,Policy
+Sep-14,,DD21,Junior,,G7 (L),Not in Post,Plant & Animal Health,0,49400,59290,Policy
+Sep-14,,DD21,Junior,,HEO (L),Higher Executive Officer,Plant & Animal Health,0,30510,35350,Policy
+Sep-14,,DD21,Junior,,HEO (L),Higher Scientific Officer,Plant & Animal Health,0,30510,35350,Science and Engineering
+Sep-14,,DD21,Junior,,HEO (N),Higher Executive Officer,Plant & Animal Health,0,27400,31680,Policy
+Sep-14,,DD21,Junior,,SEO (L),Senior Executive Officer,Plant & Animal Health,0,36610,43190,Policy
+Sep-14,,DD21,Junior,,SEO (L),Senior Scientific Officer,Plant & Animal Health,0,36610,43190,Science and Engineering
+Sep-14,,DD21,Junior,,SEO (N),Senior Executive Officer,Plant & Animal Health,0,33900,40000,Policy
+Sep-14,,DD23,Junior,,AO (L),Administrative Officer,Plant & Animal Health,0,22070,23170,Policy
+Sep-14,,DD23,Junior,,AO (L),Personal Secretary,Plant & Animal Health,0,22070,23170,Policy
+Sep-14,,DD23,Junior,,AO (L),Not in Post,Plant & Animal Health,0,22070,23170,Policy
+Sep-14,,DD23,Junior,,EO (L),Executive Officer,Plant & Animal Health,0,25500,29210,Policy
+Sep-14,,DD23,Junior,,EO (N),Executive Officer,Plant & Animal Health,0,22820,26040,Policy
+Sep-14,,DD23,Junior,,FS (L),Higher Executive Officer (D),Plant & Animal Health,0,27500,36000,Policy
+Sep-14,,DD23,Junior,,G6 (L),Grade 6,Plant & Animal Health,0,59050,70310,Policy
+Sep-14,,DD23,Junior,,G7 (L),Grade 7,Plant & Animal Health,0,49400,59290,Policy
+Sep-14,,DD23,Junior,,G7 (L),Not in Post,Plant & Animal Health,0,49400,59290,Policy
+Sep-14,,DD23,Junior,,HEO (L),Higher Executive Officer,Plant & Animal Health,0,30510,35350,Policy
+Sep-14,,DD23,Junior,,HEO (L),Not in Post,Plant & Animal Health,0,30510,35350,Policy
+Sep-14,,DD23,Junior,,SEO (L),Senior Executive Officer,Plant & Animal Health,0,36610,43190,Policy
+Sep-14,,DD24,Junior,,AA (N),Administrative Assistant,Plant & Animal Health,0,15980,16450,Policy
+Sep-14,,DD24,Junior,,EO (L),Scientific Officer,Plant & Animal Health,0,25500,29210,Science and Engineering
+Sep-14,,DD24,Junior,,EO (N),Executive Officer,Plant & Animal Health,0,22820,26040,Policy
+Sep-14,,DD24,Junior,,G6 (N),Grade 6,Plant & Animal Health,0,54310,65080,Policy
+Sep-14,,DD24,Junior,,G7 (L),Grade 7,Plant & Animal Health,0,49400,59290,Policy
+Sep-14,,DD24,Junior,,G7 (N),Grade 7,Plant & Animal Health,0,44970,53910,Policy
+Sep-14,,DD24,Junior,,HEO (L),Higher Executive Officer,Plant & Animal Health,0,30510,35350,Policy
+Sep-14,,DD24,Junior,,HEO (N),Higher Executive Officer,Plant & Animal Health,0,27400,31680,Policy
+Sep-14,,DD24,Junior,,HEO (N),Not in Post,Plant & Animal Health,0,27400,31680,Policy
+Sep-14,,DD24,Junior,,SEO (L),Senior Executive Officer,Plant & Animal Health,0,36610,43190,Policy
+Sep-14,,DD24,Junior,,SEO (N),Senior Executive Officer,Plant & Animal Health,0,33900,40000,Policy
+Sep-14,,DD85,Junior,,AO (N),Administrative Officer,Plant & Animal Health,0,19060,20010,Policy
+Sep-14,,DD85,Junior,,G7 (N),Grade 7,Plant & Animal Health,0,44970,53910,Policy
+Sep-14,,DD85,Junior,,HEO (N),Higher Executive Officer,Plant & Animal Health,0,27400,31680,Policy
+Sep-14,,D09,Junior,,AO (L),Administrative Officer,Resource Atmosphere & Sustainability,0,22070,23170,Policy
+Sep-14,,D09,Junior,,EO (L),Executive Officer,Resource Atmosphere & Sustainability,0,25500,29210,Policy
+Sep-14,,D09,Junior,,G7 (L),Grade 7,Resource Atmosphere & Sustainability,0,49400,59290,Policy
+Sep-14,,D09,Junior,,HEO (L),Higher Executive Officer,Resource Atmosphere & Sustainability,0,30510,35350,Policy
+Sep-14,,D09,Junior,,SEO (L),Senior Executive Officer,Resource Atmosphere & Sustainability,0,36610,43190,Policy
+Sep-14,,DD25,Junior,,EO (L),Executive Officer,Resource Atmosphere & Sustainability,0,25500,29210,Policy
+Sep-14,,DD25,Junior,,FS (L),Assistant Economist,Resource Atmosphere & Sustainability,0,27500,36000,Economics
+Sep-14,,DD25,Junior,,FS (L),Assistant Economist Provisional,Resource Atmosphere & Sustainability,0,27500,36000,Economics
+Sep-14,,DD25,Junior,,FS (L),Higher Executive Officer (D),Resource Atmosphere & Sustainability,0,27500,36000,Policy
+Sep-14,,DD25,Junior,,G6 (L),Grade 6,Resource Atmosphere & Sustainability,0,59050,70310,Policy
+Sep-14,,DD25,Junior,,G7 (L),Grade 7,Resource Atmosphere & Sustainability,0,49400,59290,Policy
+Sep-14,,DD25,Junior,,HEO (L),Higher Executive Officer,Resource Atmosphere & Sustainability,0,30510,35350,Policy
+Sep-14,,DD25,Junior,,HEO (L),Higher Scientific Officer,Resource Atmosphere & Sustainability,0,30510,35350,Science and Engineering
+Sep-14,,DD25,Junior,,HEO (L),Not in Post,Resource Atmosphere & Sustainability,0,30510,35350,Policy
+Sep-14,,DD25,Junior,,HEO (L),Not in Post,Resource Atmosphere & Sustainability,0,30510,35350,Science and Engineering
+Sep-14,,DD25,Junior,,HEO (N),Higher Executive Officer,Resource Atmosphere & Sustainability,0,27400,31680,Policy
+Sep-14,,DD25,Junior,,SEO (L),Senior Executive Officer,Resource Atmosphere & Sustainability,0,36610,43190,Finance
+Sep-14,,DD25,Junior,,SEO (L),Senior Executive Officer,Resource Atmosphere & Sustainability,0,36610,43190,Policy
+Sep-14,,DD25,Junior,,SEO (L),Senior Information Officer,Resource Atmosphere & Sustainability,0,36610,43190,Communications
+Sep-14,,DD25,Junior,,SEO (L),Senior Scientific Officer,Resource Atmosphere & Sustainability,0,36610,43190,Science and Engineering
+Sep-14,,DD27,Junior,,EO (L),Executive Officer,Resource Atmosphere & Sustainability,0,25500,29210,Policy
+Sep-14,,DD27,Junior,,FS (L),Assistant Economist,Resource Atmosphere & Sustainability,0,27500,36000,Economics
+Sep-14,,DD27,Junior,,FS (L),Higher Executive Officer (D),Resource Atmosphere & Sustainability,0,27500,36000,Policy
+Sep-14,,DD27,Junior,,FS (N),Assistant Statistician,Resource Atmosphere & Sustainability,0,27500,36000,Statisticians
+Sep-14,,DD27,Junior,,G6 (L),Grade 6,Resource Atmosphere & Sustainability,0,59050,70310,Policy
+Sep-14,,DD27,Junior,,G7 (L),Grade 7,Resource Atmosphere & Sustainability,0,49400,59290,Policy
+Sep-14,,DD27,Junior,,G7 (L),Grade 7,Resource Atmosphere & Sustainability,0,49400,59290,Social Research
+Sep-14,,DD27,Junior,,HEO (L),Higher Scientific Officer,Resource Atmosphere & Sustainability,0,30510,35350,Science and Engineering
+Sep-14,,DD27,Junior,,HEO (N),Higher Executive Officer,Resource Atmosphere & Sustainability,0,27400,31680,Policy
+Sep-14,,DD27,Junior,,SEO (L),Senior Executive Officer,Resource Atmosphere & Sustainability,0,36610,43190,Policy
+Sep-14,,DD27,Junior,,SEO (L),Senior Scientific Officer,Resource Atmosphere & Sustainability,0,36610,43190,Science and Engineering
+Sep-14,,DD30,Junior,,EO (L),Executive Officer,Resource Atmosphere & Sustainability,0,25500,29210,Policy
+Sep-14,,DD30,Junior,,FS (L),Assistant Economist,Resource Atmosphere & Sustainability,0,27500,36000,Economics
+Sep-14,,DD30,Junior,,FS (L),Higher Executive Officer (D),Resource Atmosphere & Sustainability,0,27500,36000,Policy
+Sep-14,,DD30,Junior,,FS (L),Not in Post,Resource Atmosphere & Sustainability,0,27500,36000,Statisticians
+Sep-14,,DD30,Junior,,G6 (L),Grade 6,Resource Atmosphere & Sustainability,0,59050,70310,Policy
+Sep-14,,DD30,Junior,,G7 (L),Grade 7,Resource Atmosphere & Sustainability,0,49400,59290,Policy
+Sep-14,,DD30,Junior,,G7 (L),Not in Post,Resource Atmosphere & Sustainability,0,49400,59290,Policy
+Sep-14,,DD30,Junior,,HEO (L),Higher Executive Officer,Resource Atmosphere & Sustainability,0,30510,35350,Policy
+Sep-14,,DD30,Junior,,HEO (L),Not in Post,Resource Atmosphere & Sustainability,0,30510,35350,Policy
+Sep-14,,DD30,Junior,,SEO (L),Senior Executive Officer,Resource Atmosphere & Sustainability,0,36610,43190,Policy
+Sep-14,,DD30,Junior,,SEO (N),Senior Executive Officer,Resource Atmosphere & Sustainability,0,33900,40000,Policy
+Sep-14,,DD31,Junior,,EO (L),Executive Officer,Resource Atmosphere & Sustainability,0,25500,29210,Policy
+Sep-14,,DD31,Junior,,EO (N),Executive Officer,Resource Atmosphere & Sustainability,0,22820,26040,Policy
+Sep-14,,DD31,Junior,,G7 (L),Grade 7,Resource Atmosphere & Sustainability,0,49400,59290,Policy
+Sep-14,,DD31,Junior,,HEO (L),Higher Executive Officer,Resource Atmosphere & Sustainability,0,30510,35350,Policy
+Sep-14,,DD31,Junior,,SEO (L),Senior Executive Officer,Resource Atmosphere & Sustainability,0,36610,43190,Policy
+Sep-14,,DD35,Junior,,EO (L),Executive Officer,Resource Atmosphere & Sustainability,0,25500,29210,Policy
+Sep-14,,DD35,Junior,,G6 (L),Grade 6,Resource Atmosphere & Sustainability,0,59050,70310,Policy
+Sep-14,,DD35,Junior,,G7 (L),Grade 7,Resource Atmosphere & Sustainability,0,49400,59290,Policy
+Sep-14,,DD35,Junior,,HEO (L),Higher Executive Officer,Resource Atmosphere & Sustainability,0,30510,35350,Policy
+Sep-14,,DD35,Junior,,SEO (L),Senior Executive Officer,Resource Atmosphere & Sustainability,0,36610,43190,Policy
+Sep-14,,DD35,Junior,,SEO (N),Senior Executive Officer,Resource Atmosphere & Sustainability,0,33900,40000,Policy
+Sep-14,,DD83,Junior,,EO (L),Executive Officer,Resource Atmosphere & Sustainability,0,25500,29210,Policy
+Sep-14,,DD83,Junior,,FS (L),Assistant Economist,Resource Atmosphere & Sustainability,0,27500,36000,Economics
+Sep-14,,DD83,Junior,,G7 (L),Grade 7,Resource Atmosphere & Sustainability,0,49400,59290,Policy
+Sep-14,,DD83,Junior,,HEO (L),Higher Executive Officer,Resource Atmosphere & Sustainability,0,30510,35350,Policy
+Sep-14,,DD83,Junior,,SEO (L),Senior Executive Officer,Resource Atmosphere & Sustainability,0,36610,43190,Policy
+Sep-14,,DD83,Junior,,SEO (L),Senior Scientific Officer,Resource Atmosphere & Sustainability,0,36610,43190,Science and Engineering
+Sep-14,,DD42,Junior,,EO (L),Executive Officer,"Rural Development, Sustainable Communities & Crops",0,25500,29210,Finance
+Sep-14,,DD42,Junior,,G6 (N),Not in Post,"Rural Development, Sustainable Communities & Crops",0,54310,65080,Policy
+Sep-14,,DD42,Junior,,G7 (L),Grade 7,"Rural Development, Sustainable Communities & Crops",0,49400,59290,Policy
+Sep-14,,DD42,Junior,,HEO (L),Higher Executive Officer,"Rural Development, Sustainable Communities & Crops",0,30510,35350,Policy
+Sep-14,,DD42,Junior,,SEO (L),Senior Executive Officer,"Rural Development, Sustainable Communities & Crops",0,36610,43190,Policy
+Sep-14,,DD43,Junior,,AA (L),Administrative Assistant,"Rural Development, Sustainable Communities & Crops",0,19320,19890,Policy
+Sep-14,,DD43,Junior,,AO (L),Administrative Officer,"Rural Development, Sustainable Communities & Crops",0,22070,23170,Policy
+Sep-14,,DD43,Junior,,AO (L),Personal Secretary,"Rural Development, Sustainable Communities & Crops",0,22070,23170,Policy
+Sep-14,,DD43,Junior,,EO (L),Senior Personal Secretary,"Rural Development, Sustainable Communities & Crops",0,25500,29210,Policy
+Sep-14,,DD44,Junior,,EO (L),Executive Officer,"Rural Development, Sustainable Communities & Crops",0,25500,29210,Policy
+Sep-14,,DD44,Junior,,G6 (L),Grade 6,"Rural Development, Sustainable Communities & Crops",0,59050,70310,Policy
+Sep-14,,DD44,Junior,,G7 (L),Grade 7,"Rural Development, Sustainable Communities & Crops",0,49400,59290,Policy
+Sep-14,,DD44,Junior,,HEO (L),Higher Executive Officer,"Rural Development, Sustainable Communities & Crops",0,30510,35350,Policy
+Sep-14,,DD44,Junior,,SEO (L),Senior Executive Officer,"Rural Development, Sustainable Communities & Crops",0,36610,43190,Policy
+Sep-14,,DD45,Junior,,AO (N),Administrative Officer,"Rural Development, Sustainable Communities & Crops",0,19060,20010,Policy
+Sep-14,,DD45,Junior,,EO (N),Executive Officer,"Rural Development, Sustainable Communities & Crops",0,22820,26040,Policy
+Sep-14,,DD45,Junior,,G7 (L),Grade 7,"Rural Development, Sustainable Communities & Crops",0,49400,59290,Policy
+Sep-14,,DD45,Junior,,G7 (N),Grade 7,"Rural Development, Sustainable Communities & Crops",0,44970,53910,Policy
+Sep-14,,DD45,Junior,,HEO (L),Higher Executive Officer,"Rural Development, Sustainable Communities & Crops",0,30510,35350,Policy
+Sep-14,,DD45,Junior,,HEO (N),Higher Executive Officer,"Rural Development, Sustainable Communities & Crops",0,27400,31680,Policy
+Sep-14,,DD46,Junior,,EO (L),Executive Officer,"Rural Development, Sustainable Communities & Crops",0,25500,29210,Policy
+Sep-14,,DD46,Junior,,FS (L),Higher Executive Officer (D),"Rural Development, Sustainable Communities & Crops",0,27500,36000,Policy
+Sep-14,,DD46,Junior,,G6 (N),Grade 6,"Rural Development, Sustainable Communities & Crops",0,54310,65080,Policy
+Sep-14,,DD46,Junior,,G7 (L),Grade 7,"Rural Development, Sustainable Communities & Crops",0,49400,59290,Policy
+Sep-14,,DD46,Junior,,G7 (L),Not in Post,"Rural Development, Sustainable Communities & Crops",0,49400,59290,Policy
+Sep-14,,DD46,Junior,,HEO (L),Higher Executive Officer,"Rural Development, Sustainable Communities & Crops",0,30510,35350,Policy
+Sep-14,,DD46,Junior,,SEO (L),Senior Executive Officer,"Rural Development, Sustainable Communities & Crops",0,36610,43190,Policy
+Sep-14,,DD46,Junior,,SEO (L),Not in Post,"Rural Development, Sustainable Communities & Crops",0,36610,43190,Policy
+Sep-14,,DD46,Junior,,SEO (N),Senior Executive Officer,"Rural Development, Sustainable Communities & Crops",0,33900,40000,Policy
+Sep-14,,DD47,Junior,,AO (N),Administrative Officer,"Rural Development, Sustainable Communities & Crops",0,19060,20010,Policy
+Sep-14,,DD47,Junior,,AO (OL),Administrative Officer,"Rural Development, Sustainable Communities & Crops",0,21850,22940,Policy
+Sep-14,,DD47,Junior,,EO (N),Executive Officer,"Rural Development, Sustainable Communities & Crops",0,22820,26040,Policy
+Sep-14,,DD47,Junior,,EO (OL),Executive Officer,"Rural Development, Sustainable Communities & Crops",0,25400,29210,Policy
+Sep-14,,DD47,Junior,,G6 (L),Grade 6,"Rural Development, Sustainable Communities & Crops",0,59050,70310,Policy
+Sep-14,,DD47,Junior,,G6 (N),Grade 6,"Rural Development, Sustainable Communities & Crops",0,54310,65080,Policy
+Sep-14,,DD47,Junior,,G6 (OL),Grade 6,"Rural Development, Sustainable Communities & Crops",0,57800,69340,Policy
+Sep-14,,DD47,Junior,,G7 (N),Grade 7,"Rural Development, Sustainable Communities & Crops",0,44970,53910,Policy
+Sep-14,,DD47,Junior,,HEO (N),Higher Executive Officer,"Rural Development, Sustainable Communities & Crops",0,27400,31680,Policy
+Sep-14,,DD47,Junior,,HEO (N),Not in Post,"Rural Development, Sustainable Communities & Crops",0,27400,31680,Policy
+Sep-14,,DD47,Junior,,HEO (OL),Higher Executive Officer,"Rural Development, Sustainable Communities & Crops",0,29970,34760,Policy
+Sep-14,,DD47,Junior,,SEO (L),Senior Executive Officer,"Rural Development, Sustainable Communities & Crops",0,36610,43190,Policy
+Sep-14,,DD47,Junior,,SEO (N),Senior Executive Officer,"Rural Development, Sustainable Communities & Crops",0,33900,40000,Policy
+Sep-14,,DD47,Junior,,SEO (OL),Senior Executive Officer,"Rural Development, Sustainable Communities & Crops",0,36240,42760,Policy
+Sep-14,,DD47,Junior,,SEO (OL),Not in Post,"Rural Development, Sustainable Communities & Crops",0,36240,42760,Policy
+Sep-14,,DD48,Junior,,EO (L),Executive Officer,"Rural Development, Sustainable Communities & Crops",0,25500,29210,Policy
+Sep-14,,DD48,Junior,,EO (L),Not in Post,"Rural Development, Sustainable Communities & Crops",0,25500,29210,Statisticians
+Sep-14,,DD48,Junior,,EO (N),Executive Officer,"Rural Development, Sustainable Communities & Crops",0,22820,26040,Policy
+Sep-14,,DD48,Junior,,FS (L),Assistant Statistician,"Rural Development, Sustainable Communities & Crops",0,27500,36000,Statisticians
+Sep-14,,DD48,Junior,,G7 (L),Grade 7,"Rural Development, Sustainable Communities & Crops",0,49400,59290,Policy
+Sep-14,,DD48,Junior,,G7 (N),Grade 7,"Rural Development, Sustainable Communities & Crops",0,44970,53910,Policy
+Sep-14,,DD48,Junior,,HEO (L),Higher Executive Officer,"Rural Development, Sustainable Communities & Crops",0,30510,35350,Policy
+Sep-14,,DD48,Junior,,HEO (N),Higher Executive Officer,"Rural Development, Sustainable Communities & Crops",0,27400,31680,Policy
+Sep-14,,DD48,Junior,,HEO (N),Not in Post,"Rural Development, Sustainable Communities & Crops",0,27400,31680,Policy
+Sep-14,,DD48,Junior,,SEO (L),Senior Executive Officer,"Rural Development, Sustainable Communities & Crops",0,36610,43190,Policy
+Sep-14,,DD48,Junior,,SEO (N),Senior Executive Officer,"Rural Development, Sustainable Communities & Crops",0,33900,40000,Policy
+Sep-14,,DD49,Junior,,AA (N),Administrative Assistant,"Rural Development, Sustainable Communities & Crops",0,15980,16450,Policy
+Sep-14,,DD49,Junior,,EO (L),Executive Officer,"Rural Development, Sustainable Communities & Crops",0,25500,29210,Policy
+Sep-14,,DD49,Junior,,EO (N),Executive Officer,"Rural Development, Sustainable Communities & Crops",0,22820,26040,Policy
+Sep-14,,DD49,Junior,,G6 (L),Grade 6,"Rural Development, Sustainable Communities & Crops",0,59050,70310,Policy
+Sep-14,,DD49,Junior,,G7 (L),Grade 7,"Rural Development, Sustainable Communities & Crops",0,49400,59290,Policy
+Sep-14,,DD49,Junior,,G7 (N),Grade 7,"Rural Development, Sustainable Communities & Crops",0,44970,53910,Policy
+Sep-14,,DD49,Junior,,HEO (L),Higher Executive Officer,"Rural Development, Sustainable Communities & Crops",0,30510,35350,Policy
+Sep-14,,DD49,Junior,,HEO (N),Higher Executive Officer,"Rural Development, Sustainable Communities & Crops",0,27400,31680,Policy
+Sep-14,,DD49,Junior,,SEO (L),Senior Executive Officer,"Rural Development, Sustainable Communities & Crops",0,36610,43190,Policy
+Sep-14,,DD49,Junior,,SEO (N),Senior Executive Officer,"Rural Development, Sustainable Communities & Crops",0,33900,40000,Policy
+Sep-14,,DD93,Junior,,EO (L),Executive Officer,Strategic Alignment,0,25500,29210,Policy
+Sep-14,,DD93,Junior,,EO (L),Senior Personal Secretary,Strategic Alignment,0,25500,29210,Policy
+Sep-14,,DD93,Junior,,FS (N),Higher Executive Officer (D),Strategic Alignment,0,27500,36000,Policy
+Sep-14,,DD93,Junior,,G6 (L),Grade 6,Strategic Alignment,0,59050,70310,Policy
+Sep-14,,DD93,Junior,,G6 (L),Grade 6,Strategic Alignment,0,59050,70310,Procurement
+Sep-14,,DD93,Junior,,G7 (L),Grade 7,Strategic Alignment,0,49400,59290,Policy
+Sep-14,,DD93,Junior,,HEO (L),Higher Executive Officer,Strategic Alignment,0,30510,35350,Finance
+Sep-14,,DD93,Junior,,HEO (L),Higher Executive Officer,Strategic Alignment,0,30510,35350,Policy
+Sep-14,,DD93,Junior,,SEO (L),Senior Executive Officer,Strategic Alignment,0,36610,43190,Policy
+Sep-14,,DD93,Junior,,SEO (N),Senior Executive Officer,Strategic Alignment,0,33900,40000,Policy
+Sep-14,,DD69,Junior,,HEO (N),Higher Executive Officer,Strategic Evidence & Analysis,0,27400,31680,Statisticians
+Sep-14,,DD81,Junior,,EO (L),Executive Officer,Strategic Evidence & Analysis,0,25500,29210,Policy
+Sep-14,,DD81,Junior,,FS (L),Assistant Economist,Strategic Evidence & Analysis,0,27500,36000,Economics
+Sep-14,,DD81,Junior,,FS (L),Assistant Economist Provisional,Strategic Evidence & Analysis,0,27500,36000,Economics
+Sep-14,,DD81,Junior,,G6 (L),Grade 6,Strategic Evidence & Analysis,0,59050,70310,Policy
+Sep-14,,DD81,Junior,,G7 (L),Grade 7,Strategic Evidence & Analysis,0,49400,59290,Policy
+Sep-14,,DD81,Junior,,G7 (L),Not in Post,Strategic Evidence & Analysis,0,49400,59290,Policy
+Sep-14,,DD81,Junior,,HEO (L),Higher Executive Officer,Strategic Evidence & Analysis,0,30510,35350,Policy
+Sep-14,,DD81,Junior,,HEO (L),Higher Scientific Officer,Strategic Evidence & Analysis,0,30510,35350,Science and Engineering
+Sep-14,,DD81,Junior,,HEO (N),Higher Executive Officer,Strategic Evidence & Analysis,0,27400,31680,Policy
+Sep-14,,DD81,Junior,,HEO (N),Higher Scientific Officer,Strategic Evidence & Analysis,0,27400,31680,Science and Engineering
+Sep-14,,DD81,Junior,,SEO (L),Senior Executive Officer,Strategic Evidence & Analysis,0,36610,43190,Policy
+Sep-14,,DD81,Junior,,SEO (L),Senior Scientific Officer,Strategic Evidence & Analysis,0,36610,43190,Science and Engineering
+Sep-14,,DD81,Junior,,SEO (L),Not in Post,Strategic Evidence & Analysis,0,36610,43190,Science and Engineering
+Sep-14,,DD81,Junior,,SEO (N),Senior Executive Officer,Strategic Evidence & Analysis,0,33900,40000,Policy
+Sep-14,,DD81,Junior,,SEO (N),Senior Scientific Officer,Strategic Evidence & Analysis,0,33900,40000,Science and Engineering
+Sep-14,,D15,Junior,,AO (L),Administrative Officer,Strategic Evidence & Analysis,0,22070,23170,Policy
+Sep-14,,D15,Junior,,EO (L),Executive Officer,Strategic Evidence & Analysis,0,25500,29210,Economics
+Sep-14,,D15,Junior,,FS (L),Higher Executive Officer (D),Strategic Evidence & Analysis,0,27500,36000,Economics
+Sep-14,,D15,Junior,,G6 (L),Not in Post,Strategic Evidence & Analysis,0,59050,70310,Economics
+Sep-14,,D15,Junior,,G7 (L),Grade 7,Strategic Evidence & Analysis,0,49400,59290,Economics
+Sep-14,,D15,Junior,,G7 (L),Grade 7,Strategic Evidence & Analysis,0,49400,59290,Policy
+Sep-14,,D20,Junior,,AO (L),Administrative Officer,Strategy & Private Office,0,22070,23170,Policy
+Sep-14,,D20,Junior,,AO (L),Support Grade Band 1,Strategy & Private Office,0,22070,23170,Policy
+Sep-14,,D20,Junior,,EO (L),Executive Officer,Strategy & Private Office,0,25500,29210,Policy
+Sep-14,,D20,Junior,,FS (L),Higher Executive Officer (D),Strategy & Private Office,0,27500,36000,Policy
+Sep-14,,D20,Junior,,FS (L),Not in Post,Strategy & Private Office,0,27500,36000,Policy
+Sep-14,,D20,Junior,,G6 (L),Grade 6,Strategy & Private Office,0,59050,70310,Policy
+Sep-14,,D20,Junior,,G7 (L),Grade 7,Strategy & Private Office,0,49400,59290,Policy
+Sep-14,,D20,Junior,,HEO (L),Higher Executive Officer,Strategy & Private Office,0,30510,35350,Policy
+Sep-14,,D20,Junior,,HEO (L),Not in Post,Strategy & Private Office,0,30510,35350,Policy
+Sep-14,,D20,Junior,,SEO (L),Senior Executive Officer,Strategy & Private Office,0,36610,43190,Policy
+Sep-14,,DD68,Junior,,G7 (L),Grade 7,Strategy & Private Office,0,49400,59290,Policy
+Sep-14,,DD75,Junior,,AO (L),Administrative Officer,Strategy & Private Office,0,22070,23170,Policy
+Sep-14,,DD75,Junior,,EO (L),Executive Officer,Strategy & Private Office,0,25500,29210,Policy
+Sep-14,,DD75,Junior,,FS (L),Higher Executive Officer (D),Strategy & Private Office,0,27500,36000,Policy
+Sep-14,,DD75,Junior,,G6 (L),Grade 6,Strategy & Private Office,0,59050,70310,Policy
+Sep-14,,DD75,Junior,,G7 (L),Grade 7,Strategy & Private Office,0,49400,59290,Policy
+Sep-14,,DD75,Junior,,G7 (L),Not in Post,Strategy & Private Office,0,49400,59290,Policy
+Sep-14,,DD75,Junior,,HEO (L),Higher Executive Officer,Strategy & Private Office,0,30510,35350,Policy
+Sep-14,,DD75,Junior,,SEO (L),Senior Executive Officer,Strategy & Private Office,0,36610,43190,Policy
+Sep-14,,DD78,Junior,,AO (L),Administrative Officer,Strategy & Private Office,0,22070,23170,Policy
+Sep-14,,DD75,Junior,,EO (L),Executive Officer,Strategy & Private Office,0,25500,29210,Policy
+Sep-14,,DD75,Junior,,EO (N),Executive Officer,Strategy & Private Office,0,22820,26040,Policy
+Sep-14,,DD75,Junior,,G7 (L),Grade 7,Strategy & Private Office,0,49400,59290,Policy
+Sep-14,,DD75,Junior,,HEO (L),Higher Executive Officer,Strategy & Private Office,0,30510,35350,Policy
+Sep-14,,DD75,Junior,,HEO (N),Higher Executive Officer,Strategy & Private Office,0,27400,31680,Policy
+Sep-14,,DD75,Junior,,SEO (L),Senior Executive Officer,Strategy & Private Office,0,36610,43190,Policy
+Sep-14,,D15,Junior,,G6 (L),Grade 6,Strategy & Private Office,0,59050,70310,Policy
+Sep-14,,D13,Junior,,AA (L),Administrative Assistant,Sustainable Land Management & Livestock Farming,0,19320,19890,Policy
+Sep-14,,D13,Junior,,AO (L),Administrative Officer,Sustainable Land Management & Livestock Farming,0,22070,23170,Policy
+Sep-14,,D13,Junior,,AO (L),Personal Secretary,Sustainable Land Management & Livestock Farming,0,22070,23170,Policy
+Sep-14,,D13,Junior,,EO (L),Executive Officer,Sustainable Land Management & Livestock Farming,0,25500,29210,Policy
+Sep-14,,DD43,Junior,,AO (L),Administrative Officer,Sustainable Land Management & Livestock Farming,0,22070,23170,Policy
+Sep-14,,DD43,Junior,,AO (N),Administrative Officer,Sustainable Land Management & Livestock Farming,0,19060,20010,Policy
+Sep-14,,DD43,Junior,,AO (N),Personal Secretary,Sustainable Land Management & Livestock Farming,0,19060,20010,Policy
+Sep-14,,DD43,Junior,,EO (L),Executive Officer,Sustainable Land Management & Livestock Farming,0,25500,29210,Policy
+Sep-14,,DD43,Junior,,EO (N),Executive Officer,Sustainable Land Management & Livestock Farming,0,22820,26040,Policy
+Sep-14,,DD43,Junior,,EO (N),Executive Officer,Sustainable Land Management & Livestock Farming,0,22820,26040,Statisticians
+Sep-14,,DD43,Junior,,FS (N),Assistant Statistician,Sustainable Land Management & Livestock Farming,0,27500,36000,Statisticians
+Sep-14,,DD43,Junior,,G6 (L),Grade 6,Sustainable Land Management & Livestock Farming,0,59050,70310,Policy
+Sep-14,,DD43,Junior,,G6 (N),Grade 6,Sustainable Land Management & Livestock Farming,0,54310,65080,Policy
+Sep-14,,DD43,Junior,,G7 (L),Grade 7,Sustainable Land Management & Livestock Farming,0,49400,59290,Policy
+Sep-14,,DD43,Junior,,G7 (N),Grade 7,Sustainable Land Management & Livestock Farming,0,44970,53910,Policy
+Sep-14,,DD43,Junior,,HEO (N),Higher Executive Officer,Sustainable Land Management & Livestock Farming,0,27400,31680,Policy
+Sep-14,,DD43,Junior,,SEO (L),Senior Executive Officer,Sustainable Land Management & Livestock Farming,0,36610,43190,Policy
+Sep-14,,DD43,Junior,,SEO (N),Senior Scientific Officer,Sustainable Land Management & Livestock Farming,0,33900,40000,Science and Engineering
+Sep-14,,DD50,Junior,,AO (N),Administrative Officer,Sustainable Land Management & Livestock Farming,0,19060,20010,Policy
+Sep-14,,DD50,Junior,,AO (N),Personal Secretary,Sustainable Land Management & Livestock Farming,0,19060,20010,Policy
+Sep-14,,DD50,Junior,,EO (L),Executive Officer,Sustainable Land Management & Livestock Farming,0,25500,29210,Policy
+Sep-14,,DD50,Junior,,EO (N),Executive Officer,Sustainable Land Management & Livestock Farming,0,22820,26040,Policy
+Sep-14,,DD50,Junior,,G7 (L),Grade 7,Sustainable Land Management & Livestock Farming,0,49400,59290,Policy
+Sep-14,,DD50,Junior,,G7 (N),Grade 7,Sustainable Land Management & Livestock Farming,0,44970,53910,Policy
+Sep-14,,DD50,Junior,,HEO (L),Higher Executive Officer,Sustainable Land Management & Livestock Farming,0,30510,35350,Policy
+Sep-14,,DD50,Junior,,HEO (N),Higher Executive Officer,Sustainable Land Management & Livestock Farming,0,27400,31680,Policy
+Sep-14,,DD50,Junior,,HEO (N),Not in Post,Sustainable Land Management & Livestock Farming,0,27400,31680,Policy
+Sep-14,,DD50,Junior,,SEO (L),Senior Executive Officer,Sustainable Land Management & Livestock Farming,0,36610,43190,Policy
+Sep-14,,DD50,Junior,,SEO (N),Senior Executive Officer,Sustainable Land Management & Livestock Farming,0,33900,40000,Policy
+Sep-14,,DD52,Junior,,AO (L),Administrative Officer,Sustainable Land Management & Livestock Farming,0,22070,23170,Policy
+Sep-14,,DD52,Junior,,AO (L),Personal Secretary,Sustainable Land Management & Livestock Farming,0,22070,23170,Policy
+Sep-14,,DD52,Junior,,EO (L),Not in Post,Sustainable Land Management & Livestock Farming,0,25500,29210,Policy
+Sep-14,,DD52,Junior,,EO (N),Executive Officer,Sustainable Land Management & Livestock Farming,0,22820,26040,Policy
+Sep-14,,DD52,Junior,,G7 (L),Grade 7,Sustainable Land Management & Livestock Farming,0,49400,59290,Policy
+Sep-14,,DD52,Junior,,G7 (N),Grade 7,Sustainable Land Management & Livestock Farming,0,44970,53910,Policy
+Sep-14,,DD52,Junior,,G7 (N),Not in Post,Sustainable Land Management & Livestock Farming,0,44970,53910,Policy
+Sep-14,,DD52,Junior,,HEO (N),Higher Executive Officer,Sustainable Land Management & Livestock Farming,0,27400,31680,Policy
+Sep-14,,DD52,Junior,,SEO (N),Senior Executive Officer,Sustainable Land Management & Livestock Farming,0,33900,40000,Policy
+Sep-14,,DD54,Junior,,AO (L),Administrative Officer,Sustainable Land Management & Livestock Farming,0,22070,23170,Policy
+Sep-14,,DD54,Junior,,EO (L),Executive Officer,Sustainable Land Management & Livestock Farming,0,25500,29210,Policy
+Sep-14,,DD54,Junior,,EO (L),Not in Post,Sustainable Land Management & Livestock Farming,0,25500,29210,Policy
+Sep-14,,DD54,Junior,,FS (L),Higher Executive Officer (D),Sustainable Land Management & Livestock Farming,0,27500,36000,Policy
+Sep-14,,DD54,Junior,,G6 (L),Grade 6,Sustainable Land Management & Livestock Farming,0,59050,70310,Policy
+Sep-14,,DD54,Junior,,G7 (L),Grade 7,Sustainable Land Management & Livestock Farming,0,49400,59290,Policy
+Sep-14,,DD54,Junior,,HEO (L),Higher Executive Officer,Sustainable Land Management & Livestock Farming,0,30510,35350,Policy
+Sep-14,,DD54,Junior,,HEO (L),Higher Scientific Officer,Sustainable Land Management & Livestock Farming,0,30510,35350,Science and Engineering
+Sep-14,,DD54,Junior,,HEO (L),Not in Post,Sustainable Land Management & Livestock Farming,0,30510,35350,Policy
+Sep-14,,DD54,Junior,,HEO (N),Higher Executive Officer,Sustainable Land Management & Livestock Farming,0,27400,31680,Policy
+Sep-14,,DD54,Junior,,SEO (L),Senior Executive Officer,Sustainable Land Management & Livestock Farming,0,36610,43190,Policy
+Sep-14,,DD54,Junior,,SEO (L),Senior Scientific Officer,Sustainable Land Management & Livestock Farming,0,36610,43190,Science and Engineering
+Sep-14,,DD55,Junior,,AA (L),Administrative Assistant,Sustainable Land Management & Livestock Farming,0,19320,19890,Policy
+Sep-14,,DD55,Junior,,AO (L),Administrative Officer,Sustainable Land Management & Livestock Farming,0,22070,23170,Policy
+Sep-14,,DD55,Junior,,EO (L),Executive Officer,Sustainable Land Management & Livestock Farming,0,25500,29210,Policy
+Sep-14,,DD55,Junior,,FS (L),Assistant Economist,Sustainable Land Management & Livestock Farming,0,27500,36000,Economics
+Sep-14,,DD55,Junior,,G7 (L),Grade 7,Sustainable Land Management & Livestock Farming,0,49400,59290,Policy
+Sep-14,,DD55,Junior,,HEO (L),Higher Executive Officer,Sustainable Land Management & Livestock Farming,0,30510,35350,Policy
+Sep-14,,DD55,Junior,,HEO (N),Higher Executive Officer,Sustainable Land Management & Livestock Farming,0,27400,31680,Policy
+Sep-14,,DD55,Junior,,SEO (L),Senior Executive Officer,Sustainable Land Management & Livestock Farming,0,36610,43190,Policy
+Sep-14,,DD55,Junior,,SEO (L),Senior Scientific Officer,Sustainable Land Management & Livestock Farming,0,36610,43190,Science and Engineering
+Sep-14,,DD55,Junior,,SEO (L),Not in Post,Sustainable Land Management & Livestock Farming,0,36610,43190,Policy
+Sep-14,,DD55,Junior,,SEO (N),Senior Executive Officer,Sustainable Land Management & Livestock Farming,0,33900,40000,Policy
+Sep-14,,DD56,Junior,,AO (L),Personal Secretary,Sustainable Land Management & Livestock Farming,0,22070,23170,Policy
+Sep-14,,DD56,Junior,,EO (N),Executive Officer,Sustainable Land Management & Livestock Farming,0,22820,26040,Policy
+Sep-14,,DD56,Junior,,FS (L),Assistant Statistician,Sustainable Land Management & Livestock Farming,0,27500,36000,Statisticians
+Sep-14,,DD56,Junior,,G6 (L),Grade 6,Sustainable Land Management & Livestock Farming,0,59050,70310,Policy
+Sep-14,,DD56,Junior,,G7 (L),Grade 7,Sustainable Land Management & Livestock Farming,0,49400,59290,Policy
+Sep-14,,DD56,Junior,,G7 (L),Grade 7,Sustainable Land Management & Livestock Farming,0,49400,59290,Statisticians
+Sep-14,,DD56,Junior,,G7 (N),Grade 7,Sustainable Land Management & Livestock Farming,0,44970,53910,Policy
+Sep-14,,DD56,Junior,,G7 (N),Grade 7,Sustainable Land Management & Livestock Farming,0,44970,53910,Statisticians
+Sep-14,,DD56,Junior,,HEO (N),Higher Executive Officer,Sustainable Land Management & Livestock Farming,0,27400,31680,Policy
+Sep-14,,DD56,Junior,,SEO (N),Senior Scientific Officer,Sustainable Land Management & Livestock Farming,0,33900,40000,Science and Engineering
+Sep-14,,DD56,Junior,,SEO (OL),Senior Scientific Officer,Sustainable Land Management & Livestock Farming,0,36240,42760,Science and Engineering
+Sep-14,,DD57,Junior,,G7 (L),Grade 7,Sustainable Land Management & Livestock Farming,0,49400,59290,Policy
+Sep-14,,DD57,Junior,,G7 (N),Grade 7,Sustainable Land Management & Livestock Farming,0,44970,53910,Policy
+Sep-14,,DD83,Junior,,FS (L),Assistant Economist,Sustainable Land Management & Livestock Farming,0,27500,36000,Economics
+Sep-14,,D14,Junior,,EO (L),Executive Officer,Water & Flood Management,0,25500,29210,Policy
+Sep-14,,D14,Junior,,FS (L),Assistant Economist,Water & Flood Management,0,27500,36000,Economics
+Sep-14,,D14,Junior,,FS (L),Higher Executive Officer (D),Water & Flood Management,0,27500,36000,Policy
+Sep-14,,D14,Junior,,G6 (L),Grade 6,Water & Flood Management,0,59050,70310,Policy
+Sep-14,,D14,Junior,,G7 (L),Grade 7,Water & Flood Management,0,49400,59290,Policy
+Sep-14,,D14,Junior,,HEO (L),Higher Executive Officer,Water & Flood Management,0,30510,35350,Policy
+Sep-14,,D14,Junior,,HEO (L),Higher Scientific Officer,Water & Flood Management,0,30510,35350,Science and Engineering
+Sep-14,,D14,Junior,,SEO (L),Senior Scientific Officer,Water & Flood Management,0,36610,43190,Science and Engineering
+Sep-14,,DD38,Junior,,AO (N),Administrative Officer,Water & Flood Management,0,19060,20010,Policy
+Sep-14,,DD38,Junior,,EO (L),Executive Officer,Water & Flood Management,0,25500,29210,Policy
+Sep-14,,DD38,Junior,,EO (N),Executive Officer,Water & Flood Management,0,22820,26040,Policy
+Sep-14,,DD38,Junior,,G6 (N),Grade 6,Water & Flood Management,0,54310,65080,Policy
+Sep-14,,DD38,Junior,,G7 (L),Grade 7,Water & Flood Management,0,49400,59290,Policy
+Sep-14,,DD38,Junior,,G7 (L),Not in Post,Water & Flood Management,0,49400,59290,Policy
+Sep-14,,DD38,Junior,,G7 (N),Grade 7,Water & Flood Management,0,44970,53910,Policy
+Sep-14,,DD38,Junior,,HEO (N),Higher Executive Officer,Water & Flood Management,0,27400,31680,Policy
+Sep-14,,DD38,Junior,,SEO (L),Senior Executive Officer,Water & Flood Management,0,36610,43190,Policy
+Sep-14,,DD38,Junior,,SEO (N),Senior Executive Officer,Water & Flood Management,0,33900,40000,Policy
+Sep-14,,DD52,Junior,,EO (L),Executive Officer,Water & Flood Management,0,25500,29210,Policy
+Sep-14,,DD52,Junior,,G7 (L),Grade 7,Water & Flood Management,0,49400,59290,Policy
+Sep-14,,DD52,Junior,,HEO (L),Higher Executive Officer,Water & Flood Management,0,30510,35350,Policy
+Sep-14,,DD52,Junior,,SEO (L),Senior Executive Officer,Water & Flood Management,0,36610,43190,Policy
+Sep-14,,DD58,Junior,,AO (L),Administrative Officer,Water & Flood Management,0,22070,23170,Policy
+Sep-14,,DD58,Junior,,EO (L),Executive Officer,Water & Flood Management,0,25500,29210,Policy
+Sep-14,,DD58,Junior,,G6 (L),Grade 6,Water & Flood Management,0,59050,70310,Policy
+Sep-14,,DD58,Junior,,G7 (L),Grade 7,Water & Flood Management,0,49400,59290,Policy
+Sep-14,,DD58,Junior,,G7 (N),Grade 7,Water & Flood Management,0,44970,53910,Policy
+Sep-14,,DD58,Junior,,HEO (L),Higher Executive Officer,Water & Flood Management,0,30510,35350,Policy
+Sep-14,,DD58,Junior,,HEO (N),Higher Executive Officer,Water & Flood Management,0,27400,31680,Policy
+Sep-14,,DD58,Junior,,HEO (N),Higher Scientific Officer,Water & Flood Management,0,27400,31680,Science and Engineering
+Sep-14,,DD58,Junior,,SEO (L),Senior Executive Officer,Water & Flood Management,0,36610,43190,Policy
+Sep-14,,DD58,Junior,,SEO (L),Senior Scientific Officer,Water & Flood Management,0,36610,43190,Science and Engineering
+Sep-14,,DD58,Junior,,SEO (N),Senior Executive Officer,Water & Flood Management,0,33900,40000,Policy
+Sep-14,,DD58,Junior,,SEO (N),Senior Scientific Officer,Water & Flood Management,0,33900,40000,Science and Engineering
+Sep-14,,DD59,Junior,,AO (L),Administrative Officer,Water & Flood Management,0,22070,23170,Operational Delivery
+Sep-14,,DD59,Junior,,EO (L),Executive Officer,Water & Flood Management,0,25500,29210,Operational Delivery
+Sep-14,,DD59,Junior,,G6 (L),Grade 6,Water & Flood Management,0,59050,70310,Operational Delivery
+Sep-14,,DD59,Junior,,G7 (L),Grade 7,Water & Flood Management,0,49400,59290,Operational Delivery
+Sep-14,,DD59,Junior,,G7 (L),Not in Post,Water & Flood Management,0,49400,59290,Operational Delivery
+Sep-14,,DD59,Junior,,HEO (L),Higher Executive Officer,Water & Flood Management,0,30510,35350,Operational Delivery
+Sep-14,,DD59,Junior,,SEO (L),Senior Executive Officer,Water & Flood Management,0,36610,43190,Operational Delivery
+Sep-14,,DD59,Junior,,SEO (L),Senior Professional and Technology Officer,Water & Flood Management,0,36610,43190,Operational Delivery
+Sep-14,,DD60,Junior,,EO (L),Executive Officer,Water & Flood Management,0,25500,29210,Policy
+Sep-14,,DD60,Junior,,FS (L),Higher Executive Officer (D),Water & Flood Management,0,27500,36000,Policy
+Sep-14,,DD60,Junior,,G6 (L),Grade 6,Water & Flood Management,0,59050,70310,Policy
+Sep-14,,DD60,Junior,,G7 (L),Grade 7,Water & Flood Management,0,49400,59290,Policy
+Sep-14,,DD60,Junior,,HEO (L),Higher Executive Officer,Water & Flood Management,0,30510,35350,Policy
+Sep-14,,DD60,Junior,,SEO (L),Senior Executive Officer,Water & Flood Management,0,36610,43190,Policy
+Sep-14,,DD62,Junior,,EO (L),Executive Officer,Water & Flood Management,0,25500,29210,Policy
+Sep-14,,DD62,Junior,,FS (L),Higher Executive Officer (D),Water & Flood Management,0,27500,36000,Policy
+Sep-14,,DD62,Junior,,G6 (L),Grade 6,Water & Flood Management,0,59050,70310,Policy
+Sep-14,,DD62,Junior,,G7 (L),Grade 7,Water & Flood Management,0,49400,59290,Policy
+Sep-14,,DD62,Junior,,HEO (L),Higher Executive Officer,Water & Flood Management,0,30510,35350,Policy
+Sep-14,,DD62,Junior,,HEO (L),Not in Post,Water & Flood Management,0,30510,35350,Policy
+Sep-14,,DD62,Junior,,SEO (L),Senior Executive Officer,Water & Flood Management,0,36610,43190,Policy
+Sep-14,,DD63,Junior,,AA (L),Administrative Assistant,Water & Flood Management,0,19320,19890,Policy
+Sep-14,,DD63,Junior,,AO (L),Administrative Officer,Water & Flood Management,0,22070,23170,Policy
+Sep-14,,DD63,Junior,,AO (L),Personal Secretary,Water & Flood Management,0,22070,23170,Policy
+Sep-14,,DD63,Junior,,EO (L),Executive Officer,Water & Flood Management,0,25500,29210,Policy
+Sep-14,,DD63,Junior,,G6 (L),Grade 6,Water & Flood Management,0,59050,70310,Policy
+Sep-14,,DD63,Junior,,G7 (L),Grade 7,Water & Flood Management,0,49400,59290,Policy
+Sep-14,,DD63,Junior,,HEO (L),Higher Executive Officer,Water & Flood Management,0,30510,35350,Policy
+Sep-14,,DD63,Junior,,SEO (L),Senior Executive Officer,Water & Flood Management,0,36610,43190,Policy
+Sep-14,,DD63,Junior,,SEO (L),Senior Professional and Technology Officer,Water & Flood Management,0,36610,43190,Policy
+Sep-14,,DD97,Junior,,G7 (L),Grade 7,Water & Flood Management,0,49400,59290,Policy
+Sep-14,,DD97,Junior,,HEO (L),Higher Executive Officer,Water & Flood Management,0,30510,35350,Policy
+Sep-14,,DG03,Junior,,EO (L),Executive Officer,Director General Offices,0,25500,29210,Policy
+Sep-14,,DG03,Junior,,HEO (L),Higher Executive Officer,Director General Offices,0,30510,35350,Policy

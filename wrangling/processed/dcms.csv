@@ -1,135 +1,135 @@
-date,level,id,parentId
-,,root,
-Mar-15,Senior,DCMS1001,DCMS2006
-Mar-15,Senior,DCMS1002,DCMS2003
-Mar-15,Senior,DCMS1003,DCMS2002
-Mar-15,Senior,DCMS1004,DCMS2006
-Mar-15,Senior,DCMS1005,DCMS2006
-Mar-15,Senior,DCMS1006,DCMS2003
-Mar-15,Senior,DCMS1007,DCMS2005
-Mar-15,Senior,DCMS1008,DCMS2005
-Mar-15,Senior,DCMS1009,DCMS2006
-Mar-15,Senior,DCMS1010,DCMS2001
-Mar-15,Senior,DCMS1011,DCMS2001
-Mar-15,Senior,DCMS1012,DCMS2003
-Mar-15,Senior,DCMS1013,DCMS2006
-Mar-15,Senior,DCMS1014,DCMS3001
-Mar-15,Senior,DCMS1015,DCMS2002
-Mar-15,Senior,DCMS1016,DCMS2002
-Mar-15,Senior,DCMS1017,DCMS2001
-Mar-15,Senior,DCMS1018,DCMS3001
-Mar-15,Senior,DCMS1019,DCMS3001
-Mar-15,Senior,DCMS1020,DCMS2003
-Mar-15,Senior,DCMS1021,DCMS3001
-Mar-15,Senior,DCMS1022,DCMS3001
-Mar-15,Senior,DCMS1023,DCMS2004
-Mar-15,Senior,DCMS1024,DCMS2001
-Mar-15,Senior,DCMS1025,DCMS2006
-Mar-15,Senior,DCMS1026,DCMS2001
-Mar-15,Senior,DCMS1027,DCMS2004
-Mar-15,Senior,DCMS1028,DCMS2001
-Mar-15,Senior,DCMS2001,DCMS4001
-Mar-15,Senior,DCMS2002,DCMS2001
-Mar-15,Senior,DCMS2003,DCMS4001
-Mar-15,Senior,DCMS2004,root
-Mar-15,Senior,DCMS2005,DCMS4001
-Mar-15,Senior,DCMS2006,DCMS4001
-Mar-15,Senior,DCMS3001,DCMS4001
-Mar-15,Senior,DCMS4001,root
-Mar-15,Junior,,DCMS1004
-Mar-15,Junior,,DCMS1004
-Mar-15,Junior,,DCMS1004
-Mar-15,Junior,,DCMS1004
-Mar-15,Junior,,DCMS1005
-Mar-15,Junior,,DCMS1005
-Mar-15,Junior,,DCMS1005
-Mar-15,Junior,,DCMS1025
-Mar-15,Junior,,DCMS1025
-Mar-15,Junior,,DCMS1025
-Mar-15,Junior,,DCMS1025
-Mar-15,Junior,,DCMS1013
-Mar-15,Junior,,DCMS1013
-Mar-15,Junior,,DCMS1013
-Mar-15,Junior,,DCMS1013
-Mar-15,Junior,,DCMS2006
-Mar-15,Junior,,DCMS2006
-Mar-15,Junior,,DCMS2006
-Mar-15,Junior,,DCMS2006
-Mar-15,Junior,,DCMS1009
-Mar-15,Junior,,DCMS1009
-Mar-15,Junior,,DCMS1007
-Mar-15,Junior,,DCMS1007
-Mar-15,Junior,,DCMS1007
-Mar-15,Junior,,DCMS1007
-Mar-15,Junior,,DCMS1020
-Mar-15,Junior,,DCMS1020
-Mar-15,Junior,,DCMS1020
-Mar-15,Junior,,DCMS1020
-Mar-15,Junior,,DCMS1008
-Mar-15,Junior,,DCMS1008
-Mar-15,Junior,,DCMS1008
-Mar-15,Junior,,DCMS1024
-Mar-15,Junior,,DCMS1024
-Mar-15,Junior,,DCMS1024
-Mar-15,Junior,,DCMS1024
-Mar-15,Junior,,DCMS1024
-Mar-15,Junior,,DCMS2004
-Mar-15,Junior,,DCMS2004
-Mar-15,Junior,,DCMS2004
-Mar-15,Junior,,DCMS2004
-Mar-15,Junior,,DCMS2004
-Mar-15,Junior,,DCMS1022
-Mar-15,Junior,,DCMS1022
-Mar-15,Junior,,DCMS1022
-Mar-15,Junior,,DCMS1022
-Mar-15,Junior,,DCMS1022
-Mar-15,Junior,,DCMS1021
-Mar-15,Junior,,DCMS1021
-Mar-15,Junior,,DCMS1021
-Mar-15,Junior,,DCMS1021
-Mar-15,Junior,,DCMS1021
-Mar-15,Junior,,DCMS3001
-Mar-15,Junior,,DCMS1019
-Mar-15,Junior,,DCMS1019
-Mar-15,Junior,,DCMS1019
-Mar-15,Junior,,DCMS1019
-Mar-15,Junior,,DCMS1018
-Mar-15,Junior,,DCMS1018
-Mar-15,Junior,,DCMS1018
-Mar-15,Junior,,DCMS1018
-Mar-15,Junior,,DCMS1014
-Mar-15,Junior,,DCMS1014
-Mar-15,Junior,,DCMS1014
-Mar-15,Junior,,DCMS1014
-Mar-15,Junior,,DCMS1017
-Mar-15,Junior,,DCMS1017
-Mar-15,Junior,,DCMS1026
-Mar-15,Junior,,DCMS1026
-Mar-15,Junior,,DCMS1026
-Mar-15,Junior,,DCMS1010
-Mar-15,Junior,,DCMS1010
-Mar-15,Junior,,DCMS1010
-Mar-15,Junior,,DCMS1010
-Mar-15,Junior,,DCMS1010
-Mar-15,Junior,,DCMS2001
-Mar-15,Junior,,DCMS2001
-Mar-15,Junior,,DCMS1028
-Mar-15,Junior,,DCMS1028
-Mar-15,Junior,,DCMS2001
-Mar-15,Junior,,DCMS2001
-Mar-15,Junior,,DCMS2001
-Mar-15,Junior,,DCMS2001
-Mar-15,Junior,,DCMS2003
-Mar-15,Junior,,DCMS2003
-Mar-15,Junior,,DCMS2003
-Mar-15,Junior,,DCMS2003
-Mar-15,Junior,,DCMS2003
-Mar-15,Junior,,DCMS2002
-Mar-15,Junior,,DCMS2002
-Mar-15,Junior,,DCMS2002
-Mar-15,Junior,,DCMS2002
-Mar-15,Junior,,DCMS1001
-Mar-15,Junior,,DCMS1001
-Mar-15,Junior,,DCMS1001
-Mar-15,Junior,,DCMS3001
-Mar-15,Junior,,DCMS3001
+id,parentId,date,level,name,grade,jobTitle,unit,salaryCostOfReports,payFloor,payCeil,professionalOccupationalGroup
+root,,,,,,,,,,,
+DCMS1001,DCMS2006,Mar-15,Senior,N/D,SCS1,"Deputy Director, Head of Government Art Collection",Senior Management Team,389483,N/A,N/A,Policy
+DCMS1002,DCMS2003,Mar-15,Senior,N/D,SCS1,"Deputy Director, BDUK, Policy and Operations",Senior Management Team,0,N/A,N/A,Operational Delivery
+DCMS1003,DCMS2002,Mar-15,Senior,N/D,SCS1,"Deputy Director, GEO, LGB&T policy",Senior Management Team,0,N/A,N/A,Policy
+DCMS1004,DCMS2006,Mar-15,Senior,N/D,SCS1,"Deputy Directo, Head of Museums and ALBs",Senior Management Team,457552,N/A,N/A,Policy
+DCMS1005,DCMS2006,Mar-15,Senior,N/D,SCS1,"Deputy Director, Head of Arts, Libraries & Cultural Property",Senior Management Team,466563,N/A,N/A,Policy
+DCMS1006,DCMS2003,Mar-15,Senior,N/D,SCS1,"Deputy Director, BDUK, Super Connected Cities Programme",Senior Management Team,0,N/A,N/A,Operational Delivery
+DCMS1007,DCMS2005,Mar-15,Senior,N/D,SCS1,"Deputy Director, Head of Internet and International",Senior Management Team,591058,N/A,N/A,Policy
+DCMS1008,DCMS2005,Mar-15,Senior,N/D,SCS1,"Deputy Director, Head of BBC Policy",Senior Management Team,354489,N/A,N/A,Policy
+DCMS1009,DCMS2006,Mar-15,Senior,N/D,SCS1,"Deputy Director, Head of Sport",Senior Management Team,524011,N/A,N/A,Policy
+DCMS1010,DCMS2001,Mar-15,Senior,N/D,SCS1,"Deputy Director, Head of Finance",Senior Management Team,474950,N/A,N/A,Finance
+DCMS1011,DCMS2001,Mar-15,Senior,N/D,SCS1,"Deputy Director, Head of Efficiency",Senior Management Team,0,N/A,N/A,Policy
+DCMS1012,DCMS2003,Mar-15,Senior,N/D,SCS1,"Deputy Director, BDUK, Superfast Broadband Programme",Senior Management Team,0,N/A,N/A,Operational Delivery
+DCMS1013,DCMS2006,Mar-15,Senior,N/D,SCS1,"Deputy Director, Head of Tourism and Heritage",Senior Management Team,726794,N/A,N/A,Policy
+DCMS1014,DCMS3001,Mar-15,Senior,N/D,SCS1,"Deputy Director, Head of Strategy and Governance",Senior Management Team,648615,N/A,N/A,Policy
+DCMS1015,DCMS2002,Mar-15,Senior,N/D,SCS1,"Deputy Director, GEO, Head of Delivery",Senior Management Team,0,N/A,N/A,Policy
+DCMS1016,DCMS2002,Mar-15,Senior,N/D,SCS1,"Deputy Director, GEO, Head of Equality Framework",Senior Management Team,0,N/A,N/A,Policy
+DCMS1017,DCMS2001,Mar-15,Senior,N/D,SCS1,"Deputy Director, Head of Finance Special Projects",Senior Management Team,138730,N/A,N/A,Finance
+DCMS1018,DCMS3001,Mar-15,Senior,N/D,SCS1,"Deputy Director, News and Communications",Senior Management Team,761541,N/A,N/A,Policy
+DCMS1019,DCMS3001,Mar-15,Senior,N/D,SCS1,"Deputy Director, Head of Ministerial Support and Principal Private Secretary",Senior Management Team,1140124,N/A,N/A,Policy
+DCMS1020,DCMS2003,Mar-15,Senior,N/D,SCS1,"Deputy Director, Head of Media Policy and Creative Industries",Senior Management Team,665587,N/A,N/A,Policy
+DCMS1021,DCMS3001,Mar-15,Senior,N/D,SCS1,"Deputy Director, Chief Economist",Senior Management Team,698110,N/A,N/A,Economics
+DCMS1022,DCMS3001,Mar-15,Senior,N/D,SCS1,"Deputy Director, Head of HR",Senior Management Team,607725,N/A,N/A,Human Resources
+DCMS1023,DCMS2004,Mar-15,Senior,N/D,SCS1,"Deputy Director, Digital Economy Unit",Senior Management Team,0,N/A,N/A,Policy
+DCMS1024,DCMS2001,Mar-15,Senior,N/D,SCS1,"Deputy Director, Head of Gambling, Licensing and Lottery",Senior Management Team,380653,N/A,N/A,Policy
+DCMS1025,DCMS2006,Mar-15,Senior,N/D,SCS1,"Deputy Director, Head of FWW Centenary and Ceremonials",Senior Management Team,476545,N/A,N/A,Policy
+DCMS1026,DCMS2001,Mar-15,Senior,N/D,SCS1,"Deputy Director, Head of Spending Review",Senior Management Team,188488,N/A,N/A,Policy
+DCMS1027,DCMS2004,Mar-15,Senior,N/D,SCS1,"Deputy Director, Consumer Policy and Telecoms Market",Senior Management Team,0,N/A,N/A,Policy
+DCMS1028,DCMS2001,Mar-15,Senior,N/D,SCS1," Deputy Director, Head of Commercial",Senior Management Team,57525,N/A,N/A,Policy
+DCMS2001,DCMS4001,Mar-15,Senior,Samantha Foley,SCS2,"Director, Finance & Commercial",Senior Management Team,852954,90000,94999,Finance
+DCMS2002,DCMS2001,Mar-15,Senior,Alison Pritchard,SCS2,"Director, Government Equalities Office",Senior Management Team,2346634,90000,94999,Policy
+DCMS2003,DCMS4001,Mar-15,Senior,Christopher Townsend,SCS2,"Chief Executive, Broadband Delivery UK",Senior Management Team,3047955,170000,174999,Operational Delivery
+DCMS2004,root,Mar-15,Senior,Andrea Young,SCS2,"Director, Digital Economy Unit",Senior Management Team,1332288,N/A,N/A,Policy
+DCMS2005,DCMS4001,Mar-15,Senior,Hugh Harris,SCS2,"Director - Media , International, Gambling and Creative Economy",Senior Management Team,127098,90000,94999,Policy
+DCMS2006,DCMS4001,Mar-15,Senior,Clare Pillman,SCS2,"Director, Culture and Sport",Senior Management Team,704227,90000,94999,Policy
+DCMS3001,DCMS4001,Mar-15,Senior,Sarah Healey,SCS3,"Director General, Strategy and Analysis",Senior Management Team,967871,100000,104999,Policy
+DCMS4001,root,Mar-15,Senior,Susan Owen,SCS4,Permanent Secretary,Senior Management Team,701200,150000,154999,Policy
+,DCMS1004,Mar-15,Junior,,A,Senior Policy Advisor,Museums & ALB,0,47219,56243,Policy
+,DCMS1004,Mar-15,Junior,,B,Policy Advisor,Museums & ALB,0,31052,37502,Policy
+,DCMS1004,Mar-15,Junior,,C,Policy Advisor,Museums & ALB,0,23900,26473,Policy
+,DCMS1004,Mar-15,Junior,,D,Policy Support Officer,Museums & ALB,0,20436,21233,Policy
+,DCMS1005,Mar-15,Junior,,A,Senior Policy Advisor,"Arts, Libraries and Cultural Property",0,47219,56243,Policy
+,DCMS1005,Mar-15,Junior,,B,Policy Advisor,"Arts, Libraries and Cultural Property",0,31052,37502,Policy
+,DCMS1005,Mar-15,Junior,,C,Policy Advisor,"Arts, Libraries and Cultural Property",0,23900,26473,Policy
+,DCMS1025,Mar-15,Junior,,A,Senior Policy Advisor,WW1 & Ceremonials,0,47219,56243,Policy
+,DCMS1025,Mar-15,Junior,,B,Policy Advisor,WW1 & Ceremonials,0,31052,37502,Policy
+,DCMS1025,Mar-15,Junior,,C,Policy Advisor,WW1 & Ceremonials,0,23900,26473,Policy
+,DCMS1025,Mar-15,Junior,,D,Policy Support Officer,WW1 & Ceremonials,0,20436,21233,Policy
+,DCMS1013,Mar-15,Junior,,A(U),Senior Policy Advisor,Tourism & Heritage,0,53494,66006,Policy
+,DCMS1013,Mar-15,Junior,,A,Senior Policy Advisor,Tourism & Heritage,0,47219,56243,Policy
+,DCMS1013,Mar-15,Junior,,B,Policy Advisor,Tourism & Heritage,0,31052,37502,Policy
+,DCMS1013,Mar-15,Junior,,C,Policy Advisor,Tourism & Heritage,0,23900,26473,Policy
+,DCMS2006,Mar-15,Junior,,A(U),Senior Policy Advisor,Public Appointments,0,53494,66006,Policy
+,DCMS2006,Mar-15,Junior,,A,Senior Policy Advisor,Public Appointments,0,47219,56243,Policy
+,DCMS2006,Mar-15,Junior,,B,Policy Advisor,Public Appointments,0,31052,37502,Policy
+,DCMS2006,Mar-15,Junior,,C,Policy Advisor,Public Appointments,0,23900,26473,Policy
+,DCMS1009,Mar-15,Junior,,A,Senior Policy Advisor,Sport,0,47219,56243,Policy
+,DCMS1009,Mar-15,Junior,,B,Policy Advisor,Sport,0,31052,37502,Policy
+,DCMS1007,Mar-15,Junior,,A,Senior Policy Advisor,Internet & International,0,47219,56243,Policy
+,DCMS1007,Mar-15,Junior,,B,Policy Advisor,Internet & International,0,31052,37502,Policy
+,DCMS1007,Mar-15,Junior,,C,Policy Advisor,Internet & International,0,23900,26473,Policy
+,DCMS1007,Mar-15,Junior,,D,Policy Support Officer,Internet & International,0,20436,21233,Policy
+,DCMS1020,Mar-15,Junior,,A,Senior Policy Advisor,Media and Creative Industries,0,47219,56243,Policy
+,DCMS1020,Mar-15,Junior,,B,Policy Advisor,Media and Creative Industries,0,31052,37502,Policy
+,DCMS1020,Mar-15,Junior,,C,Policy Advisor,Media and Creative Industries,0,23900,26473,Policy
+,DCMS1020,Mar-15,Junior,,D,Policy Support Officer,Media and Creative Industries,0,20436,21233,Policy
+,DCMS1008,Mar-15,Junior,,A,Senior Policy Advisor,BBC,0,47219,56243,Policy
+,DCMS1008,Mar-15,Junior,,B,Policy Advisor,BBC,0,31052,37502,Policy
+,DCMS1008,Mar-15,Junior,,C,Policy Advisor,BBC,0,23900,26473,Policy
+,DCMS1024,Mar-15,Junior,,A(U),Senior Policy Advisor,"Gambling, Licensing and lottery",0,53494,66006,Policy
+,DCMS1024,Mar-15,Junior,,A,Senior Policy Advisor,"Gambling, Licensing and lottery",0,47219,56243,Policy
+,DCMS1024,Mar-15,Junior,,B,Policy Advisor,"Gambling, Licensing and lottery",0,31052,37502,Policy
+,DCMS1024,Mar-15,Junior,,C,Policy Advisor,"Gambling, Licensing and lottery",0,23900,26473,Policy
+,DCMS1024,Mar-15,Junior,,D,Policy Support Officer,"Gambling, Licensing and lottery",0,20436,21233,Policy
+,DCMS2004,Mar-15,Junior,,A(U),Senior Policy Advisor,Telecomms,0,53494,66006,Policy
+,DCMS2004,Mar-15,Junior,,A,Senior Policy Advisor,Telecomms,0,47219,56243,Policy
+,DCMS2004,Mar-15,Junior,,B,Policy Advisor,Telecomms,0,31052,37502,Policy
+,DCMS2004,Mar-15,Junior,,C,Policy Advisor,Telecomms,0,23900,26473,Policy
+,DCMS2004,Mar-15,Junior,,D,Policy Support Officer,Telecomms,0,20436,21233,Policy
+,DCMS1022,Mar-15,Junior,,A(U),Senior HR Manager,Human Resources,0,53494,66006,Human Resources
+,DCMS1022,Mar-15,Junior,,A,Senior HR Manager,Human Resources,0,47219,56243,Human Resources
+,DCMS1022,Mar-15,Junior,,B,HR Officer,Human Resources,0,31052,37502,Human Resources
+,DCMS1022,Mar-15,Junior,,Fast Stream,HR Officer,Human Resources,0,31052,37502,Human Resources
+,DCMS1022,Mar-15,Junior,,C,HR Officer,Human Resources,0,23900,26473,Human Resources
+,DCMS1021,Mar-15,Junior,,A(U),Senior Analyst,EAU,0,53494,66006,Economics
+,DCMS1021,Mar-15,Junior,,A,Senior Analyst,EAU,0,47219,56243,Economics
+,DCMS1021,Mar-15,Junior,,B,Analyst,EAU,0,31052,37502,Economics
+,DCMS1021,Mar-15,Junior,,Fast Stream,Analyst,EAU,0,31052,37502,Economics
+,DCMS1021,Mar-15,Junior,,C,Analyst,EAU,0,23900,26473,Economics
+,DCMS3001,Mar-15,Junior,,C,Executive Assistant,Executive Board Support Unit,0,23900,26473,Other
+,DCMS1019,Mar-15,Junior,,A,Private Secretary,MST and Private Office,0,47219,56243,Policy
+,DCMS1019,Mar-15,Junior,,B,Correspondence Manager,MST and Private Office,0,31052,37502,Policy
+,DCMS1019,Mar-15,Junior,,C,Correspondence Manager,MST and Private Office,0,23900,26473,Policy
+,DCMS1019,Mar-15,Junior,,D,Correspondence Manager,MST and Private Office,0,20436,21233,Policy
+,DCMS1018,Mar-15,Junior,,A(U),Senior Communications Manager,News and Communications,0,53494,66006,Communications
+,DCMS1018,Mar-15,Junior,,A,Senior Communications Manager,News and Communications,0,47219,56243,Communications
+,DCMS1018,Mar-15,Junior,,B,Communications Manager,News and Communications,0,31052,37502,Communications
+,DCMS1018,Mar-15,Junior,,C,Communications Support Officer,News and Communications,0,23900,26473,Communications
+,DCMS1014,Mar-15,Junior,,A(U),Senior Policy Advisor,SGP & Projects Team,0,53494,66006,Policy
+,DCMS1014,Mar-15,Junior,,A,Senior Policy Advisor,SGP & Projects Team,0,47219,56243,Policy
+,DCMS1014,Mar-15,Junior,,B,Policy Advisor,SGP & Projects Team,0,31052,37502,Policy
+,DCMS1014,Mar-15,Junior,,C,Policy Advisor,SGP & Projects Team,0,23900,26473,Policy
+,DCMS1017,Mar-15,Junior,,A,Senior Finance Manager,CLOS,0,47219,56243,Finance
+,DCMS1017,Mar-15,Junior,,C,Finance Officer,CLOS,0,23900,26473,Finance
+,DCMS1026,Mar-15,Junior,,A(U),Senior Finance Manager,Spending Review,0,53494,66006,Finance
+,DCMS1026,Mar-15,Junior,,A,Senior Finance Manager,Spending Review,0,47219,56243,Finance
+,DCMS1026,Mar-15,Junior,,B,Finance Officer,Spending Review,0,31052,37502,Finance
+,DCMS1010,Mar-15,Junior,,A(U),Senior Finance Manager,Finance,0,53494,66006,Finance
+,DCMS1010,Mar-15,Junior,,A,Senior Finance Manager,Finance,0,47219,56243,Finance
+,DCMS1010,Mar-15,Junior,,B,Finance Officer,Finance,0,31052,37502,Finance
+,DCMS1010,Mar-15,Junior,,C,Finance Officer,Finance,0,23900,26473,Finance
+,DCMS1010,Mar-15,Junior,,D,Finance Support Officer,Finance,0,20436,21233,Finance
+,DCMS2001,Mar-15,Junior,,A(U),Senior Policy Advisor,Olympic and Paralympic Legacy,0,53494,66006,Policy
+,DCMS2001,Mar-15,Junior,,B,Policy Advisor,Olympic and Paralympic Legacy,0,31052,37502,Policy
+,DCMS1028,Mar-15,Junior,,B,Procurement Officer,Commercial,0,31052,37502,Procurement
+,DCMS1028,Mar-15,Junior,,C,Procurement Officer,Commercial,0,23900,26473,Procurement
+,DCMS2001,Mar-15,Junior,,B,Policy Advisor,Shared Services,0,31052,37502,Policy
+,DCMS2001,Mar-15,Junior,,A(U),Senior IT manager,Estates & IT,0,53494,66006,Information Technology
+,DCMS2001,Mar-15,Junior,,B,IT Officer,Estates & IT,0,31052,37502,Information Technology
+,DCMS2001,Mar-15,Junior,,D,IT Support Officer,Estates & IT,0,20436,21233,Information Technology
+,DCMS2003,Mar-15,Junior,,A(U),Senior Policy Advisor,BDUK,0,53494,66006,Policy
+,DCMS2003,Mar-15,Junior,,A,Senior Policy Advisor,BDUK,0,47219,56243,Policy
+,DCMS2003,Mar-15,Junior,,B,Policy Advisor,BDUK,0,31052,37502,Policy
+,DCMS2003,Mar-15,Junior,,C,Policy Advisor,BDUK,0,23900,26473,Policy
+,DCMS2003,Mar-15,Junior,,D,Policy Support Officer,BDUK,0,20436,21233,Policy
+,DCMS2002,Mar-15,Junior,,A(U),Senior Policy Advisor,GEO,0,53494,66006,Policy
+,DCMS2002,Mar-15,Junior,,A,Senior Policy Advisor,GEO,0,47219,56243,Policy
+,DCMS2002,Mar-15,Junior,,B,Policy Advisor,GEO,0,31052,37502,Policy
+,DCMS2002,Mar-15,Junior,,C,Policy Advisor,GEO,0,23900,26473,Policy
+,DCMS1001,Mar-15,Junior,,A,Senior Policy Advisor,GAC,0,47219,56243,Policy
+,DCMS1001,Mar-15,Junior,,B,Policy Advisor,GAC,0,31052,37502,Policy
+,DCMS1001,Mar-15,Junior,,C,Policy Advisor,GAC,0,23900,26473,Policy
+,DCMS3001,Mar-15,Junior,,A,Not in Post,Maternity,0,47219,56243,Other
+,DCMS3001,Mar-15,Junior,,B,Not in Post,Maternity,0,31052,37502,Other
