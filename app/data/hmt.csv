@@ -1,402 +1,402 @@
-date,level,id,parentId
-Mar-14,,19678,
-Mar-14,,23164,19678
-Mar-14,,23165,19678
-Mar-14,,24043,23165
-Mar-14,,24596,25448
-Mar-14,,24775,23164
-Mar-14,,25448,19678
-Mar-14,,24041,19678
-Mar-14,,24042,23165
-Mar-14,,24025,19678
-Mar-14,,24038,23164
-Mar-14,,24024,23165
-Mar-14,,24027,24042
-Mar-14,,24058,25448
-Mar-14,,24040,24775
-Mar-14,,24028,23165
-Mar-14,,24029,23165
-Mar-14,,24030,24042
-Mar-14,,24031,23165
-Mar-14,,24032,25448
-Mar-14,,24033,24775
-Mar-14,,24036,24042
-Mar-14,,24059,24041
-Mar-14,,24062,19678
-Mar-14,,24064,24775
-Mar-14,,21007,24038
-Mar-14,,23965,24024
-Mar-14,,24350,24030
-Mar-14,,25142,24059
-Mar-14,,24051,24029
-Mar-14,,24884,24029
-Mar-14,,25139,24041
-Mar-14,,24774,24029
-Mar-14,,24010,24041
-Mar-14,,23953,24028
-Mar-14,,23976,24031
-Mar-14,,24549,24041
-Mar-14,,25134,24038
-Mar-14,,24322,24024
-Mar-14,,23998,24040
-Mar-14,,24000,24030
-Mar-14,,25259,24030
-Mar-14,,23954,24028
-Mar-14,,24056,24031
-Mar-14,,25499,24033
-Mar-14,,25070,24028
-Mar-14,,24016,24028
-Mar-14,,24253,24027
-Mar-14,,23989,24032
-Mar-14,,24011,24040
-Mar-14,,24655,24058
-Mar-14,,23957,24041
-Mar-14,,23966,24027
-Mar-14,,23967,24027
-Mar-14,,23960,24024
-Mar-14,,24629,24032
-Mar-14,,24744,24028
-Mar-14,,25393,24033
-Mar-14,,23999,24040
-Mar-14,,24019,24024
-Mar-14,,24582,24033
-Mar-14,,24274,24027
-Mar-14,,24888,24029
-Mar-14,,23968,24030
-Mar-14,,23987,24059
-Mar-14,,24053,24064
-Mar-14,,23950,24059
-Mar-14,,24638,24032
-Mar-14,,23995,24064
-Mar-14,,25062,24024
-Mar-14,,24017,24036
-Mar-14,,24013,24036
-Mar-14,,25140,24058
-Mar-14,,24054,24031
-Mar-14,,25203,24025
-Mar-14,,24005,19678
-Mar-14,,24057,24030
-Mar-14,,24087,24027
-Mar-14,,24363,24062
-Mar-14,,23984,19678
-Mar-14,,23964,24025
-Mar-14,,23979,24032
-Mar-14,,25595,24028
-Mar-14,,23959,24025
-Mar-14,,24773,24029
-Mar-14,,24942,24024
-Mar-14,,23986,24029
-Mar-14,,0,24030
-Mar-14,,24015,23964
-Mar-14,,24061,24030
-Mar-14,,24983,24062
-Mar-14,,25038,24036
-Mar-14,,25597,24028
-Mar-14,,,24038
-Mar-14,,,24038
-Mar-14,,,23995
-Mar-14,,,23995
-Mar-14,,,23995
-Mar-14,,,23995
-Mar-14,,,23995
-Mar-14,,,23995
-Mar-14,,,23998
-Mar-14,,,23998
-Mar-14,,,25499
-Mar-14,,,25499
-Mar-14,,,25499
-Mar-14,,,24013
-Mar-14,,,24013
-Mar-14,,,24013
-Mar-14,,,24013
-Mar-14,,,24013
-Mar-14,,,24013
-Mar-14,,,23984
-Mar-14,,,23984
-Mar-14,,,23984
-Mar-14,,,23984
-Mar-14,,,23984
-Mar-14,,,23984
-Mar-14,,,23984
-Mar-14,,,23984
-Mar-14,,,23984
-Mar-14,,,24005
-Mar-14,,,24005
-Mar-14,,,24005
-Mar-14,,,24005
-Mar-14,,,24005
-Mar-14,,,24005
-Mar-14,,,24005
-Mar-14,,,23984
-Mar-14,,,23984
-Mar-14,,,23984
-Mar-14,,,24744
-Mar-14,,,24744
-Mar-14,,,24744
-Mar-14,,,24744
-Mar-14,,,24744
-Mar-14,,,23954
-Mar-14,,,23954
-Mar-14,,,23954
-Mar-14,,,23966
-Mar-14,,,23966
-Mar-14,,,23966
-Mar-14,,,24025
-Mar-14,,,24025
-Mar-14,,,24025
-Mar-14,,,24025
-Mar-14,,,24025
-Mar-14,,,24054
-Mar-14,,,24054
-Mar-14,,,24054
-Mar-14,,,24054
-Mar-14,,,25142
-Mar-14,,,25142
-Mar-14,,,25142
-Mar-14,,,25142
-Mar-14,,,25142
-Mar-14,,,25142
-Mar-14,,,24054
-Mar-14,,,24054
-Mar-14,,,24054
-Mar-14,,,24888
-Mar-14,,,24888
-Mar-14,,,24888
-Mar-14,,,24888
-Mar-14,,,24888
-Mar-14,,,23957
-Mar-14,,,23957
-Mar-14,,,23957
-Mar-14,,,23957
-Mar-14,,,23957
-Mar-14,,,24010
-Mar-14,,,24010
-Mar-14,,,24010
-Mar-14,,,24010
-Mar-14,,,24010
-Mar-14,,,24010
-Mar-14,,,24010
-Mar-14,,,23984
-Mar-14,,,23984
-Mar-14,,,23984
-Mar-14,,,23984
-Mar-14,,,24774
-Mar-14,,,24774
-Mar-14,,,24774
-Mar-14,,,25070
-Mar-14,,,25070
-Mar-14,,,25070
-Mar-14,,,25070
-Mar-14,,,24253
-Mar-14,,,24253
-Mar-14,,,23967
-Mar-14,,,23967
-Mar-14,,,23967
-Mar-14,,,23967
-Mar-14,,,23967
-Mar-14,,,24274
-Mar-14,,,24274
-Mar-14,,,24274
-Mar-14,,,24274
-Mar-14,,,24274
-Mar-14,,,23989
-Mar-14,,,23989
-Mar-14,,,23989
-Mar-14,,,23989
-Mar-14,,,24629
-Mar-14,,,24629
-Mar-14,,,24629
-Mar-14,,,24629
-Mar-14,,,23950
-Mar-14,,,23950
-Mar-14,,,23950
-Mar-14,,,23950
-Mar-14,,,23950
-Mar-14,,,25203
-Mar-14,,,25203
-Mar-14,,,24363
-Mar-14,,,25203
-Mar-14,,,25203
-Mar-14,,,24363
-Mar-14,,,24363
-Mar-14,,,24363
-Mar-14,,,25203
-Mar-14,,,25203
-Mar-14,,,24363
-Mar-14,,,24363
-Mar-14,,,24363
-Mar-14,,,24363
-Mar-14,,,25203
-Mar-14,,,25203
-Mar-14,,,24363
-Mar-14,,,25203
-Mar-14,,,24011
-Mar-14,,,24011
-Mar-14,,,24011
-Mar-14,,,23987
-Mar-14,,,23987
-Mar-14,,,23987
-Mar-14,,,23987
-Mar-14,,,23987
-Mar-14,,,23987
-Mar-14,,,24019
-Mar-14,,,24019
-Mar-14,,,24019
-Mar-14,,,24019
-Mar-14,,,24019
-Mar-14,,,24019
-Mar-14,,,24638
-Mar-14,,,24638
-Mar-14,,,24638
-Mar-14,,,24638
-Mar-14,,,25139
-Mar-14,,,25139
-Mar-14,,,25139
-Mar-14,,,25139
-Mar-14,,,25139
-Mar-14,,,25139
-Mar-14,,,25062
-Mar-14,,,25062
-Mar-14,,,25062
-Mar-14,,,25062
-Mar-14,,,25203
-Mar-14,,,25203
-Mar-14,,,25203
-Mar-14,,,25203
-Mar-14,,,25203
-Mar-14,,,25203
-Mar-14,,,24363
-Mar-14,,,24363
-Mar-14,,,24363
-Mar-14,,,24363
-Mar-14,,,24363
-Mar-14,,,24363
-Mar-14,,,24363
-Mar-14,,,24363
-Mar-14,,,24363
-Mar-14,,,24363
-Mar-14,,,24363
-Mar-14,,,24016
-Mar-14,,,24016
-Mar-14,,,24016
-Mar-14,,,24016
-Mar-14,,,24016
-Mar-14,,,24051
-Mar-14,,,24051
-Mar-14,,,24056
-Mar-14,,,24056
-Mar-14,,,24056
-Mar-14,,,24056
-Mar-14,,,24884
-Mar-14,,,24884
-Mar-14,,,24038
-Mar-14,,,24038
-Mar-14,,,24038
-Mar-14,,,24038
-Mar-14,,,25134
-Mar-14,,,25134
-Mar-14,,,25134
-Mar-14,,,24038
-Mar-14,,,24038
-Mar-14,,,24038
-Mar-14,,,24038
-Mar-14,,,24038
-Mar-14,,,24053
-Mar-14,,,24053
-Mar-14,,,24053
-Mar-14,,,24053
-Mar-14,,,24053
-Mar-14,,,24655
-Mar-14,,,24655
-Mar-14,,,24655
-Mar-14,,,24655
-Mar-14,,,23964
-Mar-14,,,23964
-Mar-14,,,23964
-Mar-14,,,23964
-Mar-14,,,23964
-Mar-14,,,25259
-Mar-14,,,25259
-Mar-14,,,25259
-Mar-14,,,24582
-Mar-14,,,24582
-Mar-14,,,24582
-Mar-14,,,24582
-Mar-14,,,24582
-Mar-14,,,24582
-Mar-14,,,24582
-Mar-14,,,24549
-Mar-14,,,24549
-Mar-14,,,24549
-Mar-14,,,24549
-Mar-14,,,24549
-Mar-14,,,24025
-Mar-14,,,24025
-Mar-14,,,24025
-Mar-14,,,24322
-Mar-14,,,24322
-Mar-14,,,23984
-Mar-14,,,23984
-Mar-14,,,23984
-Mar-14,,,23984
-Mar-14,,,24000
-Mar-14,,,24000
-Mar-14,,,24000
-Mar-14,,,23984
-Mar-14,,,23984
-Mar-14,,,23984
-Mar-14,,,23984
-Mar-14,,,23984
-Mar-14,,,23984
-Mar-14,,,24057
-Mar-14,,,24057
-Mar-14,,,24057
-Mar-14,,,24057
-Mar-14,,,24057
-Mar-14,,,24057
-Mar-14,,,24038
-Mar-14,,,24038
-Mar-14,,,24038
-Mar-14,,,25393
-Mar-14,,,25393
-Mar-14,,,25393
-Mar-14,,,25393
-Mar-14,,,25393
-Mar-14,,,25140
-Mar-14,,,25140
-Mar-14,,,25140
-Mar-14,,,25140
-Mar-14,,,25140
-Mar-14,,,25140
-Mar-14,,,23999
-Mar-14,,,23999
-Mar-14,,,24017
-Mar-14,,,24017
-Mar-14,,,24017
-Mar-14,,,24017
-Mar-14,,,24017
-Mar-14,,,24350
-Mar-14,,,24350
-Mar-14,,,24350
-Mar-14,,,23953
-Mar-14,,,23953
-Mar-14,,,23953
-Mar-14,,,23965
-Mar-14,,,23965
-Mar-14,,,23965
-Mar-14,,,23976
-Mar-14,,,23976
-Mar-14,,,23976
-Mar-14,,,24087
-Mar-14,,,24087
-Mar-14,,,24087
-Mar-14,,,24087
-Mar-14,,,24087
-Mar-14,,,23968
-Mar-14,,,23968
-Mar-14,,,23968
-Mar-14,,,23968
-Mar-14,,,23960
-Mar-14,,,23960
-Mar-14,,,23960
-Mar-14,,,23960
+date,id,parentId,level,name,grade,jobTitle,unit,salaryCostOfReports,payFloor,payCeil,professionalOccupationalGroup
+Mar-14,19678,,,"Nick,Macpherson",SCS4,Permanent Secretary,Board Ministerial and Communications,0,180000,184999,Policy
+Mar-14,23164,19678,,"John,Kingman",SCS4,Second Permanent Secretary,Board Ministerial and Communications,0,155000,159999,Policy
+Mar-14,23165,19678,,"Sharon,White",SCS4,Second Permanent Secretary,Board Ministerial and Communications,0,150000,154999,Policy
+Mar-14,24043,23165,,Vacant,SCS3,"Director General, Public Spending",Board Ministerial and Communications,0,N/A,,Policy
+Mar-14,24596,25448,,"Stephen, Field",SCS2,Director IMF,International and EU,0,80000,84999,Policy
+Mar-14,24775,23164,,"Charles,Roxburgh",SCS3,Director General Financial Services,Board Ministerial and Communications,0,130000,134999,Policy
+Mar-14,25448,19678,,"Mark,Bowman",SCS3,Director General International Finance,Board Ministerial and Communications,0,120000,124999,Policy
+Mar-14,24041,19678,,"Dave,Ramsden",SCS3,Director General and Chief Economic Adviser to the Treasury,Economics and Fiscal,0,125000,129999,Policy
+Mar-14,24042,23165,,"Indra,Morris",SCS3,"Director General, Tax and Welfare",Board Ministerial and Communications,0,125000,129999,Policy
+Mar-14,24025,19678,,"Kirstin,Baker",SCS2,"Director, Finance and Commercial",Corporate Centre,920886,50000,54999,Policy
+Mar-14,24038,23164,,"Geoffrey,Spence",SCS2,"Chief Executive, Infrastructure UK",Infrastructure UK (IUK),4112665,170000,174999,Policy
+Mar-14,24024,23165,,"Julian,Kelly",SCS2,"Director,Public Spending",Public Spending,0,90000,94999,Policy
+Mar-14,24027,24042,,"Mike,Williams",SCS2,Director Business and International Tax,Business and International Tax,0,110000,114999,Policy
+Mar-14,24058,25448,,"Shona,Riach",SCS2,Director International,International and EU,0,85000,89999,Policy
+Mar-14,24040,24775,,"Nikhil,Rathi",SCS2,Director Financial Services,Financial Services,0,85000,89999,Policy
+Mar-14,24028,23165,,"Jeremy,Pocklington",SCS2,"Director, Enterprise & Growth Unit (EGU)",Enterprise and Growth,0,85000,89999,Policy
+Mar-14,24029,23165,,"Tamara,Finkelstein",SCS2,"Director, Public Services",Public Services,0,75000,79999,Policy
+Mar-14,24030,24042,,"Beth,Russell",SCS2,"Director, Personal Tax, Welfare and pensions Group","Personal Tax, Welfare and Pensions",0,80000,84999,Policy
+Mar-14,24031,23165,,"Lindsey,Fussell",SCS2,"Director, Public Services",Public Services,0,75000,79999,Policy
+Mar-14,24032,25448,,"Peter,Curwen",SCS2,Director Europe,International and EU,0,90000,94999,Policy
+Mar-14,24033,24775,,"Lowri,Khan",SCS2,Director Financial Stability,Financial Stability,0,85000,89999,Policy
+Mar-14,24036,24042,,"James,Bowler",SCS2,Director Strategy Planning and Budget,"Strategy, Planning and Budget",0,95000,99999,Policy
+Mar-14,24059,24041,,"James,Richardson",SCS2,"Director, Fiscal Policy",Director's Office Fiscal,0,85000,89999,Policy
+Mar-14,24062,19678,,"Alison,Cottrell",SCS2,Director Corporate Services,Corporate Centre,0,45000,49999,Policy
+Mar-14,24064,24775,,"Alison,Cottrell",SCS2,Director Financial Services,Financial Services,0,45000,49999,Policy
+Mar-14,21007,24038,,"James,Ballingall",SCS1A,IUK Comm Specialist,Assurance & International,0,185000,189999,Policy
+Mar-14,23965,24024,,N/D,SCS1,"Deputy Director, Head of Government Finance Profession",Treasury Group Internal Audit,265375,N/A,,Policy
+Mar-14,24350,24030,,N/D,SCS1,"Deputy Director, Tax Administration, Spending and Reform","Tax Administration, Spending and Reform",336329,N/A,,Policy
+Mar-14,25142,24059,,N/D,SCS1,"Deputy Director, Debt and Reserves Management",Debt and Reserves Management,339744,N/A,,Policy
+Mar-14,24051,24029,,N/D,SCS1,"Deputy Director, Health",Health,363561,N/A,,Policy
+Mar-14,24884,24029,,N/D,SCS1,"Deputy Director, Housing Planning and Cities",Housing Planning and Cities,373200,N/A,,Policy
+Mar-14,25139,24041,,N/D,SCS1,"Deputy Director, Government Economic and Social Research",Government Economic & Social Research Unit,380844,N/A,,Policy
+Mar-14,24774,24029,,N/D,SCS1,"Deputy Director, Education, Children, and Culture","Education, Children and Culture",383187,N/A,,Policy
+Mar-14,24010,24041,,N/D,SCS1,"Deputy Director, Economics of the UK",Economics of the UK,409126,N/A,,Economics
+Mar-14,23953,24028,,N/D,SCS1,"Deputy Director, Transport Regulation and Competition",Transport Regulation and Competition,411112,N/A,,Economics
+Mar-14,23976,24031,,N/D,SCS1,"Deputy Director, Treasury Officer of Accounts",Treasury Officer of Accounts Team,428656,N/A,,Policy
+Mar-14,24549,24041,,N/D,SCS1,"Deputy Director, Macroeconomic Coordination & Strategy",Macroeconomic Coordination & Strategy,428725,N/A,,Economics
+Mar-14,25134,24038,,N/D,SCS1,"Deputy Director, Infrastructure UK Policy and Strategy",Infrastructure Policy and Strategy,429765,N/A,,Policy
+Mar-14,24322,24024,,N/D,SCS1,"Deputy Director, Head of Government Finance Profession",Office of Head of Government Finance Profession,438403,N/A,,Policy
+Mar-14,23998,24040,,N/D,SCS1,"Deputy Director, Banking and Financial Services Analysis",Banking & Financial Sector Analysis,443549,N/A,,Policy
+Mar-14,24000,24030,,N/D,SCS1,"Deputy Director, Pensions and Savings Team",Pensions and Savings Team,490038,N/A,,Policy
+Mar-14,25259,24030,,N/D,SCS1,"Deputy Director, Labour Markets and Distributional Analysis",Labour Markets and Distributional Analysis,499546,N/A,,Policy
+Mar-14,23954,24028,,N/D,SCS1,"Deputy Director, Corporate Finance, Business, Innovation and Skills","Corporate Finance, Business, Innovation & Skills",503639,N/A,,Policy
+Mar-14,24056,24031,,N/D,SCS1,"Deputy Director, Home and Legal",Home and Legal,503910,N/A,,Policy
+Mar-14,25499,24033,,N/D,SCS1,"Deputy Director, Banking Compensation and Legacy Assets",Banking Compensation and Legacy Assets,506139,N/A,,Policy
+Mar-14,25070,24028,,N/D,SCS1,"Deputy Director, Energy, Enviroment and Agriculture","Energy, Environment and Agriculture",517488,N/A,,Policy
+Mar-14,24016,24028,,N/D,SCS1,"Deputy Director, Growth and Productivity",Growth and Productivity,531114,N/A,,Policy
+Mar-14,24253,24027,,N/D,SCS1,"Deputy Director, Enterprise and Property Tax",Enterprise and Property Tax,534456,N/A,,Policy
+Mar-14,23989,24032,,N/D,SCS1,"Deputy Director, EU Institutions and Policy",European Institutions and Policy,536096,N/A,,Policy
+Mar-14,24011,24040,,N/D,SCS1,"Deputy Director, Financial Services Strategy",Financial Services Strategy,545725,N/A,,Policy
+Mar-14,24655,24058,,N/D,SCS1,"Deputy Director, International Institutions and Policy",International Institutions and Policy,547735,N/A,,Economics
+Mar-14,23957,24041,,N/D,SCS1,"Deputy Director, Economic Assessment",Economic Assessment,563096,N/A,,Economics
+Mar-14,23966,24027,,N/D,SCS1,"Deputy Director, Corporate Tax",Corporate Taxation,584535,N/A,,Policy
+Mar-14,23967,24027,,N/D,SCS1,"Deputy Director, Environment and Transport Tax",Environment and Transport Tax,598387,N/A,,Policy
+Mar-14,23960,24024,,N/D,SCS1,"Deputy Director, Workforce Pay and Pensions",Workforce Pay and Pensions Team,601193,N/A,,Policy
+Mar-14,24629,24032,,N/D,SCS1,"Deputy Director, EU Financing",European Union Finances,614827,N/A,,Policy
+Mar-14,24744,24028,,N/D,SCS1,"Deputy Director, Competition, Markets, and Regulation","Competition, Markets and Regulation",621791,N/A,,Policy
+Mar-14,25393,24033,,N/D,SCS1,Deputy Director. Resilience and Resolution,Resilience and Resolution,629475,N/A,,Policy
+Mar-14,23999,24040,,N/D,SCS1,"Deputy Director, Securities and Markets",Securities & Markets,641934,N/A,,Policy
+Mar-14,24019,24024,,N/D,SCS1,"Deputy Director, General Expenditure Policy",General Expenditure Policy,659609,N/A,,Policy
+Mar-14,24582,24033,,N/D,SCS1,"Deputy Director, RBS, Lloyds and Analytical","RBS, Lloyds and Analytical",711606,N/A,,Policy
+Mar-14,24274,24027,,N/D,SCS1,"Deputy Director, Equitable Life and International Tax",Equitable Life and International Tax,713245,N/A,,Policy
+Mar-14,24888,24029,,N/D,SCS1,"Deputy Director, Devolved and Local Government",Devolved and Local Government,719686,N/A,,Policy
+Mar-14,23968,24030,,N/D,SCS1,"Deputy Director Welfare, Spending and Reform",Welfare Spending and Reform,721775,N/A,,Policy
+Mar-14,23987,24059,,N/D,SCS1,"Deputy Director, Fiscal Policy and Statistics",Fiscal Policy and Statistics,766099,N/A,,Policy
+Mar-14,24053,24064,,N/D,SCS1,"Deputy Director, Insurance and Savings Team",Insurance and Savings,775740,N/A,,Policy
+Mar-14,23950,24059,,N/D,SCS1,"Deputy Director, Exchequer Funds and Accounts",Exchequer Funds and Accounts,775838,N/A,,Finance
+Mar-14,24638,24032,,N/D,SCS1,"Deputy Director, Global Economics",Global Economics,793014,N/A,,Policy
+Mar-14,23995,24064,,N/D,SCS1,"Deputy Director, Banking & Credit",Banking & Credit,804010,N/A,,Policy
+Mar-14,25062,24024,,N/D,SCS1,"Deputy Director, Government Financial Reporting",Government Financial Reporting,857886,N/A,,Policy
+Mar-14,24017,24036,,N/D,SCS1,"Deputy Director, Strategy Planning and Projects","Strategy, Planning & Projects",868785,N/A,,Policy
+Mar-14,24013,24036,,N/D,SCS1,"Deputy Director, Budget & Tax Strategy",Budget & Tax Strategy,881629,N/A,,Policy
+Mar-14,25140,24058,,N/D,SCS1,"Deputy Director, Sanctions and Counter Illicit Finance",Sanctions and Counter Illicit Finance,949454,N/A,,Policy
+Mar-14,24054,24031,,N/D,SCS1,"Deputy Director, Defence,Diplomacy and Intelligence",Defence Diplomacy & Intelligence,958319,N/A,,Policy
+Mar-14,25203,24025,,N/D,SCS1,"Deputy Director, Group Finance",Group Finance,959740,N/A,,Policy
+Mar-14,24005,19678,,N/D,SCS1,"Deputy Director, Communications",COM Team,979970,N/A,,Policy
+Mar-14,24057,24030,,N/D,SCS1,"Deputy Director, Personal Taxation",Personal Taxation,964280,N/A,,Policy
+Mar-14,24087,24027,,N/D,SCS1,"Deputy Director, VAT and Excise",VAT & International Excise,995270,N/A,,Policy
+Mar-14,24363,24062,,N/D,SCS1,"Deputy Director, Group Human Resources",Group Human Resources,1344934,N/A,,Human Resources
+Mar-14,23984,19678,,N/D,SCS1,"Deputy Director, Ministerial Support",Chancellor's Office,1742789,N/A,,Policy
+Mar-14,23964,24025,,N/D,SCS1,"Deputy Director, Joint Workspace Solutions",Joint Workplace solutions,2663688,N/A,,Information Technology
+Mar-14,23979,24032,,N/D,SCS1,"Deputy Director, Europe",Director's Office Europe,0,N/A,,Policy
+Mar-14,25595,24028,,N/D,SCS1,"Deputy Director, Markets in Government Services",Markets in Government Services,0,N/A,,Policy
+Mar-14,23959,24025,,N/D,SCS1,Deputy Director Group Finance,Group Finance,0,N/A,,Finance
+Mar-14,24773,24029,,N/D,SCS1,"Deputy Director, Education, Children, and Culture","Education, Children and Culture",0,N/A,,Policy
+Mar-14,24942,24024,,N/D,SCS1,"Deputy Director, Government Finance Profession, and Financial Management Review.",Government Finance Profession,0,N/A,,Policy
+Mar-14,23986,24029,,N/D,SCS1,"Deputy Director,Public Services",Director's Office Public Services,0,N/A,,Policy
+Mar-14,0,24030,,N/D,SCS1,Not in Post,N/A,0,N/A,,Policy
+Mar-14,24015,23964,,N/D,SCS1,"Deputy Director, ICT Change Program",Joint Workplace solutions,0,N/A,,Information Technology
+Mar-14,24061,24030,,N/D,SCS1,"Deputy Director, Pensions and Savings Team",Pensions and Savings Team,0,N/A,,Policy
+Mar-14,24983,24062,,N/D,SCS1,"Deputy Director, Strategic Projects",Group Human Resources,0,N/A,,Policy
+Mar-14,25038,24036,,N/D,SCS1,"Deputy Director, Scotland Analysis Programme",Scotland Analysis programme,0,N/A,,Policy
+Mar-14,25597,24028,,N/D,SCS1,"Deputy Director, Commercial Capability Review",Commercial Capability Review,0,N/A,,Policy
+Mar-14,,24038,,,Range C,Policy Support Officer,Assurance & International,0,18727,26720,Policy
+Mar-14,,24038,,,Specialist,Specialist,Assurance & International,0,28000,145000,Policy
+Mar-14,,23995,,,Range D,Policy Advisor,Banking & Credit,0,24578,38255,Economics
+Mar-14,,23995,,,Range D,Policy Advisor,Banking & Credit,0,24578,38255,Policy
+Mar-14,,23995,,,Range E,Senior Policy Advisor,Banking & Credit,0,41550,57801,Economics
+Mar-14,,23995,,,Range E,Senior Policy Advisor,Banking & Credit,0,41550,57801,Policy
+Mar-14,,23995,,,Range E2,Senior Policy Advisor,Banking & Credit,0,49490,60000,Policy
+Mar-14,,23995,,,Student,Student,Banking & Credit,0,18480,18480,Policy
+Mar-14,,23998,,,Range D,Policy Advisor,Banking & Financial Sector Analysis/Director's Office,0,24578,38255,Policy
+Mar-14,,23998,,,Range E,Senior Policy Advisor,Banking & Financial Sector Analysis/Director's Office,0,41550,57801,Policy
+Mar-14,,25499,,,Range D,Policy Advisor,Banking Compensation and Legacy Assets/Banking Commision Implementation,0,24578,38255,Policy
+Mar-14,,25499,,,Range E,Senior Policy Advisor,Banking Compensation and Legacy Assets/Banking Commision Implementation,0,41550,57801,Policy
+Mar-14,,25499,,,Range E2,Senior Policy Advisor,Banking Compensation and Legacy Assets/Banking Commision Implementation,0,49490,60000,Policy
+Mar-14,,24013,,,Range C,Policy Support Officer,Budget & Tax Strategy/Director's Office/GMS,0,18727,26720,Policy
+Mar-14,,24013,,,Range D,Policy Advisor,Budget & Tax Strategy/Director's Office/GMS,0,24578,38255,Policy
+Mar-14,,24013,,,Range E,Senior Policy Advisor,Budget & Tax Strategy/Director's Office/GMS,0,41550,57801,Planning
+Mar-14,,24013,,,Range E,Senior Policy Advisor,Budget & Tax Strategy/Director's Office/GMS,0,41550,57801,Policy
+Mar-14,,24013,,,Range E2,Senior Policy Advisor,Budget & Tax Strategy/Director's Office/GMS,0,49490,60000,Policy
+Mar-14,,24013,,,Student,Student,Budget & Tax Strategy/Director's Office/GMS,0,18480,18480,Policy
+Mar-14,,23984,,,Range B,Policy Support Officer,Chancellor's Office,0,16386,21663,Policy
+Mar-14,,23984,,,Range C,Policy Support Officer,Chancellor's Office,0,18727,26720,Policy
+Mar-14,,23984,,,Range D,Policy Advisor,Chancellor's Office,0,24578,38255,Policy
+Mar-14,,23984,,,Range E,Senior Policy Advisor,Chancellor's Office,0,41550,57801,Policy
+Mar-14,,23984,,,Range E2,Senior Policy Advisor,Chancellor's Office,0,49490,60000,Policy
+Mar-14,,23984,,,Range B,Policy Support Officer,Chief Secretary's Office,0,16386,21663,Policy
+Mar-14,,23984,,,Range C,Policy Support Officer,Chief Secretary's Office,0,18727,26720,Policy
+Mar-14,,23984,,,Range D,Policy Advisor,Chief Secretary's Office,0,24578,38255,Policy
+Mar-14,,23984,,,Range E2,Senior Policy Advisor,Chief Secretary's Office,0,49490,60000,Policy
+Mar-14,,24005,,,Range B,Press Support Officer,COM Team,0,16386,21663,Operational Delivery
+Mar-14,,24005,,,Range C,Communications Support Officer,COM Team,0,18727,26720,Communications
+Mar-14,,24005,,,Range C,Communications Support Officer,COM Team,0,18727,26720,Policy
+Mar-14,,24005,,,Range C,Press Support Officer,COM Team,0,18727,26720,Operational Delivery
+Mar-14,,24005,,,Range D,Communications Manager,COM Team,0,24578,38255,Communications
+Mar-14,,24005,,,Range E,Senior Communications Manager,COM Team,0,41550,57801,Communications
+Mar-14,,24005,,,Range E2,Senior Communications Manager,COM Team,0,49490,60000,Communications
+Mar-14,,23984,,,Range C,Treasury Official,Commercial Secretary's Office/Director General's Office,0,18727,26720,Policy
+Mar-14,,23984,,,Range D,Treasury Official,Commercial Secretary's Office/Director General's Office,0,24578,38255,Policy
+Mar-14,,23984,,,Range E,Treasury Official,Commercial Secretary's Office/Director General's Office,0,41550,57801,Policy
+Mar-14,,24744,,,Range B,Policy Support Officer,"Competition, Markets and Regulation/GMS",0,16386,21663,Policy
+Mar-14,,24744,,,Range C,Policy Support Officer,"Competition, Markets and Regulation/GMS",0,18727,26720,Policy
+Mar-14,,24744,,,Range D,Policy Advisor,"Competition, Markets and Regulation/GMS",0,24578,38255,Policy
+Mar-14,,24744,,,Range E,Senior Policy Advisor,"Competition, Markets and Regulation/GMS",0,41550,57801,Policy
+Mar-14,,24744,,,Range E2,Senior Policy Advisor,"Competition, Markets and Regulation/GMS",0,49490,60000,Policy
+Mar-14,,23954,,,Range D,Policy Advisor,"Corporate Finance, Business, Innovation & Skills",0,24578,38255,Policy
+Mar-14,,23954,,,Range E,Senior Policy Advisor,"Corporate Finance, Business, Innovation & Skills",0,41550,57801,Policy
+Mar-14,,23954,,,Student,Student,"Corporate Finance, Business, Innovation & Skills",0,18480,18480,Policy
+Mar-14,,23966,,,Range B,Policy Support Officer,Corporate Taxation/Director's Office,0,16386,21663,Policy
+Mar-14,,23966,,,Range D,Policy Advisor,Corporate Taxation/Director's Office,0,24578,38255,Policy
+Mar-14,,23966,,,Range E,Senior Policy Advisor,Corporate Taxation/Director's Office,0,41550,57801,Policy
+Mar-14,,24025,,,Range B,Treasury Official,Correspondence & Information Rights Team,0,16386,21663,Policy
+Mar-14,,24025,,,Range C,Treasury Official,Correspondence & Information Rights Team,0,18727,26720,Policy
+Mar-14,,24025,,,Range D,Treasury Official,Correspondence & Information Rights Team,0,24578,38255,Policy
+Mar-14,,24025,,,Range E,Treasury Official,Correspondence & Information Rights Team,0,41550,57801,Policy
+Mar-14,,24025,,,Range E2,Treasury Official,Correspondence & Information Rights Team,0,49490,60000,Policy
+Mar-14,,24054,,,Range C,Policy Support Officer,Data Quality and OSCAR,0,18727,26720,Policy
+Mar-14,,24054,,,Range D,Policy Advisor,Data Quality and OSCAR,0,24578,38255,Policy
+Mar-14,,24054,,,Range E,Senior Policy Advisor,Data Quality and OSCAR,0,41550,57801,Policy
+Mar-14,,24054,,,Range E2,Senior Policy Advisor,Data Quality and OSCAR,0,49490,60000,Policy
+Mar-14,,25142,,,Range D,Policy Advisor,Debt and Reserves Management,0,24578,38255,Economics
+Mar-14,,25142,,,Range D,Policy Advisor,Debt and Reserves Management,0,24578,38255,Policy
+Mar-14,,25142,,,Range E,Senior Policy Advisor,Debt and Reserves Management,0,41550,57801,Economics
+Mar-14,,25142,,,Range E,Senior Policy Advisor,Debt and Reserves Management,0,41550,57801,Policy
+Mar-14,,25142,,,Range E2,Senior Policy Advisor,Debt and Reserves Management,0,49490,60000,Policy
+Mar-14,,25142,,,Student,Student,Debt and Reserves Management,0,18480,18480,Policy
+Mar-14,,24054,,,Range C,Policy Support Officer,Defence Diplomacy & Intelligence,0,18727,26720,Policy
+Mar-14,,24054,,,Range D,Policy Advisor,Defence Diplomacy & Intelligence,0,24578,38255,Policy
+Mar-14,,24054,,,Range E,Senior Policy Advisor,Defence Diplomacy & Intelligence,0,41550,57801,Policy
+Mar-14,,24888,,,Range B,Policy Support Officer,Devolved and Local Government/Director's Office/GMS,0,16386,21663,Policy
+Mar-14,,24888,,,Range C,Policy Support Officer,Devolved and Local Government/Director's Office/GMS,0,18727,26720,Policy
+Mar-14,,24888,,,Range D,Policy Advisor,Devolved and Local Government/Director's Office/GMS,0,24578,38255,Policy
+Mar-14,,24888,,,Range E,Senior Policy Advisor,Devolved and Local Government/Director's Office/GMS,0,41550,57801,Policy
+Mar-14,,24888,,,Range E2,Senior Policy Advisor,Devolved and Local Government/Director's Office/GMS,0,49490,60000,Policy
+Mar-14,,23957,,,Range B,Policy Support Officer,Economic Assessment,0,16386,21663,Economics
+Mar-14,,23957,,,Range D,Policy Advisor,Economic Assessment,0,24578,38255,Economics
+Mar-14,,23957,,,Range E,Senior Policy Advisor,Economic Assessment,0,41550,57801,Economics
+Mar-14,,23957,,,Range E2,Senior Policy Advisor,Economic Assessment,0,49490,60000,Economics
+Mar-14,,23957,,,Student,Student,Economic Assessment,0,18480,18480,Economics
+Mar-14,,24010,,,Range B,Research Support Officer,Economic Assessment/Economics Model Unit/GMS,0,16386,21663,Social Research
+Mar-14,,24010,,,Range C,Policy Support Officer,Economic Assessment/Economics Model Unit/GMS,0,18727,26720,Social Research
+Mar-14,,24010,,,Range C,Research Support Officer,Economic Assessment/Economics Model Unit/GMS,0,18727,26720,Social Research
+Mar-14,,24010,,,Range D,Policy Advisor,Economic Assessment/Economics Model Unit/GMS,0,24578,38255,Economics
+Mar-14,,24010,,,Range E,Senior Policy Advisor,Economic Assessment/Economics Model Unit/GMS,0,41550,57801,Economics
+Mar-14,,24010,,,Range E2,Senior Policy Advisor,Economic Assessment/Economics Model Unit/GMS,0,49490,60000,Economics
+Mar-14,,24010,,,Range E2,Senior Policy Advisor,Economic Assessment/Economics Model Unit/GMS,0,49490,60000,Social Research
+Mar-14,,23984,,,Range B,Treasury Official,"Economic, Exchequer, Financial Secretary's Office",0,16386,21663,Policy
+Mar-14,,23984,,,Range C,Treasury Official,"Economic, Exchequer, Financial Secretary's Office",0,18727,26720,Policy
+Mar-14,,23984,,,Range D,Treasury Official,"Economic, Exchequer, Financial Secretary's Office",0,24578,38255,Policy
+Mar-14,,23984,,,Range E,Treasury Official,"Economic, Exchequer, Financial Secretary's Office",0,41550,57801,Policy
+Mar-14,,24774,,,Range D,Policy Advisor,"Education, Children and Culture",0,24578,38255,Policy
+Mar-14,,24774,,,Range E,Senior Policy Advisor,"Education, Children and Culture",0,41550,57801,Economics
+Mar-14,,24774,,,Range E,Senior Policy Advisor,"Education, Children and Culture",0,41550,57801,Policy
+Mar-14,,25070,,,Range D,Policy Advisor,"Energy, Environment and Agriculture",0,24578,38255,Policy
+Mar-14,,25070,,,Range E,Senior Policy Advisor,"Energy, Environment and Agriculture",0,41550,57801,Policy
+Mar-14,,25070,,,Range E2,Senior Policy Advisor,"Energy, Environment and Agriculture",0,49490,60000,Policy
+Mar-14,,25070,,,Student,Student,"Energy, Environment and Agriculture",0,18480,18480,Policy
+Mar-14,,24253,,,Range D,Policy Advisor,Enterprise and Property Tax,0,24578,38255,Policy
+Mar-14,,24253,,,Range E,Senior Policy Advisor,Enterprise and Property Tax,0,41550,57801,Policy
+Mar-14,,23967,,,Range C,Policy Support Officer,Environment and Transport Tax,0,18727,26720,Policy
+Mar-14,,23967,,,Range D,Policy Advisor,Environment and Transport Tax,0,24578,38255,Policy
+Mar-14,,23967,,,Range E,Senior Policy Advisor,Environment and Transport Tax,0,41550,57801,Economics
+Mar-14,,23967,,,Range E,Senior Policy Advisor,Environment and Transport Tax,0,41550,57801,Policy
+Mar-14,,23967,,,Range E2,Senior Policy Advisor,Environment and Transport Tax,0,49490,60000,Policy
+Mar-14,,24274,,,Student,Student,Equitable Life and International Tax/GMS,0,18480,18480,Policy
+Mar-14,,24274,,,Range B,Policy Support Officer,Equitable Life and International Tax/GMS,0,16386,21663,Policy
+Mar-14,,24274,,,Range D,Policy Advisor,Equitable Life and International Tax/GMS,0,24578,38255,Policy
+Mar-14,,24274,,,Range E,Senior Policy Advisor,Equitable Life and International Tax/GMS,0,41550,57801,Policy
+Mar-14,,24274,,,Range E2,Senior Policy Advisor,Equitable Life and International Tax/GMS,0,49490,60000,Policy
+Mar-14,,23989,,,Range C,Policy Support Officer,European Institutions and Policy,0,18727,26720,Policy
+Mar-14,,23989,,,Range D,Policy Advisor,European Institutions and Policy,0,24578,38255,Policy
+Mar-14,,23989,,,Range E,Senior Policy Advisor,European Institutions and Policy,0,41550,57801,Economics
+Mar-14,,23989,,,Range E,Senior Policy Advisor,European Institutions and Policy,0,41550,57801,Policy
+Mar-14,,24629,,,Range B,Policy Support Officer,European Union Finances/GMS,0,16386,21663,Policy
+Mar-14,,24629,,,Range C,Policy Support Officer,European Union Finances/GMS,0,18727,26720,Policy
+Mar-14,,24629,,,Range D,Policy Advisor,European Union Finances/GMS,0,24578,38255,Policy
+Mar-14,,24629,,,Range E,Senior Policy Advisor,European Union Finances/GMS,0,41550,57801,Policy
+Mar-14,,23950,,,Range B,Treasury Official,Exchequer Funds and Accounts/Intervention Strategy and Markets,0,16386,21663,Policy
+Mar-14,,23950,,,Range C,Treasury Official,Exchequer Funds and Accounts/Intervention Strategy and Markets,0,18727,26720,Policy
+Mar-14,,23950,,,Range D,Treasury Official,Exchequer Funds and Accounts/Intervention Strategy and Markets,0,24578,38255,Policy
+Mar-14,,23950,,,Range E,Treasury Official,Exchequer Funds and Accounts/Intervention Strategy and Markets,0,41550,57801,Policy
+Mar-14,,23950,,,Range E2,Treasury Official,Exchequer Funds and Accounts/Intervention Strategy and Markets,0,49490,60000,Policy
+Mar-14,,25203,,,Range B,Finance Support Officer,Finance and HR Operational Services,0,16386,21663,Finance
+Mar-14,,25203,,,Range B,Finance Support Officer,Finance and HR Operational Services,0,16386,21663,Operational Delivery
+Mar-14,,24363,,,Range B,HR Support Officer,Finance and HR Operational Services,0,16386,21663,Operational Delivery
+Mar-14,,25203,,,Range B,HR Support Officer,Finance and HR Operational Services,0,16386,21663,Operational Delivery
+Mar-14,,25203,,,Range C,Finance Support Officer,Finance and HR Operational Services,0,18727,26720,Finance
+Mar-14,,24363,,,Range C,HR Support Officer,Finance and HR Operational Services,0,18727,26720,Operational Delivery
+Mar-14,,24363,,,Range C,IT Support Officer,Finance and HR Operational Services,0,18727,26720,Operational Delivery
+Mar-14,,24363,,,Range C,Project Support Officer,Finance and HR Operational Services,0,18727,26720,Operational Delivery
+Mar-14,,25203,,,Range C,Project Support Officer,Finance and HR Operational Services,0,18727,26720,Finance
+Mar-14,,25203,,,Range D,Finance Officer,Finance and HR Operational Services,0,24578,38255,Finance
+Mar-14,,24363,,,Range D,HR Officer,Finance and HR Operational Services,0,24578,38255,Operational Delivery
+Mar-14,,24363,,,Range D,IT Support Officer,Finance and HR Operational Services,0,24578,38255,Operational Delivery
+Mar-14,,24363,,,Range E,Senior Project Manager,Finance and HR Operational Services,0,41550,57801,Operational Delivery
+Mar-14,,24363,,,Range E2,Project Manager,Finance and HR Operational Services,0,49490,60000,Human Resources
+Mar-14,,25203,,,Range B,Finance Support Officer,Finance in the Business,0,16386,21663,Finance
+Mar-14,,25203,,,Range C,Finance Support Officer,Finance in the Business,0,18727,26720,Finance
+Mar-14,,24363,,,Range D,Finance Officer,Finance in the Business,0,24578,38255,Finance
+Mar-14,,25203,,,Range D,Finance Officer,Finance in the Business,0,24578,38255,Finance
+Mar-14,,24011,,,Range D,Policy Advisor,Financial Services Strategy,0,24578,38255,Policy
+Mar-14,,24011,,,Range E,Senior Policy Advisor,Financial Services Strategy,0,41550,57801,Policy
+Mar-14,,24011,,,Range E2,Senior Policy Advisor,Financial Services Strategy,0,49490,60000,Policy
+Mar-14,,23987,,,Range B,Policy Support Officer,Fiscal Policy and Statistics/GMS,0,16386,21663,Operational Delivery
+Mar-14,,23987,,,Range C,Policy Support Officer,Fiscal Policy and Statistics/GMS,0,18727,26720,Policy
+Mar-14,,23987,,,Range D,Policy Advisor,Fiscal Policy and Statistics/GMS,0,24578,38255,Policy
+Mar-14,,23987,,,Range E,Senior Policy Advisor,Fiscal Policy and Statistics/GMS,0,41550,57801,Economics
+Mar-14,,23987,,,Range E,Senior Policy Advisor,Fiscal Policy and Statistics/GMS,0,41550,57801,Policy
+Mar-14,,23987,,,Range E2,Senior Policy Advisor,Fiscal Policy and Statistics/GMS,0,49490,60000,Policy
+Mar-14,,24019,,,Range C,Policy Support Officer,General Expenditure Policy/Director's Office/GMS,0,18727,26720,Operational Delivery
+Mar-14,,24019,,,Range D,Policy Advisor,General Expenditure Policy/Director's Office/GMS,0,24578,38255,Operational Delivery
+Mar-14,,24019,,,Range D,Policy Advisor,General Expenditure Policy/Director's Office/GMS,0,24578,38255,Policy
+Mar-14,,24019,,,Range E,Senior Policy Advisor,General Expenditure Policy/Director's Office/GMS,0,41550,57801,Economics
+Mar-14,,24019,,,Range E,Senior Policy Advisor,General Expenditure Policy/Director's Office/GMS,0,41550,57801,Policy
+Mar-14,,24019,,,Range E2,Senior Policy Advisor,General Expenditure Policy/Director's Office/GMS,0,49490,60000,Policy
+Mar-14,,24638,,,Range D,Policy Advisor,Global Economics,0,24578,38255,Policy
+Mar-14,,24638,,,Range E,Senior Policy Advisor,Global Economics,0,41550,57801,Policy
+Mar-14,,24638,,,Range E2,Senior Policy Advisor,Global Economics,0,49490,60000,Policy
+Mar-14,,24638,,,Student,Student,Global Economics,0,18480,18480,Policy
+Mar-14,,25139,,,Range B,Research Support Officer,Government Economic & Social Research Unit,0,16386,21663,Economics
+Mar-14,,25139,,,Range B,Research Support Officer,Government Economic & Social Research Unit,0,16386,21663,Social Research
+Mar-14,,25139,,,Range C,Research Support Officer,Government Economic & Social Research Unit,0,18727,26720,Social Research
+Mar-14,,25139,,,Range D,Research Officer,Government Economic & Social Research Unit,0,24578,38255,Social Research
+Mar-14,,25139,,,Range E,Senior Research Officer,Government Economic & Social Research Unit,0,41550,57801,Social Research
+Mar-14,,25139,,,Range E2,Senior Research Officer,Government Economic & Social Research Unit,0,49490,60000,Social Research
+Mar-14,,25062,,,Range C,Policy Support Officer,Government Financial Reporting,0,18727,26720,Policy
+Mar-14,,25062,,,Range D,Policy Advisor,Government Financial Reporting,0,24578,38255,Policy
+Mar-14,,25062,,,Range E,Senior Policy Advisor,Government Financial Reporting,0,41550,57801,Policy
+Mar-14,,25062,,,Range E2,Senior Policy Advisor,Government Financial Reporting,0,49490,60000,Policy
+Mar-14,,25203,,,Range B,Finance Support Officer,Group Finance,0,16386,21663,Finance
+Mar-14,,25203,,,Range C,Finance Support Officer,Group Finance,0,18727,26720,Finance
+Mar-14,,25203,,,Range D,Finance Officer,Group Finance,0,24578,38255,Finance
+Mar-14,,25203,,,Range D,Internal Auditor,Group Finance,0,24578,38255,Internal Audit
+Mar-14,,25203,,,Range E,Senior Finance Manager,Group Finance,0,41550,57801,Finance
+Mar-14,,25203,,,Range E2,Senior Finance Manager,Group Finance,0,49490,60000,Finance
+Mar-14,,24363,,,Range B,HR Support Officer,"Group Human Resources,Corporate Centre Change and Management Team,GMS/TLA",0,16386,21663,Human Resources
+Mar-14,,24363,,,Range B,Legal Support Officer,"Group Human Resources,Corporate Centre Change and Management Team,GMS/TLA",0,16386,21663,Law
+Mar-14,,24363,,,Range B,Policy Support Officer,"Group Human Resources,Corporate Centre Change and Management Team,GMS/TLA",0,16386,21663,Human Resources
+Mar-14,,24363,,,Range C,HR Support Officer,"Group Human Resources,Corporate Centre Change and Management Team,GMS/TLA",0,18727,26720,Human Resources
+Mar-14,,24363,,,Range C,Legal Support Officer,"Group Human Resources,Corporate Centre Change and Management Team,GMS/TLA",0,18727,26720,Law
+Mar-14,,24363,,,Range C,Policy Support Officer,"Group Human Resources,Corporate Centre Change and Management Team,GMS/TLA",0,18727,26720,Policy
+Mar-14,,24363,,,Range D,HR Officer,"Group Human Resources,Corporate Centre Change and Management Team,GMS/TLA",0,24578,38255,Human Resources
+Mar-14,,24363,,,Range D,Policy Advisor,"Group Human Resources,Corporate Centre Change and Management Team,GMS/TLA",0,24578,38255,Policy
+Mar-14,,24363,,,Range E,HR Manager,"Group Human Resources,Corporate Centre Change and Management Team,GMS/TLA",0,41550,57801,Human Resources
+Mar-14,,24363,,,Range E,Senior Policy Advisor,"Group Human Resources,Corporate Centre Change and Management Team,GMS/TLA",0,41550,57801,Policy
+Mar-14,,24363,,,Range E2,HR Manager,"Group Human Resources,Corporate Centre Change and Management Team,GMS/TLA",0,49490,60000,Human Resources
+Mar-14,,24016,,,Range C,Policy Support Officer,Growth and Productivity,0,18727,26720,Policy
+Mar-14,,24016,,,Range D,Policy Advisor,Growth and Productivity,0,24578,38255,Policy
+Mar-14,,24016,,,Range E,Senior Policy Advisor,Growth and Productivity,0,41550,57801,Policy
+Mar-14,,24016,,,Range E2,Senior Policy Advisor,Growth and Productivity,0,49490,60000,Policy
+Mar-14,,24016,,,Student,Student,Growth and Productivity,0,18480,18480,Policy
+Mar-14,,24051,,,Range D,Policy Advisor,Health,0,24578,38255,Policy
+Mar-14,,24051,,,Range E,Senior Policy Advisor,Health,0,41550,57801,Policy
+Mar-14,,24056,,,Range C,Policy Support Officer,Home and Legal,0,18727,26720,Policy
+Mar-14,,24056,,,Range D,Policy Advisor,Home and Legal,0,24578,38255,Policy
+Mar-14,,24056,,,Range E,Senior Policy Advisor,Home and Legal,0,41550,57801,Policy
+Mar-14,,24056,,,Range E2,Senior Policy Advisor,Home and Legal,0,49490,60000,Policy
+Mar-14,,24884,,,Range D,Policy Advisor,Housing Planning and Cities,0,24578,38255,Policy
+Mar-14,,24884,,,Range E,Senior Policy Advisor,Housing Planning and Cities,0,41550,57801,Policy
+Mar-14,,24038,,,Range C,Policy Support Officer,Infrastructure Delivery,0,18727,26720,Policy
+Mar-14,,24038,,,Specialist,Specialist,Infrastructure Delivery,0,28000,145000,Policy
+Mar-14,,24038,,,Range D,Policy Advisor,Infrastructure Finance,0,24578,38255,Policy
+Mar-14,,24038,,,Specialist,Specialist,Infrastructure Finance,0,28000,145000,Policy
+Mar-14,,25134,,,Range C,Policy Support Officer,Infrastructure Strategy Branch,0,18727,26720,Policy
+Mar-14,,25134,,,Range D,Policy Advisor,Infrastructure Strategy Branch,0,24578,38255,Policy
+Mar-14,,25134,,,Range E,Senior Policy Advisor,Infrastructure Strategy Branch,0,41550,57801,Policy
+Mar-14,,24038,,,Range B,Policy Support Officer,Infrastructure UK (IUK),0,16386,21663,Policy
+Mar-14,,24038,,,Range C,Policy Support Officer,Infrastructure UK (IUK),0,18727,26720,Policy
+Mar-14,,24038,,,Range D,Policy Advisor,Infrastructure UK (IUK),0,24578,38255,Policy
+Mar-14,,24038,,,Range E,Senior Policy Advisor,Infrastructure UK (IUK),0,41550,57801,Policy
+Mar-14,,24038,,,Specialist,Specialist,Infrastructure UK (IUK),0,28000,145000,Policy
+Mar-14,,24053,,,Range B,Policy Support Officer,Insurance and Savings/GMS,0,16386,21663,Policy
+Mar-14,,24053,,,Range C,Policy Support Officer,Insurance and Savings/GMS,0,18727,26720,Policy
+Mar-14,,24053,,,Range D,Policy Advisor,Insurance and Savings/GMS,0,24578,38255,Policy
+Mar-14,,24053,,,Range E,Senior Policy Advisor,Insurance and Savings/GMS,0,41550,57801,Policy
+Mar-14,,24053,,,Range E2,Senior Policy Advisor,Insurance and Savings/GMS,0,49490,60000,Policy
+Mar-14,,24655,,,Range C,Policy Support Officer,International Institutions and Policy,0,18727,26720,Policy
+Mar-14,,24655,,,Range D,Policy Advisor,International Institutions and Policy,0,24578,38255,Policy
+Mar-14,,24655,,,Range E,Senior Policy Advisor,International Institutions and Policy,0,41550,57801,Economics
+Mar-14,,24655,,,Range E,Senior Policy Advisor,International Institutions and Policy,0,41550,57801,Policy
+Mar-14,,23964,,,Range C,IT Support Officer,Joint Workplace solutions,0,18727,26720,Information Technology
+Mar-14,,23964,,,Range D,IT Manager,Joint Workplace solutions,0,24578,38255,Information Technology
+Mar-14,,23964,,,Range D,Project Officer,Joint Workplace solutions,0,24578,38255,Information Technology
+Mar-14,,23964,,,Range E,Senior IT Manager,Joint Workplace solutions,0,41550,57801,Information Technology
+Mar-14,,23964,,,Range E2,Senior IT Manager,Joint Workplace solutions,0,49490,60000,Information Technology
+Mar-14,,25259,,,Range D,Policy Advisor,Labour Markets and Distributional Analysis,0,24578,38255,Policy
+Mar-14,,25259,,,Range E,Senior Policy Advisor,Labour Markets and Distributional Analysis,0,41550,57801,Policy
+Mar-14,,25259,,,Range E2,Senior Policy Advisor,Labour Markets and Distributional Analysis,0,49490,60000,Policy
+Mar-14,,24582,,,Range B,Policy Support Officer,Lloyds and Analytical team/GMS/Director's Office,0,16386,21663,Finance
+Mar-14,,24582,,,Range C,Policy Support Officer,Lloyds and Analytical team/GMS/Director's Office,0,18727,26720,Policy
+Mar-14,,24582,,,Range D,Policy Advisor,Lloyds and Analytical team/GMS/Director's Office,0,24578,38255,Finance
+Mar-14,,24582,,,Range D,Policy Advisor,Lloyds and Analytical team/GMS/Director's Office,0,24578,38255,Policy
+Mar-14,,24582,,,Range D,Project Officer,Lloyds and Analytical team/GMS/Director's Office,0,24578,38255,Policy
+Mar-14,,24582,,,Range E,Senior Policy Advisor,Lloyds and Analytical team/GMS/Director's Office,0,41550,57801,Policy
+Mar-14,,24582,,,Range E2,Senior Policy Advisor,Lloyds and Analytical team/GMS/Director's Office,0,49490,60000,Policy
+Mar-14,,24549,,,Range D,Policy Advisor,Macroeconomic Coordination & Strategy,0,24578,38255,Economics
+Mar-14,,24549,,,Range D,Policy Advisor,Macroeconomic Coordination & Strategy,0,24578,38255,Policy
+Mar-14,,24549,,,Range E,Senior Policy Advisor,Macroeconomic Coordination & Strategy,0,41550,57801,Economics
+Mar-14,,24549,,,Range E,Senior Policy Advisor,Macroeconomic Coordination & Strategy,0,41550,57801,Policy
+Mar-14,,24549,,,Student,Student,Macroeconomic Coordination & Strategy,0,18480,18480,Economics
+Mar-14,,24025,,,Range C,M I Support Officer,Management Information Unit,0,18727,26720,Operational Delivery
+Mar-14,,24025,,,Range D,MI Officer,Management Information Unit,0,24578,38255,Operational Delivery
+Mar-14,,24025,,,Range E,Senior MI Officer,Management Information Unit,0,41550,57801,Operational Delivery
+Mar-14,,24322,,,Range D,Policy Advisor,Office of Head of Government Finance Profession,0,24578,38255,Policy
+Mar-14,,24322,,,Range E,Senior Policy Advisor,Office of Head of Government Finance Profession,0,41550,57801,Policy
+Mar-14,,23984,,,Range B,Policy Support Officer,Parliamentary Unit/GMS,0,16386,21663,Policy
+Mar-14,,23984,,,Range C,Policy Support Officer,Parliamentary Unit/GMS,0,18727,26720,Policy
+Mar-14,,23984,,,Range D,Policy Advisor,Parliamentary Unit/GMS,0,24578,38255,Policy
+Mar-14,,23984,,,Range E,Senior Policy Advisor,Parliamentary Unit/GMS,0,41550,57801,Policy
+Mar-14,,24000,,,Range D,Policy Advisor,Pensions and Savings Team,0,24578,38255,Policy
+Mar-14,,24000,,,Range E,Senior Policy Advisor,Pensions and Savings Team,0,41550,57801,Policy
+Mar-14,,24000,,,Student,Student,Pensions and Savings Team,0,18480,18480,Policy
+Mar-14,,23984,,,Range B,Policy Support Officer,Permanent Secretary's Office/Special Advisers,0,16386,21663,Policy
+Mar-14,,23984,,,Range C,Policy Support Officer,Permanent Secretary's Office/Special Advisers,0,18727,26720,Communications
+Mar-14,,23984,,,Range C,Policy Support Officer,Permanent Secretary's Office/Special Advisers,0,18727,26720,Policy
+Mar-14,,23984,,,Range D,Policy Advisor,Permanent Secretary's Office/Special Advisers,0,24578,38255,Communications
+Mar-14,,23984,,,Range D,Policy Advisor,Permanent Secretary's Office/Special Advisers,0,24578,38255,Policy
+Mar-14,,23984,,,Range E,Senior Policy Advisor,Permanent Secretary's Office/Special Advisers,0,41550,57801,Policy
+Mar-14,,24057,,,Range B,Policy Support Officer,Personal Taxation/GMS,0,16386,21663,Policy
+Mar-14,,24057,,,Range C,Policy Support Officer,Personal Taxation/GMS,0,18727,26720,Policy
+Mar-14,,24057,,,Range D,Policy Advisor,Personal Taxation/GMS,0,24578,38255,Policy
+Mar-14,,24057,,,Range E,Senior Policy Advisor,Personal Taxation/GMS,0,41550,57801,Policy
+Mar-14,,24057,,,Range E2,Senior Policy Advisor,Personal Taxation/GMS,0,49490,60000,Policy
+Mar-14,,24057,,,Student,Student,Personal Taxation/GMS,0,18480,18480,Policy
+Mar-14,,24038,,,Range D,Policy Advisor,Public Private Partnerships Policy,0,24578,38255,Policy
+Mar-14,,24038,,,Range E,Senior Policy Advisor,Public Private Partnerships Policy,0,41550,57801,Policy
+Mar-14,,24038,,,Specialist,Specialist,Public Private Partnerships Policy,0,28000,145000,Policy
+Mar-14,,25393,,,Range C,Policy Support Officer,Resilience and Resolution,0,18727,26720,Policy
+Mar-14,,25393,,,Range D,Policy Advisor,Resilience and Resolution,0,24578,38255,Policy
+Mar-14,,25393,,,Range E,Senior Policy Advisor,Resilience and Resolution,0,41550,57801,Policy
+Mar-14,,25393,,,Range E2,Senior Policy Advisor,Resilience and Resolution,0,49490,60000,Policy
+Mar-14,,25393,,,Student,Student,Resilience and Resolution,0,18480,18480,Policy
+Mar-14,,25140,,,Range B,Policy Support Officer,Sanctions and Counter Illicit Finance,0,16386,21663,Policy
+Mar-14,,25140,,,Range C,Policy Support Officer,Sanctions and Counter Illicit Finance,0,18727,26720,Policy
+Mar-14,,25140,,,Range D,Policy Advisor,Sanctions and Counter Illicit Finance,0,24578,38255,Economics
+Mar-14,,25140,,,Range D,Policy Advisor,Sanctions and Counter Illicit Finance,0,24578,38255,Policy
+Mar-14,,25140,,,Range E,Senior Policy Advisor,Sanctions and Counter Illicit Finance,0,41550,57801,Policy
+Mar-14,,25140,,,Range E2,Senior Policy Advisor,Sanctions and Counter Illicit Finance,0,49490,60000,Policy
+Mar-14,,23999,,,Range D,Policy Advisor,Securities & Markets,0,24578,38255,Policy
+Mar-14,,23999,,,Range E,Senior Policy Advisor,Securities & Markets,0,41550,57801,Policy
+Mar-14,,24017,,,Range D,Policy Advisor,"Strategy, Planning & Projects",0,24578,38255,Policy
+Mar-14,,24017,,,Range B,Policy Support Officer,"Strategy, Planning & Projects/Scotland Analysis Programme",0,16386,21663,Policy
+Mar-14,,24017,,,Range D,Policy Advisor,"Strategy, Planning & Projects/Scotland Analysis Programme",0,24578,38255,Policy
+Mar-14,,24017,,,Range E,Senior Policy Advisor,"Strategy, Planning & Projects/Scotland Analysis Programme",0,41550,57801,Policy
+Mar-14,,24017,,,Range E2,Senior Policy Advisor,"Strategy, Planning & Projects/Scotland Analysis Programme",0,49490,60000,Policy
+Mar-14,,24350,,,Range D,Policy Advisor,"Tax Administration, Spending and Reform",0,24578,38255,Policy
+Mar-14,,24350,,,Range E,Senior Policy Advisor,"Tax Administration, Spending and Reform",0,41550,57801,Policy
+Mar-14,,24350,,,Range E2,Senior Policy Advisor,"Tax Administration, Spending and Reform",0,49490,60000,Policy
+Mar-14,,23953,,,Range D,Policy Advisor,Transport Regulation and Competition,0,24578,38255,Policy
+Mar-14,,23953,,,Range E,Senior Policy Advisor,Transport Regulation and Competition,0,41550,57801,Policy
+Mar-14,,23953,,,Range E2,Senior Policy Advisor,Transport Regulation and Competition,0,49490,60000,Policy
+Mar-14,,23965,,,Range D,Internal Auditor,Treasury Group Commercial/Group Internal Audit,0,24578,38255,Internal Audit
+Mar-14,,23965,,,Range E,Senior Internal Auditor,Treasury Group Commercial/Group Internal Audit,0,41550,57801,Internal Audit
+Mar-14,,23965,,,Range E,Senior Procurement Officer,Treasury Group Commercial/Group Internal Audit,0,41550,57801,Procurement
+Mar-14,,23976,,,Range C,Policy Support Officer,Treasury Officer of Accounts Team,0,18727,26720,Policy
+Mar-14,,23976,,,Range D,Policy Advisor,Treasury Officer of Accounts Team,0,24578,38255,Policy
+Mar-14,,23976,,,Range E,Senior Policy Advisor,Treasury Officer of Accounts Team,0,41550,57801,Policy
+Mar-14,,24087,,,Range B,Policy Support Officer,VAT & Excise/Office of Tax Simplification Team,0,16386,21663,Policy
+Mar-14,,24087,,,Range D,Policy Advisor,VAT & Excise/Office of Tax Simplification Team,0,24578,38255,Policy
+Mar-14,,24087,,,Range E,Senior Policy Advisor,VAT & Excise/Office of Tax Simplification Team,0,41550,57801,Economics
+Mar-14,,24087,,,Range E,Senior Policy Advisor,VAT & Excise/Office of Tax Simplification Team,0,41550,57801,Policy
+Mar-14,,24087,,,Range E2,Senior Policy Advisor,VAT & Excise/Office of Tax Simplification Team,0,49490,60000,Policy
+Mar-14,,23968,,,Range D,Policy Advisor,Welfare Spending and Reform,0,24578,38255,Policy
+Mar-14,,23968,,,Range E,Senior Policy Advisor,Welfare Spending and Reform,0,41550,57801,Economics
+Mar-14,,23968,,,Range E,Senior Policy Advisor,Welfare Spending and Reform,0,41550,57801,Policy
+Mar-14,,23968,,,Range E2,Senior Policy Advisor,Welfare Spending and Reform,0,49490,60000,Policy
+Mar-14,,23960,,,Range C,Policy Support Officer,Workforce Pay and Pensions Team,0,18727,26720,Policy
+Mar-14,,23960,,,Range D,Policy Advisor,Workforce Pay and Pensions Team,0,24578,38255,Policy
+Mar-14,,23960,,,Range E,Senior Policy Advisor,Workforce Pay and Pensions Team,0,41550,57801,Policy
+Mar-14,,23960,,,Student,Student,Workforce Pay and Pensions Team,0,18480,18480,Policy

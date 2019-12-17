@@ -1,455 +1,455 @@
-date,level,id,parentId
-Sep-13,,1,
-Sep-13,,2,1
-Sep-13,,3,2
-Sep-13,,4,2
-Sep-13,,5,2
-Sep-13,,6,2
-Sep-13,,7,2
-Sep-13,,8,2
-Sep-13,,9,2
-Sep-13,,11,7
-Sep-13,,13,3
-Sep-13,,14,101
-Sep-13,,16,3
-Sep-13,,17,9
-Sep-13,,18,3
-Sep-13,,19,8
-Sep-13,,20,6
-Sep-13,,21,5
-Sep-13,,22,3
-Sep-13,,23,5
-Sep-13,,26,67
-Sep-13,,28,133
-Sep-13,,29,5
-Sep-13,,30,8
-Sep-13,,31,9
-Sep-13,,32,5
-Sep-13,,33,9
-Sep-13,,34,1
-Sep-13,,35,131
-Sep-13,,36,35
-Sep-13,,37,35
-Sep-13,,38,1
-Sep-13,,39,1
-Sep-13,,40,38
-Sep-13,,41,38
-Sep-13,,42,38
-Sep-13,,43,38
-Sep-13,,44,43
-Sep-13,,45,38
-Sep-13,,46,39
-Sep-13,,47,41
-Sep-13,,48,40
-Sep-13,,49,1
-Sep-13,,50,42
-Sep-13,,51,41
-Sep-13,,52,40
-Sep-13,,53,41
-Sep-13,,54,45
-Sep-13,,55,43
-Sep-13,,56,41
-Sep-13,,57,39
-Sep-13,,58,41
-Sep-13,,59,41
-Sep-13,,60,39
-Sep-13,,61,109
-Sep-13,,62,39
-Sep-13,,63,45
-Sep-13,,64,40
-Sep-13,,65,43
-Sep-13,,66,131
-Sep-13,,67,131
-Sep-13,,68,67
-Sep-13,,70,66
-Sep-13,,71,66
-Sep-13,,72,97
-Sep-13,,73,38
-Sep-13,,74,66
-Sep-13,,76,1
-Sep-13,,77,76
-Sep-13,,78,38
-Sep-13,,79,66
-Sep-13,,80,76
-Sep-13,,81,76
-Sep-13,,82,39
-Sep-13,,83,109
-Sep-13,,84,81
-Sep-13,,85,81
-Sep-13,,86,100
-Sep-13,,87,100
-Sep-13,,88,109
-Sep-13,,89,100
-Sep-13,,90,78
-Sep-13,,91,39
-Sep-13,,92,100
-Sep-13,,93,78
-Sep-13,,94,42
-Sep-13,,95,3
-Sep-13,,96,133
-Sep-13,,97,76
-Sep-13,,98,133
-Sep-13,,99,45
-Sep-13,,100,76
-Sep-13,,101,6
-Sep-13,,102,39
-Sep-13,,103,43
-Sep-13,,104,81
-Sep-13,,105,97
-Sep-13,,106,97
-Sep-13,,107,97
-Sep-13,,108,80
-Sep-13,,109,76
-Sep-13,,110,80
-Sep-13,,111,80
-Sep-13,,112,133
-Sep-13,,113,3
-Sep-13,,114,41
-Sep-13,,115,67
-Sep-13,,116,9
-Sep-13,,117,8
-Sep-13,,118,5
-Sep-13,,119,80
-Sep-13,,120,45
-Sep-13,,121,40
-Sep-13,,122,7
-Sep-13,,123,2
-Sep-13,,124,8
-Sep-13,,125,133
-Sep-13,,126,9
-Sep-13,,127,5
-Sep-13,,128,6
-Sep-13,,129,97
-Sep-13,,130,37
-Sep-13,,131,1
-Sep-13,,132,2
-Sep-13,,133,2
-Sep-13,,134,5
-Sep-13,,135,133
-Sep-13,,136,40
-Sep-13,,137,41
-Sep-13,,138,132
-Sep-13,,,61
-Sep-13,,,61
-Sep-13,,,61
-Sep-13,,,61
-Sep-13,,,61
-Sep-13,,,88
-Sep-13,,,88
-Sep-13,,,88
-Sep-13,,,88
-Sep-13,,,88
-Sep-13,,,83
-Sep-13,,,83
-Sep-13,,,83
-Sep-13,,,83
-Sep-13,,,76
-Sep-13,,,86
-Sep-13,,,86
-Sep-13,,,86
-Sep-13,,,86
-Sep-13,,,86
-Sep-13,,,86
-Sep-13,,,92
-Sep-13,,,92
-Sep-13,,,92
-Sep-13,,,92
-Sep-13,,,92
-Sep-13,,,92
-Sep-13,,,92
-Sep-13,,,89
-Sep-13,,,89
-Sep-13,,,89
-Sep-13,,,89
-Sep-13,,,89
-Sep-13,,,76
-Sep-13,,,119
-Sep-13,,,119
-Sep-13,,,119
-Sep-13,,,119
-Sep-13,,,119
-Sep-13,,,119
-Sep-13,,,76
-Sep-13,,,111
-Sep-13,,,111
-Sep-13,,,111
-Sep-13,,,111
-Sep-13,,,111
-Sep-13,,,108
-Sep-13,,,108
-Sep-13,,,108
-Sep-13,,,108
-Sep-13,,,108
-Sep-13,,,97
-Sep-13,,,97
-Sep-13,,,97
-Sep-13,,,97
-Sep-13,,,97
-Sep-13,,,97
-Sep-13,,,104
-Sep-13,,,104
-Sep-13,,,104
-Sep-13,,,104
-Sep-13,,,104
-Sep-13,,,85
-Sep-13,,,85
-Sep-13,,,85
-Sep-13,,,85
-Sep-13,,,85
-Sep-13,,,85
-Sep-13,,,19
-Sep-13,,,19
-Sep-13,,,19
-Sep-13,,,19
-Sep-13,,,19
-Sep-13,,,19
-Sep-13,,,8
-Sep-13,,,8
-Sep-13,,,8
-Sep-13,,,8
-Sep-13,,,8
-Sep-13,,,8
-Sep-13,,,8
-Sep-13,,,126
-Sep-13,,,126
-Sep-13,,,126
-Sep-13,,,126
-Sep-13,,,126
-Sep-13,,,33
-Sep-13,,,33
-Sep-13,,,33
-Sep-13,,,33
-Sep-13,,,116
-Sep-13,,,116
-Sep-13,,,116
-Sep-13,,,116
-Sep-13,,,116
-Sep-13,,,2
-Sep-13,,,2
-Sep-13,,,101
-Sep-13,,,101
-Sep-13,,,101
-Sep-13,,,101
-Sep-13,,,101
-Sep-13,,,20
-Sep-13,,,20
-Sep-13,,,20
-Sep-13,,,20
-Sep-13,,,2
-Sep-13,,,127
-Sep-13,,,127
-Sep-13,,,127
-Sep-13,,,127
-Sep-13,,,29
-Sep-13,,,29
-Sep-13,,,29
-Sep-13,,,5
-Sep-13,,,5
-Sep-13,,,5
-Sep-13,,,5
-Sep-13,,,32
-Sep-13,,,32
-Sep-13,,,32
-Sep-13,,,32
-Sep-13,,,32
-Sep-13,,,32
-Sep-13,,,32
-Sep-13,,,32
-Sep-13,,,32
-Sep-13,,,32
-Sep-13,,,32
-Sep-13,,,21
-Sep-13,,,21
-Sep-13,,,21
-Sep-13,,,21
-Sep-13,,,21
-Sep-13,,,21
-Sep-13,,,21
-Sep-13,,,21
-Sep-13,,,21
-Sep-13,,,21
-Sep-13,,,125
-Sep-13,,,125
-Sep-13,,,125
-Sep-13,,,28
-Sep-13,,,28
-Sep-13,,,28
-Sep-13,,,28
-Sep-13,,,28
-Sep-13,,,96
-Sep-13,,,96
-Sep-13,,,96
-Sep-13,,,96
-Sep-13,,,96
-Sep-13,,,98
-Sep-13,,,98
-Sep-13,,,98
-Sep-13,,,98
-Sep-13,,,98
-Sep-13,,,98
-Sep-13,,,98
-Sep-13,,,13
-Sep-13,,,13
-Sep-13,,,13
-Sep-13,,,13
-Sep-13,,,13
-Sep-13,,,95
-Sep-13,,,95
-Sep-13,,,95
-Sep-13,,,95
-Sep-13,,,95
-Sep-13,,,95
-Sep-13,,,95
-Sep-13,,,22
-Sep-13,,,22
-Sep-13,,,22
-Sep-13,,,22
-Sep-13,,,22
-Sep-13,,,22
-Sep-13,,,13
-Sep-13,,,13
-Sep-13,,,13
-Sep-13,,,13
-Sep-13,,,2
-Sep-13,,,18
-Sep-13,,,18
-Sep-13,,,18
-Sep-13,,,18
-Sep-13,,,18
-Sep-13,,,66
-Sep-13,,,66
-Sep-13,,,70
-Sep-13,,,70
-Sep-13,,,70
-Sep-13,,,70
-Sep-13,,,70
-Sep-13,,,74
-Sep-13,,,74
-Sep-13,,,74
-Sep-13,,,74
-Sep-13,,,74
-Sep-13,,,79
-Sep-13,,,79
-Sep-13,,,79
-Sep-13,,,79
-Sep-13,,,79
-Sep-13,,,79
-Sep-13,,,79
-Sep-13,,,67
-Sep-13,,,67
-Sep-13,,,68
-Sep-13,,,68
-Sep-13,,,68
-Sep-13,,,68
-Sep-13,,,68
-Sep-13,,,68
-Sep-13,,,26
-Sep-13,,,26
-Sep-13,,,26
-Sep-13,,,26
-Sep-13,,,26
-Sep-13,,,26
-Sep-13,,,115
-Sep-13,,,115
-Sep-13,,,115
-Sep-13,,,115
-Sep-13,,,115
-Sep-13,,,115
-Sep-13,,,131
-Sep-13,,,131
-Sep-13,,,131
-Sep-13,,,131
-Sep-13,,,131
-Sep-13,,,131
-Sep-13,,,131
-Sep-13,,,35
-Sep-13,,,35
-Sep-13,,,35
-Sep-13,,,35
-Sep-13,,,36
-Sep-13,,,36
-Sep-13,,,36
-Sep-13,,,36
-Sep-13,,,36
-Sep-13,,,36
-Sep-13,,,36
-Sep-13,,,37
-Sep-13,,,37
-Sep-13,,,37
-Sep-13,,,37
-Sep-13,,,37
-Sep-13,,,39
-Sep-13,,,39
-Sep-13,,,39
-Sep-13,,,39
-Sep-13,,,39
-Sep-13,,,39
-Sep-13,,,34
-Sep-13,,,34
-Sep-13,,,34
-Sep-13,,,42
-Sep-13,,,42
-Sep-13,,,42
-Sep-13,,,42
-Sep-13,,,42
-Sep-13,,,45
-Sep-13,,,45
-Sep-13,,,45
-Sep-13,,,45
-Sep-13,,,42
-Sep-13,,,42
-Sep-13,,,42
-Sep-13,,,42
-Sep-13,,,42
-Sep-13,,,42
-Sep-13,,,42
-Sep-13,,,121
-Sep-13,,,121
-Sep-13,,,121
-Sep-13,,,121
-Sep-13,,,40
-Sep-13,,,52
-Sep-13,,,52
-Sep-13,,,52
-Sep-13,,,52
-Sep-13,,,52
-Sep-13,,,52
-Sep-13,,,40
-Sep-13,,,40
-Sep-13,,,40
-Sep-13,,,40
-Sep-13,,,40
-Sep-13,,,55
-Sep-13,,,55
-Sep-13,,,55
-Sep-13,,,55
-Sep-13,,,55
-Sep-13,,,55
-Sep-13,,,55
-Sep-13,,,43
-Sep-13,,,43
-Sep-13,,,43
-Sep-13,,,43
-Sep-13,,,43
-Sep-13,,,7
-Sep-13,,,7
-Sep-13,,,7
-Sep-13,,,7
-Sep-13,,,7
-Sep-13,,,7
-Sep-13,,,78
-Sep-13,,,78
-Sep-13,,,78
-Sep-13,,,78
-Sep-13,,,78
-Sep-13,,,78
-Sep-13,,,38
-Sep-13,,,38
-Sep-13,,,38
-Sep-13,,,49
-Sep-13,,,49
-Sep-13,,,49
-Sep-13,,,49
-Sep-13,,,49
-Sep-13,,,49
-Sep-13,,,49
+date,id,parentId,level,name,grade,jobTitle,unit,salaryCostOfReports,payFloor,payCeil,professionalOccupationalGroup
+Sep-13,1,,,Stephen Lovegrove,SCS4,Permanent Secretary,Private Office Group,0,165000,169999,Policy
+Sep-13,2,1,,Simon Virley,SCS3,"Director General, Markets and Infrastructure",Markets & Infrastructure,1064290,140000,144999,Policy
+Sep-13,3,2,,John Fiennes,SCS2,"Director, Energy Strategy, Networks and Markets",Markets & Infrastructure,0,100000,104999,Policy
+Sep-13,4,2,,Bernard Bulkin,SCS2,"Chair, Office for Renewable Energy Deployment",Markets & Infrastructure,0,120000,124999,Policy
+Sep-13,5,2,,Ian McKenzie,SCS2,"Acting Director, Energy Development",Markets & Infrastructure,514108,80000,84999,Operational Delivery
+Sep-13,6,2,,Ashley Ibbett,SCS2,Director and Chief Executive of the Office of Carbon Capture and Storage,Markets & Infrastructure,0,80000,84999,Policy
+Sep-13,7,2,,Hugo Robson,SCS2,Commercial Director,Markets & Infrastructure,1520594,140000,144999,Policy
+Sep-13,8,2,,Mark Higson,SCS2,"CEO, Office for Nuclear Development",Markets & Infrastructure,1058705,115000,119999,Policy
+Sep-13,9,2,,Hugh McNeal,SCS2,Office for Renewable Energy Deployment,Markets & Infrastructure,0,80000,84999,Policy
+Sep-13,11,7,,N/D,SCS1,Head of Commercial Team,Finance & Customer Services,0,65000,69999,Policy
+Sep-13,13,3,,N/D,SCS1,Head of Energy Markets and Consumers,Markets & Infrastructure,1653842,60000,64999,Policy
+Sep-13,14,101,,Eliminated,SCS1,"Head of Integration, CCS Competition",Markets & Infrastructure,0,0,0,Policy
+Sep-13,16,3,,Eliminated,SCS1,Head of System Balancing & Retail Markets,Markets & Infrastructure,0,0,0,Policy
+Sep-13,17,9,,Eliminated,SCS1,Acting Head of Renewables Industry and Investment,Markets & Infrastructure,0,0,0,Policy
+Sep-13,18,3,,N/D,SCS1,"Deputy Director, Future Electricity Networks",Markets & Infrastructure,672534,60000,64999,Policy
+Sep-13,19,8,,N/D,SCS1,Head of New Nuclear and Strategy,Markets & Infrastructure,986163,65000,69999,Policy
+Sep-13,20,6,,N/D,SCS1,Head of Carbon Capture & Storage Policy,Markets & Infrastructure,709900,60000,64999,Policy
+Sep-13,21,5,,N/D,SCS1,Head of Offshore Oil and Gas Environment and Decommissioning,Markets & Infrastructure,2524889,60000,64999,Policy
+Sep-13,22,3,,N/D,SCS1,Head - Energy Economics and Analysis,Markets & Infrastructure,989819,85000,89999,Economics
+Sep-13,23,5,,Vacant,SCS1,Head of Coal Liabilities,Markets & Infrastructure,0,0,0,Policy
+Sep-13,26,67,,N/D,SCS1,Deputy Director,"International, Science and Resilience",1176583,75000,79999,Policy
+Sep-13,28,133,,N/D,SCS1,Head of Energy Market Design,Markets & Infrastructure,1243666,90000,94999,Policy
+Sep-13,29,5,,N/D,SCS1,Head of National Infrastructure Consents,Markets & Infrastructure,750504,75000,79999,Policy
+Sep-13,30,8,,N/D,SCS1,Head of Nuclear Decommissioning Waste and Safety,Markets & Infrastructure,0,60000,64999,Policy
+Sep-13,31,9,,Eliminated,SCS1,Acting Head of Feed-in Tariffs team,Markets & Infrastructure,0,0,0,Policy
+Sep-13,32,5,,N/D,SCS1,Head Licensing exploration and Development,Markets & Infrastructure,1955805,95000,99999,Policy
+Sep-13,33,9,,N/D,SCS1,Head of Renewables Programme Team,Markets & Infrastructure,259381,65000,69999,Policy
+Sep-13,34,1,,David Mackay,SCS3,Chief Scientific Adviser,Chief Scientific Advisor,122496,130000,134999,Science and Engineering
+Sep-13,35,131,,Paul Hollinshead,SCS2,Director of Science and Innovation,"International, Science and Resilience",129235,80000,84999,Science and Engineering
+Sep-13,36,35,,N/D,SCS1,Head of Science,"International, Science and Resilience",1089137,75000,79999,Science and Engineering
+Sep-13,37,35,,N/D,SCS1,Head of Engineering,"International, Science and Resilience",1480465,85000,89999,Science and Engineering
+Sep-13,38,1,,Angie Ridgewell,SCS3,"Director General, Finance & Corporate Services",Finance & Customer Services,1135345,140000,144999,Policy
+Sep-13,39,1,,Joanna Shanmugalingam,SCS2,Strategy Director,Strategy,1891141,80000,84999,Policy
+Sep-13,40,38,,Vanessa Howlison,SCS2,Finance Director,Finance & Customer Services,1787516,125000,129999,Finance
+Sep-13,41,38,,Scott Milligan,SCS2,Director of Legal Services,Finance & Customer Services,3427257,120000,124999,Law
+Sep-13,42,38,,Rod Davis,SCS2,HR Director,Finance & Customer Services,1781217,115000,119999,Human Resources
+Sep-13,43,38,,Steven Fries,SCS2,Chief Economist and Director of Analysis,Finance & Customer Services,1434463,135000,139999,Economics
+Sep-13,44,43,,N/D,SCS1,Deputy Chief Economist and Head of Strategic Analysis,Finance & Customer Services,0,65000,69999,Economics
+Sep-13,45,38,,Scott McPherson,SCS2,Portfolio Director,Finance & Customer Services,593059,80000,84999,Planning
+Sep-13,46,39,,N/D,SCS1,"Head, Projects Team, Strategy Directorate",Strategy,0,60000,64999,Policy
+Sep-13,47,41,,N/D,SCS1,"Deputy Director, Legal: Nuclear and Non-proliferation",Finance & Customer Services,0,65000,69999,Law
+Sep-13,48,40,,N/D,SCS1,Head of Financial Accounting,Finance & Customer Services,0,80000,84999,Finance
+Sep-13,49,1,,N/D,SCS1,Principal Private Secretary,Private Office Group,946801,65000,69999,Policy
+Sep-13,50,42,,N/D,SCS1,"Head of HR Pay, Policy and Operations",Finance & Customer Services,0,85000,89999,Human Resources
+Sep-13,51,41,,N/D,SCS1,"Deputy Director, Legal: Upstream Energy, FiTs and CCS",Finance & Customer Services,0,80000,84999,Law
+Sep-13,52,40,,N/D,SCS1,Chief Information Officer,Finance & Customer Services,1010554,100000,104999,Knowledge and Information Management (KIM)
+Sep-13,53,41,,N/D,SCS1,"Deputy Director, Legal: Electricity Market Reform & Ofgem Review",Finance & Customer Services,0,75000,79999,Law
+Sep-13,54,45,,Vacant,SCS1,Head of Portfolio Office,Finance & Customer Services,0,0,0,Policy
+Sep-13,55,43,,N/D,SCS1,Head of Statistics and Head of Profession for Statistics,Finance & Customer Services,1059531,60000,64999,Statisticians
+Sep-13,56,41,,N/D,SCS1,"Deputy Director, Legal: Commercial and Renewables",Finance & Customer Services,0,70000,74999,Law
+Sep-13,57,39,,N/D,SCS1,"Head of Futures Team, Strategy Directorate",Strategy,0,70000,74999,Policy
+Sep-13,58,41,,N/D,SCS1,"Deputy Director, Legal: Climate Change & International",Finance & Customer Services,0,70000,74999,Law
+Sep-13,59,41,,N/D,SCS1,"Deputy Director, Legal: Energy Efficiency, Heat and Fuel Poverty",Finance & Customer Services,0,70000,74999,Law
+Sep-13,60,39,,Eliminated,SCS1,DECC Future,Strategy,0,0,0,Policy
+Sep-13,61,109,,N/D,SCS1,Head of Climate Change Economics,Consumers & Households,714557,60000,64999,Economics
+Sep-13,62,39,,N/D,SCS1,"Deputy Director, Strategy Projects",Strategy,0,85000,89999,Policy
+Sep-13,63,45,,Eliminated,SCS1,Head of DECC Delivery Unit,Finance & Customer Services,0,0,0,Policy
+Sep-13,64,40,,N/D,SCS1,Head of Financial Management and Control,Finance & Customer Services,0,75000,79999,Finance
+Sep-13,65,43,,N/D,SCS1,Head of Modelling,Finance & Customer Services,0,75000,79999,Policy
+Sep-13,66,131,,Peter Betts,SCS2,"Director, International Climate Change","International, Science and Resilience",54455,95000,99999,Policy
+Sep-13,67,131,,Edmund Hosker,SCS2,"Director, International, EU and Energy Resilience","International, Science and Resilience",75097,110000,114999,Policy
+Sep-13,68,67,,N/D,SCS1,Head of European Policy,"International, Science and Resilience",969958,70000,74999,Policy
+Sep-13,70,66,,N/D,SCS1,"Deputy Director, International Climate Policy and Finance","International, Science and Resilience",1314364,60000,64999,Policy
+Sep-13,71,66,,Eliminated,SCS1,N/A,"International, Science and Resilience",0,0,0,Policy
+Sep-13,72,97,,N/D,SCS1,Deputy Programme Director Smart Metering,Consumers & Households,0,55000,59999,Policy
+Sep-13,73,38,,Eliminated,SCS1,Head of URENCO Future Options Team,Finance & Customer Services,0,0,0,Policy
+Sep-13,74,66,,N/D,SCS1,Head of International Negotiations,"International, Science and Resilience",432243,55000,59999,Policy
+Sep-13,76,1,,Stephen Speed,SCS3,"Acting Director General, Consumers & Households",Consumers & Households,565531,105000,109999,Policy
+Sep-13,77,76,,Eliminated,SCS2,National Climate Change,Consumers & Households,0,0,0,Policy
+Sep-13,78,38,,Arthur Leathley,SCS2,Communications,Finance & Customer Services,1642837,120000,124999,Communications
+Sep-13,79,66,,N/D,SCS1,"Head of International Climate Change Strategy, Engagement and Analysis","International, Science and Resilience",969539,60000,64999,Policy
+Sep-13,80,76,,Jon Booth,SCS2,Director of Household Energy Efficiency,Consumers & Households,0,80000,84999,Policy
+Sep-13,81,76,,Daron Walker,SCS2,Smart Meters and Fuel Poverty,Consumers & Households,0,80000,84999,Policy
+Sep-13,82,39,,Eliminated,SCS1,Carbon Budgets,Strategy,0,0,0,Policy
+Sep-13,83,109,,N/D,SCS1,Head of Finance and Delivery Team,Consumers & Households,685274,80000,84999,Policy
+Sep-13,84,81,,Eliminated,SCS1,Head - Fuel Poverty,Consumers & Households,0,0,0,Policy
+Sep-13,85,81,,N/D,SCS1,"Head, Smart Metering Policy and Strategy",Consumers & Households,747680,65000,69999,Policy
+Sep-13,86,100,,N/D,SCS1,"Head, Industrial Energy Efficiency",Consumers & Households,1470008,70000,74999,Policy
+Sep-13,87,100,,Eliminated,SCS1,Acting Head of Renewable Heat Premium Payment,Consumers & Households,0,0,0,Policy
+Sep-13,88,109,,N/D,SCS1,Head of Customer Insight,Consumers & Households,447745,75000,79999,Policy
+Sep-13,89,100,,N/D,SCS1,"Head, Renewable Heat Incentive",Consumers & Households,1697584,60000,64999,Policy
+Sep-13,90,78,,N/D,SCS1,Head of News,Finance & Customer Services,0,65000,69999,Communications
+Sep-13,91,39,,Eliminated,SCS1,N/A,Strategy,0,0,0,Communications
+Sep-13,92,100,,N/D,SCS1,Head of Heat Strategy and Policy,Consumers & Households,1498466,65000,69999,Policy
+Sep-13,93,78,,N/D,SCS1,Corporate Communications,Finance & Customer Services,0,70000,74999,Communications
+Sep-13,94,42,,N/D,SCS1,Head of Organisational Capability,Finance & Customer Services,0,70000,74999,Human Resources
+Sep-13,95,3,,N/D,SCS1,"Head, Strategy and Programme Office - Electricity Markets and Infrastructure",Markets & Infrastructure,12889049,65000,69999,Policy
+Sep-13,96,133,,N/D,SCS1,"Head, Institutional Frameworks",Markets & Infrastructure,1243666,90000,94999,Policy
+Sep-13,97,76,,Jim Hayward,SCS2,Smart Meters,Consumers & Households,2589568,140000,144999,Policy
+Sep-13,98,133,,N/D,SCS1,Head of Security of Electricity Supply,Markets & Infrastructure,2015029,60000,64999,Policy
+Sep-13,99,45,,Eliminated,SCS1,Deputy Director Governance and Capability,Finance & Customer Services,0,0,0,Policy
+Sep-13,100,76,,Stephen Martin,SCS2,"Director, Heat & Industry",Consumers & Households,0,85000,89999,Policy
+Sep-13,101,6,,Nick Crabtree,SCS2,OCCS Strategic Delivery Director,Markets & Infrastructure,795371,120000,124999,Programme and Project Management (PPM)
+Sep-13,102,39,,N/D,SCS1,Deputy Director Governance,Strategy,0,65000,69999,Planning
+Sep-13,103,43,,N/D,SCS1,Head of Better Regulation,Finance & Customer Services,0,75000,79999,Policy
+Sep-13,104,81,,N/D,SCS1,"Deputy Director, Fuel Poverty",Consumers & Households,913909,60000,64999,Policy
+Sep-13,105,97,,N/D,SCS1,Head of Regulation,Consumers & Households,0,55000,59999,Policy
+Sep-13,106,97,,N/D,SCS1,Deputy Director Technical Design Projects,Consumers & Households,0,55000,59999,Policy
+Sep-13,107,97,,N/D,SCS1,Head of Commercial,Consumers & Households,0,75000,79999,Policy
+Sep-13,108,80,,N/D,SCS1,"Deputy Director, Green Deal",Consumers & Households,0,60000,64999,Policy
+Sep-13,109,76,,David Purdy,SCS2,"Director, Energy Efficiency Deployment Office",Consumers & Households,0,80000,84999,Policy
+Sep-13,110,80,,Eliminated,SCS1,"Deputy Director, Green Deal Legislation and Finance",Consumers & Households,0,0,0,Policy
+Sep-13,111,80,,N/D,SCS1,"Deputy Director, Green Deal Programme Delivery",Consumers & Households,1313125,75000,79999,Policy
+Sep-13,112,133,,N/D,SCS1,Head of Electricity Market Reform Programme Team,Markets & Infrastructure,0,60000,64999,Policy
+Sep-13,113,3,,Eliminated,SCS1,Head of EU Renewables Target,Markets & Infrastructure,0,0,0,Policy
+Sep-13,114,41,,N/D,SCS1,"Deputy Director, Legal: Infrastructure & Market Regulation",Finance & Customer Services,0,70000,74999,Law
+Sep-13,115,67,,N/D,SCS1,"Head, International Energy Security","International, Science and Resilience",800410,60000,64999,Policy
+Sep-13,116,9,,N/D,SCS1,Head of Renewable Energy Delivery,Markets & Infrastructure,1539138,65000,69999,Policy
+Sep-13,117,8,,N/D,SCS1,Deputy Director - Geological Disposal Facility,Markets & Infrastructure,0,60000,64999,Policy
+Sep-13,118,5,,Eliminated,SCS1,Head of Offshore Oil and Gas Environment and Decommissioning,Markets & Infrastructure,0,0,0,Policy
+Sep-13,119,80,,N/D,SCS1,Deputy Director Green Deal and Energy Company Obligations,Consumers & Households,660410,60000,64999,Policy
+Sep-13,120,45,,Eliminated,SCS1,Head of Corporate Governance and Capability,Finance & Customer Services,0,0,0,Planning
+Sep-13,121,40,,N/D,SCS1,Head of Procurement,Finance & Customer Services,413112,70000,74999,Procurement
+Sep-13,122,7,,N/D,SCS1,"Project Leader, FID Enabling Project",Finance & Customer Services,0,120000,124999,Finance
+Sep-13,123,2,,Eliminated,SCS1,Deputy Director,Markets & Infrastructure,0,0,0,Policy
+Sep-13,124,8,,N/D,SCS1,Deputy Director Renewables FID,Finance & Customer Services,0,90000,94999,Policy
+Sep-13,125,133,,N/D,SCS1,Deputy Director Energy Market Reform,Markets & Infrastructure,454939,55000,59999,Policy
+Sep-13,126,9,,N/D,SCS1,Deputy Director Industry & Investment,Markets & Infrastructure,941409,60000,64999,Policy
+Sep-13,127,5,,N/D,SCS1,Deputy Director Office of Unconventional Gas & Oil,Markets & Infrastructure,440897,75000,79999,Policy
+Sep-13,128,6,,N/D,SCS1,"Deputy Director, Head of Programme Integration",Markets & Infrastructure,0,65000,69999,Policy
+Sep-13,129,97,,N/D,SCS1,Deputy Director Programme Manager,Consumers & Households,0,70000,74999,Policy
+Sep-13,130,37,,N/D,SCS1,Head of Innovation Delivery Team,"International, Science and Resilience",0,60000,64999,Policy
+Sep-13,131,1,,Katrina Williams,SCS3,"Director General, International, Science and Resilience","International, Science and Resilience",2209934,115000,119999,Policy
+Sep-13,132,2,,Kenneth MacRitchie,SCS2,Head of Business Establishment,Markets & Infrastructure,0,140000,144999,Policy
+Sep-13,133,2,,Jonathan Mills,SCS2,"Director, Electricity Market Reform",Markets & Infrastructure,0,80000,84999,Policy
+Sep-13,134,5,,N/D,SCS1,Acting Head of UKCS Maximising Recovery Review,Markets & Infrastructure,0,60000,64999,Policy
+Sep-13,135,133,,N/D,SCS1,Elexon Relationship Manager,Markets & Infrastructure,0,115000,119999,Policy
+Sep-13,136,40,,N/D,SCS1,Head of Financial Strategy & Planning,Finance & Customer Services,0,65000,69999,Finance
+Sep-13,137,41,,N/D,SCS1,Deputy Director of Legal Services,Finance & Customer Services,0,80000,84999,Law
+Sep-13,138,132,,N/D,SCS1,"Deputy Director,Business Establishment",Markets & Infrastructure,0,115000,119999,Policy
+Sep-13,,61,,,Executive Officer London,Policy Support Officer,Consumers & Households,0,25242,29060,Economics
+Sep-13,,61,,,Higher Executive Officer London,Policy Support Officer,Consumers & Households,0,29554,34424,Economics
+Sep-13,,61,,,Fast Stream London,Policy Support Officer,Consumers & Households,0,27270,33654,Economics
+Sep-13,,61,,,Grade 7 London,Economist,Consumers & Households,0,47445,56597,Economics
+Sep-13,,61,,,Grade 6 London,Economist,Consumers & Households,0,57275,68322,Economics
+Sep-13,,88,,,Higher Executive Officer London,Policy Support Officer,Consumers & Households,0,29554,34424,Policy
+Sep-13,,88,,,Fast Stream London,Policy Support Officer,Consumers & Households,0,27270,33654,Policy
+Sep-13,,88,,,Senior Executive Officer London,Policy Adviser,Consumers & Households,0,35061,41851,Policy
+Sep-13,,88,,,Grade 7 London,Senior Policy Adviser,Consumers & Households,0,47445,56597,Policy
+Sep-13,,88,,,Grade 6 London,Senior Policy Adviser,Consumers & Households,0,57275,68322,Policy
+Sep-13,,83,,,Higher Executive Officer London,Policy Support Officer,Consumers & Households,0,29554,34424,Policy
+Sep-13,,83,,,Fast Stream London,Policy Support Officer,Consumers & Households,0,27270,33654,Policy
+Sep-13,,83,,,Grade 7 London,Senior Policy Adviser,Consumers & Households,0,47445,56597,Policy
+Sep-13,,83,,,Grade 6 London,Senior Policy Adviser,Consumers & Households,0,57275,68322,Policy
+Sep-13,,76,,,Higher Executive Officer London,Policy Support Officer,Consumers & Households,0,29554,34424,Policy
+Sep-13,,86,,,Administrative Officer London,Policy Support Officer,Consumers & Households,0,21463,22646,Policy
+Sep-13,,86,,,Executive Officer London,Policy Support Officer,Consumers & Households,0,25242,29060,Policy
+Sep-13,,86,,,Higher Executive Officer London,Policy Support Officer,Consumers & Households,0,29554,34424,Policy
+Sep-13,,86,,,Senior Executive Officer London,Policy Adviser,Consumers & Households,0,35061,41851,Policy
+Sep-13,,86,,,Grade 7 London,Senior Policy Adviser,Consumers & Households,0,47445,56597,Policy
+Sep-13,,86,,,Grade 6 London,Senior Policy Adviser,Consumers & Households,0,57275,68322,Policy
+Sep-13,,92,,,Administrative Officer London,Policy Support Officer,Consumers & Households,0,21463,22646,Policy
+Sep-13,,92,,,Executive Officer London,Policy Support Officer,Consumers & Households,0,25242,29060,Policy
+Sep-13,,92,,,Higher Executive Officer London,Policy Support Officer,Consumers & Households,0,29554,34424,Policy
+Sep-13,,92,,,Fast Stream London,Policy Support Officer,Consumers & Households,0,27270,33654,Policy
+Sep-13,,92,,,Senior Executive Officer London,Policy Adviser,Consumers & Households,0,35061,41851,Policy
+Sep-13,,92,,,Grade 7 London,Senior Policy Adviser,Consumers & Households,0,47445,56597,Policy
+Sep-13,,92,,,Grade 6 London,Senior Policy Adviser,Consumers & Households,0,57275,68322,Policy
+Sep-13,,89,,,Executive Officer London,Policy Support Officer,Consumers & Households,0,25242,29060,Policy
+Sep-13,,89,,,Higher Executive Officer London,Policy Support Officer,Consumers & Households,0,29554,34424,Policy
+Sep-13,,89,,,Fast Stream London,Policy Support Officer,Consumers & Households,0,27270,33654,Policy
+Sep-13,,89,,,Grade 7 London,Senior Policy Adviser,Consumers & Households,0,47445,56597,Policy
+Sep-13,,89,,,Grade 6 London,Senior Policy Adviser,Consumers & Households,0,57275,68322,Policy
+Sep-13,,76,,,Higher Executive Officer London,Policy Support Officer,Consumers & Households,0,29554,34424,Policy
+Sep-13,,119,,,Executive Officer London,Policy Support Officer,Consumers & Households,0,25242,29060,Policy
+Sep-13,,119,,,Higher Executive Officer London,Policy Support Officer,Consumers & Households,0,29554,34424,Policy
+Sep-13,,119,,,Fast Stream London,Policy Support Officer,Consumers & Households,0,27270,33654,Policy
+Sep-13,,119,,,Senior Executive Officer London,Policy Adviser,Consumers & Households,0,35061,41851,Policy
+Sep-13,,119,,,Grade 7 London,Senior Policy Adviser,Consumers & Households,0,47445,56597,Policy
+Sep-13,,119,,,Grade 6 London,Senior Policy Adviser,Consumers & Households,0,57275,68322,Policy
+Sep-13,,76,,,Higher Executive Officer London,Policy Support Officer,Consumers & Households,0,29554,34424,Policy
+Sep-13,,111,,,Executive Officer London,Policy Support Officer,Consumers & Households,0,25242,29060,Policy
+Sep-13,,111,,,Higher Executive Officer London,Policy Support Officer,Consumers & Households,0,29554,34424,Policy
+Sep-13,,111,,,Senior Executive Officer London,Policy Adviser,Consumers & Households,0,35061,41851,Policy
+Sep-13,,111,,,Grade 7 London,Senior Policy Adviser,Consumers & Households,0,47445,56597,Policy
+Sep-13,,111,,,Grade 6 London,Senior Policy Adviser,Consumers & Households,0,57275,68322,Policy
+Sep-13,,108,,,Executive Officer London,Policy Support Officer,Consumers & Households,0,25242,29060,Policy
+Sep-13,,108,,,Higher Executive Officer London,Policy Support Officer,Consumers & Households,0,29554,34424,Policy
+Sep-13,,108,,,Senior Executive Officer London,Policy Adviser,Consumers & Households,0,35061,41851,Policy
+Sep-13,,108,,,Grade 7 London,Senior Policy Adviser,Consumers & Households,0,47445,56597,Policy
+Sep-13,,108,,,Grade 6 London,Senior Policy Adviser,Consumers & Households,0,57275,68322,Policy
+Sep-13,,97,,,Administrative Officer London,Policy Support Officer,Consumers & Households,0,21463,22646,Policy
+Sep-13,,97,,,Executive Officer London,Policy Support Officer,Consumers & Households,0,25242,29060,Policy
+Sep-13,,97,,,Higher Executive Officer London,Policy Support Officer,Consumers & Households,0,29554,34424,Policy
+Sep-13,,97,,,Senior Executive Officer London,Policy Adviser,Consumers & Households,0,35061,41851,Policy
+Sep-13,,97,,,Grade 7 London,Senior Policy Adviser,Consumers & Households,0,47445,56597,Policy
+Sep-13,,97,,,Grade 6 London,Senior Policy Adviser,Consumers & Households,0,57275,68322,Policy
+Sep-13,,104,,,Executive Officer London,Policy Support Officer,Consumers & Households,0,25242,29060,Policy
+Sep-13,,104,,,Higher Executive Officer London,Policy Support Officer,Consumers & Households,0,29554,34424,Policy
+Sep-13,,104,,,Fast Stream London,Policy Support Officer,Consumers & Households,0,27270,33654,Policy
+Sep-13,,104,,,Grade 7 London,Senior Policy Adviser,Consumers & Households,0,47445,56597,Policy
+Sep-13,,104,,,Grade 6 London,Senior Policy Adviser,Consumers & Households,0,57275,68322,Policy
+Sep-13,,85,,,Executive Officer London,Policy Support Officer,Consumers & Households,0,25242,29060,Policy
+Sep-13,,85,,,Higher Executive Officer London,Policy Support Officer,Consumers & Households,0,29554,34424,Policy
+Sep-13,,85,,,Fast Stream London,Policy Support Officer,Consumers & Households,0,27270,33654,Policy
+Sep-13,,85,,,Senior Executive Officer London,Policy Adviser,Consumers & Households,0,35061,41851,Policy
+Sep-13,,85,,,Grade 7 London,Senior Policy Adviser,Consumers & Households,0,47445,56597,Policy
+Sep-13,,85,,,Grade 6 London,Senior Policy Adviser,Consumers & Households,0,57275,68322,Policy
+Sep-13,,19,,,Executive Officer London,Policy Support Officer,Markets & Infrastructure,0,25242,29060,Policy
+Sep-13,,19,,,Higher Executive Officer London,Policy Support Officer,Markets & Infrastructure,0,29554,34424,Policy
+Sep-13,,19,,,Fast Stream London,Policy Support Officer,Markets & Infrastructure,0,27270,33654,Policy
+Sep-13,,19,,,Senior Executive Officer London,Policy Adviser,Markets & Infrastructure,0,35061,41851,Policy
+Sep-13,,19,,,Grade 7 London,Senior Policy Adviser,Markets & Infrastructure,0,47445,56597,Policy
+Sep-13,,19,,,Grade 6 London,Senior Policy Adviser,Markets & Infrastructure,0,57275,68322,Policy
+Sep-13,,8,,,Administrative Officer London,Policy Support Officer,Markets & Infrastructure,0,21463,22646,Policy
+Sep-13,,8,,,Executive Officer London,Policy Support Officer,Markets & Infrastructure,0,25242,29060,Policy
+Sep-13,,8,,,Higher Executive Officer London,Policy Support Officer,Markets & Infrastructure,0,29554,34424,Policy
+Sep-13,,8,,,Fast Stream London,Policy Support Officer,Markets & Infrastructure,0,27270,33654,Policy
+Sep-13,,8,,,Senior Executive Officer London,Policy Adviser,Markets & Infrastructure,0,35061,41851,Policy
+Sep-13,,8,,,Grade 7 London,Senior Policy Adviser,Markets & Infrastructure,0,47445,56597,Policy
+Sep-13,,8,,,Grade 6 London,Senior Policy Adviser,Markets & Infrastructure,0,57275,68322,Policy
+Sep-13,,126,,,Executive Officer London,Policy Support Officer,Markets & Infrastructure,0,25242,29060,Policy
+Sep-13,,126,,,Higher Executive Officer London,Policy Support Officer,Markets & Infrastructure,0,29554,34424,Policy
+Sep-13,,126,,,Senior Executive Officer London,Policy Adviser,Markets & Infrastructure,0,35061,41851,Policy
+Sep-13,,126,,,Grade 7 London,Senior Policy Adviser,Markets & Infrastructure,0,47445,56597,Policy
+Sep-13,,126,,,Grade 6 London,Senior Policy Adviser,Markets & Infrastructure,0,57275,68322,Policy
+Sep-13,,33,,,Higher Executive Officer London,Policy Support Officer,Markets & Infrastructure,0,29554,34424,Policy
+Sep-13,,33,,,Senior Executive Officer London,Policy Support Officer,Markets & Infrastructure,0,35061,41851,Policy
+Sep-13,,33,,,Grade 7 London,Senior Policy Adviser,Markets & Infrastructure,0,47445,56597,Policy
+Sep-13,,33,,,Grade 6 London,Senior Policy Adviser,Markets & Infrastructure,0,57275,68322,Policy
+Sep-13,,116,,,Executive Officer London,Policy Support Officer,Markets & Infrastructure,0,25242,29060,Policy
+Sep-13,,116,,,Higher Executive Officer London,Policy Support Officer,Markets & Infrastructure,0,29554,34424,Policy
+Sep-13,,116,,,Senior Executive Officer London,Policy Adviser,Markets & Infrastructure,0,35061,41851,Policy
+Sep-13,,116,,,Grade 7 London,Senior Policy Adviser,Markets & Infrastructure,0,47445,56597,Policy
+Sep-13,,116,,,Grade 6 London,Senior Policy Adviser,Markets & Infrastructure,0,57275,68322,Policy
+Sep-13,,2,,,Executive Officer London,Policy Support Officer,Markets & Infrastructure,0,25242,29060,Policy
+Sep-13,,2,,,Higher Executive Officer London,Policy Support Officer,Markets & Infrastructure,0,29554,34424,Policy
+Sep-13,,101,,,Executive Officer London,Policy Support Officer,Markets & Infrastructure,0,25242,29060,Policy
+Sep-13,,101,,,Higher Executive Officer London,Policy Support Officer,Markets & Infrastructure,0,29554,34424,Policy
+Sep-13,,101,,,Senior Executive Officer London,Policy Adviser,Markets & Infrastructure,0,35061,41851,Policy
+Sep-13,,101,,,Grade 7 London,Senior Policy Adviser,Markets & Infrastructure,0,47445,56597,Policy
+Sep-13,,101,,,Grade 6 London,Senior Policy Adviser,Markets & Infrastructure,0,57275,68322,Policy
+Sep-13,,20,,,Higher Executive Officer London,Policy Support Officer,Markets & Infrastructure,0,29554,34424,Policy
+Sep-13,,20,,,Fast Stream London,Policy Support Officer,Markets & Infrastructure,0,27270,33654,Policy
+Sep-13,,20,,,Grade 7 London,Senior Policy Adviser,Markets & Infrastructure,0,47445,56597,Policy
+Sep-13,,20,,,Grade 6 London,Senior Policy Adviser,Markets & Infrastructure,0,57275,68322,Policy
+Sep-13,,2,,,Executive Officer London,Policy Support Officer,Markets & Infrastructure,0,25242,29060,Policy
+Sep-13,,127,,,Higher Executive Officer London,Policy Support Officer,Markets & Infrastructure,0,29554,34424,Policy
+Sep-13,,127,,,Senior Executive Officer London,Policy Adviser,Markets & Infrastructure,0,35061,41851,Policy
+Sep-13,,127,,,Grade 7 London,Senior Policy Adviser,Markets & Infrastructure,0,47445,56597,Policy
+Sep-13,,127,,,Grade 6 London,Senior Policy Adviser,Markets & Infrastructure,0,57275,68322,Policy
+Sep-13,,29,,,Higher Executive Officer London,Policy Support Officer,Markets & Infrastructure,0,29554,34424,Policy
+Sep-13,,29,,,Senior Executive Officer London,Policy Adviser,Markets & Infrastructure,0,35061,41851,Policy
+Sep-13,,29,,,Grade 7 London,Senior Policy Adviser,Markets & Infrastructure,0,47445,56597,Policy
+Sep-13,,5,,,Executive Officer London,Policy Support Officer,Markets & Infrastructure,0,25242,29060,Policy
+Sep-13,,5,,,Higher Executive Officer London,Policy Support Officer,Markets & Infrastructure,0,29554,34424,Policy
+Sep-13,,5,,,Senior Executive Officer London,Policy Adviser,Markets & Infrastructure,0,35061,41851,Policy
+Sep-13,,5,,,Grade 7 London,Senior Policy Adviser,Markets & Infrastructure,0,47445,56597,Policy
+Sep-13,,32,,,Administrative Officer London,Policy Support Officer,Markets & Infrastructure,0,21463,22646,Policy
+Sep-13,,32,,,Executive Officer London,Policy Support Officer,Markets & Infrastructure,0,25242,29060,Policy
+Sep-13,,32,,,Higher Executive Officer London,Policy Support Officer,Markets & Infrastructure,0,29554,34424,Policy
+Sep-13,,32,,,Senior Executive Officer London,Policy Adviser,Markets & Infrastructure,0,35061,41851,Policy
+Sep-13,,32,,,Grade 7 London,Senior Policy Adviser,Markets & Infrastructure,0,47445,56597,Policy
+Sep-13,,32,,,Grade 6 London,Senior Policy Adviser,Markets & Infrastructure,0,57275,68322,Policy
+Sep-13,,32,,,Administrative Officer National,Policy Support Officer,Markets & Infrastructure,0,17710,19146,Policy
+Sep-13,,32,,,Executive Officer National,Policy Support Officer,Markets & Infrastructure,0,21463,25060,Policy
+Sep-13,,32,,,Senior Executive Officer National,Policy Adviser,Markets & Infrastructure,0,31021,37851,Policy
+Sep-13,,32,,,Grade 7 National,Senior Policy Adviser,Markets & Infrastructure,0,43405,52597,Policy
+Sep-13,,32,,,Grade 6 National,Senior Policy Adviser,Markets & Infrastructure,0,53253,64322,Policy
+Sep-13,,21,,,Administrative Officer National,Policy Support Officer,Markets & Infrastructure,0,17710,19146,Policy
+Sep-13,,21,,,Executive Officer National,Policy Support Officer,Markets & Infrastructure,0,21463,25060,Policy
+Sep-13,,21,,,Higher Executive Officer National,Policy Support Officer,Markets & Infrastructure,0,25514,30424,Policy
+Sep-13,,21,,,Senior Executive Officer National,Policy Adviser,Markets & Infrastructure,0,31021,37851,Policy
+Sep-13,,21,,,Grade 7 National,Senior Policy Adviser,Markets & Infrastructure,0,43405,52597,Policy
+Sep-13,,21,,,Grade 6 National,Senior Policy Adviser,Markets & Infrastructure,0,53253,64322,Policy
+Sep-13,,21,,,Administrative Officer London,Policy Support Officer,Markets & Infrastructure,0,21463,22646,Policy
+Sep-13,,21,,,Higher Executive Officer London,Policy Support Officer,Markets & Infrastructure,0,29554,34424,Policy
+Sep-13,,21,,,Grade 7 London,Senior Policy Adviser,Markets & Infrastructure,0,47445,56597,Policy
+Sep-13,,21,,,Grade 6 London,Senior Policy Adviser,Markets & Infrastructure,0,57275,68322,Policy
+Sep-13,,125,,,Higher Executive Officer London,Policy Support Officer,Markets & Infrastructure,0,29554,34424,Policy
+Sep-13,,125,,,Grade 7 London,Senior Policy Adviser,Markets & Infrastructure,0,47445,56597,Policy
+Sep-13,,125,,,Grade 6 London,Senior Policy Adviser,Markets & Infrastructure,0,57275,68322,Policy
+Sep-13,,28,,,Higher Executive Officer London,Policy Support Officer,Markets & Infrastructure,0,29554,34424,Policy
+Sep-13,,28,,,Fast Stream London,Policy Support Officer,Markets & Infrastructure,0,27270,33654,Policy
+Sep-13,,28,,,Senior Executive Officer London,Policy Support Officer,Markets & Infrastructure,0,35061,41851,Policy
+Sep-13,,28,,,Grade 7 London,Senior Policy Adviser,Markets & Infrastructure,0,47445,56597,Policy
+Sep-13,,28,,,Grade 6 London,Senior Policy Adviser,Markets & Infrastructure,0,57275,68322,Policy
+Sep-13,,96,,,Executive Officer London,Policy Support Officer,Markets & Infrastructure,0,25242,29060,Policy
+Sep-13,,96,,,Higher Executive Officer London,Policy Support Officer,Markets & Infrastructure,0,29554,34424,Policy
+Sep-13,,96,,,Senior Executive Officer London,Policy Adviser,Markets & Infrastructure,0,35061,41851,Policy
+Sep-13,,96,,,Grade 7 London,Senior Policy Adviser,Markets & Infrastructure,0,47445,56597,Policy
+Sep-13,,96,,,Grade 6 London,Senior Policy Adviser,Markets & Infrastructure,0,57275,68322,Policy
+Sep-13,,98,,,Administrative Officer London,Policy Support Officer,Markets & Infrastructure,0,21463,22646,Policy
+Sep-13,,98,,,Executive Officer London,Policy Support Officer,Markets & Infrastructure,0,25242,29060,Policy
+Sep-13,,98,,,Higher Executive Officer London,Policy Support Officer,Markets & Infrastructure,0,29554,34424,Policy
+Sep-13,,98,,,Fast Stream London,Policy Support Officer,Markets & Infrastructure,0,27270,33654,Policy
+Sep-13,,98,,,Senior Executive Officer London,Policy Adviser,Markets & Infrastructure,0,35061,41851,Policy
+Sep-13,,98,,,Grade 7 London,Senior Policy Adviser,Markets & Infrastructure,0,47445,56597,Policy
+Sep-13,,98,,,Grade 6 London,Senior Policy Adviser,Markets & Infrastructure,0,57275,68322,Policy
+Sep-13,,13,,,Higher Executive Officer London,Policy Support Officer,Markets & Infrastructure,0,29554,34424,Policy
+Sep-13,,13,,,Fast Stream London,Policy Support Officer,Markets & Infrastructure,0,27270,33654,Policy
+Sep-13,,13,,,Senior Executive Officer London,Policy Adviser,Markets & Infrastructure,0,35061,41851,Policy
+Sep-13,,13,,,Grade 7 London,Senior Policy Adviser,Markets & Infrastructure,0,47445,56597,Policy
+Sep-13,,13,,,Grade 6 London,Senior Policy Adviser,Markets & Infrastructure,0,57275,68322,Policy
+Sep-13,,95,,,Grade 6 London,Senior Policy Adviser,Markets & Infrastructure,0,57275,68322,Policy
+Sep-13,,95,,,Executive Officer London,Policy Support Officer,Markets & Infrastructure,0,25242,29060,Policy
+Sep-13,,95,,,Higher Executive Officer London,Policy Support Officer,Markets & Infrastructure,0,29554,34424,Policy
+Sep-13,,95,,,Fast Stream London,Policy Support Officer,Markets & Infrastructure,0,27270,33654,Policy
+Sep-13,,95,,,Senior Executive Officer London,Policy Adviser,Markets & Infrastructure,0,35061,41851,Policy
+Sep-13,,95,,,Grade 7 London,Senior Policy Adviser,Markets & Infrastructure,0,47445,56597,Policy
+Sep-13,,95,,,Grade 6 London,Senior Policy Adviser,Markets & Infrastructure,0,57275,68322,Policy
+Sep-13,,22,,,Executive Officer London,Policy Support Officer,Markets & Infrastructure,0,25242,29060,Policy
+Sep-13,,22,,,Higher Executive Officer London,Policy Support Officer,Markets & Infrastructure,0,29554,34424,Policy
+Sep-13,,22,,,Fast Stream London,Policy Support Officer,Markets & Infrastructure,0,27270,33654,Policy
+Sep-13,,22,,,Senior Executive Officer London,Policy Adviser,Markets & Infrastructure,0,35061,41851,Policy
+Sep-13,,22,,,Grade 7 London,Senior Policy Adviser,Markets & Infrastructure,0,47445,56597,Policy
+Sep-13,,22,,,Grade 6 London,Senior Policy Adviser,Markets & Infrastructure,0,57275,68322,Policy
+Sep-13,,13,,,Higher Executive Officer London,Policy Support Officer,Markets & Infrastructure,0,29554,34424,Policy
+Sep-13,,13,,,Senior Executive Officer London,Policy Adviser,Markets & Infrastructure,0,35061,41851,Policy
+Sep-13,,13,,,Grade 7 London,Senior Policy Adviser,Markets & Infrastructure,0,47445,56597,Policy
+Sep-13,,13,,,Grade 6 London,Senior Policy Adviser,Markets & Infrastructure,0,57275,68322,Policy
+Sep-13,,2,,,Senior Executive Officer London,Policy Adviser,Markets & Infrastructure,0,35061,41851,Policy
+Sep-13,,18,,,Executive Officer London,Policy Support Officer,Markets & Infrastructure,0,25242,29060,Policy
+Sep-13,,18,,,Higher Executive Officer London,Policy Support Officer,Markets & Infrastructure,0,29554,34424,Policy
+Sep-13,,18,,,Senior Executive Officer London,Policy Adviser,Markets & Infrastructure,0,35061,41851,Policy
+Sep-13,,18,,,Grade 7 London,Senior Policy Adviser,Markets & Infrastructure,0,47445,56597,Policy
+Sep-13,,18,,,Grade 6 London,Senior Policy Adviser,Markets & Infrastructure,0,57275,68322,Policy
+Sep-13,,66,,,Administrative Officer London,Policy Support Officer,"International, Science and Resilience",0,21463,22646,Policy
+Sep-13,,66,,,Higher Executive Officer London,Policy Support Officer,"International, Science and Resilience",0,29554,34424,Policy
+Sep-13,,70,,,Higher Executive Officer London,Policy Support Officer,"International, Science and Resilience",0,29554,34424,Policy
+Sep-13,,70,,,Fast Stream London,Policy Support Officer,"International, Science and Resilience",0,27270,33654,Policy
+Sep-13,,70,,,Senior Executive Officer London,Policy Adviser,"International, Science and Resilience",0,35061,41851,Policy
+Sep-13,,70,,,Grade 7 London,Senior Policy Adviser,"International, Science and Resilience",0,47445,56597,Policy
+Sep-13,,70,,,Grade 6 London,Senior Policy Adviser,"International, Science and Resilience",0,57275,68322,Policy
+Sep-13,,74,,,Executive Officer London,Policy Support Officer,"International, Science and Resilience",0,25242,29060,Policy
+Sep-13,,74,,,Higher Executive Officer London,Policy Support Officer,"International, Science and Resilience",0,29554,34424,Policy
+Sep-13,,74,,,Senior Executive Officer London,Policy Adviser,"International, Science and Resilience",0,35061,41851,Policy
+Sep-13,,74,,,Grade 7 London,Senior Policy Adviser,"International, Science and Resilience",0,47445,56597,Policy
+Sep-13,,74,,,Grade 6 London,Senior Policy Adviser,"International, Science and Resilience",0,57275,68322,Policy
+Sep-13,,79,,,Administrative Officer London,Policy Support Officer,"International, Science and Resilience",0,21463,22646,Policy
+Sep-13,,79,,,Executive Officer London,Policy Support Officer,"International, Science and Resilience",0,25242,29060,Policy
+Sep-13,,79,,,Higher Executive Officer London,Policy Support Officer,"International, Science and Resilience",0,29554,34424,Policy
+Sep-13,,79,,,Fast Stream London,Policy Support Officer,"International, Science and Resilience",0,27270,33654,Policy
+Sep-13,,79,,,Senior Executive Officer London,Policy Adviser,"International, Science and Resilience",0,35061,41851,Policy
+Sep-13,,79,,,Grade 7 London,Senior Policy Adviser,"International, Science and Resilience",0,47445,56597,Policy
+Sep-13,,79,,,Grade 6 London,Senior Policy Adviser,"International, Science and Resilience",0,57275,68322,Policy
+Sep-13,,67,,,Executive Officer London,Policy Support Officer,"International, Science and Resilience",0,25242,29060,Policy
+Sep-13,,67,,,Grade 7 London,Senior Policy Adviser,"International, Science and Resilience",0,47445,56597,Policy
+Sep-13,,68,,,Executive Officer London,Policy Support Officer,"International, Science and Resilience",0,25242,29060,Policy
+Sep-13,,68,,,Higher Executive Officer London,Policy Support Officer,"International, Science and Resilience",0,29554,34424,Policy
+Sep-13,,68,,,Fast Stream London,Policy Support Officer,"International, Science and Resilience",0,27270,33654,Policy
+Sep-13,,68,,,Senior Executive Officer London,Policy Adviser,"International, Science and Resilience",0,35061,41851,Policy
+Sep-13,,68,,,Grade 7 London,Senior Policy Adviser,"International, Science and Resilience",0,47445,56597,Policy
+Sep-13,,68,,,Grade 6 London,Senior Policy Adviser,"International, Science and Resilience",0,57275,68322,Policy
+Sep-13,,26,,,Executive Officer London,Policy Support Officer,"International, Science and Resilience",0,25242,29060,Policy
+Sep-13,,26,,,Higher Executive Officer London,Policy Support Officer,"International, Science and Resilience",0,29554,34424,Policy
+Sep-13,,26,,,Fast Stream London,Policy Support Officer,"International, Science and Resilience",0,27270,33654,Policy
+Sep-13,,26,,,Senior Executive Officer London,Policy Adviser,"International, Science and Resilience",0,35061,41851,Policy
+Sep-13,,26,,,Grade 7 London,Senior Policy Adviser,"International, Science and Resilience",0,47445,56597,Policy
+Sep-13,,26,,,Grade 6 London,Senior Policy Adviser,"International, Science and Resilience",0,57275,68322,Policy
+Sep-13,,115,,,Administrative Officer London,Policy Support Officer,"International, Science and Resilience",0,21463,22646,Policy
+Sep-13,,115,,,Higher Executive Officer London,Policy Support Officer,"International, Science and Resilience",0,29554,34424,Policy
+Sep-13,,115,,,Fast Stream London,Policy Support Officer,"International, Science and Resilience",0,27270,33654,Policy
+Sep-13,,115,,,Senior Executive Officer London,Policy Adviser,"International, Science and Resilience",0,35061,41851,Policy
+Sep-13,,115,,,Grade 7 London,Senior Policy Adviser,"International, Science and Resilience",0,47445,56597,Policy
+Sep-13,,115,,,Grade 6 London,Senior Policy Adviser,"International, Science and Resilience",0,57275,68322,Policy
+Sep-13,,131,,,Administrative Officer London,Policy Support Officer,"International, Science and Resilience",0,21463,22646,Policy
+Sep-13,,131,,,Executive Officer London,Policy Support Officer,"International, Science and Resilience",0,25242,29060,Policy
+Sep-13,,131,,,Higher Executive Officer London,Policy Support Officer,"International, Science and Resilience",0,29554,34424,Policy
+Sep-13,,131,,,Fast Stream London,Policy Support Officer,"International, Science and Resilience",0,27270,33654,Policy
+Sep-13,,131,,,Senior Executive Officer London,Policy Adviser,"International, Science and Resilience",0,35061,41851,Policy
+Sep-13,,131,,,Grade 7 London,Senior Policy Adviser,"International, Science and Resilience",0,47445,56597,Policy
+Sep-13,,131,,,Grade 6 London,Senior Policy Adviser,"International, Science and Resilience",0,57275,68322,Policy
+Sep-13,,35,,,Administrative Officer London,Policy Support Officer,"International, Science and Resilience",0,21463,22646,Policy
+Sep-13,,35,,,Executive Officer London,Policy Support Officer,"International, Science and Resilience",0,25242,29060,Policy
+Sep-13,,35,,,Senior Executive Officer London,Policy Adviser,"International, Science and Resilience",0,35061,41851,Policy
+Sep-13,,35,,,Grade 7 London,Senior Policy Adviser,"International, Science and Resilience",0,47445,56597,Policy
+Sep-13,,36,,,Administrative Officer London,Policy Support Officer,"International, Science and Resilience",0,21463,22646,Science and Engineering
+Sep-13,,36,,,Executive Officer London,Policy Support Officer,"International, Science and Resilience",0,25242,29060,Science and Engineering
+Sep-13,,36,,,Higher Executive Officer London,Policy Support Officer,"International, Science and Resilience",0,29554,34424,Science and Engineering
+Sep-13,,36,,,Fast Stream London,Policy Support Officer,"International, Science and Resilience",0,27270,33654,Science and Engineering
+Sep-13,,36,,,Senior Executive Officer London,Policy Adviser,"International, Science and Resilience",0,35061,41851,Science and Engineering
+Sep-13,,36,,,Grade 7 London,Senior Policy Adviser,"International, Science and Resilience",0,47445,56597,Science and Engineering
+Sep-13,,36,,,Grade 6 London,Senior Policy Adviser,"International, Science and Resilience",0,57275,68322,Science and Engineering
+Sep-13,,37,,,Administrative Officer London,Policy Support Officer,"International, Science and Resilience",0,21463,22646,Science and Engineering
+Sep-13,,37,,,Higher Executive Officer London,Policy Support Officer,"International, Science and Resilience",0,29554,34424,Science and Engineering
+Sep-13,,37,,,Senior Executive Officer London,Policy Adviser,"International, Science and Resilience",0,35061,41851,Science and Engineering
+Sep-13,,37,,,Grade 7 London,Senior Policy Adviser,"International, Science and Resilience",0,47445,56597,Science and Engineering
+Sep-13,,37,,,Grade 6 London,Senior Policy Adviser,"International, Science and Resilience",0,57275,68322,Science and Engineering
+Sep-13,,39,,,Administrative Officer London,Policy Support Officer,Strategy,0,21463,22646,Planning
+Sep-13,,39,,,Executive Officer London,Policy Support Officer,Strategy,0,25242,29060,Planning
+Sep-13,,39,,,Higher Executive Officer London,Policy Support Officer,Strategy,0,29554,34424,Planning
+Sep-13,,39,,,Senior Executive Officer London,Policy Adviser,Strategy,0,35061,41851,Planning
+Sep-13,,39,,,Grade 7 London,Senior Policy Adviser,Strategy,0,47445,56597,Planning
+Sep-13,,39,,,Grade 6 London,Senior Policy Adviser,Strategy,0,57275,68322,Planning
+Sep-13,,34,,,Executive Officer London,Policy Support Officer,Chief Scientific Advisor,0,25242,29060,Policy
+Sep-13,,34,,,Higher Executive Officer London,Policy Support Officer,Chief Scientific Advisor,0,29554,34424,Policy
+Sep-13,,34,,,Grade 6 London,Senior Policy Adviser,Chief Scientific Advisor,0,57275,68322,Policy
+Sep-13,,42,,,Administrative Officer London,Not In Post,Finance & Customer Services,0,21463,22646,Other
+Sep-13,,42,,,Executive Officer London,Not In Post,Finance & Customer Services,0,25242,29060,Other
+Sep-13,,42,,,Higher Executive Officer London,Not In Post,Finance & Customer Services,0,29554,34424,Other
+Sep-13,,42,,,Grade 7 London,Not In Post,Finance & Customer Services,0,47445,56597,Other
+Sep-13,,42,,,Grade 6 London,Not In Post,Finance & Customer Services,0,57275,68322,Other
+Sep-13,,45,,,Higher Executive Officer London,Project Support Officer,Finance & Customer Services,0,29554,34424,Programme and Project Management (PPM)
+Sep-13,,45,,,Fast Stream London,Project Support Officer,Finance & Customer Services,0,27270,33654,Programme and Project Management (PPM)
+Sep-13,,45,,,Grade 7 London,Project Manager,Finance & Customer Services,0,47445,56597,Programme and Project Management (PPM)
+Sep-13,,45,,,Grade 6 London,Senior Project Manager,Finance & Customer Services,0,57275,68322,Programme and Project Management (PPM)
+Sep-13,,42,,,Administrative Officer London,HR Support Officer,Finance & Customer Services,0,21463,22646,Human Resources
+Sep-13,,42,,,Executive Officer London,HR Support Officer,Finance & Customer Services,0,25242,29060,Human Resources
+Sep-13,,42,,,Higher Executive Officer London,HR Officer,Finance & Customer Services,0,29554,34424,Human Resources
+Sep-13,,42,,,Fast Stream London,HR Officer,Finance & Customer Services,0,27270,33654,Human Resources
+Sep-13,,42,,,Senior Executive Officer London,HR Officer,Finance & Customer Services,0,35061,41851,Human Resources
+Sep-13,,42,,,Grade 7 London,Senior HR Manager,Finance & Customer Services,0,47445,56597,Human Resources
+Sep-13,,42,,,Grade 6 London,Senior HR Manager,Finance & Customer Services,0,57275,68322,Human Resources
+Sep-13,,121,,,Higher Executive Officer London,Procurement Support Officer,Finance & Customer Services,0,29554,34424,Procurement
+Sep-13,,121,,,Senior Executive Officer London,Procurement Officer,Finance & Customer Services,0,35061,41851,Procurement
+Sep-13,,121,,,Grade 7 London,Senior Procurement Officer,Finance & Customer Services,0,47445,56597,Procurement
+Sep-13,,121,,,Grade 6 London,Senior Procurement Officer,Finance & Customer Services,0,57275,68322,Procurement
+Sep-13,,40,,,Higher Executive Officer London,Policy Support Officer,Finance & Customer Services,0,29554,34424,Policy
+Sep-13,,52,,,Administrative Officer London,Policy Support Officer,Finance & Customer Services,0,21463,22646,Information Technology
+Sep-13,,52,,,Executive Officer London,Policy Support Officer,Finance & Customer Services,0,25242,29060,Information Technology
+Sep-13,,52,,,Higher Executive Officer London,Policy Support Officer,Finance & Customer Services,0,29554,34424,Information Technology
+Sep-13,,52,,,Senior Executive Officer London,Policy Adviser,Finance & Customer Services,0,35061,41851,Information Technology
+Sep-13,,52,,,Grade 7 London,Senior Policy Adviser,Finance & Customer Services,0,47445,56597,Information Technology
+Sep-13,,52,,,Grade 6 London,Senior Policy Adviser,Finance & Customer Services,0,57275,68322,Information Technology
+Sep-13,,40,,,Executive Officer London,Finance Support Officer,Finance & Customer Services,0,25242,29060,Finance
+Sep-13,,40,,,Higher Executive Officer London,Finance Support Officer,Finance & Customer Services,0,29554,34424,Finance
+Sep-13,,40,,,Senior Executive Officer London,Finance Officer,Finance & Customer Services,0,35061,41851,Finance
+Sep-13,,40,,,Grade 7 London,Senior Finance Manager,Finance & Customer Services,0,47445,56597,Finance
+Sep-13,,40,,,Grade 6 London,Senior Finance Manager,Finance & Customer Services,0,57275,68322,Finance
+Sep-13,,55,,,Administrative Officer London,Statistical Support Officer,Finance & Customer Services,0,21463,22646,Statisticians
+Sep-13,,55,,,Executive Officer London,Statistical Support Officer,Finance & Customer Services,0,25242,29060,Statisticians
+Sep-13,,55,,,Higher Executive Officer London,Statistical Support Officer,Finance & Customer Services,0,29554,34424,Statisticians
+Sep-13,,55,,,Fast Stream London,Statistician,Finance & Customer Services,0,27270,33654,Statisticians
+Sep-13,,55,,,Senior Executive Officer London,Statistician,Finance & Customer Services,0,35061,41851,Statisticians
+Sep-13,,55,,,Grade 7 London,Senior Statistician,Finance & Customer Services,0,47445,56597,Statisticians
+Sep-13,,55,,,Grade 6 London,Senior Statistician,Finance & Customer Services,0,57275,68322,Statisticians
+Sep-13,,43,,,Executive Officer London,Economist,Finance & Customer Services,0,25242,29060,Economics
+Sep-13,,43,,,Higher Executive Officer London,Economist,Finance & Customer Services,0,29554,34424,Economics
+Sep-13,,43,,,Senior Executive Officer London,Economist,Finance & Customer Services,0,35061,41851,Economics
+Sep-13,,43,,,Grade 7 London,Senior Economist,Finance & Customer Services,0,47445,56597,Economics
+Sep-13,,43,,,Grade 6 London,Senior Economist,Finance & Customer Services,0,57275,68322,Economics
+Sep-13,,7,,,Administrative Officer London,Policy Support Officer,Finance & Customer Services,0,21463,22646,Policy
+Sep-13,,7,,,Executive Officer London,Policy Support Officer,Finance & Customer Services,0,25242,29060,Policy
+Sep-13,,7,,,Higher Executive Officer London,Policy Support Officer,Finance & Customer Services,0,29554,34424,Policy
+Sep-13,,7,,,Senior Executive Officer London,Policy Adviser,Finance & Customer Services,0,35061,41851,Policy
+Sep-13,,7,,,Grade 7 London,Senior Policy Adviser,Finance & Customer Services,0,47445,56597,Policy
+Sep-13,,7,,,Grade 6 London,Senior Policy Adviser,Finance & Customer Services,0,57275,68322,Policy
+Sep-13,,78,,,Administrative Officer London,Communications Support Officer,Finance & Customer Services,0,21463,22646,Communications
+Sep-13,,78,,,Executive Officer London,Communications Support Officer,Finance & Customer Services,0,25242,29060,Communications
+Sep-13,,78,,,Higher Executive Officer London,Communications Support Officer,Finance & Customer Services,0,29554,34424,Communications
+Sep-13,,78,,,Senior Executive Officer London,Communications Manager,Finance & Customer Services,0,35061,41851,Communications
+Sep-13,,78,,,Grade 7 London,Senior Communications Manager,Finance & Customer Services,0,47445,56597,Communications
+Sep-13,,78,,,Grade 6 London,Senior Communications Manager,Finance & Customer Services,0,57275,68322,Communications
+Sep-13,,38,,,Executive Officer London,Policy Support Officer,Finance & Customer Services,0,25242,29060,Policy
+Sep-13,,38,,,Higher Executive Officer London,Policy Support Officer,Finance & Customer Services,0,29554,34424,Policy
+Sep-13,,38,,,Grade 6 London,Senior Policy Adviser,Finance & Customer Services,0,57275,68322,Policy
+Sep-13,,49,,,Administrative Officer London,Policy Support Officer,Private Office Group,0,21463,22646,Policy
+Sep-13,,49,,,Executive Officer London,Policy Support Officer,Private Office Group,0,25242,29060,Policy
+Sep-13,,49,,,Higher Executive Officer London,Policy Support Officer,Private Office Group,0,29554,34424,Policy
+Sep-13,,49,,,Fast Stream London,Policy Support Officer,Private Office Group,0,27270,33654,Policy
+Sep-13,,49,,,Senior Executive Officer London,Policy Adviser,Private Office Group,0,35061,41851,Policy
+Sep-13,,49,,,Grade 7 London,Senior Policy Adviser,Private Office Group,0,47445,56597,Policy
+Sep-13,,49,,,Grade 6 London,Senior Policy Adviser,Private Office Group,0,57275,68322,Policy

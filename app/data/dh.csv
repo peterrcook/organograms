@@ -1,1370 +1,1370 @@
-date,level,id,parentId
-Oct-15,Senior,CMO-038,CMO-002
-Oct-15,Senior,PHD-063,PHD-019
-Oct-15,Senior,SC-077,SC-022
-Oct-15,Senior,IGT2358,IGT2355
-Oct-15,Senior,FN-NHSEFP-116,FN140
-Oct-15,Senior,IGT2359,IGT2355
-Oct-15,Senior,IGT-2004,IGT-101
-Oct-15,Senior,PHD-067,PHD-017
-Oct-15,Senior,SER106,IGO-005
-Oct-15,Senior,FN146,FN-PICD-033
-Oct-15,Senior,SER-2388N,SER-004
-Oct-15,Senior,PHD78,PHD-019
-Oct-15,Senior,IGO-012,IGO-005
-Oct-15,Senior,FN144,FN131
-Oct-15,Senior,IGO-121,IGO-015
-Oct-15,Senior,FN-GFM-276,FN-GFM-027
-Oct-15,Senior,SER-2310,SER-1945
-Oct-15,Senior,SC-074,SC-026
-Oct-15,Senior,SC-024,SC-023
-Oct-15,Senior,FN145,FN-PICD-108
-Oct-15,Senior,IGT2366,IGT2355
-Oct-15,Senior,FN-FP-111,FN-FP-030
-Oct-15,Senior,SC-212,SC-023
-Oct-15,Senior,IGT2357,IGT-028
-Oct-15,Senior,FN-GFM-099,FN-GFM-027
-Oct-15,Senior,FN-NHSG-2025,FN-NHSG-031
-Oct-15,Senior,SC2250,SC-003
-Oct-15,Senior,IGT2368,IGT2355
-Oct-15,Senior,RDD-041,RDD-009
-Oct-15,Senior,FN-GFM-2008,FN-GFM-027
-Oct-15,Senior,FN-FP-2082,FN-FP-030
-Oct-15,Senior,SC-086,SC-023
-Oct-15,Senior,SC-2249,SC-023
-Oct-15,Senior,IGT-118,IGT-028
-Oct-15,Senior,IGO-049,IGO-016
-Oct-15,Senior,PHD80,PHD-020
-Oct-15,Senior,PHD-073,PHD-020
-Oct-15,Senior,IGO2186,IGO-005
-Oct-15,Senior,IGT-101,IGT-028
-Oct-15,Senior,SC-080,SC-026
-Oct-15,Senior,IGO-056,IGO-012
-Oct-15,Senior,IGT2360,IGT2355
-Oct-15,Senior,SC-087,SC-023
-Oct-15,Senior,IGO-2170,IGO-015
-Oct-15,Senior,FN-NHSG-117,FN-NHSG-031
-Oct-15,Senior,SER-1957,SER-1945
-Oct-15,Senior,FN-NHSG-2023,FN-NHSG-031
-Oct-15,Senior,IGT2361,IGT-010
-Oct-15,Senior,IGO-1831,IGO-015
-Oct-15,Senior,SER-283,IGO2185
-Oct-15,Senior,SC-088,SC-022
-Oct-15,Senior,SER-2433N,SER-1945
-Oct-15,Senior,FN-FP-098,FN-FP-030
-Oct-15,Senior,IGT2352,IGT-2351
-Oct-15,Senior,IGO-034,IGO-012
-Oct-15,Senior,IGO2185,IGO-005
-Oct-15,Senior,PHD-1876,PHD-068
-Oct-15,Senior,PHD-1878,PHD-068
-Oct-15,Senior,PHD-1913,PHD-068
-Oct-15,Senior,IGT2362,IGT-010
-Oct-15,Senior,SER-045,SER-1945
-Oct-15,Senior,IGO-053,IGO-014
-Oct-15,Senior,SER-120,IGO2185
-Oct-15,Senior,PHD-065,PHD-020
-Oct-15,Senior,PHD-072,PHD-017
-Oct-15,Senior,SC-082,SC-023
-Oct-15,Senior,FN-PICD-107,FN-PICD-033
-Oct-15,Senior,SC-078,SC-026
-Oct-15,Senior,IGO-054,IGO-015
-Oct-15,Senior,SC2253,SC-003
-Oct-15,Senior,FN-PICD-125,FN-PICD-033
-Oct-15,Senior,IGT-100,IGT-028
-Oct-15,Senior,SER-1951,SER-011
-Oct-15,Senior,FN-PICD-108,FN140
-Oct-15,Senior,IGT2353,IGT-010
-Oct-15,Senior,SER-036,SER-1945
-Oct-15,Senior,PSF042,IGO2187
-Oct-15,Senior,PHD-061,PHD-068
-Oct-15,Senior,RDD-040,RDD-009
-Oct-15,Senior,IGT-102,IGT2355
-Oct-15,Senior,SC2252,SC-003
-Oct-15,Senior,SER-043,SER-011
-Oct-15,Senior,IGT-109,IGT-028
-Oct-15,Senior,SC-076,SC-023
-Oct-15,Senior,PHD-071,PHD-019
-Oct-15,Senior,PHD066,PHD-017
-Oct-15,Senior,IGO-051,IGO-016
-Oct-15,Senior,SER-042,SER-013
-Oct-15,Senior,PHD077,PHD-068
-Oct-15,Senior,SER-055,SER-004
-Oct-15,Senior,IGO-050,IGO-014
-Oct-15,Senior,RDD-039,RDD-009
-Oct-15,Senior,SC-023,SC-003
-Oct-15,Senior,FN128,FN-GFM-027
-Oct-15,Senior,SER-1946,SER-011
-Oct-15,Senior,SC-079,SC-026
-Oct-15,Senior,PHD-066,PHD-019
-Oct-15,Senior,FN-NHSG-112,FN-NHSG-031
-Oct-15,Senior,IGO-2184,IGO-015
-Oct-15,Senior,FN-GFM-115,FN-GFM-027
-Oct-15,Senior,PHD-1893,PHD-017
-Oct-15,Senior,SER-044,SER-011
-Oct-15,Senior,PHD-062,PHD-020
-Oct-15,Senior,FN-NHSG-2240,FN-NHSG-031
-Oct-15,Senior,PHD-069,PHD-019
-Oct-15,Senior,SC-209,SC-023
-Oct-15,Senior,IGO-016,IGO-005
-Oct-15,Senior,SER-1945,SER-004
-Oct-15,Senior,IGT2367,IGT-2351
-Oct-15,Senior,IGO2187,IGO-015
-Oct-15,Senior,IGT-097,IGT-028
-Oct-15,Senior,PHD-017,PHD-006
-Oct-15,Senior,SER-048,SER-013
-Oct-15,Senior,FN-FP-2060,FN-FP-030
-Oct-15,Senior,SC-075,SC-022
-Oct-15,Senior,IGO-058,IGO-016
-Oct-15,Senior,FN-FP-030,FN131
-Oct-15,Senior,PHD-020,PHD-006
-Oct-15,Senior,PHD-068,PHD-006
-Oct-15,Senior,SER-046,SER-013
-Oct-15,Senior,FN-PICD-104,FN-PICD-033
-Oct-15,Senior,FN141,FN131
-Oct-15,Senior,SER-060,SER-1945
-Oct-15,Senior,PHD-064,PHD-020
-Oct-15,Senior,PHD-019,PHD-006
-Oct-15,Senior,FN140,FN131
-Oct-15,Senior,RDD-037,RDD-009
-Oct-15,Senior,FN-GFM-2476,FN-GFM-027
-Oct-15,Senior,IGT-028,IGT-2351
-Oct-15,Senior,IGO-015,IGO-005
-Oct-15,Senior,SER-013,SER-004
-Oct-15,Senior,SER-011,SER-004
-Oct-15,Senior,SC-026,SC-003
-Oct-15,Senior,FN-NHSG-031,FN131
-Oct-15,Senior,SC-022,SC-003
-Oct-15,Senior,IGO-005,SER-001
-Oct-15,Senior,IGT-2351,SER-001
-Oct-15,Senior,FN-GFM-027,FN131
-Oct-15,Senior,IGO-014,IGO-005
-Oct-15,Senior,RDD-009,CMO-002
-Oct-15,Senior,SER-004,SER-001
-Oct-15,Senior,PHD-006,SER-001
-Oct-15,Senior,FN131,SER-001
-Oct-15,Senior,SC-003,SER-001
-Oct-15,Senior,FN-PICD-033,FN131
-Oct-15,Senior,SER-001,
-Oct-15,Senior,CMO-002,SER-001
-Oct-15,Senior,IGT-010,IGT-2351
-Oct-15,Senior,IGO-057,IGO-014
-Oct-15,Senior,GOA061,IGO-2170
-Oct-15,Senior,SER-2196,SER-004
-Oct-15,Senior,FN-DG-007,SER-001
-Oct-15,Senior,FN-MPI-096,FN-NHSG-031
-Oct-15,Senior,FN-NHSG-095,FN-NHSG-031
-Oct-15,Senior,FN-DG-052,FN-DG-007
-Oct-15,Senior,PR004,FN-NHSG-031
-Oct-15,Senior,PSF021,FN-FP-030
-Oct-15,Senior,PSF039,FN-FP-030
-Oct-15,Senior,SC-025,SC-003
-Oct-15,Senior,SC-1937,SC-003
-Oct-15,Senior,SC-089,SC-026
-Oct-15,Senior,PHD074,PHD-068
-Oct-15,Senior,PHD-070,PHD-019
-Oct-15,Senior,PHD075,PHD-065
-Oct-15,Senior,CMO-008,CMO-002
-Oct-15,Senior,PHD-018,CMO-002
-Oct-15,Senior,SER-2418,SER-1945
-Oct-15,Senior,SC-085,SC-022
-Oct-15,Senior,IGT2355,IGT-2351
-Oct-15,Senior,IGT2356,IGT2355
-Oct-15,Senior,FN132,FN-PICD-033
-Oct-15,Senior,FN134,FN-PICD-108
-Oct-15,Senior,FN138,FN-PICD-107
-Oct-15,Senior,FN139,FN-PICD-107
-Oct-15,Senior,PHD79,PHD-019
-Oct-15,Senior,IGT2364,IGT-2351
-Oct-15,Senior,FN149,FN-NHSG-031
-Oct-15,Senior,FN142,FN141
-Oct-15,Senior,FN147,FN-PICD-108
-Oct-15,Senior,FN148,FN-PICD-033
-Oct-15,Senior,IGT2369,IGT-010
-Oct-15,Senior,IGT2370,IGT-010
-Oct-15,Senior,IGT2371,IGT2368
-Oct-15,Junior,,SER-004
-Oct-15,Junior,,SER-004
-Oct-15,Junior,,SER-004
-Oct-15,Junior,,SER-004
-Oct-15,Junior,,SER-004
-Oct-15,Junior,,SER-004
-Oct-15,Junior,,SER-004
-Oct-15,Junior,,SER-004
-Oct-15,Junior,,SER-004
-Oct-15,Junior,,SER-004
-Oct-15,Junior,,SER-004
-Oct-15,Junior,,SER-011
-Oct-15,Junior,,SER-013
-Oct-15,Junior,,SER-013
-Oct-15,Junior,,SER-013
-Oct-15,Junior,,SER-013
-Oct-15,Junior,,SER-013
-Oct-15,Junior,,SER-013
-Oct-15,Junior,,SER-013
-Oct-15,Junior,,SER-013
-Oct-15,Junior,,SER-013
-Oct-15,Junior,,SER-036
-Oct-15,Junior,,SER-036
-Oct-15,Junior,,SER-036
-Oct-15,Junior,,SER-036
-Oct-15,Junior,,SER-036
-Oct-15,Junior,,SER-036
-Oct-15,Junior,,SER-036
-Oct-15,Junior,,SER-042
-Oct-15,Junior,,SER-042
-Oct-15,Junior,,SER-042
-Oct-15,Junior,,SER-042
-Oct-15,Junior,,SER-042
-Oct-15,Junior,,SER-042
-Oct-15,Junior,,SER-042
-Oct-15,Junior,,SER-042
-Oct-15,Junior,,SER-042
-Oct-15,Junior,,SER-042
-Oct-15,Junior,,SER-043
-Oct-15,Junior,,SER-043
-Oct-15,Junior,,SER-043
-Oct-15,Junior,,SER-043
-Oct-15,Junior,,SER-043
-Oct-15,Junior,,SER-043
-Oct-15,Junior,,SER-043
-Oct-15,Junior,,SER-043
-Oct-15,Junior,,SER-043
-Oct-15,Junior,,SER-043
-Oct-15,Junior,,SER-043
-Oct-15,Junior,,SER-043
-Oct-15,Junior,,SER-044
-Oct-15,Junior,,SER-044
-Oct-15,Junior,,SER-044
-Oct-15,Junior,,SER-044
-Oct-15,Junior,,SER-044
-Oct-15,Junior,,SER-044
-Oct-15,Junior,,SER-045
-Oct-15,Junior,,SER-045
-Oct-15,Junior,,SER-045
-Oct-15,Junior,,SER-045
-Oct-15,Junior,,SER-045
-Oct-15,Junior,,SER-045
-Oct-15,Junior,,SER-045
-Oct-15,Junior,,SER-045
-Oct-15,Junior,,SER-045
-Oct-15,Junior,,SER-045
-Oct-15,Junior,,SER-045
-Oct-15,Junior,,SER-045
-Oct-15,Junior,,SER-045
-Oct-15,Junior,,SER-046
-Oct-15,Junior,,SER-046
-Oct-15,Junior,,SER-046
-Oct-15,Junior,,SER-046
-Oct-15,Junior,,SER-046
-Oct-15,Junior,,SER-046
-Oct-15,Junior,,SER-046
-Oct-15,Junior,,SER-048
-Oct-15,Junior,,SER-048
-Oct-15,Junior,,SER-048
-Oct-15,Junior,,SER-048
-Oct-15,Junior,,SER-048
-Oct-15,Junior,,SER-048
-Oct-15,Junior,,SER-048
-Oct-15,Junior,,SER-048
-Oct-15,Junior,,SER-055
-Oct-15,Junior,,SER-055
-Oct-15,Junior,,SER-055
-Oct-15,Junior,,SER-055
-Oct-15,Junior,,SER-055
-Oct-15,Junior,,SER-055
-Oct-15,Junior,,SER-1945
-Oct-15,Junior,,SER-1946
-Oct-15,Junior,,SER-1946
-Oct-15,Junior,,SER-1946
-Oct-15,Junior,,SER-1946
-Oct-15,Junior,,SER-1946
-Oct-15,Junior,,SER-1946
-Oct-15,Junior,,SER-1946
-Oct-15,Junior,,SER-1946
-Oct-15,Junior,,SER-1946
-Oct-15,Junior,,SER-1951
-Oct-15,Junior,,SER-1951
-Oct-15,Junior,,SER-1951
-Oct-15,Junior,,SER-1951
-Oct-15,Junior,,SER-1951
-Oct-15,Junior,,SER-1951
-Oct-15,Junior,,SER-1951
-Oct-15,Junior,,SER-1951
-Oct-15,Junior,,SER-1951
-Oct-15,Junior,,SER-1951
-Oct-15,Junior,,SER-1951
-Oct-15,Junior,,SER-1951
-Oct-15,Junior,,SER-1951
-Oct-15,Junior,,SER-1957
-Oct-15,Junior,,SER-1957
-Oct-15,Junior,,SER-1957
-Oct-15,Junior,,SER-1957
-Oct-15,Junior,,SER-1957
-Oct-15,Junior,,SER-1957
-Oct-15,Junior,,SER-1957
-Oct-15,Junior,,SER-1957
-Oct-15,Junior,,SER-1957
-Oct-15,Junior,,SER-2310
-Oct-15,Junior,,SER-2310
-Oct-15,Junior,,SER-2310
-Oct-15,Junior,,SER-2310
-Oct-15,Junior,,SER-2310
-Oct-15,Junior,,SER-2310
-Oct-15,Junior,,SER-011
-Oct-15,Junior,,SER-011
-Oct-15,Junior,,SER-011
-Oct-15,Junior,,SER-011
-Oct-15,Junior,,SER-011
-Oct-15,Junior,,SER-2433N
-Oct-15,Junior,,SER-2433N
-Oct-15,Junior,,SER-2433N
-Oct-15,Junior,,SER-2433N
-Oct-15,Junior,,SER-2433N
-Oct-15,Junior,,SER-2433N
-Oct-15,Junior,,SER-2433N
-Oct-15,Junior,,SER-2433N
-Oct-15,Junior,,SER-060
-Oct-15,Junior,,SER-060
-Oct-15,Junior,,SER-060
-Oct-15,Junior,,SER-060
-Oct-15,Junior,,SER-060
-Oct-15,Junior,,SER-060
-Oct-15,Junior,,FN-FP-2060
-Oct-15,Junior,,FN-FP-2060
-Oct-15,Junior,,FN-FP-2060
-Oct-15,Junior,,FN-FP-2060
-Oct-15,Junior,,FN-FP-2060
-Oct-15,Junior,,FN-FP-2060
-Oct-15,Junior,,FN-FP-2060
-Oct-15,Junior,,FN-FP-2060
-Oct-15,Junior,,FN-FP-2060
-Oct-15,Junior,,FN-FP-2060
-Oct-15,Junior,,FN-FP-2060
-Oct-15,Junior,,FN-FP-2060
-Oct-15,Junior,,FN-FP-2060
-Oct-15,Junior,,FN-NHSG-117
-Oct-15,Junior,,FN-NHSG-117
-Oct-15,Junior,,FN-NHSG-117
-Oct-15,Junior,,FN-NHSG-117
-Oct-15,Junior,,FN-NHSG-117
-Oct-15,Junior,,FN-NHSG-117
-Oct-15,Junior,,FN-NHSG-117
-Oct-15,Junior,,FN-NHSG-117
-Oct-15,Junior,,FN-NHSG-117
-Oct-15,Junior,,FN-NHSG-117
-Oct-15,Junior,,FN-NHSG-117
-Oct-15,Junior,,FN-NHSG-117
-Oct-15,Junior,,FN-NHSG-117
-Oct-15,Junior,,FN-NHSG-117
-Oct-15,Junior,,FN-NHSG-117
-Oct-15,Junior,,FN-NHSG-117
-Oct-15,Junior,,FN-NHSG-117
-Oct-15,Junior,,FN-NHSG-117
-Oct-15,Junior,,FN-NHSG-117
-Oct-15,Junior,,FN-NHSG-117
-Oct-15,Junior,,FN-NHSG-117
-Oct-15,Junior,,FN-GFM-027
-Oct-15,Junior,,FN-GFM-099
-Oct-15,Junior,,FN-GFM-099
-Oct-15,Junior,,FN-GFM-099
-Oct-15,Junior,,FN-GFM-099
-Oct-15,Junior,,FN-GFM-099
-Oct-15,Junior,,FN-GFM-099
-Oct-15,Junior,,IGT2361
-Oct-15,Junior,,IGT2361
-Oct-15,Junior,,IGT2361
-Oct-15,Junior,,IGT2361
-Oct-15,Junior,,IGT2361
-Oct-15,Junior,,IGT2361
-Oct-15,Junior,,IGT2361
-Oct-15,Junior,,FN-GFM-115
-Oct-15,Junior,,FN-GFM-115
-Oct-15,Junior,,FN-GFM-115
-Oct-15,Junior,,FN-GFM-115
-Oct-15,Junior,,FN-GFM-115
-Oct-15,Junior,,FN-GFM-115
-Oct-15,Junior,,FN-GFM-115
-Oct-15,Junior,,FN-GFM-2008
-Oct-15,Junior,,FN-GFM-2008
-Oct-15,Junior,,FN-GFM-2008
-Oct-15,Junior,,FN-GFM-2008
-Oct-15,Junior,,FN-GFM-2008
-Oct-15,Junior,,FN-GFM-2008
-Oct-15,Junior,,FN-GFM-2008
-Oct-15,Junior,,FN-GFM-2008
-Oct-15,Junior,,FN-GFM-2008
-Oct-15,Junior,,FN-GFM-2008
-Oct-15,Junior,,FN-GFM-276
-Oct-15,Junior,,FN-GFM-276
-Oct-15,Junior,,FN-GFM-276
-Oct-15,Junior,,FN-GFM-276
-Oct-15,Junior,,FN-GFM-276
-Oct-15,Junior,,FN-GFM-276
-Oct-15,Junior,,FN-GFM-276
-Oct-15,Junior,,FN131
-Oct-15,Junior,,FN131
-Oct-15,Junior,,FN131
-Oct-15,Junior,,FN131
-Oct-15,Junior,,FN131
-Oct-15,Junior,,FN131
-Oct-15,Junior,,FN131
-Oct-15,Junior,,FN-PICD-104
-Oct-15,Junior,,FN-PICD-104
-Oct-15,Junior,,FN-PICD-104
-Oct-15,Junior,,FN-PICD-104
-Oct-15,Junior,,FN-PICD-104
-Oct-15,Junior,,FN-PICD-104
-Oct-15,Junior,,FN-PICD-104
-Oct-15,Junior,,FN-PICD-125
-Oct-15,Junior,,FN-PICD-125
-Oct-15,Junior,,FN-PICD-125
-Oct-15,Junior,,FN-PICD-125
-Oct-15,Junior,,FN-PICD-125
-Oct-15,Junior,,FN-PICD-125
-Oct-15,Junior,,FN-PICD-125
-Oct-15,Junior,,FN-PICD-125
-Oct-15,Junior,,FN-PICD-125
-Oct-15,Junior,,FN-PICD-125
-Oct-15,Junior,,FN-PICD-125
-Oct-15,Junior,,FN-PICD-125
-Oct-15,Junior,,FN-PICD-125
-Oct-15,Junior,,FN-PICD-125
-Oct-15,Junior,,FN-PICD-125
-Oct-15,Junior,,FN-PICD-125
-Oct-15,Junior,,FN-PICD-107
-Oct-15,Junior,,FN-PICD-107
-Oct-15,Junior,,FN-PICD-107
-Oct-15,Junior,,FN-PICD-107
-Oct-15,Junior,,FN-PICD-107
-Oct-15,Junior,,FN-PICD-107
-Oct-15,Junior,,FN-PICD-107
-Oct-15,Junior,,FN-PICD-107
-Oct-15,Junior,,FN-PICD-107
-Oct-15,Junior,,FN-PICD-107
-Oct-15,Junior,,FN-PICD-107
-Oct-15,Junior,,FN-PICD-107
-Oct-15,Junior,,FN-PICD-107
-Oct-15,Junior,,FN-PICD-107
-Oct-15,Junior,,FN-PICD-107
-Oct-15,Junior,,FN-PICD-108
-Oct-15,Junior,,FN-PICD-108
-Oct-15,Junior,,FN-PICD-108
-Oct-15,Junior,,FN-PICD-108
-Oct-15,Junior,,FN-PICD-108
-Oct-15,Junior,,FN-PICD-033
-Oct-15,Junior,,FN-PICD-033
-Oct-15,Junior,,FN-PICD-033
-Oct-15,Junior,,FN-PICD-033
-Oct-15,Junior,,FN-NHSG-2025
-Oct-15,Junior,,FN-NHSG-2025
-Oct-15,Junior,,FN-NHSG-2025
-Oct-15,Junior,,FN-NHSG-2025
-Oct-15,Junior,,FN-NHSG-2025
-Oct-15,Junior,,FN-NHSG-2025
-Oct-15,Junior,,FN-NHSG-2025
-Oct-15,Junior,,FN-NHSG-2025
-Oct-15,Junior,,FN-NHSG-2025
-Oct-15,Junior,,FN-NHSG-2025
-Oct-15,Junior,,FN-NHSG-2025
-Oct-15,Junior,,FN-NHSG-2025
-Oct-15,Junior,,FN-NHSG-2025
-Oct-15,Junior,,FN-NHSG-2025
-Oct-15,Junior,,FN-NHSG-2025
-Oct-15,Junior,,FN-NHSG-2025
-Oct-15,Junior,,FN-NHSG-2025
-Oct-15,Junior,,FN-NHSG-2025
-Oct-15,Junior,,FN-NHSG-2025
-Oct-15,Junior,,FN-NHSG-2025
-Oct-15,Junior,,FN-NHSG-2025
-Oct-15,Junior,,FN-FP-030
-Oct-15,Junior,,FN-FP-030
-Oct-15,Junior,,FN-FP-030
-Oct-15,Junior,,FN-FP-030
-Oct-15,Junior,,FN-FP-030
-Oct-15,Junior,,FN-FP-030
-Oct-15,Junior,,FN-FP-030
-Oct-15,Junior,,FN-FP-030
-Oct-15,Junior,,FN-FP-030
-Oct-15,Junior,,FN-FP-030
-Oct-15,Junior,,FN-NHSG-2240
-Oct-15,Junior,,FN-NHSG-2240
-Oct-15,Junior,,FN-NHSG-2240
-Oct-15,Junior,,FN-NHSG-2240
-Oct-15,Junior,,FN-NHSG-2240
-Oct-15,Junior,,FN-NHSG-2240
-Oct-15,Junior,,FN-NHSG-2240
-Oct-15,Junior,,FN-NHSG-2240
-Oct-15,Junior,,FN-NHSG-2240
-Oct-15,Junior,,FN-NHSG-2240
-Oct-15,Junior,,FN-NHSG-2240
-Oct-15,Junior,,FN-NHSG-2240
-Oct-15,Junior,,FN-NHSG-2240
-Oct-15,Junior,,FN-NHSG-2240
-Oct-15,Junior,,FN-NHSG-2240
-Oct-15,Junior,,FN-NHSG-2240
-Oct-15,Junior,,FN-NHSG-2240
-Oct-15,Junior,,FN-NHSG-2240
-Oct-15,Junior,,FN-NHSG-2240
-Oct-15,Junior,,FN-NHSG-2240
-Oct-15,Junior,,FN-NHSG-2240
-Oct-15,Junior,,FN-NHSG-2240
-Oct-15,Junior,,FN-NHSG-2240
-Oct-15,Junior,,FN-NHSG-2240
-Oct-15,Junior,,FN-NHSG-2240
-Oct-15,Junior,,FN-NHSG-2023
-Oct-15,Junior,,FN-NHSG-2023
-Oct-15,Junior,,FN-NHSG-2023
-Oct-15,Junior,,FN-NHSG-2023
-Oct-15,Junior,,FN-NHSG-2023
-Oct-15,Junior,,FN-NHSG-2023
-Oct-15,Junior,,FN-NHSG-2023
-Oct-15,Junior,,FN-NHSG-2023
-Oct-15,Junior,,FN-NHSG-2023
-Oct-15,Junior,,FN-NHSG-2023
-Oct-15,Junior,,FN-NHSG-2023
-Oct-15,Junior,,FN-NHSG-2023
-Oct-15,Junior,,FN-NHSG-2023
-Oct-15,Junior,,FN-NHSG-2023
-Oct-15,Junior,,FN-NHSG-2023
-Oct-15,Junior,,FN-NHSG-2023
-Oct-15,Junior,,FN-NHSG-2023
-Oct-15,Junior,,FN-NHSG-2023
-Oct-15,Junior,,FN-NHSG-2023
-Oct-15,Junior,,FN-NHSEFP-116
-Oct-15,Junior,,FN-NHSEFP-116
-Oct-15,Junior,,FN-NHSEFP-116
-Oct-15,Junior,,FN-NHSEFP-116
-Oct-15,Junior,,FN128
-Oct-15,Junior,,FN128
-Oct-15,Junior,,FN128
-Oct-15,Junior,,FN128
-Oct-15,Junior,,FN128
-Oct-15,Junior,,FN128
-Oct-15,Junior,,FN128
-Oct-15,Junior,,FN128
-Oct-15,Junior,,FN-GFM-2476
-Oct-15,Junior,,FN-GFM-2476
-Oct-15,Junior,,FN-GFM-2476
-Oct-15,Junior,,FN-GFM-2476
-Oct-15,Junior,,FN-GFM-2476
-Oct-15,Junior,,FN140
-Oct-15,Junior,,FN140
-Oct-15,Junior,,FN141
-Oct-15,Junior,,FN140
-Oct-15,Junior,,FN140
-Oct-15,Junior,,FN140
-Oct-15,Junior,,IGT-028
-Oct-15,Junior,,IGT-028
-Oct-15,Junior,,FN-FP-030
-Oct-15,Junior,,FN-FP-030
-Oct-15,Junior,,FN-FP-030
-Oct-15,Junior,,FN-FP-030
-Oct-15,Junior,,FN-FP-030
-Oct-15,Junior,,FN-FP-030
-Oct-15,Junior,,FN-FP-030
-Oct-15,Junior,,FN-FP-030
-Oct-15,Junior,,FN-FP-030
-Oct-15,Junior,,FN-FP-030
-Oct-15,Junior,,FN-FP-030
-Oct-15,Junior,,FN-FP-030
-Oct-15,Junior,,FN-FP-030
-Oct-15,Junior,,FN-FP-030
-Oct-15,Junior,,FN-FP-030
-Oct-15,Junior,,FN-FP-030
-Oct-15,Junior,,FN-FP-030
-Oct-15,Junior,,FN145
-Oct-15,Junior,,FN145
-Oct-15,Junior,,FN145
-Oct-15,Junior,,FN145
-Oct-15,Junior,,FN-PICD-033
-Oct-15,Junior,,FN-PICD-033
-Oct-15,Junior,,FN-PICD-033
-Oct-15,Junior,,FN147
-Oct-15,Junior,,FN147
-Oct-15,Junior,,FN147
-Oct-15,Junior,,FN147
-Oct-15,Junior,,FN147
-Oct-15,Junior,,FN-NHSG-2025
-Oct-15,Junior,,FN-NHSG-2025
-Oct-15,Junior,,FN-NHSG-2025
-Oct-15,Junior,,FN-NHSG-2025
-Oct-15,Junior,,FN-NHSG-2025
-Oct-15,Junior,,FN-NHSG-2025
-Oct-15,Junior,,IGT-010
-Oct-15,Junior,,IGT2353
-Oct-15,Junior,,IGT2353
-Oct-15,Junior,,IGT2353
-Oct-15,Junior,,IGT2353
-Oct-15,Junior,,IGT2353
-Oct-15,Junior,,IGT2353
-Oct-15,Junior,,IGT2353
-Oct-15,Junior,,IGT2353
-Oct-15,Junior,,IGT2353
-Oct-15,Junior,,IGT2353
-Oct-15,Junior,,IGT2353
-Oct-15,Junior,,IGT2353
-Oct-15,Junior,,IGT2353
-Oct-15,Junior,,IGT2361
-Oct-15,Junior,,IGT2361
-Oct-15,Junior,,IGT2361
-Oct-15,Junior,,IGT2361
-Oct-15,Junior,,IGT2361
-Oct-15,Junior,,IGT2361
-Oct-15,Junior,,IGT2361
-Oct-15,Junior,,IGT2361
-Oct-15,Junior,,IGT2361
-Oct-15,Junior,,IGT2361
-Oct-15,Junior,,IGT2361
-Oct-15,Junior,,IGT2361
-Oct-15,Junior,,IGT2361
-Oct-15,Junior,,IGT2361
-Oct-15,Junior,,IGT2362
-Oct-15,Junior,,IGT2362
-Oct-15,Junior,,IGT2362
-Oct-15,Junior,,IGT2362
-Oct-15,Junior,,IGT2362
-Oct-15,Junior,,IGT2362
-Oct-15,Junior,,IGT2362
-Oct-15,Junior,,IGT2362
-Oct-15,Junior,,IGT2362
-Oct-15,Junior,,IGT2362
-Oct-15,Junior,,IGT2362
-Oct-15,Junior,,IGT2362
-Oct-15,Junior,,IGT2362
-Oct-15,Junior,,IGT2362
-Oct-15,Junior,,IGT2362
-Oct-15,Junior,,IGT2362
-Oct-15,Junior,,IGT2362
-Oct-15,Junior,,IGT2362
-Oct-15,Junior,,IGT2362
-Oct-15,Junior,,IGT2369
-Oct-15,Junior,,IGT-101
-Oct-15,Junior,,IGT-101
-Oct-15,Junior,,IGT-101
-Oct-15,Junior,,IGT-101
-Oct-15,Junior,,IGT-101
-Oct-15,Junior,,IGT-101
-Oct-15,Junior,,IGT-101
-Oct-15,Junior,,IGT-101
-Oct-15,Junior,,IGT-101
-Oct-15,Junior,,IGT-101
-Oct-15,Junior,,IGT-101
-Oct-15,Junior,,IGT-101
-Oct-15,Junior,,IGT-101
-Oct-15,Junior,,IGT-101
-Oct-15,Junior,,IGT-101
-Oct-15,Junior,,IGT-101
-Oct-15,Junior,,IGT-101
-Oct-15,Junior,,IGT-101
-Oct-15,Junior,,IGT-101
-Oct-15,Junior,,IGT-097
-Oct-15,Junior,,IGT-097
-Oct-15,Junior,,IGT-097
-Oct-15,Junior,,IGT-097
-Oct-15,Junior,,IGT-097
-Oct-15,Junior,,IGT-097
-Oct-15,Junior,,IGT-097
-Oct-15,Junior,,IGT-097
-Oct-15,Junior,,IGT-097
-Oct-15,Junior,,IGT-097
-Oct-15,Junior,,IGT-097
-Oct-15,Junior,,IGT-097
-Oct-15,Junior,,IGT-118
-Oct-15,Junior,,IGT-118
-Oct-15,Junior,,IGT-118
-Oct-15,Junior,,IGT-118
-Oct-15,Junior,,IGT-118
-Oct-15,Junior,,IGT-118
-Oct-15,Junior,,IGT-118
-Oct-15,Junior,,IGT-118
-Oct-15,Junior,,IGT-118
-Oct-15,Junior,,IGT-118
-Oct-15,Junior,,IGT-118
-Oct-15,Junior,,IGT-118
-Oct-15,Junior,,IGT-118
-Oct-15,Junior,,IGT-118
-Oct-15,Junior,,IGT-118
-Oct-15,Junior,,IGT-118
-Oct-15,Junior,,IGT-118
-Oct-15,Junior,,IGT-118
-Oct-15,Junior,,IGT-118
-Oct-15,Junior,,IGT-118
-Oct-15,Junior,,IGT-118
-Oct-15,Junior,,IGT-118
-Oct-15,Junior,,IGT-118
-Oct-15,Junior,,IGT-100
-Oct-15,Junior,,IGT-100
-Oct-15,Junior,,IGT-100
-Oct-15,Junior,,IGT-100
-Oct-15,Junior,,IGT-100
-Oct-15,Junior,,IGT-100
-Oct-15,Junior,,IGT-100
-Oct-15,Junior,,IGT-100
-Oct-15,Junior,,IGT-100
-Oct-15,Junior,,IGT-100
-Oct-15,Junior,,IGT-100
-Oct-15,Junior,,IGT-100
-Oct-15,Junior,,IGT-100
-Oct-15,Junior,,IGT-100
-Oct-15,Junior,,IGT-100
-Oct-15,Junior,,IGT-109
-Oct-15,Junior,,IGT-109
-Oct-15,Junior,,IGT-109
-Oct-15,Junior,,IGT-109
-Oct-15,Junior,,IGT-109
-Oct-15,Junior,,IGT-109
-Oct-15,Junior,,IGT-109
-Oct-15,Junior,,IGT-109
-Oct-15,Junior,,IGT-109
-Oct-15,Junior,,IGT-109
-Oct-15,Junior,,IGT-109
-Oct-15,Junior,,IGT-109
-Oct-15,Junior,,IGT-109
-Oct-15,Junior,,IGT-109
-Oct-15,Junior,,IGT-109
-Oct-15,Junior,,IGT-109
-Oct-15,Junior,,IGT-109
-Oct-15,Junior,,IGT-109
-Oct-15,Junior,,IGT-109
-Oct-15,Junior,,IGT-109
-Oct-15,Junior,,IGT-109
-Oct-15,Junior,,IGT-109
-Oct-15,Junior,,IGT-109
-Oct-15,Junior,,IGT-109
-Oct-15,Junior,,IGT-109
-Oct-15,Junior,,IGT-109
-Oct-15,Junior,,IGT-109
-Oct-15,Junior,,IGT-109
-Oct-15,Junior,,IGT-109
-Oct-15,Junior,,IGT-109
-Oct-15,Junior,,IGT-109
-Oct-15,Junior,,IGT-109
-Oct-15,Junior,,IGT-109
-Oct-15,Junior,,IGT-109
-Oct-15,Junior,,IGT-109
-Oct-15,Junior,,IGT-109
-Oct-15,Junior,,IGT-109
-Oct-15,Junior,,IGT-109
-Oct-15,Junior,,IGT-109
-Oct-15,Junior,,IGT-109
-Oct-15,Junior,,IGT-109
-Oct-15,Junior,,IGT-109
-Oct-15,Junior,,IGT-109
-Oct-15,Junior,,IGT-109
-Oct-15,Junior,,IGT-109
-Oct-15,Junior,,IGT-109
-Oct-15,Junior,,IGT-109
-Oct-15,Junior,,IGT-109
-Oct-15,Junior,,IGT-109
-Oct-15,Junior,,IGT-109
-Oct-15,Junior,,IGT-109
-Oct-15,Junior,,IGT-109
-Oct-15,Junior,,IGT-109
-Oct-15,Junior,,IGT-109
-Oct-15,Junior,,IGT-028
-Oct-15,Junior,,IGT2367
-Oct-15,Junior,,IGT2367
-Oct-15,Junior,,IGT2367
-Oct-15,Junior,,IGT2367
-Oct-15,Junior,,IGT2367
-Oct-15,Junior,,IGT2367
-Oct-15,Junior,,IGT2367
-Oct-15,Junior,,IGT2367
-Oct-15,Junior,,IGT2367
-Oct-15,Junior,,IGT-010
-Oct-15,Junior,,IGT-010
-Oct-15,Junior,,IGT-010
-Oct-15,Junior,,IGT-010
-Oct-15,Junior,,IGT-010
-Oct-15,Junior,,IGT-010
-Oct-15,Junior,,IGT2366
-Oct-15,Junior,,IGT2366
-Oct-15,Junior,,IGT2366
-Oct-15,Junior,,IGT2359
-Oct-15,Junior,,IGT2359
-Oct-15,Junior,,IGT2355
-Oct-15,Junior,,IGT2355
-Oct-15,Junior,,IGT2355
-Oct-15,Junior,,IGT2355
-Oct-15,Junior,,IGT2355
-Oct-15,Junior,,IGT2360
-Oct-15,Junior,,IGT2360
-Oct-15,Junior,,IGT2360
-Oct-15,Junior,,IGT2360
-Oct-15,Junior,,IGT2368
-Oct-15,Junior,,IGT2368
-Oct-15,Junior,,IGT2368
-Oct-15,Junior,,IGT2368
-Oct-15,Junior,,IGT2368
-Oct-15,Junior,,IGT2368
-Oct-15,Junior,,IGT2368
-Oct-15,Junior,,IGT2368
-Oct-15,Junior,,IGT2368
-Oct-15,Junior,,IGT2368
-Oct-15,Junior,,IGT2368
-Oct-15,Junior,,IGT-2351
-Oct-15,Junior,,IGT-2351
-Oct-15,Junior,,IGT-2351
-Oct-15,Junior,,IGT-2351
-Oct-15,Junior,,IGT-2351
-Oct-15,Junior,,IGT-2351
-Oct-15,Junior,,RDD-040
-Oct-15,Junior,,RDD-040
-Oct-15,Junior,,RDD-040
-Oct-15,Junior,,RDD-040
-Oct-15,Junior,,RDD-041
-Oct-15,Junior,,RDD-041
-Oct-15,Junior,,RDD-041
-Oct-15,Junior,,RDD-041
-Oct-15,Junior,,RDD-041
-Oct-15,Junior,,RDD-041
-Oct-15,Junior,,RDD-041
-Oct-15,Junior,,RDD-041
-Oct-15,Junior,,RDD-041
-Oct-15,Junior,,RDD-041
-Oct-15,Junior,,RDD-041
-Oct-15,Junior,,RDD-009
-Oct-15,Junior,,RDD-009
-Oct-15,Junior,,RDD-009
-Oct-15,Junior,,RDD-037
-Oct-15,Junior,,RDD-037
-Oct-15,Junior,,RDD-037
-Oct-15,Junior,,RDD-037
-Oct-15,Junior,,RDD-037
-Oct-15,Junior,,RDD-037
-Oct-15,Junior,,RDD-039
-Oct-15,Junior,,RDD-039
-Oct-15,Junior,,RDD-039
-Oct-15,Junior,,RDD-039
-Oct-15,Junior,,RDD-039
-Oct-15,Junior,,RDD-039
-Oct-15,Junior,,SC-003
-Oct-15,Junior,,SC-003
-Oct-15,Junior,,SC-003
-Oct-15,Junior,,SC-003
-Oct-15,Junior,,SC-003
-Oct-15,Junior,,SC-003
-Oct-15,Junior,,SC-003
-Oct-15,Junior,,SC-003
-Oct-15,Junior,,SC-003
-Oct-15,Junior,,SC-003
-Oct-15,Junior,,SC-003
-Oct-15,Junior,,SC-022
-Oct-15,Junior,,SC-022
-Oct-15,Junior,,SC-022
-Oct-15,Junior,,SC-022
-Oct-15,Junior,,SC-022
-Oct-15,Junior,,SC-023
-Oct-15,Junior,,SC-024
-Oct-15,Junior,,SC-024
-Oct-15,Junior,,SC-024
-Oct-15,Junior,,SC-024
-Oct-15,Junior,,SC-024
-Oct-15,Junior,,SC-024
-Oct-15,Junior,,SC-024
-Oct-15,Junior,,SC-024
-Oct-15,Junior,,SC-026
-Oct-15,Junior,,SC-026
-Oct-15,Junior,,SC-074
-Oct-15,Junior,,SC-074
-Oct-15,Junior,,SC-074
-Oct-15,Junior,,SC-074
-Oct-15,Junior,,SC-074
-Oct-15,Junior,,SC-075
-Oct-15,Junior,,SC-075
-Oct-15,Junior,,SC-075
-Oct-15,Junior,,SC-075
-Oct-15,Junior,,SC-075
-Oct-15,Junior,,SC-075
-Oct-15,Junior,,SC-077
-Oct-15,Junior,,SC-077
-Oct-15,Junior,,SC-077
-Oct-15,Junior,,SC-077
-Oct-15,Junior,,SC-077
-Oct-15,Junior,,SC-078
-Oct-15,Junior,,SC-078
-Oct-15,Junior,,SC-078
-Oct-15,Junior,,SC-078
-Oct-15,Junior,,SC-078
-Oct-15,Junior,,SC-079
-Oct-15,Junior,,SC-079
-Oct-15,Junior,,SC-079
-Oct-15,Junior,,SC-079
-Oct-15,Junior,,SC-079
-Oct-15,Junior,,SC-080
-Oct-15,Junior,,SC-080
-Oct-15,Junior,,SC-080
-Oct-15,Junior,,SC-080
-Oct-15,Junior,,SC-082
-Oct-15,Junior,,SC-082
-Oct-15,Junior,,SC-082
-Oct-15,Junior,,SC-082
-Oct-15,Junior,,SC-082
-Oct-15,Junior,,SC-082
-Oct-15,Junior,,SC-086
-Oct-15,Junior,,SC-086
-Oct-15,Junior,,SC-086
-Oct-15,Junior,,SC-086
-Oct-15,Junior,,SC-086
-Oct-15,Junior,,SC-086
-Oct-15,Junior,,SC-086
-Oct-15,Junior,,SC-086
-Oct-15,Junior,,SC-086
-Oct-15,Junior,,SC-087
-Oct-15,Junior,,SC-087
-Oct-15,Junior,,SC-087
-Oct-15,Junior,,SC-087
-Oct-15,Junior,,SC-087
-Oct-15,Junior,,SC-088
-Oct-15,Junior,,SC-088
-Oct-15,Junior,,SC-088
-Oct-15,Junior,,SC-088
-Oct-15,Junior,,SC-088
-Oct-15,Junior,,SC-088
-Oct-15,Junior,,SC-088
-Oct-15,Junior,,SC-1937
-Oct-15,Junior,,SC-1937
-Oct-15,Junior,,SC-209
-Oct-15,Junior,,SC-209
-Oct-15,Junior,,SC-209
-Oct-15,Junior,,SC-209
-Oct-15,Junior,,SC-209
-Oct-15,Junior,,SC-209
-Oct-15,Junior,,SC-209
-Oct-15,Junior,,SC-209
-Oct-15,Junior,,SC-209
-Oct-15,Junior,,SC-212
-Oct-15,Junior,,SC-212
-Oct-15,Junior,,SC-212
-Oct-15,Junior,,SC-212
-Oct-15,Junior,,SC-212
-Oct-15,Junior,,SC-2249
-Oct-15,Junior,,SC-2249
-Oct-15,Junior,,SC-2249
-Oct-15,Junior,,SC-2249
-Oct-15,Junior,,SC2250
-Oct-15,Junior,,SC2252
-Oct-15,Junior,,SC2252
-Oct-15,Junior,,SC2252
-Oct-15,Junior,,SC2252
-Oct-15,Junior,,SC2252
-Oct-15,Junior,,SC2252
-Oct-15,Junior,,CMO-002
-Oct-15,Junior,,CMO-002
-Oct-15,Junior,,CMO-002
-Oct-15,Junior,,CMO-002
-Oct-15,Junior,,CMO-002
-Oct-15,Junior,,CMO-002
-Oct-15,Junior,,CMO-002
-Oct-15,Junior,,CMO-002
-Oct-15,Junior,,CMO-002
-Oct-15,Junior,,CMO-002
-Oct-15,Junior,,CMO-002
-Oct-15,Junior,,CMO-038
-Oct-15,Junior,,CMO-038
-Oct-15,Junior,,CMO-038
-Oct-15,Junior,,CMO-038
-Oct-15,Junior,,CMO-038
-Oct-15,Junior,,CMO-038
-Oct-15,Junior,,CMO-038
-Oct-15,Junior,,CMO-038
-Oct-15,Junior,,PHD-006
-Oct-15,Junior,,PHD-006
-Oct-15,Junior,,PHD-006
-Oct-15,Junior,,PHD-006
-Oct-15,Junior,,PHD-006
-Oct-15,Junior,,PHD-006
-Oct-15,Junior,,PHD-006
-Oct-15,Junior,,PHD-006
-Oct-15,Junior,,PHD-006
-Oct-15,Junior,,PHD-006
-Oct-15,Junior,,PHD-006
-Oct-15,Junior,,PHD-006
-Oct-15,Junior,,PHD-006
-Oct-15,Junior,,PHD78
-Oct-15,Junior,,PHD78
-Oct-15,Junior,,PHD78
-Oct-15,Junior,,PHD-017
-Oct-15,Junior,,PHD-017
-Oct-15,Junior,,PHD-072
-Oct-15,Junior,,PHD-072
-Oct-15,Junior,,PHD-072
-Oct-15,Junior,,PHD-072
-Oct-15,Junior,,PHD-072
-Oct-15,Junior,,PHD-072
-Oct-15,Junior,,PHD-072
-Oct-15,Junior,,PHD-072
-Oct-15,Junior,,PHD-072
-Oct-15,Junior,,PHD-072
-Oct-15,Junior,,PHD-072
-Oct-15,Junior,,PHD-072
-Oct-15,Junior,,PHD-072
-Oct-15,Junior,,PHD-072
-Oct-15,Junior,,PHD-072
-Oct-15,Junior,,PHD-072
-Oct-15,Junior,,PHD066
-Oct-15,Junior,,PHD066
-Oct-15,Junior,,PHD066
-Oct-15,Junior,,PHD066
-Oct-15,Junior,,PHD066
-Oct-15,Junior,,PHD066
-Oct-15,Junior,,PHD066
-Oct-15,Junior,,PHD066
-Oct-15,Junior,,PHD066
-Oct-15,Junior,,PHD-072
-Oct-15,Junior,,PHD-072
-Oct-15,Junior,,PHD-072
-Oct-15,Junior,,PHD-072
-Oct-15,Junior,,PHD-072
-Oct-15,Junior,,PHD-072
-Oct-15,Junior,,PHD-072
-Oct-15,Junior,,PHD-072
-Oct-15,Junior,,PHD-072
-Oct-15,Junior,,PHD-072
-Oct-15,Junior,,PHD-072
-Oct-15,Junior,,PHD-072
-Oct-15,Junior,,PHD-072
-Oct-15,Junior,,PHD-072
-Oct-15,Junior,,PHD066
-Oct-15,Junior,,PHD066
-Oct-15,Junior,,PHD066
-Oct-15,Junior,,PHD066
-Oct-15,Junior,,PHD-1893
-Oct-15,Junior,,PHD-1893
-Oct-15,Junior,,PHD-1893
-Oct-15,Junior,,PHD-1893
-Oct-15,Junior,,PHD-1893
-Oct-15,Junior,,PHD-1893
-Oct-15,Junior,,PHD-1893
-Oct-15,Junior,,PHD-1893
-Oct-15,Junior,,PHD-1893
-Oct-15,Junior,,PHD-1893
-Oct-15,Junior,,PHD-1893
-Oct-15,Junior,,PHD-1893
-Oct-15,Junior,,PHD-1893
-Oct-15,Junior,,PHD-1893
-Oct-15,Junior,,PHD-1893
-Oct-15,Junior,,PHD-1893
-Oct-15,Junior,,PHD-1893
-Oct-15,Junior,,PHD-1893
-Oct-15,Junior,,PHD-1893
-Oct-15,Junior,,PHD-1893
-Oct-15,Junior,,PHD-1893
-Oct-15,Junior,,PHD-1893
-Oct-15,Junior,,PHD-1893
-Oct-15,Junior,,PHD-1893
-Oct-15,Junior,,PHD-1893
-Oct-15,Junior,,PHD-1893
-Oct-15,Junior,,PHD-1893
-Oct-15,Junior,,PHD-1893
-Oct-15,Junior,,PHD-067
-Oct-15,Junior,,PHD-067
-Oct-15,Junior,,PHD-067
-Oct-15,Junior,,PHD-067
-Oct-15,Junior,,PHD-067
-Oct-15,Junior,,PHD-067
-Oct-15,Junior,,PHD-067
-Oct-15,Junior,,PHD-067
-Oct-15,Junior,,PHD-067
-Oct-15,Junior,,PHD-067
-Oct-15,Junior,,PHD-067
-Oct-15,Junior,,PHD-067
-Oct-15,Junior,,PHD-067
-Oct-15,Junior,,PHD-067
-Oct-15,Junior,,PHD-073
-Oct-15,Junior,,PHD-073
-Oct-15,Junior,,PHD-073
-Oct-15,Junior,,PHD-073
-Oct-15,Junior,,PHD-073
-Oct-15,Junior,,PHD-073
-Oct-15,Junior,,PHD-073
-Oct-15,Junior,,PHD-073
-Oct-15,Junior,,PHD-073
-Oct-15,Junior,,PHD-073
-Oct-15,Junior,,PHD80
-Oct-15,Junior,,PHD80
-Oct-15,Junior,,PHD80
-Oct-15,Junior,,PHD80
-Oct-15,Junior,,PHD80
-Oct-15,Junior,,PHD80
-Oct-15,Junior,,PHD80
-Oct-15,Junior,,PHD80
-Oct-15,Junior,,PHD80
-Oct-15,Junior,,PHD80
-Oct-15,Junior,,PHD80
-Oct-15,Junior,,PHD-065
-Oct-15,Junior,,PHD-065
-Oct-15,Junior,,PHD-065
-Oct-15,Junior,,PHD-065
-Oct-15,Junior,,PHD-065
-Oct-15,Junior,,PHD-065
-Oct-15,Junior,,PHD-065
-Oct-15,Junior,,PHD-065
-Oct-15,Junior,,PHD-065
-Oct-15,Junior,,PHD-065
-Oct-15,Junior,,PHD-065
-Oct-15,Junior,,PHD-065
-Oct-15,Junior,,PHD-064
-Oct-15,Junior,,PHD-064
-Oct-15,Junior,,PHD-064
-Oct-15,Junior,,PHD-064
-Oct-15,Junior,,PHD-064
-Oct-15,Junior,,PHD-064
-Oct-15,Junior,,PHD-064
-Oct-15,Junior,,PHD-064
-Oct-15,Junior,,PHD-064
-Oct-15,Junior,,PHD-064
-Oct-15,Junior,,PHD-064
-Oct-15,Junior,,PHD-064
-Oct-15,Junior,,PHD-064
-Oct-15,Junior,,PHD-064
-Oct-15,Junior,,PHD-064
-Oct-15,Junior,,PHD-020
-Oct-15,Junior,,PHD-068
-Oct-15,Junior,,PHD-061
-Oct-15,Junior,,PHD-061
-Oct-15,Junior,,PHD-061
-Oct-15,Junior,,PHD-061
-Oct-15,Junior,,PHD-061
-Oct-15,Junior,,PHD-061
-Oct-15,Junior,,PHD-061
-Oct-15,Junior,,PHD-061
-Oct-15,Junior,,PHD-1876
-Oct-15,Junior,,PHD-1876
-Oct-15,Junior,,PHD-1876
-Oct-15,Junior,,PHD-1876
-Oct-15,Junior,,PHD-1876
-Oct-15,Junior,,PHD-1876
-Oct-15,Junior,,PHD-1876
-Oct-15,Junior,,PHD-1878
-Oct-15,Junior,,PHD-1878
-Oct-15,Junior,,PHD-1878
-Oct-15,Junior,,PHD-1878
-Oct-15,Junior,,PHD-1878
-Oct-15,Junior,,PHD-1878
-Oct-15,Junior,,PHD-1878
-Oct-15,Junior,,PHD-1878
-Oct-15,Junior,,PHD-1913
-Oct-15,Junior,,PHD-1913
-Oct-15,Junior,,PHD-1913
-Oct-15,Junior,,PHD-1913
-Oct-15,Junior,,PHD-1913
-Oct-15,Junior,,PHD-1913
-Oct-15,Junior,,PHD-1913
-Oct-15,Junior,,PHD-1913
-Oct-15,Junior,,PHD-1913
-Oct-15,Junior,,PHD-1913
-Oct-15,Junior,,PHD-019
-Oct-15,Junior,,PHD-019
-Oct-15,Junior,,PHD-071
-Oct-15,Junior,,PHD-071
-Oct-15,Junior,,PHD-071
-Oct-15,Junior,,PHD-071
-Oct-15,Junior,,PHD-071
-Oct-15,Junior,,PHD-071
-Oct-15,Junior,,PHD-063
-Oct-15,Junior,,PHD-063
-Oct-15,Junior,,PHD-063
-Oct-15,Junior,,PHD-063
-Oct-15,Junior,,PHD-063
-Oct-15,Junior,,PHD-063
-Oct-15,Junior,,PHD-063
-Oct-15,Junior,,PHD-063
-Oct-15,Junior,,PHD-063
-Oct-15,Junior,,PHD-063
-Oct-15,Junior,,PHD-063
-Oct-15,Junior,,PHD-063
-Oct-15,Junior,,PHD-063
-Oct-15,Junior,,PHD-063
-Oct-15,Junior,,PHD-063
-Oct-15,Junior,,PHD-063
-Oct-15,Junior,,PHD-063
-Oct-15,Junior,,PHD-063
-Oct-15,Junior,,PHD-063
-Oct-15,Junior,,PHD-069
-Oct-15,Junior,,PHD-069
-Oct-15,Junior,,PHD-069
-Oct-15,Junior,,PHD-069
-Oct-15,Junior,,PHD-069
-Oct-15,Junior,,PHD-069
-Oct-15,Junior,,PHD-069
-Oct-15,Junior,,PHD-069
-Oct-15,Junior,,PHD-069
-Oct-15,Junior,,PHD-069
-Oct-15,Junior,,PHD-069
-Oct-15,Junior,,PHD-069
-Oct-15,Junior,,PHD-069
-Oct-15,Junior,,PHD-069
-Oct-15,Junior,,PHD-066
-Oct-15,Junior,,PHD-066
-Oct-15,Junior,,PHD-066
-Oct-15,Junior,,PHD-066
-Oct-15,Junior,,PHD-066
-Oct-15,Junior,,PHD-066
-Oct-15,Junior,,PHD-066
-Oct-15,Junior,,PHD-066
-Oct-15,Junior,,PHD-066
-Oct-15,Junior,,PHD-066
-Oct-15,Junior,,PHD-066
-Oct-15,Junior,,SER-120
-Oct-15,Junior,,SER-283
-Oct-15,Junior,,SER-283
-Oct-15,Junior,,IGO-005
-Oct-15,Junior,,IGO-005
-Oct-15,Junior,,IGO-005
-Oct-15,Junior,,IGO-005
-Oct-15,Junior,,IGO-005
-Oct-15,Junior,,IGO-005
-Oct-15,Junior,,SER-120
-Oct-15,Junior,,SER-283
-Oct-15,Junior,,SER-120
-Oct-15,Junior,,SER-120
-Oct-15,Junior,,SER-283
-Oct-15,Junior,,SER-283
-Oct-15,Junior,,IGO-1831
-Oct-15,Junior,,IGO-1831
-Oct-15,Junior,,IGO-1831
-Oct-15,Junior,,IGO-1831
-Oct-15,Junior,,IGO-1831
-Oct-15,Junior,,IGO-054
-Oct-15,Junior,,IGO-054
-Oct-15,Junior,,IGO-054
-Oct-15,Junior,,IGO-054
-Oct-15,Junior,,IGO-054
-Oct-15,Junior,,IGO-054
-Oct-15,Junior,,IGO-054
-Oct-15,Junior,,IGO-054
-Oct-15,Junior,,IGO-121
-Oct-15,Junior,,IGO-121
-Oct-15,Junior,,IGO-121
-Oct-15,Junior,,IGO-121
-Oct-15,Junior,,IGO-121
-Oct-15,Junior,,IGO-121
-Oct-15,Junior,,IGO-121
-Oct-15,Junior,,IGO-2170
-Oct-15,Junior,,IGO-2170
-Oct-15,Junior,,IGO-2170
-Oct-15,Junior,,IGO-2170
-Oct-15,Junior,,IGO-2170
-Oct-15,Junior,,IGO2187
-Oct-15,Junior,,IGO2187
-Oct-15,Junior,,IGO2187
-Oct-15,Junior,,IGO2187
-Oct-15,Junior,,IGO-012
-Oct-15,Junior,,IGO-012
-Oct-15,Junior,,IGO-012
-Oct-15,Junior,,IGO-012
-Oct-15,Junior,,IGO-012
-Oct-15,Junior,,IGO-012
-Oct-15,Junior,,IGO-012
-Oct-15,Junior,,IGO-012
-Oct-15,Junior,,IGO-012
-Oct-15,Junior,,IGO-012
-Oct-15,Junior,,IGO-012
-Oct-15,Junior,,IGO-012
-Oct-15,Junior,,IGO-012
-Oct-15,Junior,,IGO-012
-Oct-15,Junior,,IGO-012
-Oct-15,Junior,,IGO-012
-Oct-15,Junior,,IGO-012
-Oct-15,Junior,,IGO-012
-Oct-15,Junior,,IGO-012
-Oct-15,Junior,,IGO-012
-Oct-15,Junior,,IGO-012
-Oct-15,Junior,,IGO-056
-Oct-15,Junior,,IGO-056
-Oct-15,Junior,,IGO-056
-Oct-15,Junior,,IGO-056
-Oct-15,Junior,,IGO-034
-Oct-15,Junior,,IGO-034
-Oct-15,Junior,,IGO-034
-Oct-15,Junior,,IGO-034
-Oct-15,Junior,,IGO-034
-Oct-15,Junior,,IGO-034
-Oct-15,Junior,,IGO-034
-Oct-15,Junior,,IGO-034
-Oct-15,Junior,,IGO-034
-Oct-15,Junior,,IGO-034
-Oct-15,Junior,,IGO-034
-Oct-15,Junior,,IGO-034
-Oct-15,Junior,,IGO-034
-Oct-15,Junior,,IGO-034
-Oct-15,Junior,,IGO-050
-Oct-15,Junior,,IGO-050
-Oct-15,Junior,,IGO-050
-Oct-15,Junior,,IGO-050
-Oct-15,Junior,,IGO-050
-Oct-15,Junior,,IGO-050
-Oct-15,Junior,,IGO-050
-Oct-15,Junior,,IGO-050
-Oct-15,Junior,,IGO-053
-Oct-15,Junior,,IGO-053
-Oct-15,Junior,,IGO-053
-Oct-15,Junior,,IGO-053
-Oct-15,Junior,,IGO-053
-Oct-15,Junior,,IGO-053
-Oct-15,Junior,,IGO-053
-Oct-15,Junior,,IGO-053
-Oct-15,Junior,,IGO-053
-Oct-15,Junior,,IGO-053
-Oct-15,Junior,,IGO-053
-Oct-15,Junior,,IGO-057
-Oct-15,Junior,,IGO-057
-Oct-15,Junior,,IGO-057
-Oct-15,Junior,,IGO-057
-Oct-15,Junior,,IGO-014
-Oct-15,Junior,,IGO-014
-Oct-15,Junior,,IGO-014
-Oct-15,Junior,,IGO-014
-Oct-15,Junior,,IGO-005
-Oct-15,Junior,,SER106
-Oct-15,Junior,,SER106
-Oct-15,Junior,,IGO2186
-Oct-15,Junior,,IGO2186
-Oct-15,Junior,,IGO2186
-Oct-15,Junior,,IGO2186
-Oct-15,Junior,,IGO-049
-Oct-15,Junior,,IGO-049
-Oct-15,Junior,,IGO-049
-Oct-15,Junior,,IGO-049
-Oct-15,Junior,,IGO-049
-Oct-15,Junior,,IGO-049
-Oct-15,Junior,,IGO-049
-Oct-15,Junior,,IGO-049
-Oct-15,Junior,,IGO-049
-Oct-15,Junior,,IGO-049
-Oct-15,Junior,,IGO-049
-Oct-15,Junior,,IGO-049
-Oct-15,Junior,,IGO-058
-Oct-15,Junior,,IGO-058
-Oct-15,Junior,,IGO-058
-Oct-15,Junior,,IGO-058
-Oct-15,Junior,,IGO-058
-Oct-15,Junior,,IGO-058
-Oct-15,Junior,,IGO-058
-Oct-15,Junior,,IGO-058
-Oct-15,Junior,,IGO-058
-Oct-15,Junior,,IGO-016
-Oct-15,Junior,,IGO-016
-Oct-15,Junior,,IGO-016
-Oct-15,Junior,,IGO-016
-Oct-15,Junior,,IGO-016
-Oct-15,Junior,,IGO-016
-Oct-15,Junior,,IGO-016
-Oct-15,Junior,,IGO-016
-Oct-15,Junior,,IGO-016
-Oct-15,Junior,,IGO-016
-Oct-15,Junior,,IGO-016
-Oct-15,Junior,,IGO-016
-Oct-15,Junior,,IGO-051
-Oct-15,Junior,,IGO-051
-Oct-15,Junior,,IGO-051
-Oct-15,Junior,,IGO-051
-Oct-15,Junior,,IGO-051
-Oct-15,Junior,,IGO-051
-Oct-15,Junior,,IGO-051
-Oct-15,Junior,,IGO-051
-Oct-15,Junior,,IGO-051
-Oct-15,Junior,,IGO-051
-Oct-15,Junior,,IGO-051
-Oct-15,Junior,,IGO-051
+date,id,parentId,level,name,grade,jobTitle,unit,salaryCostOfReports,payFloor,payCeil,professionalOccupationalGroup
+Oct-15,CMO-038,CMO-002,Senior,N/D,SCS1,Deputy Director - Clinical Excellence Awards Policy,Chief Medical Officer's Private Office,317007,ND,,Policy
+Oct-15,PHD-063,PHD-019,Senior,N/D,SCS1,"Deputy Director, Obesity and Food Policy",Public Health Directorate,772780,ND,,Policy
+Oct-15,SC-077,SC-022,Senior,N/D,SCS1,Deputy Director for Maternity & Child Health,Social Care Local Government & Care Partnerships Directorate,653718,ND,,Policy
+Oct-15,IGT2358,IGT2355,Senior,N/D,SCS1,"Deputy Director - Office for Life Sciences, Health Innovation","Innovation, Growth and Technology",0,ND,,Policy
+Oct-15,FN-NHSEFP-116,FN140,Senior,Peter Sellars,SCS2,Director of Estates and Facilities,Finance & NHS,323375,45000,49999,Policy
+Oct-15,IGT2359,IGT2355,Senior,N/D,SCS1,"Deputy Director - Office for Life Sciences, Health Innovation","Innovation, Growth and Technology",0,ND,,Policy
+Oct-15,IGT-2004,IGT-101,Senior,N/D,SCS1,Senior Technical Advisor,"Innovation, Growth and Technology",0,ND,,Policy
+Oct-15,PHD-067,PHD-017,Senior,N/D,SCS1,Head of Health Protection Analytical team,Public Health Directorate,597884,ND,,Policy
+Oct-15,SER106,IGO-005,Senior,N/D,SCS1,Deputy Director - Strategic Engagement,Group Operations,0,ND,,Policy
+Oct-15,FN146,FN-PICD-033,Senior,N/D,SCS1,Head of NHS Litigaton Improvement Programme,Finance & NHS,0,ND,,Policy
+Oct-15,SER-2388N,SER-004,Senior,N/D,SCS1,Deputy Director - NHS Cost Recovery programme,Strategy and External Relations,0,ND,,Policy
+Oct-15,PHD78,PHD-019,Senior,N/D,SCS1,Deputy Director - Obesity and Diabetes,Public Health Directorate,0,ND,,Policy
+Oct-15,IGO-012,IGO-005,Senior,Marion Furr,SCS2,Director Ministerial Business & Parliamentary Accountability,Group Operations,2736741,60000,64999,Operational Delivery
+Oct-15,FN144,FN131,Senior,N/D,SCS1,Deputy Director - Delivery Team,Finance & NHS,0,ND,,Policy
+Oct-15,IGO-121,IGO-015,Senior,N/D,SCS1,Deputy Director - Head of Internal Audit,Group Operations,622703,ND,,Operational Delivery
+Oct-15,FN-GFM-276,FN-GFM-027,Senior,N/D,SCS1,Deputy Director-Finance Operations,Finance & NHS,1400665,ND,,Finance
+Oct-15,SER-2310,SER-1945,Senior,N/D,SCS1,"Deputy Director, Quality Improvement",Strategy and External Relations,461156,ND,,Policy
+Oct-15,SC-074,SC-026,Senior,N/D,SCS1,Deputy Director for Mental Health Policy & Strategy,Social Care Local Government & Care Partnerships Directorate,491126,ND,,Policy
+Oct-15,SC-024,SC-023,Senior,N/D,SCS1,Deputy Director - Strategic Policy & Finance,Social Care Local Government & Care Partnerships Directorate,678570,ND,,Policy
+Oct-15,FN145,FN-PICD-108,Senior,N/D,SCS1,"Deputy Director - Growth, Policy and Customer Relations",Finance & NHS,0,ND,,Policy
+Oct-15,IGT2366,IGT2355,Senior,N/D,SCS1,Deputy Director - Genomics,"Innovation, Growth and Technology",0,ND,,Policy
+Oct-15,FN-FP-111,FN-FP-030,Senior,N/D,SCS1,Deputy Director of Financial Policy & Strategy,Finance & NHS,0,ND,,Policy
+Oct-15,SC-212,SC-023,Senior,N/D,SCS1,Deputy Director - Local Government and Regional Policy,Social Care Local Government & Care Partnerships Directorate,417921,ND,,Policy
+Oct-15,IGT2357,IGT-028,Senior,N/D,SCS1,Deputy Director - Community Pharmacy,"Innovation, Growth and Technology",0,ND,,Policy
+Oct-15,FN-GFM-099,FN-GFM-027,Senior,N/D,SCS1,Deputy Director - Provider Finance,Finance & NHS,323104,ND,,Finance
+Oct-15,FN-NHSG-2025,FN-NHSG-031,Senior,N/D,SCS1,Deputy Director - NHS Efficiency,Finance & NHS,1107324,ND,,Policy
+Oct-15,SC2250,SC-003,Senior,N/D,SCS1,Head of Dementia Innovation Unit,Social Care Local Government & Care Partnerships Directorate,0,ND,,Policy
+Oct-15,IGT2368,IGT2355,Senior,N/D,SCS1,Head of Accelerated Access Review,"Innovation, Growth and Technology",483947,ND,,Policy
+Oct-15,RDD-041,RDD-009,Senior,N/D,SCS1,Deputy Director - Research Finance & Programmes,Research & Development Directorate,1036368,ND,,Policy
+Oct-15,FN-GFM-2008,FN-GFM-027,Senior,N/D,SCS1,Deputy Director - Accounts,Finance & NHS,1603837,ND,,Finance
+Oct-15,FN-FP-2082,FN-FP-030,Senior,N/D,SCS1,Deputy Director - Performance Insight,Finance & NHS,0,ND,,Policy
+Oct-15,SC-086,SC-023,Senior,N/D,SCS1,Deputy Director - Social Care Policy & Legislation,Social Care Local Government & Care Partnerships Directorate,663194,ND,,Policy
+Oct-15,SC-2249,SC-023,Senior,N/D,SCS1,"Deputy Director - Prevention, Integration and Ageing",Social Care Local Government & Care Partnerships Directorate,0,ND,,Policy
+Oct-15,IGT-118,IGT-028,Senior,N/D,SCS1,"Deputy Director - Pricing, Prescriptions and Supply","Innovation, Growth and Technology",957400,ND,,Policy
+Oct-15,IGO-049,IGO-016,Senior,N/D,SCS1,Head of Workplace Operations,Group Operations,1686235,ND,,Information Technology
+Oct-15,PHD80,PHD-020,Senior,N/D,SCS1,"Deputy Director - Emergency Preparedness, Resilience and Response",Public Health Directorate,486907,ND,,Policy
+Oct-15,PHD-073,PHD-020,Senior,N/D,SCS1,Deputy Director EPRR Threats,Public Health Directorate,407618,ND,,Policy
+Oct-15,IGO2186,IGO-005,Senior,N/D,SCS1,Deputy Director - Implementation Unit,Group Operations,0,ND,,Operational Delivery
+Oct-15,IGT-101,IGT-028,Senior,N/D,SCS1,Deputy Director - Clinical & Cost Effectiveness,"Innovation, Growth and Technology",708855,ND,,Policy
+Oct-15,SC-080,SC-026,Senior,N/D,SCS1,Deputy Director - Dementia ( domestic),Social Care Local Government & Care Partnerships Directorate,0,ND,,Policy
+Oct-15,IGO-056,IGO-012,Senior,N/D,SCS1,Principal Private Secretary - Office of the Permanent Secretary,Group Operations,0,ND,,Operational Delivery
+Oct-15,IGT2360,IGT2355,Senior,VACANT,SCS1,"Deputy Director, Sector Policy","Innovation, Growth and Technology",0,ND,,Policy
+Oct-15,SC-087,SC-023,Senior,N/D,SCS1,Deputy Director - Integration,Social Care Local Government & Care Partnerships Directorate,302115,ND,,Policy
+Oct-15,IGO-2170,IGO-015,Senior,N/D,SCS1,"Deputy Director Information and Legal, Legacy Management Team",Group Operations,491312,ND,,Programme and Project Management (PPM)
+Oct-15,FN-NHSG-117,FN-NHSG-031,Senior,N/D,SCS1,"Deputy Director - Legislation, Constitution & Policy Improvement",Finance & NHS,788279,ND,,Policy
+Oct-15,SER-1957,SER-1945,Senior,N/D,SCS1,Deputy Director - Citizen Voice and Insight,Strategy and External Relations,572603,ND,,Policy
+Oct-15,FN-NHSG-2023,FN-NHSG-031,Senior,N/D,SCS1,Deputy Director of NHS Policy and Strategy Unit,Finance & NHS,730350,ND,,Policy
+Oct-15,IGT2361,IGT-010,Senior,N/D,SCS1,Deputy Director - Policy & Strategy,"Innovation, Growth and Technology",1053867,ND,,Policy
+Oct-15,IGO-1831,IGO-015,Senior,N/D,SCS1,Deputy Director of Governance Unit,Group Operations,413815,ND,,Operational Delivery
+Oct-15,SER-283,IGO2185,Senior,N/D,SCS1,Deputy Director of Strategy,Group Operations,295542,ND,,Policy
+Oct-15,SC-088,SC-022,Senior,N/D,SCS1,Deputy Director - Equalities and Social Inclusion,Social Care Local Government & Care Partnerships Directorate,1028520,ND,,Policy
+Oct-15,SER-2433N,SER-1945,Senior,N/D,SCS1,"Deputy Director, Secretary to the Gosport Investigation",Strategy and External Relations,446416,ND,,Other
+Oct-15,FN-FP-098,FN-FP-030,Senior,N/D,SCS1,"Deputy Director of Financial Planning, Monitoring and Analysis",Finance & NHS,0,ND,,Finance
+Oct-15,IGT2352,IGT-2351,Senior,N/D,SCS1,Deputy Director,"Innovation, Growth and Technology",0,ND,,Operational Delivery
+Oct-15,IGO-034,IGO-012,Senior,VACANT,SCS1,Principal Private Secretary to the Secretary of State,Group Operations,1613812,ND,,Operational Delivery
+Oct-15,IGO2185,IGO-005,Senior,Kristen McLeod,SCS2,"Director - Strategy, Implementation and Planning",Group Operations,461029,85000,89999,Policy
+Oct-15,PHD-1876,PHD-068,Senior,N/D,SCS1,"Deputy Director Genomics, science and emerging technologies",Public Health Directorate,278733,ND,,Policy
+Oct-15,PHD-1878,PHD-068,Senior,N/D,SCS1,Deputy Director - Screening and sexual health,Public Health Directorate,322293,ND,,Policy
+Oct-15,PHD-1913,PHD-068,Senior,N/D,SCS1,Deputy Director Health Proterction System and Immunisation,Public Health Directorate,434350,ND,,Policy
+Oct-15,IGT2362,IGT-010,Senior,N/D,SCS1,Deputy Director - Digital Transformation and Services,"Innovation, Growth and Technology",616343,ND,,Policy
+Oct-15,SER-045,SER-1945,Senior,N/D,SCS1,Deputy Director - Professional Standards,Strategy and External Relations,1310956,ND,,Policy
+Oct-15,IGO-053,IGO-014,Senior,N/D,SCS1,"Deputy Director, HR Service Delivery",Group Operations,694832,ND,,Human Resources
+Oct-15,SER-120,IGO2185,Senior,N/D,SCS1,Deputy Director Strategy Group,Group Operations,0,ND,,Policy
+Oct-15,PHD-065,PHD-020,Senior,N/D,SCS1,Deputy Director -Health Protection Programmes,Public Health Directorate,606835,ND,,Policy
+Oct-15,PHD-072,PHD-017,Senior,N/D,SCS1,Head of EU and Global Affairs,Public Health Directorate,1081033,ND,,Policy
+Oct-15,SC-082,SC-023,Senior,N/D,SCS1,Deputy Director - Quality & Safety,Social Care Local Government & Care Partnerships Directorate,533758,ND,,Policy
+Oct-15,FN-PICD-107,FN-PICD-033,Senior,N/D,SCS1,Deputy Director Procurement,Finance & NHS,1796428,ND,,Procurement
+Oct-15,SC-078,SC-026,Senior,N/D,SCS1,Deputy Director -Learning Disability & Autism,Social Care Local Government & Care Partnerships Directorate,503323,ND,,Policy
+Oct-15,IGO-054,IGO-015,Senior,N/D,SCS1,Deputy Director of Assurance and Public Appointments,Group Operations,1124919,ND,,Operational Delivery
+Oct-15,SC2253,SC-003,Senior,N/D,SCS1,Deputy Director Work & Health Joint Unit,Social Care Local Government & Care Partnerships Directorate,0,ND,,Policy
+Oct-15,FN-PICD-125,FN-PICD-033,Senior,N/D,SCS1,Deputy Director for Property,Finance & NHS,1313372,ND,,Finance
+Oct-15,IGT-100,IGT-028,Senior,N/D,SCS1,Deputy Director - Senior Economic Advisor,"Innovation, Growth and Technology",523174,ND,,Economics
+Oct-15,SER-1951,SER-011,Senior,N/D,SCS1,Deputy Director Workforce Development Strategy,Strategy and External Relations,796569,ND,,Policy
+Oct-15,FN-PICD-108,FN140,Senior,N/D,SCS1,Deputy Director for Commercial Policy,Finance & NHS,2042432,ND,,Procurement
+Oct-15,IGT2353,IGT-010,Senior,N/D,SCS1,Deputy Director - External Partnerships,"Innovation, Growth and Technology",530822,ND,,Operational Delivery
+Oct-15,SER-036,SER-1945,Senior,N/D,SCS1,Deputy Director - CQC Sponsorship/Quality Regulation and DH Investigations,Strategy and External Relations,534224,ND,,Policy
+Oct-15,PSF042,IGO2187,Senior,N/D,SCS1,Deputy Director - HR Business Change,Group Operations,0,ND,,Human Resources
+Oct-15,PHD-061,PHD-068,Senior,N/D,SCS1,"Deputy Director Human Tissue,Embryology and Assisted Reproduction",Public Health Directorate,336443,ND,,Policy
+Oct-15,RDD-040,RDD-009,Senior,N/D,SCS1,"Deputy Director - Sponsorship, Performance and Workforce",Research & Development Directorate,0,ND,,Policy
+Oct-15,IGT-102,IGT2355,Senior,N/D,SCS1,Deputy Director - Office for Life Sciences,"Innovation, Growth and Technology",0,ND,,Policy
+Oct-15,SC2252,SC-003,Senior,N/D,SCS1,Head of Work & Health Joint Unit,Social Care Local Government & Care Partnerships Directorate,353378,ND,,Policy
+Oct-15,SER-043,SER-011,Senior,N/D,SCS1,"Deputy Director - NHS Pay, Pensions & Employment Services",Strategy and External Relations,733442,ND,,Policy
+Oct-15,IGT-109,IGT-028,Senior,N/D,SCS1,Deputy Director Commercial Medicines Unit,"Innovation, Growth and Technology",2116861,ND,,Procurement
+Oct-15,SC-076,SC-023,Senior,N/D,SCS1,Deputy Director - Care Provider Continuity,Social Care Local Government & Care Partnerships Directorate,0,ND,,Policy
+Oct-15,PHD-071,PHD-019,Senior,N/D,SCS1,Deputy Director - Alcohol and Drugs Policy,Public Health Directorate,269364,ND,,Policy
+Oct-15,PHD066,PHD-017,Senior,N/D,SCS1,Deputy Director - Public Health Policy & Strategy,Public Health Directorate,485224,ND,,Policy
+Oct-15,IGO-051,IGO-016,Senior,N/D,SCS1,Head of Business Support & Engagement,Group Operations,1601189,ND,,Property and asset management
+Oct-15,SER-042,SER-013,Senior,N/D,SCS1,Deputy Director - Corporate Engagement,Strategy and External Relations,731837,ND,,Policy
+Oct-15,PHD077,PHD-068,Senior,N/D,SCS1,Deputy Director - Ebola Team,Public Health Directorate,0,ND,,Policy
+Oct-15,SER-055,SER-004,Senior,N/D,SCS1,Deputy Director - Global Summit on Patient Safety & Connecting,Strategy and External Relations,334227,ND,,Operational Delivery
+Oct-15,IGO-050,IGO-014,Senior,N/D,SCS1,"Deputy Director - HR Operations & SCS Unit, HR Change Team",Group Operations,833591,ND,,Human Resources
+Oct-15,RDD-039,RDD-009,Senior,N/D,SCS1,Acting Deputy Director - Research Infrastructure and Growth,Research & Development Directorate,334838,ND,,Policy
+Oct-15,SC-023,SC-003,Senior,Clara Swinson,SCS2,Director of Social Care Policy,Social Care Local Government & Care Partnerships Directorate,987774,80000,84999,Policy
+Oct-15,FN128,FN-GFM-027,Senior,N/D,SCS1,Deputy Director - Financial Control,Finance & NHS,971876,ND,,Finance
+Oct-15,SER-1946,SER-011,Senior,N/D,SCS1,Deputy Director Workforce Capacity and Information,Strategy and External Relations,425407,ND,,Policy
+Oct-15,SC-079,SC-026,Senior,N/D,SCS1,"Deputy Director - Armed Forces and Offender Health, Mental Health Legislation",Social Care Local Government & Care Partnerships Directorate,639791,ND,,Policy
+Oct-15,PHD-066,PHD-019,Senior,N/D,SCS1,Deputy Director - Health Visitor programme and healthy foods,Public Health Directorate,421759,ND,,Policy
+Oct-15,FN-NHSG-112,FN-NHSG-031,Senior,N/D,SCS1,"Deputy Director, NHS Personalisation and Regulation",Finance & NHS,0,ND,,Policy
+Oct-15,IGO-2184,IGO-015,Senior,N/D,SCS1,Deputy Director - NHS Security,Group Operations,0,ND,,Procurement
+Oct-15,FN-GFM-115,FN-GFM-027,Senior,N/D,SCS1,Interim Director - Finance Business Partners,Finance & NHS,892186,ND,,Finance
+Oct-15,PHD-1893,PHD-017,Senior,N/D,SCS1,Head of Health improvement Analytical Team,Public Health Directorate,1071668,ND,,Policy
+Oct-15,SER-044,SER-011,Senior,N/D,SCS1,Deputy Director Workforce Analysis,Strategy and External Relations,412954,ND,,Policy
+Oct-15,PHD-062,PHD-020,Senior,N/D,SCS1,"Deputy Director CBRN, Environmental Threats and Hazards",Public Health Directorate,0,ND,,Policy
+Oct-15,FN-NHSG-2240,FN-NHSG-031,Senior,N/D,SCS1,"Deputy Director, NHS Clinical Services",Finance & NHS,803573,ND,,Policy
+Oct-15,PHD-069,PHD-019,Senior,N/D,SCS1,Deputy Director - Tobacco and Health Improvement Policy,Public Health Directorate,552893,ND,,Policy
+Oct-15,SC-209,SC-023,Senior,N/D,SCS1,"Deputy Director and Lead Analyst for Social Care, Local Government and Care Partnerships",Social Care Local Government & Care Partnerships Directorate,715536,ND,,Policy
+Oct-15,IGO-016,IGO-005,Senior,Dominic Brankin,SCS2,Director of Workplace and Transformation,Group Operations,997595,85000,89999,Programme and Project Management (PPM)
+Oct-15,SER-1945,SER-004,Senior,William Vineall,SCS2,Director of Quality,Strategy and External Relations,462331,85000,89999,Policy
+Oct-15,IGT2367,IGT-2351,Senior,N/D,SCS1,Deputy Director - Head of Informatics Portfolio Management,"Innovation, Growth and Technology",0,ND,,Policy
+Oct-15,IGO2187,IGO-015,Senior,N/D,SCS1,Deputy Director - Corporate Services Improvement Programme,Group Operations,0,ND,,Policy
+Oct-15,IGT-097,IGT-028,Senior,N/D,SCS1,Deputy Director - Head of Pharmacy,"Innovation, Growth and Technology",430141,ND,,Policy
+Oct-15,PHD-017,PHD-006,Senior,Kathryn Tyson,SCS2,"Director, International Health and Public Health Policy",Public Health Directorate,420842,85000,89999,Policy
+Oct-15,SER-048,SER-013,Senior,N/D,SCS1,Deputy Director - Policy & NHS Communications,Strategy and External Relations,1346425,ND,,Communications
+Oct-15,FN-FP-2060,FN-FP-030,Senior,N/D,SCS1,Chief Analyst - Deputy Director - Office of the Chief Analyst,Finance & NHS,658642,ND,,Operational Delivery
+Oct-15,SC-075,SC-022,Senior,N/D,SCS1,Deputy Director - Developing Well,Social Care Local Government & Care Partnerships Directorate,409115,ND,,Policy
+Oct-15,IGO-058,IGO-016,Senior,N/D,SCS1,Head of ICT Futures & Shared Services,Group Operations,655430,ND,,Information Technology
+Oct-15,FN-FP-030,FN131,Senior,Andrew Sanderson,SCS2,Director Financial Planning,Finance & NHS,3021521,85000,89999,Policy
+Oct-15,PHD-020,PHD-006,Senior,Helen Shirley Quirk,SCS2,"Director, Health Protection & Emergency Response",Public Health Directorate,470356,85000,89999,Policy
+Oct-15,PHD-068,PHD-006,Senior,Paul Macnaught,SCS2,Director – Health Science & Bioethics,Public Health Directorate,559256,85000,89999,Policy
+Oct-15,SER-046,SER-013,Senior,N/D,SCS1,Deputy Director - Media Centre,Strategy and External Relations,1140814,ND,,Communications
+Oct-15,FN-PICD-104,FN-PICD-033,Senior,N/D,SCS1,Deputy Director for Companies and Ventures,Finance & NHS,554519,ND,,Finance
+Oct-15,FN141,FN131,Senior,Samantha Foley,SCS2,Director of the Government Finance Academy,Finance & NHS,120804,90000,94999,Finance
+Oct-15,SER-060,SER-1945,Senior,N/D,SCS1,"Head of the Nursing, Midwifery and Allied Health Professions Policy Unit, Quality Division",Strategy and External Relations,347360,ND,,Policy
+Oct-15,PHD-064,PHD-020,Senior,N/D,SCS1,Deputy Director Infectious Diseases,Public Health Directorate,650790,ND,,Policy
+Oct-15,PHD-019,PHD-006,Senior,Mark Davies,SCS2,Director of Health and Wellbeing,Public Health Directorate,680953,95000,99999,Policy
+Oct-15,FN140,FN131,Senior,Jeremy Marlow,SCS2,Director of Productivity and Efficiency,Finance & NHS,455593,100000,104999,Policy
+Oct-15,RDD-037,RDD-009,Senior,N/D,SCS1,"Deputy Director - Research Contracting, Information Intelligence and Stakeholder Engagement",Research & Development Directorate,383587,ND,,Policy
+Oct-15,FN-GFM-2476,FN-GFM-027,Senior,N/D,SCS1,Deputy Director - Anti-Fraud Unit,Finance & NHS,0,ND,,Policy
+Oct-15,IGT-028,IGT-2351,Senior,Liz Woodeson,SCS2,Director - Medicines Pharmacy and Industry Group,"Innovation, Growth and Technology",678949,105000,109999,Policy
+Oct-15,IGO-015,IGO-005,Senior,Stephen Waring,SCS2,Director - Group Assurance,Group Operations,1054412,105000,109999,Policy
+Oct-15,SER-013,SER-004,Senior,Sam Lister,SCS2,Director - Communications,Strategy and External Relations,911599,115000,119999,Communications
+Oct-15,SER-011,SER-004,Senior,Giles Denham,SCS2,Director of Workforce,Strategy and External Relations,607940,115000,119999,Policy
+Oct-15,SC-026,SC-003,Senior,Sarah McClinton,SCS2,"Director, Mental Health, Disability and Dementia",Social Care Local Government & Care Partnerships Directorate,409532,120000,124999,Policy
+Oct-15,FN-NHSG-031,FN131,Senior,Ben Dyson,SCS2,Director of NHS Group (Secondee In),Finance & NHS,622300,120000,124999,Policy
+Oct-15,SC-022,SC-003,Senior,Flora Goldhill,SCS2,"Director for Children, Families and Social Inclusion",Social Care Local Government & Care Partnerships Directorate,462420,120000,124999,Policy
+Oct-15,IGO-005,SER-001,Senior,Tamara Finkelstein,SCS3,Chief Operating Officer,Group Operations,931768,120000,124999,Operational Delivery
+Oct-15,IGT-2351,SER-001,Senior,William Cavendish,SCS3,"Director General for Innovation, Growth & Technology","Innovation, Growth and Technology",588861,120000,124999,Operational Delivery
+Oct-15,FN-GFM-027,FN131,Senior,Andrew Baigent,SCS2,Director - Group Financial Management,Finance & NHS,554451,125000,129999,Finance
+Oct-15,IGO-014,IGO-005,Senior,Shirley Pointer,SCS2,Director of Human Resources,Group Operations,740792,125000,129999,Human Resources
+Oct-15,RDD-009,CMO-002,Senior,Russell Hamilton,SCS2,Director of Research & Development,Research & Development Directorate,763092,130000,134999,Policy
+Oct-15,SER-004,SER-001,Senior,Charlie Massey,SCS3,Director General - Strategy & External Relations,Strategy and External Relations,647444,130000,134999,Policy
+Oct-15,PHD-006,SER-001,Senior,Felicity Harvey,SCS3,Director General for Public and International Health,Public Health Directorate,529248,135000,139999,Policy
+Oct-15,FN131,SER-001,Senior,David Williams,SCS3,"Director General, Finance, Commercial and NHS",Finance & NHS,441256,135000,139999,Finance
+Oct-15,SC-003,SER-001,Senior,Jon Rouse,SCS3,"Director General for Social Care, Local Government & Care Partnerships",Social Care Local Government & Care Partnerships Directorate,962102,140000,144999,Policy
+Oct-15,FN-PICD-033,FN131,Senior,Patrick Mills,SCS2,Commercial Director,Finance & NHS,965861,155000,159999,Finance
+Oct-15,SER-001,,Senior,Una O'Brien,SCS4,Permanent Secretary of the Department of Health,Group Operations,0,160000,164999,Operational Delivery
+Oct-15,CMO-002,SER-001,Senior,Professor Dame Sally Davies,SCS3,Chief Medical Officer,Chief Medical Officer's Private Office,396970,200000,204999,Medicine
+Oct-15,IGT-010,IGT-2351,Senior,VACANT,SCS2,"Director, Partnerships & Information","Innovation, Growth and Technology",266700,0,0,Policy
+Oct-15,IGO-057,IGO-014,Senior,N/D,SCS1,Deputy Director - HR Business Partnering & Capability Development,Group Operations,0,ND,,Human Resources
+Oct-15,GOA061,IGO-2170,Senior,ELIMINATED,SCS1,Programme Director National Proton Beam Therapy Programme,Group Operations,0,ND,,Programme and Project Management (PPM)
+Oct-15,SER-2196,SER-004,Senior,ELIMINATED,SCS2,Chief Analyst and Director of Strategy,Strategy and External Relations,0,0,0,Operational Delivery
+Oct-15,FN-DG-007,SER-001,Senior,ELIMINATED,SCS3,Director General for Finance & NHS,Finance & NHS,0,0,0,Finance
+Oct-15,FN-MPI-096,FN-NHSG-031,Senior,ELIMINATED,SCS1,Deputy Director - Dental and Eye Care Services,Finance & NHS,0,ND,,Policy
+Oct-15,FN-NHSG-095,FN-NHSG-031,Senior,VACANT,SCS1,Deputy Director - NHS Commissioning,Finance & NHS,0,ND,,Policy
+Oct-15,FN-DG-052,FN-DG-007,Senior,ELIMINATED,SCS1,"Deputy Director, Accountability & Regulation",Finance & NHS,0,ND,,Policy
+Oct-15,PR004,FN-NHSG-031,Senior,ELIMINATED,SCS1,Deputy Director - Economic Regulation,Finance & NHS,0,ND,,Policy
+Oct-15,PSF021,FN-FP-030,Senior,VACANT,SCS1,Deputy Director Strategy Group and Senior Strategy Adviser,Finance & NHS,0,ND,,Policy
+Oct-15,PSF039,FN-FP-030,Senior,VACANT,SCS1,Deputy Director OCA and Head of Profession for Statistics,Finance & NHS,0,ND,,Statisticians
+Oct-15,SC-025,SC-003,Senior,ELIMINATED,SCS2,Special Projects,Social Care Local Government & Care Partnerships Directorate,0,0,0,Policy
+Oct-15,SC-1937,SC-003,Senior,Lyn Romeo,SCS2,"Director, Chief Social Worker",Social Care Local Government & Care Partnerships Directorate,85542,155000,159999,Policy
+Oct-15,SC-089,SC-026,Senior,ELIMINATED,SCS1,Transforming Care Lead,Social Care Local Government & Care Partnerships Directorate,0,ND,,Policy
+Oct-15,PHD074,PHD-068,Senior,N/D,SCS1,Abortion Medical Advisor,Public Health Directorate,0,ND,,Policy
+Oct-15,PHD-070,PHD-019,Senior,ELIMINATED,SCS1,Deputy Director - Health & Wellbeing,Public Health Directorate,0,ND,,Policy
+Oct-15,PHD075,PHD-065,Senior,N/D,SCS1,Interim National Medical Advisor,Public Health Directorate,0,ND,,Policy
+Oct-15,CMO-008,CMO-002,Senior,Georgina Radford,SCS2,Deputy CMO,Chief Medical Officer's Private Office,0,105000,109999,Medicine
+Oct-15,PHD-018,CMO-002,Senior,Professor John Watson,SCS2,Deputy CMO,Chief Medical Officer's Private Office,0,155000,159999,Medicine
+Oct-15,SER-2418,SER-1945,Senior,ELIMINATED,SCS1,Deputy Director - Morecambe Bay Investigation Team,Strategy and External Relations,0,ND,,Policy
+Oct-15,SC-085,SC-022,Senior,ELIMINATED,SCS1,"Deputy Director,",Social Care Local Government & Care Partnerships Directorate,0,ND,,Policy
+Oct-15,IGT2355,IGT-2351,Senior,Nicole Mather,SCS2,Director of the Office for Life Sciences,"Innovation, Growth and Technology",551194,80000,84999,Operational Delivery
+Oct-15,IGT2356,IGT2355,Senior,VACANT,SCS1,Deputy Director of Supply and Demand,"Innovation, Growth and Technology",0,ND,,Operational Delivery
+Oct-15,FN132,FN-PICD-033,Senior,VACANT,SCS1,Deputy Director for Corporate & Private Finance,Finance & NHS,0,ND,,Finance
+Oct-15,FN134,FN-PICD-108,Senior,VACANT,SCS1,Deputy Director Commercial Capability,Finance & NHS,0,ND,,Finance
+Oct-15,FN138,FN-PICD-107,Senior,VACANT,SCS1,Head of Contract Management,Finance & NHS,0,ND,,Procurement
+Oct-15,FN139,FN-PICD-107,Senior,VACANT,SCS1,Head of Supplier Relationship Management,Finance & NHS,0,ND,,Finance
+Oct-15,PHD79,PHD-019,Senior,ELIMINATED,SCS1,Deputy Director - Health disability and employment,Public Health Directorate,0,ND,,Policy
+Oct-15,IGT2364,IGT-2351,Senior,N/D,SCS1,Deputy Director - SRO NHS Mail,"Innovation, Growth and Technology",0,ND,,Operational Delivery
+Oct-15,FN149,FN-NHSG-031,Senior,N/D,SCS1,Deputy Director - NHS Provider Policy,Finance & NHS,0,ND,,Policy
+Oct-15,FN142,FN141,Senior,N/D,SCS1,"Deputy Director, Government Finance Academy",Finance & NHS,0,ND,,Finance
+Oct-15,FN147,FN-PICD-108,Senior,N/D,SCS1,Deputy Director Lord Carter Review,Finance & NHS,835074,ND,,Finance
+Oct-15,FN148,FN-PICD-033,Senior,N/D,SCS1,Contract Management Function Implementation Lead,Finance & NHS,0,ND,,Policy
+Oct-15,IGT2369,IGT-010,Senior,N/D,SCS1,Cyber Security,"Innovation, Growth and Technology",0,ND,,Policy
+Oct-15,IGT2370,IGT-010,Senior,N/D,SCS1,Cyber Security,"Innovation, Growth and Technology",0,ND,,Policy
+Oct-15,IGT2371,IGT2368,Senior,N/D,SCS1,Accelerated Access Review Project member,"Innovation, Growth and Technology",0,ND,,Policy
+Oct-15,,SER-004,Junior,,SEO,Senior Information Manager,Strategy and External Relations,0,33675,45769,Operational Delivery
+Oct-15,,SER-004,Junior,,SEO,Senior Technical Adviser,Strategy and External Relations,0,33675,45769,Operational Delivery
+Oct-15,,SER-004,Junior,,G7,Senior Finance Manager,Strategy and External Relations,0,45299,61976,Finance
+Oct-15,,SER-004,Junior,,G6,Business Manager,Strategy and External Relations,0,57075,75035,Operational Delivery
+Oct-15,,SER-004,Junior,,SEO,Senior Development Manager,Strategy and External Relations,0,33675,45769,Operational Delivery
+Oct-15,,SER-004,Junior,,HEO,Business Support Officer,Strategy and External Relations,0,26492,37316,Operational Delivery
+Oct-15,,SER-004,Junior,,G7,Senior HR Manager,Strategy and External Relations,0,45299,61976,Operational Delivery
+Oct-15,,SER-004,Junior,,EO,Team Support Officer,Strategy and External Relations,0,21438,30275,Operational Delivery
+Oct-15,,SER-004,Junior,,G6,Private Secretary,Strategy and External Relations,0,57075,75035,Operational Delivery
+Oct-15,,SER-004,Junior,,HEO,Diary Manager,Strategy and External Relations,0,26492,37316,Operational Delivery
+Oct-15,,SER-004,Junior,,EO,Business Support Officer,Strategy and External Relations,0,21438,30275,Operational Delivery
+Oct-15,,SER-011,Junior,,AO,Personal Assistant,Strategy and External Relations,0,17209,23567,Operational Delivery
+Oct-15,,SER-013,Junior,,SEO,Communications Manager,Strategy and External Relations,0,33675,45769,Communications
+Oct-15,,SER-013,Junior,,HEO,Communications Manager,Strategy and External Relations,0,26492,37316,Operational Delivery
+Oct-15,,SER-013,Junior,,EO,Communications Support Officer,Strategy and External Relations,0,21438,30275,Operational Delivery
+Oct-15,,SER-013,Junior,,AO,Finance Support Officer,Strategy and External Relations,0,17209,23567,Finance
+Oct-15,,SER-013,Junior,,SEO,Private Secretary,Strategy and External Relations,0,33675,45769,Communications
+Oct-15,,SER-013,Junior,,G7,Section Head,Strategy and External Relations,0,45299,61976,Communications
+Oct-15,,SER-013,Junior,,HEO,Operations Support Officer,Strategy and External Relations,0,26492,37316,Communications
+Oct-15,,SER-013,Junior,,HEO,Office Manager,Strategy and External Relations,0,26492,37316,Policy
+Oct-15,,SER-013,Junior,,G6,Section Head,Strategy and External Relations,0,57075,75035,Policy
+Oct-15,,SER-036,Junior,,G6,Policy Adviser,Strategy and External Relations,0,57075,75035,Policy
+Oct-15,,SER-036,Junior,,G7,Senior Policy Manager,Strategy and External Relations,0,45299,61976,Policy
+Oct-15,,SER-036,Junior,,G7,Deputy Head of Unit,Strategy and External Relations,0,45299,61976,Operational Delivery
+Oct-15,,SER-036,Junior,,FS,Policy Adviser,Strategy and External Relations,0,29992,41546,Policy
+Oct-15,,SER-036,Junior,,EO,Policy Support Officer,Strategy and External Relations,0,21438,30275,Operational Delivery
+Oct-15,,SER-036,Junior,,EO,PA Support,Strategy and External Relations,0,21438,30275,Policy
+Oct-15,,SER-036,Junior,,HEO,Policy Manager,Strategy and External Relations,0,26492,37316,Policy
+Oct-15,,SER-042,Junior,,HEO,Communications Support Officer,Strategy and External Relations,0,26492,37316,Policy
+Oct-15,,SER-042,Junior,,EO,Business Support Officer,Strategy and External Relations,0,21438,30275,Policy
+Oct-15,,SER-042,Junior,,G6,Section Head,Strategy and External Relations,0,57075,75035,Policy
+Oct-15,,SER-042,Junior,,SEO,Operational Manager,Strategy and External Relations,0,33675,45769,Policy
+Oct-15,,SER-042,Junior,,SEO,Communications Manager,Strategy and External Relations,0,33675,45769,Communications
+Oct-15,,SER-042,Junior,,EO,Personal Assistant,Strategy and External Relations,0,21438,30275,Policy
+Oct-15,,SER-042,Junior,,HEO,Project Manager,Strategy and External Relations,0,26492,37316,Policy
+Oct-15,,SER-042,Junior,,HEO,Programme Support Officer,Strategy and External Relations,0,26492,37316,Operational Delivery
+Oct-15,,SER-042,Junior,,EO,Project Support Officer,Strategy and External Relations,0,21438,30275,Policy
+Oct-15,,SER-042,Junior,,G7,Section Head,Strategy and External Relations,0,45299,61976,Policy
+Oct-15,,SER-043,Junior,,HEO,Business Support Officer,Strategy and External Relations,0,26492,37316,Policy
+Oct-15,,SER-043,Junior,,SEO,HR Officer,Strategy and External Relations,0,33675,45769,Policy
+Oct-15,,SER-043,Junior,,G7,Section Head,Strategy and External Relations,0,45299,61976,Policy
+Oct-15,,SER-043,Junior,,SEO,Policy Adviser,Strategy and External Relations,0,33675,45769,Policy
+Oct-15,,SER-043,Junior,,G7,Senior HR Manager,Strategy and External Relations,0,45299,61976,Policy
+Oct-15,,SER-043,Junior,,EO,Policy Support Officer,Strategy and External Relations,0,21438,30275,Policy
+Oct-15,,SER-043,Junior,,SEO,Legislation Manager,Strategy and External Relations,0,33675,45769,Policy
+Oct-15,,SER-043,Junior,,G7,Senior Policy Manager,Strategy and External Relations,0,45299,61976,Policy
+Oct-15,,SER-043,Junior,,HEO,Policy Manager,Strategy and External Relations,0,26492,37316,Policy
+Oct-15,,SER-043,Junior,,SEO,Policy Adviser,Strategy and External Relations,0,33675,45769,Policy
+Oct-15,,SER-043,Junior,,G6,Section Head,Strategy and External Relations,0,57075,75035,Policy
+Oct-15,,SER-043,Junior,,AO,Team Support Officer,Strategy and External Relations,0,17209,23567,Policy
+Oct-15,,SER-044,Junior,,FS,Economist,Strategy and External Relations,0,29992,41546,Statisticians
+Oct-15,,SER-044,Junior,,FS,Analyst,Strategy and External Relations,0,29992,41546,Statisticians
+Oct-15,,SER-044,Junior,,FS,Assistant Statistician,Strategy and External Relations,0,29992,41546,Statisticians
+Oct-15,,SER-044,Junior,,G6,Senior Economist,Strategy and External Relations,0,57075,75035,Statisticians
+Oct-15,,SER-044,Junior,,G7,Section Head,Strategy and External Relations,0,45299,61976,Statisticians
+Oct-15,,SER-044,Junior,,G7,Statistician,Strategy and External Relations,0,45299,61976,Statisticians
+Oct-15,,SER-045,Junior,,G6,Deputy Head of Unit,Strategy and External Relations,0,57075,75035,Policy
+Oct-15,,SER-045,Junior,,EO,Communications Support Officer,Strategy and External Relations,0,21438,30275,Policy
+Oct-15,,SER-045,Junior,,G7,Senior Policy Manager,Strategy and External Relations,0,45299,61976,Policy
+Oct-15,,SER-045,Junior,,G7,Senior Project Manager,Strategy and External Relations,0,45299,61976,Policy
+Oct-15,,SER-045,Junior,,G7,Section Head,Strategy and External Relations,0,45299,61976,Policy
+Oct-15,,SER-045,Junior,,SEO,Legislation Manager,Strategy and External Relations,0,33675,45769,Policy
+Oct-15,,SER-045,Junior,,EO,PA Support,Strategy and External Relations,0,21438,30275,Policy
+Oct-15,,SER-045,Junior,,EO,Policy Support Officer,Strategy and External Relations,0,21438,30275,Policy
+Oct-15,,SER-045,Junior,,G6,Section Head,Strategy and External Relations,0,57075,75035,Policy
+Oct-15,,SER-045,Junior,,HEO,Communications Manager,Strategy and External Relations,0,26492,37316,Policy
+Oct-15,,SER-045,Junior,,FS,Analyst,Strategy and External Relations,0,29992,41546,Other
+Oct-15,,SER-045,Junior,,HEO,Legislation Officer,Strategy and External Relations,0,26492,37316,Policy
+Oct-15,,SER-045,Junior,,EO,Business Support Officer,Strategy and External Relations,0,21438,30275,Operational Delivery
+Oct-15,,SER-046,Junior,,G7,Chief Press Officer,Strategy and External Relations,0,45299,61976,Communications
+Oct-15,,SER-046,Junior,,G6,Deputy Head of Unit,Strategy and External Relations,0,57075,75035,Communications
+Oct-15,,SER-046,Junior,,FS,Senior Press Officer,Strategy and External Relations,0,29992,41546,Communications
+Oct-15,,SER-046,Junior,,EO,PA Support,Strategy and External Relations,0,21438,30275,Communications
+Oct-15,,SER-046,Junior,,HEO,Press Officer,Strategy and External Relations,0,26492,37316,Communications
+Oct-15,,SER-046,Junior,,SEO,Communications Manager,Strategy and External Relations,0,33675,45769,Communications
+Oct-15,,SER-046,Junior,,SEO,Senior Press Officer,Strategy and External Relations,0,33675,45769,Communications
+Oct-15,,SER-048,Junior,,SEO,Communications Manager,Strategy and External Relations,0,33675,45769,Communications
+Oct-15,,SER-048,Junior,,HEO,Communications Support Officer,Strategy and External Relations,0,26492,37316,Communications
+Oct-15,,SER-048,Junior,,G7,Senior Communications Manager,Strategy and External Relations,0,45299,61976,Communications
+Oct-15,,SER-048,Junior,,G6,Section Head,Strategy and External Relations,0,57075,75035,Communications
+Oct-15,,SER-048,Junior,,G6,Senior Communications Manager,Strategy and External Relations,0,57075,75035,Communications
+Oct-15,,SER-048,Junior,,EO,PA Support,Strategy and External Relations,0,21438,30275,Communications
+Oct-15,,SER-048,Junior,,SEO,Senior Press Officer,Strategy and External Relations,0,33675,45769,Communications
+Oct-15,,SER-048,Junior,,FS,Communications Manager,Strategy and External Relations,0,29992,41546,Policy
+Oct-15,,SER-055,Junior,,G6,Programme Manager,Strategy and External Relations,0,57075,75035,Operational Delivery
+Oct-15,,SER-055,Junior,,G7,Senior Policy Manager,Strategy and External Relations,0,45299,61976,Operational Delivery
+Oct-15,,SER-055,Junior,,SEO,Operations Support Officer,Strategy and External Relations,0,33675,45769,Operational Delivery
+Oct-15,,SER-055,Junior,,EO,Programme Support Officer,Strategy and External Relations,0,21438,30275,Operational Delivery
+Oct-15,,SER-055,Junior,,EO,PA Support,Strategy and External Relations,0,21438,30275,Operational Delivery
+Oct-15,,SER-055,Junior,,HEO,Business Support Officer,Strategy and External Relations,0,26492,37316,Operational Delivery
+Oct-15,,SER-1945,Junior,,EO,Personal Assistant,Strategy and External Relations,0,21438,30275,Operational Delivery
+Oct-15,,SER-1946,Junior,,SEO,Business Manager,Strategy and External Relations,0,33675,45769,Policy
+Oct-15,,SER-1946,Junior,,EO,Business Support Officer,Strategy and External Relations,0,21438,30275,Policy
+Oct-15,,SER-1946,Junior,,HEO,Operational Support Officer,Strategy and External Relations,0,26492,37316,Policy
+Oct-15,,SER-1946,Junior,,EO,PA Support,Strategy and External Relations,0,21438,30275,Policy
+Oct-15,,SER-1946,Junior,,HEO,Policy Manager,Strategy and External Relations,0,26492,37316,Policy
+Oct-15,,SER-1946,Junior,,SEO,Policy Adviser,Strategy and External Relations,0,33675,45769,Policy
+Oct-15,,SER-1946,Junior,,EO,Policy Support Officer,Strategy and External Relations,0,21438,30275,Policy
+Oct-15,,SER-1946,Junior,,SEO,Strategy Advisor,Strategy and External Relations,0,33675,45769,Policy
+Oct-15,,SER-1946,Junior,,G7,Senior Operational Manager,Strategy and External Relations,0,45299,61976,Policy
+Oct-15,,SER-1951,Junior,,G7,Section Head,Strategy and External Relations,0,45299,61976,Policy
+Oct-15,,SER-1951,Junior,,G7,Senior Policy Manager,Strategy and External Relations,0,45299,61976,Policy
+Oct-15,,SER-1951,Junior,,HEO,Operational Manager,Strategy and External Relations,0,26492,37316,Policy
+Oct-15,,SER-1951,Junior,,HEO,Policy Manager,Strategy and External Relations,0,26492,37316,Policy
+Oct-15,,SER-1951,Junior,,EO,Policy Support Officer,Strategy and External Relations,0,21438,30275,Policy
+Oct-15,,SER-1951,Junior,,SEO,Policy Manager,Strategy and External Relations,0,33675,45769,Policy
+Oct-15,,SER-1951,Junior,,SEO,Operations Support Officer,Strategy and External Relations,0,33675,45769,Operational Delivery
+Oct-15,,SER-1951,Junior,,SEO,Finance Manager,Strategy and External Relations,0,33675,45769,Finance
+Oct-15,,SER-1951,Junior,,SEO,Business Manager,Strategy and External Relations,0,33675,45769,Policy
+Oct-15,,SER-1951,Junior,,EO,Business Support Officer,Strategy and External Relations,0,21438,30275,Operational Delivery
+Oct-15,,SER-1951,Junior,,EO,PA Support,Strategy and External Relations,0,21438,30275,Operational Delivery
+Oct-15,,SER-1951,Junior,,EO,Programme Support Officer,Strategy and External Relations,0,21438,30275,Policy
+Oct-15,,SER-1951,Junior,,FS,Analyst,Strategy and External Relations,0,29992,41546,Policy
+Oct-15,,SER-1957,Junior,,HEO,Policy Manager,Strategy and External Relations,0,26492,37316,Social Research
+Oct-15,,SER-1957,Junior,,G6,Section Head,Strategy and External Relations,0,57075,75035,Social Research
+Oct-15,,SER-1957,Junior,,G7,Senior Policy Manager,Strategy and External Relations,0,45299,61976,Social Research
+Oct-15,,SER-1957,Junior,,G7,Analyst,Strategy and External Relations,0,45299,61976,Social Research
+Oct-15,,SER-1957,Junior,,SEO,Policy Adviser,Strategy and External Relations,0,33675,45769,Social Research
+Oct-15,,SER-1957,Junior,,EO,Personal Assistant,Strategy and External Relations,0,21438,30275,Social Research
+Oct-15,,SER-1957,Junior,,FS,Analyst,Strategy and External Relations,0,29992,41546,Other
+Oct-15,,SER-1957,Junior,,EO,Policy Support Officer,Strategy and External Relations,0,21438,30275,Social Research
+Oct-15,,SER-1957,Junior,,G7,Development Manager,Strategy and External Relations,0,45299,61976,Operational Delivery
+Oct-15,,SER-2310,Junior,,G6,Senior Policy Adviser,Strategy and External Relations,0,57075,75035,Policy
+Oct-15,,SER-2310,Junior,,G7,Senior Policy Manager,Strategy and External Relations,0,45299,61976,Policy
+Oct-15,,SER-2310,Junior,,SEO,Policy Adviser,Strategy and External Relations,0,33675,45769,Policy
+Oct-15,,SER-2310,Junior,,HEO,Policy Manager,Strategy and External Relations,0,26492,37316,Policy
+Oct-15,,SER-2310,Junior,,EO,Business Support Officer,Strategy and External Relations,0,21438,30275,Operational Delivery
+Oct-15,,SER-2310,Junior,,EO,PA Support,Strategy and External Relations,0,21438,30275,Operational Delivery
+Oct-15,,SER-011,Junior,,G6,Section Head,Strategy and External Relations,0,57075,75035,Policy
+Oct-15,,SER-011,Junior,,SEO,Policy Adviser,Strategy and External Relations,0,33675,45769,Policy
+Oct-15,,SER-011,Junior,,SEO,Programme Manager,Strategy and External Relations,0,33675,45769,Policy
+Oct-15,,SER-011,Junior,,HEO,Policy Manager,Strategy and External Relations,0,26492,37316,Policy
+Oct-15,,SER-011,Junior,,AO,Personal Assistant,Strategy and External Relations,0,17209,23567,Operational Delivery
+Oct-15,,SER-2433N,Junior,,EO,Business Support Officer,Strategy and External Relations,0,21438,30275,Operational Delivery
+Oct-15,,SER-2433N,Junior,,G7,Deputy Head of Unit,Strategy and External Relations,0,45299,61976,Operational Delivery
+Oct-15,,SER-2433N,Junior,,G7,Communications Manager,Strategy and External Relations,0,45299,61976,Operational Delivery
+Oct-15,,SER-2433N,Junior,,SEO,Analyst,Strategy and External Relations,0,33675,45769,Statisticians
+Oct-15,,SER-2433N,Junior,,SEO,Communications Manager,Strategy and External Relations,0,33675,45769,Communications
+Oct-15,,SER-2433N,Junior,,SEO,Business Manager,Strategy and External Relations,0,33675,45769,Operational Delivery
+Oct-15,,SER-2433N,Junior,,SEO,Office Manager,Strategy and External Relations,0,33675,45769,Operational Delivery
+Oct-15,,SER-2433N,Junior,,HEO,Business Manager,Strategy and External Relations,0,26492,37316,Operational Delivery
+Oct-15,,SER-060,Junior,,G6,Policy Adviser,Strategy and External Relations,0,57075,75035,Policy
+Oct-15,,SER-060,Junior,,SEO,Programme Manager,Strategy and External Relations,0,33675,45769,Policy
+Oct-15,,SER-060,Junior,,HEO,Briefing Officer,Strategy and External Relations,0,26492,37316,Policy
+Oct-15,,SER-060,Junior,,EO,Project Support Officer,Strategy and External Relations,0,21438,30275,Policy
+Oct-15,,SER-060,Junior,,EO,Personal Assistant,Strategy and External Relations,0,21438,30275,Operational Delivery
+Oct-15,,SER-060,Junior,,EO,Business Support Officer,Strategy and External Relations,0,21438,30275,Operational Delivery
+Oct-15,,FN-FP-2060,Junior,,G6,Economist,Finance & NHS,0,57075,75035,Economics
+Oct-15,,FN-FP-2060,Junior,,G6,Senior Statistician,Finance & NHS,0,57075,75035,Statisticians
+Oct-15,,FN-FP-2060,Junior,,G7,Business Manager,Finance & NHS,0,45299,61976,Operational Delivery
+Oct-15,,FN-FP-2060,Junior,,G7,Economist,Finance & NHS,0,45299,61976,Economics
+Oct-15,,FN-FP-2060,Junior,,G7,Operational Researcher,Finance & NHS,0,45299,61976,Operational Research
+Oct-15,,FN-FP-2060,Junior,,G7,Statistician,Finance & NHS,0,45299,61976,Statisticians
+Oct-15,,FN-FP-2060,Junior,,FS,Statistician,Finance & NHS,0,29992,41546,Statisticians
+Oct-15,,FN-FP-2060,Junior,,FS,Economist,Finance & NHS,0,29992,41546,Economics
+Oct-15,,FN-FP-2060,Junior,,FS,Research Manager,Finance & NHS,0,29992,41546,Other
+Oct-15,,FN-FP-2060,Junior,,HEO,Business Support Officer,Finance & NHS,0,26492,37316,Operational Delivery
+Oct-15,,FN-FP-2060,Junior,,EO,Finance Support Officer,Finance & NHS,0,21438,30275,Operational Delivery
+Oct-15,,FN-FP-2060,Junior,,EO,Personal Assistant,Finance & NHS,0,21438,30275,Operational Delivery
+Oct-15,,FN-FP-2060,Junior,,AO,Admin support,Finance & NHS,0,17209,23567,Policy
+Oct-15,,FN-NHSG-117,Junior,,G6,Senior Policy Adviser,Finance & NHS,0,57075,75035,Policy
+Oct-15,,FN-NHSG-117,Junior,,G6,Senior Policy Adviser,Finance & NHS,0,57075,75035,Policy
+Oct-15,,FN-NHSG-117,Junior,,G6,Senior Policy Adviser,Finance & NHS,0,57075,75035,Policy
+Oct-15,,FN-NHSG-117,Junior,,G7,Senior Policy Adviser,Finance & NHS,0,45299,61976,Policy
+Oct-15,,FN-NHSG-117,Junior,,G7,Senior Policy Adviser,Finance & NHS,0,45299,61976,Policy
+Oct-15,,FN-NHSG-117,Junior,,G7,Senior Policy Adviser,Finance & NHS,0,45299,61976,Policy
+Oct-15,,FN-NHSG-117,Junior,,G7,Senior Policy Adviser,Finance & NHS,0,45299,61976,Policy
+Oct-15,,FN-NHSG-117,Junior,,G7,Senior Policy Adviser,Finance & NHS,0,45299,61976,Policy
+Oct-15,,FN-NHSG-117,Junior,,FS,Policy Adviser,Finance & NHS,0,29992,41546,Policy
+Oct-15,,FN-NHSG-117,Junior,,SEO,Policy Adviser,Finance & NHS,0,33675,45769,Policy
+Oct-15,,FN-NHSG-117,Junior,,HEO,Policy Adviser,Finance & NHS,0,26492,37316,Policy
+Oct-15,,FN-NHSG-117,Junior,,HEO,Policy Adviser,Finance & NHS,0,26492,37316,Policy
+Oct-15,,FN-NHSG-117,Junior,,HEO,Policy Adviser,Finance & NHS,0,26492,37316,Policy
+Oct-15,,FN-NHSG-117,Junior,,HEO,Policy Adviser,Finance & NHS,0,26492,37316,Policy
+Oct-15,,FN-NHSG-117,Junior,,HEO,Not In Post,Finance & NHS,0,26492,37316,Policy
+Oct-15,,FN-NHSG-117,Junior,,HEO,Policy Adviser,Finance & NHS,0,26492,37316,Policy
+Oct-15,,FN-NHSG-117,Junior,,HEO,Policy Adviser,Finance & NHS,0,26492,37316,Policy
+Oct-15,,FN-NHSG-117,Junior,,EO,PA Support,Finance & NHS,0,21438,30275,Other
+Oct-15,,FN-NHSG-117,Junior,,EO,Policy Support Officer,Finance & NHS,0,21438,30275,Policy
+Oct-15,,FN-NHSG-117,Junior,,EO,Policy Support Officer,Finance & NHS,0,21438,30275,Policy
+Oct-15,,FN-NHSG-117,Junior,,EO,Not In Post,Finance & NHS,0,21438,30275,Policy
+Oct-15,,FN-GFM-027,Junior,,EO,Finance Officer,Finance & NHS,0,21438,30275,Finance
+Oct-15,,FN-GFM-099,Junior,,AO,Admin support,Finance & NHS,0,17209,23567,Finance
+Oct-15,,FN-GFM-099,Junior,,EO,Finance Officer,Finance & NHS,0,21438,30275,Finance
+Oct-15,,FN-GFM-099,Junior,,HEO,Assistant Finance Manager,Finance & NHS,0,26492,37316,Finance
+Oct-15,,FN-GFM-099,Junior,,SEO,Finance Manager,Finance & NHS,0,33675,45769,Finance
+Oct-15,,FN-GFM-099,Junior,,G7,Senior Finance Manager,Finance & NHS,0,45299,61976,Finance
+Oct-15,,FN-GFM-099,Junior,,G6,Senior Finance Manager,Finance & NHS,0,57075,75035,Finance
+Oct-15,,IGT2361,Junior,,G7,Senior Finance Manager,Finance & NHS,0,45299,61976,Finance
+Oct-15,,IGT2361,Junior,,SEO,Senior Finance Manager,Finance & NHS,0,33675,45769,Finance
+Oct-15,,IGT2361,Junior,,HEO,Assistant Finance Manager,Finance & NHS,0,26492,37316,Finance
+Oct-15,,IGT2361,Junior,,HEO,Not In Post,Finance & NHS,0,26492,37316,Finance
+Oct-15,,IGT2361,Junior,,EO,Finance Officer,Finance & NHS,0,21438,30275,Finance
+Oct-15,,IGT2361,Junior,,EO,Not In Post,Finance & NHS,0,21438,30275,Finance
+Oct-15,,IGT2361,Junior,,AO,Finance Support Officer,Finance & NHS,0,17209,23567,Finance
+Oct-15,,FN-GFM-115,Junior,,G7,Senior Finance Manager,Finance & NHS,0,45299,61976,Finance
+Oct-15,,FN-GFM-115,Junior,,SEO,Finance Manager,Finance & NHS,0,33675,45769,Finance
+Oct-15,,FN-GFM-115,Junior,,SEO,Not In Post,Finance & NHS,0,33675,45769,Finance
+Oct-15,,FN-GFM-115,Junior,,FS,Assistant Finance Manager,Finance & NHS,0,29992,41546,Finance
+Oct-15,,FN-GFM-115,Junior,,HEO,Assistant Finance Manager,Finance & NHS,0,26492,37316,Finance
+Oct-15,,FN-GFM-115,Junior,,EO,Finance Officer,Finance & NHS,0,21438,30275,Finance
+Oct-15,,FN-GFM-115,Junior,,AO,Finance Support Officer,Finance & NHS,0,17209,23567,Finance
+Oct-15,,FN-GFM-2008,Junior,,AO,Finance Support Officer,Finance & NHS,0,17209,23567,Finance
+Oct-15,,FN-GFM-2008,Junior,,EO,Finance Officer,Finance & NHS,0,21438,30275,Finance
+Oct-15,,FN-GFM-2008,Junior,,HEO,Assistant Finance Manager,Finance & NHS,0,26492,37316,Finance
+Oct-15,,FN-GFM-2008,Junior,,SEO,Finance Manager,Finance & NHS,0,33675,45769,Finance
+Oct-15,,FN-GFM-2008,Junior,,G7,Senior Finance Manager,Finance & NHS,0,45299,61976,Finance
+Oct-15,,FN-GFM-2008,Junior,,G6,Senior Finance Manager,Finance & NHS,0,57075,75035,Finance
+Oct-15,,FN-GFM-2008,Junior,,HEO,Not In Post,Finance & NHS,0,26492,37316,Finance
+Oct-15,,FN-GFM-2008,Junior,,SEO,Not In Post,Finance & NHS,0,33675,45769,Finance
+Oct-15,,FN-GFM-2008,Junior,,EO,Not In Post,Finance & NHS,0,21438,30275,Finance
+Oct-15,,FN-GFM-2008,Junior,,G7,Not In Post,Finance & NHS,0,45299,61976,Finance
+Oct-15,,FN-GFM-276,Junior,,AO,Finance Support Officer,Finance & NHS,0,17209,23567,Finance
+Oct-15,,FN-GFM-276,Junior,,EO,Finance Officer,Finance & NHS,0,21438,30275,Finance
+Oct-15,,FN-GFM-276,Junior,,HEO,Assistant Finance Manager,Finance & NHS,0,26492,37316,Finance
+Oct-15,,FN-GFM-276,Junior,,SEO,Finance Manager,Finance & NHS,0,33675,45769,Finance
+Oct-15,,FN-GFM-276,Junior,,G7,Senior Finance Manager,Finance & NHS,0,45299,61976,Finance
+Oct-15,,FN-GFM-276,Junior,,G6,Senior Finance Manager,Finance & NHS,0,57075,75035,Finance
+Oct-15,,FN-GFM-276,Junior,,EO,Not In Post,Finance & NHS,0,21438,30275,Finance
+Oct-15,,FN131,Junior,,G7,Business Manager,Finance & NHS,0,45299,61976,Operational Delivery
+Oct-15,,FN131,Junior,,G6,Private Secretary,Finance & NHS,0,57075,75035,Operational Delivery
+Oct-15,,FN131,Junior,,SEO,Business Manager,Finance & NHS,0,33675,45769,Operational Delivery
+Oct-15,,FN131,Junior,,SEO,Assistant Private Secretary,Finance & NHS,0,33675,45769,Operational Delivery
+Oct-15,,FN131,Junior,,HEO,Business Manager,Finance & NHS,0,26492,37316,Operational Delivery
+Oct-15,,FN131,Junior,,HEO,Not In Post,Finance & NHS,0,26492,37316,Operational Delivery
+Oct-15,,FN131,Junior,,EO,Diary Secretary,Finance & NHS,0,21438,30275,Operational Delivery
+Oct-15,,FN-PICD-104,Junior,,G6,Senior Programme Manager,Finance & NHS,0,57075,75035,Programme and Project Management (PPM)
+Oct-15,,FN-PICD-104,Junior,,G6,Senior Commercial Finance Manager,Finance & NHS,0,57075,75035,Finance
+Oct-15,,FN-PICD-104,Junior,,G7,Commercial Manager,Finance & NHS,0,45299,61976,Finance
+Oct-15,,FN-PICD-104,Junior,,G7,Policy Manager,Finance & NHS,0,45299,61976,Policy
+Oct-15,,FN-PICD-104,Junior,,SEO,Assistant Policy Manager,Finance & NHS,0,33675,45769,Policy
+Oct-15,,FN-PICD-104,Junior,,HEO,Policy Support Officer,Finance & NHS,0,26492,37316,Policy
+Oct-15,,FN-PICD-104,Junior,,EO,Admin support,Finance & NHS,0,21438,30275,Policy
+Oct-15,,FN-PICD-125,Junior,,G6,Senior Estates Manager,Finance & NHS,0,57075,75035,Finance
+Oct-15,,FN-PICD-125,Junior,,G6,Senior Commercial Finance Manager,Finance & NHS,0,57075,75035,Finance
+Oct-15,,FN-PICD-125,Junior,,G6,Senior Programme Manager,Finance & NHS,0,57075,75035,Programme and Project Management (PPM)
+Oct-15,,FN-PICD-125,Junior,,G6,Senior Commercial Finance Manager,Finance & NHS,0,57075,75035,Policy
+Oct-15,,FN-PICD-125,Junior,,G7,Commercial Manager,Finance & NHS,0,45299,61976,Finance
+Oct-15,,FN-PICD-125,Junior,,G7,Technical Adviser,Finance & NHS,0,45299,61976,Finance
+Oct-15,,FN-PICD-125,Junior,,G7,Technical Adviser,Finance & NHS,0,45299,61976,Other
+Oct-15,,FN-PICD-125,Junior,,G7,Policy Manager,Finance & NHS,0,45299,61976,Policy
+Oct-15,,FN-PICD-125,Junior,,SEO,Briefing Manager,Finance & NHS,0,33675,45769,Communications
+Oct-15,,FN-PICD-125,Junior,,SEO,Commercial Manager,Finance & NHS,0,33675,45769,Finance
+Oct-15,,FN-PICD-125,Junior,,SEO,Technical Adviser,Finance & NHS,0,33675,45769,Finance
+Oct-15,,FN-PICD-125,Junior,,SEO,Commercial Manager,Finance & NHS,0,33675,45769,Finance
+Oct-15,,FN-PICD-125,Junior,,HEO,Briefing Officer,Finance & NHS,0,26492,37316,Communications
+Oct-15,,FN-PICD-125,Junior,,HEO,Policy Adviser,Finance & NHS,0,26492,37316,Policy
+Oct-15,,FN-PICD-125,Junior,,EO,Project Support Officer,Finance & NHS,0,21438,30275,Policy
+Oct-15,,FN-PICD-125,Junior,,AO,Admin support,Finance & NHS,0,17209,23567,Policy
+Oct-15,,FN-PICD-107,Junior,,G6,Senior Policy Adviser,Finance & NHS,0,57075,75035,Policy
+Oct-15,,FN-PICD-107,Junior,,G6,Senior Policy Adviser,Finance & NHS,0,57075,75035,Policy
+Oct-15,,FN-PICD-107,Junior,,G6,Senior Commercial Finance Manager,Finance & NHS,0,57075,75035,Policy
+Oct-15,,FN-PICD-107,Junior,,G7,Senior Policy Manager,Finance & NHS,0,45299,61976,Policy
+Oct-15,,FN-PICD-107,Junior,,SEO,Policy Manager,Finance & NHS,0,33675,45769,Policy
+Oct-15,,FN-PICD-107,Junior,,HEO,Policy Manager,Finance & NHS,0,26492,37316,Policy
+Oct-15,,FN-PICD-107,Junior,,G7,Procurement Officer,Finance & NHS,0,45299,61976,Policy
+Oct-15,,FN-PICD-107,Junior,,SEO,Procurement Officer,Finance & NHS,0,33675,45769,Policy
+Oct-15,,FN-PICD-107,Junior,,HEO,Procurement Officer,Finance & NHS,0,26492,37316,Policy
+Oct-15,,FN-PICD-107,Junior,,G7,Procurement Officer,Finance & NHS,0,45299,61976,Policy
+Oct-15,,FN-PICD-107,Junior,,SEO,Procurement Officer,Finance & NHS,0,33675,45769,Policy
+Oct-15,,FN-PICD-107,Junior,,HEO,Commercial Manager,Finance & NHS,0,26492,37316,Policy
+Oct-15,,FN-PICD-107,Junior,,SEO,Briefing Manager,Finance & NHS,0,33675,45769,Policy
+Oct-15,,FN-PICD-107,Junior,,EO,Executive Assistant,Finance & NHS,0,21438,30275,Procurement
+Oct-15,,FN-PICD-107,Junior,,EO,Business Support Officer,Finance & NHS,0,21438,30275,Policy
+Oct-15,,FN-PICD-108,Junior,,G6,Senior Project Manager,Finance & NHS,0,57075,75035,Policy
+Oct-15,,FN-PICD-108,Junior,,G7,Senior Project Manager,Finance & NHS,0,45299,61976,Policy
+Oct-15,,FN-PICD-108,Junior,,SEO,Programme Manager,Finance & NHS,0,33675,45769,Policy
+Oct-15,,FN-PICD-108,Junior,,HEO,Analyst,Finance & NHS,0,26492,37316,Policy
+Oct-15,,FN-PICD-108,Junior,,EO,Programme Support Officer,Finance & NHS,0,21438,30275,Policy
+Oct-15,,FN-PICD-033,Junior,,G7,Business Manager,Finance & NHS,0,45299,61976,Operational Delivery
+Oct-15,,FN-PICD-033,Junior,,SEO,Finance Manager,Finance & NHS,0,33675,45769,Operational Delivery
+Oct-15,,FN-PICD-033,Junior,,HEO,Finance Manager,Finance & NHS,0,26492,37316,Operational Delivery
+Oct-15,,FN-PICD-033,Junior,,EO,Admin support,Finance & NHS,0,21438,30275,Operational Delivery
+Oct-15,,FN-NHSG-2025,Junior,,G6,Senior Policy Adviser,Finance & NHS,0,57075,75035,Policy
+Oct-15,,FN-NHSG-2025,Junior,,G6,Not In Post,Finance & NHS,0,57075,75035,Policy
+Oct-15,,FN-NHSG-2025,Junior,,G7,Senior Policy Adviser,Finance & NHS,0,45299,61976,Policy
+Oct-15,,FN-NHSG-2025,Junior,,G7,Senior Policy Adviser,Finance & NHS,0,45299,61976,Policy
+Oct-15,,FN-NHSG-2025,Junior,,G7,Senior Policy Adviser,Finance & NHS,0,45299,61976,Policy
+Oct-15,,FN-NHSG-2025,Junior,,G7,Senior Policy Adviser,Finance & NHS,0,45299,61976,Policy
+Oct-15,,FN-NHSG-2025,Junior,,G7,Not In Post,Finance & NHS,0,45299,61976,Policy
+Oct-15,,FN-NHSG-2025,Junior,,G7,Not In Post,Finance & NHS,0,45299,61976,Policy
+Oct-15,,FN-NHSG-2025,Junior,,SEO,Policy Adviser,Finance & NHS,0,33675,45769,Policy
+Oct-15,,FN-NHSG-2025,Junior,,SEO,Policy Adviser,Finance & NHS,0,33675,45769,Policy
+Oct-15,,FN-NHSG-2025,Junior,,SEO,Not In Post,Finance & NHS,0,33675,45769,Policy
+Oct-15,,FN-NHSG-2025,Junior,,SEO,Not In Post,Finance & NHS,0,33675,45769,Policy
+Oct-15,,FN-NHSG-2025,Junior,,FS,Analyst,Finance & NHS,0,29992,41546,Policy
+Oct-15,,FN-NHSG-2025,Junior,,FS,Analyst,Finance & NHS,0,29992,41546,Policy
+Oct-15,,FN-NHSG-2025,Junior,,HEO,Policy Adviser,Finance & NHS,0,26492,37316,Policy
+Oct-15,,FN-NHSG-2025,Junior,,HEO,Policy Adviser,Finance & NHS,0,26492,37316,Policy
+Oct-15,,FN-NHSG-2025,Junior,,HEO,Policy Adviser,Finance & NHS,0,26492,37316,Policy
+Oct-15,,FN-NHSG-2025,Junior,,HEO,Policy Adviser,Finance & NHS,0,26492,37316,Policy
+Oct-15,,FN-NHSG-2025,Junior,,HEO,Policy Adviser,Finance & NHS,0,26492,37316,Policy
+Oct-15,,FN-NHSG-2025,Junior,,EO,PA Support,Finance & NHS,0,21438,30275,Policy
+Oct-15,,FN-NHSG-2025,Junior,,EO,Not In Post,Finance & NHS,0,21438,30275,Policy
+Oct-15,,FN-FP-030,Junior,,G6,Analyst,Finance & NHS,0,57075,75035,Other
+Oct-15,,FN-FP-030,Junior,,G6,Performance Manager,Finance & NHS,0,57075,75035,Other
+Oct-15,,FN-FP-030,Junior,,G7,Analyst,Finance & NHS,0,45299,61976,Other
+Oct-15,,FN-FP-030,Junior,,G7,Policy Manager,Finance & NHS,0,45299,61976,Other
+Oct-15,,FN-FP-030,Junior,,G7,Finance Manager,Finance & NHS,0,45299,61976,Other
+Oct-15,,FN-FP-030,Junior,,SEO,Policy Manager,Finance & NHS,0,33675,45769,Other
+Oct-15,,FN-FP-030,Junior,,HEO,Policy Manager,Finance & NHS,0,26492,37316,Other
+Oct-15,,FN-FP-030,Junior,,FS,Analyst,Finance & NHS,0,29992,41546,Other
+Oct-15,,FN-FP-030,Junior,,EO,Business Manager,Finance & NHS,0,21438,30275,Other
+Oct-15,,FN-FP-030,Junior,,EO,Admin support,Finance & NHS,0,21438,30275,Other
+Oct-15,,FN-NHSG-2240,Junior,,G6,Senior Policy Adviser,Finance & NHS,0,57075,75035,Policy
+Oct-15,,FN-NHSG-2240,Junior,,G6,Senior Policy Adviser,Finance & NHS,0,57075,75035,Policy
+Oct-15,,FN-NHSG-2240,Junior,,G7,Senior Policy Adviser,Finance & NHS,0,45299,61976,Policy
+Oct-15,,FN-NHSG-2240,Junior,,G7,Senior Policy Adviser,Finance & NHS,0,45299,61976,Policy
+Oct-15,,FN-NHSG-2240,Junior,,G7,Senior Policy Adviser,Finance & NHS,0,45299,61976,Policy
+Oct-15,,FN-NHSG-2240,Junior,,G7,Senior Policy Adviser,Finance & NHS,0,45299,61976,Policy
+Oct-15,,FN-NHSG-2240,Junior,,G7,Senior Policy Adviser,Finance & NHS,0,45299,61976,Policy
+Oct-15,,FN-NHSG-2240,Junior,,G7,Not In Post,Finance & NHS,0,45299,61976,Policy
+Oct-15,,FN-NHSG-2240,Junior,,SEO,Policy Adviser,Finance & NHS,0,33675,45769,Policy
+Oct-15,,FN-NHSG-2240,Junior,,SEO,Policy Adviser,Finance & NHS,0,33675,45769,Policy
+Oct-15,,FN-NHSG-2240,Junior,,SEO,Policy Adviser,Finance & NHS,0,33675,45769,Policy
+Oct-15,,FN-NHSG-2240,Junior,,SEO,Policy Adviser,Finance & NHS,0,33675,45769,Policy
+Oct-15,,FN-NHSG-2240,Junior,,SEO,Not In Post,Finance & NHS,0,33675,45769,Policy
+Oct-15,,FN-NHSG-2240,Junior,,FS,Not In Post,Finance & NHS,0,29992,41546,Policy
+Oct-15,,FN-NHSG-2240,Junior,,FS,Statistician,Finance & NHS,0,29992,41546,Statisticians
+Oct-15,,FN-NHSG-2240,Junior,,HEO,Policy Adviser,Finance & NHS,0,26492,37316,Policy
+Oct-15,,FN-NHSG-2240,Junior,,HEO,Policy Adviser,Finance & NHS,0,26492,37316,Policy
+Oct-15,,FN-NHSG-2240,Junior,,HEO,Policy Adviser,Finance & NHS,0,26492,37316,Policy
+Oct-15,,FN-NHSG-2240,Junior,,HEO,Policy Adviser,Finance & NHS,0,26492,37316,Policy
+Oct-15,,FN-NHSG-2240,Junior,,HEO,Policy Adviser,Finance & NHS,0,26492,37316,Policy
+Oct-15,,FN-NHSG-2240,Junior,,EO,Team Support Officer,Finance & NHS,0,21438,30275,Policy
+Oct-15,,FN-NHSG-2240,Junior,,EO,Business Support Officer,Finance & NHS,0,21438,30275,Policy
+Oct-15,,FN-NHSG-2240,Junior,,EO,Policy Adviser,Finance & NHS,0,21438,30275,Policy
+Oct-15,,FN-NHSG-2240,Junior,,EO,Policy Adviser,Finance & NHS,0,21438,30275,Policy
+Oct-15,,FN-NHSG-2240,Junior,,EO,Policy Adviser,Finance & NHS,0,21438,30275,Policy
+Oct-15,,FN-NHSG-2023,Junior,,G6,Senior Policy Adviser,Finance & NHS,0,57075,75035,Policy
+Oct-15,,FN-NHSG-2023,Junior,,G6,Senior Policy Adviser,Finance & NHS,0,57075,75035,Policy
+Oct-15,,FN-NHSG-2023,Junior,,G7,Senior Economist,Finance & NHS,0,45299,61976,Economics
+Oct-15,,FN-NHSG-2023,Junior,,G7,Senior Policy Adviser,Finance & NHS,0,45299,61976,Policy
+Oct-15,,FN-NHSG-2023,Junior,,G7,Senior Policy Adviser,Finance & NHS,0,45299,61976,Policy
+Oct-15,,FN-NHSG-2023,Junior,,G7,Senior Policy Adviser,Finance & NHS,0,45299,61976,Policy
+Oct-15,,FN-NHSG-2023,Junior,,G7,Senior Policy Adviser,Finance & NHS,0,45299,61976,Policy
+Oct-15,,FN-NHSG-2023,Junior,,G7,Senior Policy Adviser,Finance & NHS,0,45299,61976,Policy
+Oct-15,,FN-NHSG-2023,Junior,,SEO,Policy Adviser,Finance & NHS,0,33675,45769,Policy
+Oct-15,,FN-NHSG-2023,Junior,,SEO,Policy Adviser,Finance & NHS,0,33675,45769,Policy
+Oct-15,,FN-NHSG-2023,Junior,,FS,Economist,Finance & NHS,0,29992,41546,Economics
+Oct-15,,FN-NHSG-2023,Junior,,FS,Economist,Finance & NHS,0,29992,41546,Economics
+Oct-15,,FN-NHSG-2023,Junior,,FS,Policy Adviser,Finance & NHS,0,29992,41546,Policy
+Oct-15,,FN-NHSG-2023,Junior,,FS,Not In Post,Finance & NHS,0,29992,41546,Economics
+Oct-15,,FN-NHSG-2023,Junior,,HEO,Policy Adviser,Finance & NHS,0,26492,37316,Policy
+Oct-15,,FN-NHSG-2023,Junior,,HEO,Policy Adviser,Finance & NHS,0,26492,37316,Policy
+Oct-15,,FN-NHSG-2023,Junior,,HEO,Not In Post,Finance & NHS,0,26492,37316,Policy
+Oct-15,,FN-NHSG-2023,Junior,,EO,PA Support,Finance & NHS,0,21438,30275,Other
+Oct-15,,FN-NHSG-2023,Junior,,EO,Not In Post,Finance & NHS,0,21438,30275,Policy
+Oct-15,,FN-NHSEFP-116,Junior,,G7,Senior Project Manager,Finance & NHS,0,45299,61976,Policy
+Oct-15,,FN-NHSEFP-116,Junior,,SEO,Project Manager,Finance & NHS,0,33675,45769,Policy
+Oct-15,,FN-NHSEFP-116,Junior,,HEO,Programme Support Officer,Finance & NHS,0,26492,37316,Policy
+Oct-15,,FN-NHSEFP-116,Junior,,AO,Admin support,Finance & NHS,0,17209,23567,Policy
+Oct-15,,FN128,Junior,,AO,Finance Support Officer,Finance & NHS,0,17209,23567,Finance
+Oct-15,,FN128,Junior,,EO,Finance Officer,Finance & NHS,0,21438,30275,Finance
+Oct-15,,FN128,Junior,,HEO,Assistant Finance Manager,Finance & NHS,0,26492,37316,Finance
+Oct-15,,FN128,Junior,,SEO,Finance Manager,Finance & NHS,0,33675,45769,Finance
+Oct-15,,FN128,Junior,,G7,Senior Finance Manager,Finance & NHS,0,45299,61976,Finance
+Oct-15,,FN128,Junior,,G6,Senior Finance Manager,Finance & NHS,0,57075,75035,Finance
+Oct-15,,FN128,Junior,,G7,Not In Post,Finance & NHS,0,45299,61976,Finance
+Oct-15,,FN128,Junior,,FS,Executive Assistant,Finance & NHS,0,29992,41546,Finance
+Oct-15,,FN-GFM-2476,Junior,,G7,Senior Finance Manager,Finance & NHS,0,45299,61976,Policy
+Oct-15,,FN-GFM-2476,Junior,,G6,Senior Finance Manager,Finance & NHS,0,57075,75035,Policy
+Oct-15,,FN-GFM-2476,Junior,,AO,Not In Post,Finance & NHS,0,17209,23567,Policy
+Oct-15,,FN-GFM-2476,Junior,,SEO,Not In Post,Finance & NHS,0,33675,45769,Policy
+Oct-15,,FN-GFM-2476,Junior,,SEO,Finance Officer,Finance & NHS,0,33675,45769,Policy
+Oct-15,,FN140,Junior,,SEO,Programme Manager,Finance & NHS,0,33675,45769,Operational Delivery
+Oct-15,,FN140,Junior,,EO,Programme Support Officer,Finance & NHS,0,21438,30275,Operational Delivery
+Oct-15,,FN141,Junior,,HEO,Project Manager,Finance & NHS,0,26492,37316,Operational Delivery
+Oct-15,,FN140,Junior,,G6,Senior Programme Manager,Finance & NHS,0,57075,75035,Policy
+Oct-15,,FN140,Junior,,SEO,Programme Manager,Finance & NHS,0,33675,45769,Policy
+Oct-15,,FN140,Junior,,EO,Programme Support Officer,Finance & NHS,0,21438,30275,Policy
+Oct-15,,IGT-028,Junior,,G6,Senior Policy Manager,Finance & NHS,0,57075,75035,Policy
+Oct-15,,IGT-028,Junior,,G7,Policy Manager,Finance & NHS,0,45299,61976,Policy
+Oct-15,,FN-FP-030,Junior,,G6,Finance Manager,Finance & NHS,0,57075,75035,Other
+Oct-15,,FN-FP-030,Junior,,G7,Finance Manager,Finance & NHS,0,45299,61976,Other
+Oct-15,,FN-FP-030,Junior,,SEO,Policy Manager,Finance & NHS,0,33675,45769,Other
+Oct-15,,FN-FP-030,Junior,,HEO,Policy Manager,Finance & NHS,0,26492,37316,Other
+Oct-15,,FN-FP-030,Junior,,EO,Policy Manager,Finance & NHS,0,21438,30275,Other
+Oct-15,,FN-FP-030,Junior,,G6,Finance Manager,Finance & NHS,0,57075,75035,Finance
+Oct-15,,FN-FP-030,Junior,,G7,Finance Manager,Finance & NHS,0,45299,61976,Finance
+Oct-15,,FN-FP-030,Junior,,HEO,Finance Manager,Finance & NHS,0,26492,37316,Finance
+Oct-15,,FN-FP-030,Junior,,SEO,Finance Manager,Finance & NHS,0,33675,45769,Finance
+Oct-15,,FN-FP-030,Junior,,FS,Finance Manager,Finance & NHS,0,29992,41546,Finance
+Oct-15,,FN-FP-030,Junior,,AO,Admin support,Finance & NHS,0,17209,23567,Finance
+Oct-15,,FN-FP-030,Junior,,G6,Finance Manager,Finance & NHS,0,57075,75035,Finance
+Oct-15,,FN-FP-030,Junior,,G7,Finance Manager,Finance & NHS,0,45299,61976,Finance
+Oct-15,,FN-FP-030,Junior,,SEO,Finance Manager,Finance & NHS,0,33675,45769,Finance
+Oct-15,,FN-FP-030,Junior,,FS,Finance Officer,Finance & NHS,0,29992,41546,Finance
+Oct-15,,FN-FP-030,Junior,,AO,Finance Officer,Finance & NHS,0,17209,23567,Finance
+Oct-15,,FN-FP-030,Junior,,AO,Admin support,Finance & NHS,0,17209,23567,Finance
+Oct-15,,FN145,Junior,,G6,Policy Manager,Finance & NHS,0,57075,75035,Policy
+Oct-15,,FN145,Junior,,G7,Policy Manager,Finance & NHS,0,45299,61976,Policy
+Oct-15,,FN145,Junior,,SEO,Policy Manager,Finance & NHS,0,33675,45769,Policy
+Oct-15,,FN145,Junior,,EO,Admin support,Finance & NHS,0,21438,30275,Policy
+Oct-15,,FN-PICD-033,Junior,,G6,Senior Policy Manager,Finance & NHS,0,57075,75035,Policy
+Oct-15,,FN-PICD-033,Junior,,G7,Senior Policy Manager,Finance & NHS,0,45299,61976,Policy
+Oct-15,,FN-PICD-033,Junior,,HEO,Commercial Manager,Finance & NHS,0,26492,37316,Policy
+Oct-15,,FN147,Junior,,G6,Procurement Officer,Finance & NHS,0,57075,75035,Procurement
+Oct-15,,FN147,Junior,,G7,Procurement Officer,Finance & NHS,0,45299,61976,Procurement
+Oct-15,,FN147,Junior,,G7,Commercial Manager,Finance & NHS,0,45299,61976,Finance
+Oct-15,,FN147,Junior,,SEO,Project Manager,Finance & NHS,0,33675,45769,Programme and Project Management (PPM)
+Oct-15,,FN147,Junior,,HEO,Policy Manager,Finance & NHS,0,26492,37316,Policy
+Oct-15,,FN-NHSG-2025,Junior,,G6,Not In Post,Finance & NHS,0,57075,75035,Policy
+Oct-15,,FN-NHSG-2025,Junior,,G7,Senior Policy Adviser,Finance & NHS,0,45299,61976,Policy
+Oct-15,,FN-NHSG-2025,Junior,,SEO,Policy Adviser,Finance & NHS,0,33675,45769,Policy
+Oct-15,,FN-NHSG-2025,Junior,,FS,Operational Researcher,Finance & NHS,0,29992,41546,Policy
+Oct-15,,FN-NHSG-2025,Junior,,HEO,Policy Adviser,Finance & NHS,0,26492,37316,Policy
+Oct-15,,FN-NHSG-2025,Junior,,EO,PA Support,Finance & NHS,0,21438,30275,Policy
+Oct-15,,IGT-010,Junior,,EO,Personal Assistant,"Innovation, Growth and Technology",0,21438,30275,Policy
+Oct-15,,IGT2353,Junior,,EO,Personal Assistant,"Innovation, Growth and Technology",0,21438,30275,Operational Delivery
+Oct-15,,IGT2353,Junior,,EO,Business Support Officer,"Innovation, Growth and Technology",0,21438,30275,Operational Delivery
+Oct-15,,IGT2353,Junior,,HEO,Project Support Officer,"Innovation, Growth and Technology",0,26492,37316,Operational Delivery
+Oct-15,,IGT2353,Junior,,HEO,Business Support Officer,"Innovation, Growth and Technology",0,26492,37316,Operational Delivery
+Oct-15,,IGT2353,Junior,,HEO,Policy Support Officer,"Innovation, Growth and Technology",0,26492,37316,Policy
+Oct-15,,IGT2353,Junior,,SEO,Business Support Officer,"Innovation, Growth and Technology",0,33675,45769,Policy
+Oct-15,,IGT2353,Junior,,SEO,Policy Manager,"Innovation, Growth and Technology",0,33675,45769,Policy
+Oct-15,,IGT2353,Junior,,SEO,Policy Manager,"Innovation, Growth and Technology",0,33675,45769,Policy
+Oct-15,,IGT2353,Junior,,G7,Senior Policy Manager,"Innovation, Growth and Technology",0,45299,61976,Policy
+Oct-15,,IGT2353,Junior,,G7,Policy Manager,"Innovation, Growth and Technology",0,45299,61976,Policy
+Oct-15,,IGT2353,Junior,,G7,Policy Manager,"Innovation, Growth and Technology",0,45299,61976,Policy
+Oct-15,,IGT2353,Junior,,G7,Policy Manager,"Innovation, Growth and Technology",0,45299,61976,Policy
+Oct-15,,IGT2353,Junior,,G6,Senior Policy Manager,"Innovation, Growth and Technology",0,57075,75035,Policy
+Oct-15,,IGT2361,Junior,,EO,Team Support,"Innovation, Growth and Technology",0,21438,30275,Operational Delivery
+Oct-15,,IGT2361,Junior,,EO,Operations Support Officer,"Innovation, Growth and Technology",0,21438,30275,Operational Delivery
+Oct-15,,IGT2361,Junior,,FS,Legislation Officer,"Innovation, Growth and Technology",0,29992,41546,Policy
+Oct-15,,IGT2361,Junior,,FS,Workstream Lead,"Innovation, Growth and Technology",0,29992,41546,Policy
+Oct-15,,IGT2361,Junior,,FS,Policy Manager,"Innovation, Growth and Technology",0,29992,41546,Policy
+Oct-15,,IGT2361,Junior,,G6,Policy Manager,"Innovation, Growth and Technology",0,57075,75035,Policy
+Oct-15,,IGT2361,Junior,,G6,Policy Manager,"Innovation, Growth and Technology",0,57075,75035,Policy
+Oct-15,,IGT2361,Junior,,G7,Policy Manager,"Innovation, Growth and Technology",0,45299,61976,Policy
+Oct-15,,IGT2361,Junior,,G7,Policy Manager,"Innovation, Growth and Technology",0,45299,61976,Policy
+Oct-15,,IGT2361,Junior,,G7,Legislation Manager,"Innovation, Growth and Technology",0,45299,61976,Policy
+Oct-15,,IGT2361,Junior,,G7,Policy Manager,"Innovation, Growth and Technology",0,45299,61976,Policy
+Oct-15,,IGT2361,Junior,,HEO,Project Support Officer,"Innovation, Growth and Technology",0,26492,37316,Operational Delivery
+Oct-15,,IGT2361,Junior,,HEO,Briefing Manager,"Innovation, Growth and Technology",0,26492,37316,Policy
+Oct-15,,IGT2361,Junior,,SEO,Policy Manager,"Innovation, Growth and Technology",0,33675,45769,Policy
+Oct-15,,IGT2362,Junior,,EO,Admin support,"Innovation, Growth and Technology",0,21438,30275,Operational Delivery
+Oct-15,,IGT2362,Junior,,FS,Strategy Advisor,"Innovation, Growth and Technology",0,29992,41546,Communications
+Oct-15,,IGT2362,Junior,,G6,Section Head,"Innovation, Growth and Technology",0,57075,75035,Communications
+Oct-15,,IGT2362,Junior,,G6,Section Head,"Innovation, Growth and Technology",0,57075,75035,Communications
+Oct-15,,IGT2362,Junior,,G7,Senior Communications Manager,"Innovation, Growth and Technology",0,45299,61976,Communications
+Oct-15,,IGT2362,Junior,,G7,Senior Communications Manager,"Innovation, Growth and Technology",0,45299,61976,Communications
+Oct-15,,IGT2362,Junior,,G7,Research Manager,"Innovation, Growth and Technology",0,45299,61976,Communications
+Oct-15,,IGT2362,Junior,,G7,Senior Communications Manager,"Innovation, Growth and Technology",0,45299,61976,Communications
+Oct-15,,IGT2362,Junior,,G7,Senior Communications Manager,"Innovation, Growth and Technology",0,45299,61976,Communications
+Oct-15,,IGT2362,Junior,,G7,Senior Communications Manager,"Innovation, Growth and Technology",0,45299,61976,Communications
+Oct-15,,IGT2362,Junior,,G7,Senior Communications Manager,"Innovation, Growth and Technology",0,45299,61976,Communications
+Oct-15,,IGT2362,Junior,,G7,Policy Manager,"Innovation, Growth and Technology",0,45299,61976,Communications
+Oct-15,,IGT2362,Junior,,HEO,Operational Manager,"Innovation, Growth and Technology",0,26492,37316,Communications
+Oct-15,,IGT2362,Junior,,HEO,Communications Manager,"Innovation, Growth and Technology",0,26492,37316,Communications
+Oct-15,,IGT2362,Junior,,SEO,Communications Manager,"Innovation, Growth and Technology",0,33675,45769,Communications
+Oct-15,,IGT2362,Junior,,SEO,Communications Manager,"Innovation, Growth and Technology",0,33675,45769,Communications
+Oct-15,,IGT2362,Junior,,SEO,Communications Manager,"Innovation, Growth and Technology",0,33675,45769,Communications
+Oct-15,,IGT2362,Junior,,SEO,Communications Manager,"Innovation, Growth and Technology",0,33675,45769,Communications
+Oct-15,,IGT2362,Junior,,SEO,Communications Manager,"Innovation, Growth and Technology",0,33675,45769,Communications
+Oct-15,,IGT2369,Junior,,G7,Policy Manager,"Innovation, Growth and Technology",0,45299,61976,Policy
+Oct-15,,IGT-101,Junior,,AO,Business Support Officer,"Innovation, Growth and Technology",0,17209,23567,Operational Delivery
+Oct-15,,IGT-101,Junior,,EO,Policy Adviser,"Innovation, Growth and Technology",0,21438,30275,Policy
+Oct-15,,IGT-101,Junior,,EO,Personal Assistant,"Innovation, Growth and Technology",0,21438,30275,Policy
+Oct-15,,IGT-101,Junior,,G6,Section Head,"Innovation, Growth and Technology",0,57075,75035,Policy
+Oct-15,,IGT-101,Junior,,G7,Section Head,"Innovation, Growth and Technology",0,45299,61976,Policy
+Oct-15,,IGT-101,Junior,,G7,Section Head,"Innovation, Growth and Technology",0,45299,61976,Policy
+Oct-15,,IGT-101,Junior,,G7,Section Head,"Innovation, Growth and Technology",0,45299,61976,Policy
+Oct-15,,IGT-101,Junior,,G7,Section Head,"Innovation, Growth and Technology",0,45299,61976,Policy
+Oct-15,,IGT-101,Junior,,HEO,Business Manager,"Innovation, Growth and Technology",0,26492,37316,Operational Delivery
+Oct-15,,IGT-101,Junior,,HEO,Business Manager,"Innovation, Growth and Technology",0,26492,37316,Operational Delivery
+Oct-15,,IGT-101,Junior,,HEO,Policy Manager,"Innovation, Growth and Technology",0,26492,37316,Policy
+Oct-15,,IGT-101,Junior,,HEO,Policy Adviser,"Innovation, Growth and Technology",0,26492,37316,Policy
+Oct-15,,IGT-101,Junior,,HEO,Policy Manager,"Innovation, Growth and Technology",0,26492,37316,Policy
+Oct-15,,IGT-101,Junior,,SEO,Policy Manager,"Innovation, Growth and Technology",0,33675,45769,Policy
+Oct-15,,IGT-101,Junior,,SEO,Policy Manager,"Innovation, Growth and Technology",0,33675,45769,Policy
+Oct-15,,IGT-101,Junior,,SEO,Senior Policy Manager,"Innovation, Growth and Technology",0,33675,45769,Policy
+Oct-15,,IGT-101,Junior,,SEO,Senior Policy Manager,"Innovation, Growth and Technology",0,33675,45769,Policy
+Oct-15,,IGT-101,Junior,,SEO,Senior Policy Manager,"Innovation, Growth and Technology",0,33675,45769,Policy
+Oct-15,,IGT-101,Junior,,SEO,Senior Policy Manager,"Innovation, Growth and Technology",0,33675,45769,Policy
+Oct-15,,IGT-097,Junior,,EO,Personal Assistant,"Innovation, Growth and Technology",0,21438,30275,Operational Delivery
+Oct-15,,IGT-097,Junior,,EO,Business Manager,"Innovation, Growth and Technology",0,21438,30275,Operational Delivery
+Oct-15,,IGT-097,Junior,,G6,Senior Policy Manager,"Innovation, Growth and Technology",0,57075,75035,Policy
+Oct-15,,IGT-097,Junior,,G6,Pharmacist,"Innovation, Growth and Technology",0,57075,75035,Policy
+Oct-15,,IGT-097,Junior,,G7,Pharmacist,"Innovation, Growth and Technology",0,45299,61976,Policy
+Oct-15,,IGT-097,Junior,,G7,Policy Manager,"Innovation, Growth and Technology",0,45299,61976,Policy
+Oct-15,,IGT-097,Junior,,G7,Programme Manager,"Innovation, Growth and Technology",0,45299,61976,Policy
+Oct-15,,IGT-097,Junior,,HEO,Policy Manager,"Innovation, Growth and Technology",0,26492,37316,Policy
+Oct-15,,IGT-097,Junior,,HEO,Business Manager,"Innovation, Growth and Technology",0,26492,37316,Operational Delivery
+Oct-15,,IGT-097,Junior,,SEO,Policy Manager,"Innovation, Growth and Technology",0,33675,45769,Policy
+Oct-15,,IGT-097,Junior,,SEO,Policy Manager,"Innovation, Growth and Technology",0,33675,45769,Policy
+Oct-15,,IGT-097,Junior,,SEO,Project Manager,"Innovation, Growth and Technology",0,33675,45769,Policy
+Oct-15,,IGT-118,Junior,,AO,Business Support Officer,"Innovation, Growth and Technology",0,17209,23567,Operational Delivery
+Oct-15,,IGT-118,Junior,,EO,Business Manager,"Innovation, Growth and Technology",0,21438,30275,Operational Delivery
+Oct-15,,IGT-118,Junior,,EO,Policy Manager,"Innovation, Growth and Technology",0,21438,30275,Policy
+Oct-15,,IGT-118,Junior,,EO,Personal Assistant,"Innovation, Growth and Technology",0,21438,30275,Operational Delivery
+Oct-15,,IGT-118,Junior,,G6,Senior Business Manager,"Innovation, Growth and Technology",0,57075,75035,Operational Delivery
+Oct-15,,IGT-118,Junior,,G6,Senior Operational Manager,"Innovation, Growth and Technology",0,57075,75035,Operational Delivery
+Oct-15,,IGT-118,Junior,,G6,Pharmacist,"Innovation, Growth and Technology",0,57075,75035,Policy
+Oct-15,,IGT-118,Junior,,G6,Senior Operational Manager,"Innovation, Growth and Technology",0,57075,75035,Operational Delivery
+Oct-15,,IGT-118,Junior,,G7,Senior Finance Manager,"Innovation, Growth and Technology",0,45299,61976,Finance
+Oct-15,,IGT-118,Junior,,G7,Pharmacist,"Innovation, Growth and Technology",0,45299,61976,Policy
+Oct-15,,IGT-118,Junior,,G7,Policy Manager,"Innovation, Growth and Technology",0,45299,61976,Policy
+Oct-15,,IGT-118,Junior,,G7,Senior Policy Manager,"Innovation, Growth and Technology",0,45299,61976,Policy
+Oct-15,,IGT-118,Junior,,G7,Pharmacist,"Innovation, Growth and Technology",0,45299,61976,Policy
+Oct-15,,IGT-118,Junior,,G7,Senior Finance Manager,"Innovation, Growth and Technology",0,45299,61976,Finance
+Oct-15,,IGT-118,Junior,,HEO,Operational Manager,"Innovation, Growth and Technology",0,26492,37316,Operational Delivery
+Oct-15,,IGT-118,Junior,,HEO,Operational Manager,"Innovation, Growth and Technology",0,26492,37316,Operational Delivery
+Oct-15,,IGT-118,Junior,,HEO,Business Manager,"Innovation, Growth and Technology",0,26492,37316,Operational Delivery
+Oct-15,,IGT-118,Junior,,HEO,Policy Manager,"Innovation, Growth and Technology",0,26492,37316,Policy
+Oct-15,,IGT-118,Junior,,HEO,Business Manager,"Innovation, Growth and Technology",0,26492,37316,Operational Delivery
+Oct-15,,IGT-118,Junior,,SEO,Pharmacist,"Innovation, Growth and Technology",0,33675,45769,Policy
+Oct-15,,IGT-118,Junior,,SEO,Pharmacist,"Innovation, Growth and Technology",0,33675,45769,Policy
+Oct-15,,IGT-118,Junior,,SEO,Policy Manager,"Innovation, Growth and Technology",0,33675,45769,Policy
+Oct-15,,IGT-118,Junior,,SEO,Business Manager,"Innovation, Growth and Technology",0,33675,45769,Operational Delivery
+Oct-15,,IGT-100,Junior,,AO,Admin support,"Innovation, Growth and Technology",0,17209,23567,Policy
+Oct-15,,IGT-100,Junior,,AO,Analyst,"Innovation, Growth and Technology",0,17209,23567,Policy
+Oct-15,,IGT-100,Junior,,EO,Correspondence Manager,"Innovation, Growth and Technology",0,21438,30275,Policy
+Oct-15,,IGT-100,Junior,,EO,Business Support Officer,"Innovation, Growth and Technology",0,21438,30275,Policy
+Oct-15,,IGT-100,Junior,,HEO,Business Manager,"Innovation, Growth and Technology",0,26492,37316,Policy
+Oct-15,,IGT-100,Junior,,SEO,Senior Statistician,"Innovation, Growth and Technology",0,33675,45769,Policy
+Oct-15,,IGT-100,Junior,,SEO,Business Manager,"Innovation, Growth and Technology",0,33675,45769,Policy
+Oct-15,,IGT-100,Junior,,FS,Economist,"Innovation, Growth and Technology",0,29992,41546,Policy
+Oct-15,,IGT-100,Junior,,FS,Statistician,"Innovation, Growth and Technology",0,29992,41546,Policy
+Oct-15,,IGT-100,Junior,,G7,Economist,"Innovation, Growth and Technology",0,45299,61976,Policy
+Oct-15,,IGT-100,Junior,,G7,Economist,"Innovation, Growth and Technology",0,45299,61976,Policy
+Oct-15,,IGT-100,Junior,,G7,Statistician,"Innovation, Growth and Technology",0,45299,61976,Policy
+Oct-15,,IGT-100,Junior,,G7,Statistician,"Innovation, Growth and Technology",0,45299,61976,Policy
+Oct-15,,IGT-100,Junior,,G7,Economist,"Innovation, Growth and Technology",0,45299,61976,Policy
+Oct-15,,IGT-100,Junior,,G7,Business Manager,"Innovation, Growth and Technology",0,45299,61976,Policy
+Oct-15,,IGT-109,Junior,,AO,Team Support,"Innovation, Growth and Technology",0,17209,23567,Operational Delivery
+Oct-15,,IGT-109,Junior,,EO,Team Support,"Innovation, Growth and Technology",0,21438,30275,Operational Delivery
+Oct-15,,IGT-109,Junior,,EO,Personal Assistant,"Innovation, Growth and Technology",0,21438,30275,Operational Delivery
+Oct-15,,IGT-109,Junior,,EO,Team Support,"Innovation, Growth and Technology",0,21438,30275,Operational Delivery
+Oct-15,,IGT-109,Junior,,EO,Team Support,"Innovation, Growth and Technology",0,21438,30275,Operational Delivery
+Oct-15,,IGT-109,Junior,,G6,Section Head,"Innovation, Growth and Technology",0,57075,75035,Policy
+Oct-15,,IGT-109,Junior,,G6,Section Head,"Innovation, Growth and Technology",0,57075,75035,Policy
+Oct-15,,IGT-109,Junior,,G6,Section Head,"Innovation, Growth and Technology",0,57075,75035,Policy
+Oct-15,,IGT-109,Junior,,G6,Section Head,"Innovation, Growth and Technology",0,57075,75035,Policy
+Oct-15,,IGT-109,Junior,,G6,Section Head,"Innovation, Growth and Technology",0,57075,75035,Policy
+Oct-15,,IGT-109,Junior,,G7,Procurement Officer,"Innovation, Growth and Technology",0,45299,61976,Finance
+Oct-15,,IGT-109,Junior,,G7,Procurement Officer,"Innovation, Growth and Technology",0,45299,61976,Finance
+Oct-15,,IGT-109,Junior,,G7,Procurement Officer,"Innovation, Growth and Technology",0,45299,61976,Finance
+Oct-15,,IGT-109,Junior,,G7,Procurement Officer,"Innovation, Growth and Technology",0,45299,61976,Finance
+Oct-15,,IGT-109,Junior,,G7,Procurement Officer,"Innovation, Growth and Technology",0,45299,61976,Finance
+Oct-15,,IGT-109,Junior,,G7,Procurement Officer,"Innovation, Growth and Technology",0,45299,61976,Finance
+Oct-15,,IGT-109,Junior,,G7,Procurement Officer,"Innovation, Growth and Technology",0,45299,61976,Finance
+Oct-15,,IGT-109,Junior,,G7,Analyst,"Innovation, Growth and Technology",0,45299,61976,Policy
+Oct-15,,IGT-109,Junior,,G7,Procurement Officer,"Innovation, Growth and Technology",0,45299,61976,Finance
+Oct-15,,IGT-109,Junior,,G7,Procurement Officer,"Innovation, Growth and Technology",0,45299,61976,Finance
+Oct-15,,IGT-109,Junior,,HEO,Business Manager,"Innovation, Growth and Technology",0,26492,37316,Operational Delivery
+Oct-15,,IGT-109,Junior,,HEO,Procurement Officer,"Innovation, Growth and Technology",0,26492,37316,Finance
+Oct-15,,IGT-109,Junior,,HEO,Procurement Officer,"Innovation, Growth and Technology",0,26492,37316,Finance
+Oct-15,,IGT-109,Junior,,HEO,Procurement Officer,"Innovation, Growth and Technology",0,26492,37316,Finance
+Oct-15,,IGT-109,Junior,,HEO,Project Manager,"Innovation, Growth and Technology",0,26492,37316,Programme and Project Management (PPM)
+Oct-15,,IGT-109,Junior,,HEO,Analyst,"Innovation, Growth and Technology",0,26492,37316,Statisticians
+Oct-15,,IGT-109,Junior,,HEO,Analyst,"Innovation, Growth and Technology",0,26492,37316,Statisticians
+Oct-15,,IGT-109,Junior,,HEO,Procurement Officer,"Innovation, Growth and Technology",0,26492,37316,Finance
+Oct-15,,IGT-109,Junior,,HEO,Procurement Officer,"Innovation, Growth and Technology",0,26492,37316,Finance
+Oct-15,,IGT-109,Junior,,SEO,Procurement Officer,"Innovation, Growth and Technology",0,33675,45769,Finance
+Oct-15,,IGT-109,Junior,,SEO,Procurement Officer,"Innovation, Growth and Technology",0,33675,45769,Finance
+Oct-15,,IGT-109,Junior,,SEO,Procurement Officer,"Innovation, Growth and Technology",0,33675,45769,Finance
+Oct-15,,IGT-109,Junior,,SEO,Procurement Officer,"Innovation, Growth and Technology",0,33675,45769,Finance
+Oct-15,,IGT-109,Junior,,SEO,Procurement Officer,"Innovation, Growth and Technology",0,33675,45769,Finance
+Oct-15,,IGT-109,Junior,,SEO,Procurement Officer,"Innovation, Growth and Technology",0,33675,45769,Finance
+Oct-15,,IGT-109,Junior,,SEO,Procurement Officer,"Innovation, Growth and Technology",0,33675,45769,Finance
+Oct-15,,IGT-109,Junior,,SEO,Procurement Officer,"Innovation, Growth and Technology",0,33675,45769,Finance
+Oct-15,,IGT-109,Junior,,SEO,Procurement Officer,"Innovation, Growth and Technology",0,33675,45769,Finance
+Oct-15,,IGT-109,Junior,,SEO,Procurement Officer,"Innovation, Growth and Technology",0,33675,45769,Finance
+Oct-15,,IGT-109,Junior,,SEO,Procurement Officer,"Innovation, Growth and Technology",0,33675,45769,Finance
+Oct-15,,IGT-109,Junior,,SEO,Procurement Officer,"Innovation, Growth and Technology",0,33675,45769,Finance
+Oct-15,,IGT-109,Junior,,SEO,Procurement Officer,"Innovation, Growth and Technology",0,33675,45769,Finance
+Oct-15,,IGT-109,Junior,,SEO,Procurement Officer,"Innovation, Growth and Technology",0,33675,45769,Finance
+Oct-15,,IGT-109,Junior,,SEO,Procurement Officer,"Innovation, Growth and Technology",0,33675,45769,Finance
+Oct-15,,IGT-109,Junior,,SEO,Procurement Officer,"Innovation, Growth and Technology",0,33675,45769,Finance
+Oct-15,,IGT-109,Junior,,SEO,Procurement Officer,"Innovation, Growth and Technology",0,33675,45769,Finance
+Oct-15,,IGT-109,Junior,,SEO,Procurement Officer,"Innovation, Growth and Technology",0,33675,45769,Finance
+Oct-15,,IGT-109,Junior,,SEO,Procurement Officer,"Innovation, Growth and Technology",0,33675,45769,Finance
+Oct-15,,IGT-109,Junior,,SEO,Procurement Officer,"Innovation, Growth and Technology",0,33675,45769,Finance
+Oct-15,,IGT-109,Junior,,SEO,Analyst,"Innovation, Growth and Technology",0,33675,45769,Statisticians
+Oct-15,,IGT-109,Junior,,SEO,Analyst,"Innovation, Growth and Technology",0,33675,45769,Statisticians
+Oct-15,,IGT-109,Junior,,SEO,Analyst,"Innovation, Growth and Technology",0,33675,45769,Statisticians
+Oct-15,,IGT-109,Junior,,SEO,Analyst,"Innovation, Growth and Technology",0,33675,45769,Statisticians
+Oct-15,,IGT-109,Junior,,SEO,Pharmacist,"Innovation, Growth and Technology",0,33675,45769,Policy
+Oct-15,,IGT-028,Junior,,EO,Personal Assistant,"Innovation, Growth and Technology",0,21438,30275,Operational Delivery
+Oct-15,,IGT2367,Junior,,EO,Team Support,"Innovation, Growth and Technology",0,21438,30275,Operational Delivery
+Oct-15,,IGT2367,Junior,,G6,Finance Manager,"Innovation, Growth and Technology",0,57075,75035,Finance
+Oct-15,,IGT2367,Junior,,G6,Senior Technical Adviser,"Innovation, Growth and Technology",0,57075,75035,Programme and Project Management (PPM)
+Oct-15,,IGT2367,Junior,,G7,Communications Manager,"Innovation, Growth and Technology",0,45299,61976,Programme and Project Management (PPM)
+Oct-15,,IGT2367,Junior,,G7,Section Head,"Innovation, Growth and Technology",0,45299,61976,Programme and Project Management (PPM)
+Oct-15,,IGT2367,Junior,,HEO,Finance Officer,"Innovation, Growth and Technology",0,26492,37316,Finance
+Oct-15,,IGT2367,Junior,,HEO,Operational Manager,"Innovation, Growth and Technology",0,26492,37316,Programme and Project Management (PPM)
+Oct-15,,IGT2367,Junior,,HEO,Executive Assistant,"Innovation, Growth and Technology",0,26492,37316,Programme and Project Management (PPM)
+Oct-15,,IGT2367,Junior,,SEO,Deputy Head of Unit,"Innovation, Growth and Technology",0,33675,45769,Programme and Project Management (PPM)
+Oct-15,,IGT-010,Junior,,EO,Team Support,"Innovation, Growth and Technology",0,21438,30275,Operational Delivery
+Oct-15,,IGT-010,Junior,,G6,Section Head,"Innovation, Growth and Technology",0,57075,75035,Programme and Project Management (PPM)
+Oct-15,,IGT-010,Junior,,G6,Senior Programme Manager,"Innovation, Growth and Technology",0,57075,75035,Programme and Project Management (PPM)
+Oct-15,,IGT-010,Junior,,G6,Strategy Advisor,"Innovation, Growth and Technology",0,57075,75035,Programme and Project Management (PPM)
+Oct-15,,IGT-010,Junior,,G7,Section Head,"Innovation, Growth and Technology",0,45299,61976,Programme and Project Management (PPM)
+Oct-15,,IGT-010,Junior,,SEO,Operational Manager,"Innovation, Growth and Technology",0,33675,45769,Programme and Project Management (PPM)
+Oct-15,,IGT2366,Junior,,EO,Team Support,"Innovation, Growth and Technology",0,21438,30275,Operational Delivery
+Oct-15,,IGT2366,Junior,,G7,Policy Manager,"Innovation, Growth and Technology",0,45299,61976,Policy
+Oct-15,,IGT2366,Junior,,HEO,Policy Support Officer,"Innovation, Growth and Technology",0,26492,37316,Policy
+Oct-15,,IGT2359,Junior,,G7,Research Manager,"Innovation, Growth and Technology",0,45299,61976,Policy
+Oct-15,,IGT2359,Junior,,FS,Policy Manager,"Innovation, Growth and Technology",0,29992,41546,Policy
+Oct-15,,IGT2355,Junior,,G6,Strategy Advisor,"Innovation, Growth and Technology",0,57075,75035,Policy
+Oct-15,,IGT2355,Junior,,G6,Economist,"Innovation, Growth and Technology",0,57075,75035,Policy
+Oct-15,,IGT2355,Junior,,HEO,Business Manager,"Innovation, Growth and Technology",0,26492,37316,Operational Delivery
+Oct-15,,IGT2355,Junior,,G7,Policy Manager,"Innovation, Growth and Technology",0,45299,61976,Policy
+Oct-15,,IGT2355,Junior,,G7,Communications Manager,"Innovation, Growth and Technology",0,45299,61976,Policy
+Oct-15,,IGT2360,Junior,,AO,Team Support,"Innovation, Growth and Technology",0,17209,23567,Operational Delivery
+Oct-15,,IGT2360,Junior,,EO,Personal Assistant,"Innovation, Growth and Technology",0,21438,30275,Operational Delivery
+Oct-15,,IGT2360,Junior,,G7,Strategy Advisor,"Innovation, Growth and Technology",0,45299,61976,Operational Delivery
+Oct-15,,IGT2360,Junior,,HEO,Policy Manager,"Innovation, Growth and Technology",0,26492,37316,Policy
+Oct-15,,IGT2368,Junior,,HEO,Project Support Officer,"Innovation, Growth and Technology",0,26492,37316,Programme and Project Management (PPM)
+Oct-15,,IGT2368,Junior,,FS,Project Support Officer,"Innovation, Growth and Technology",0,29992,41546,Operational Delivery
+Oct-15,,IGT2368,Junior,,SEO,Workstream Lead,"Innovation, Growth and Technology",0,33675,45769,Operational Delivery
+Oct-15,,IGT2368,Junior,,G7,Workstream Lead,"Innovation, Growth and Technology",0,45299,61976,Operational Delivery
+Oct-15,,IGT2368,Junior,,G7,Project Manager,"Innovation, Growth and Technology",0,45299,61976,Operational Delivery
+Oct-15,,IGT2368,Junior,,G7,Workstream Lead,"Innovation, Growth and Technology",0,45299,61976,Operational Delivery
+Oct-15,,IGT2368,Junior,,G6,Workstream Lead,"Innovation, Growth and Technology",0,57075,75035,Operational Delivery
+Oct-15,,IGT2368,Junior,,G7,Workstream Lead,"Innovation, Growth and Technology",0,45299,61976,Operational Delivery
+Oct-15,,IGT2368,Junior,,G6,Workstream Lead,"Innovation, Growth and Technology",0,57075,75035,Operational Delivery
+Oct-15,,IGT2368,Junior,,EO,Project Support Officer,"Innovation, Growth and Technology",0,21438,30275,Operational Delivery
+Oct-15,,IGT2368,Junior,,G7,Workstream Lead,"Innovation, Growth and Technology",0,45299,61976,Operational Delivery
+Oct-15,,IGT-2351,Junior,,G7,Private Secretary,"Innovation, Growth and Technology",0,45299,61976,Operational Delivery
+Oct-15,,IGT-2351,Junior,,G7,Corporate Business Lead,"Innovation, Growth and Technology",0,45299,61976,Operational Delivery
+Oct-15,,IGT-2351,Junior,,SEO,Corporate Manager,"Innovation, Growth and Technology",0,33675,45769,Operational Delivery
+Oct-15,,IGT-2351,Junior,,SEO,Corporate Manager,"Innovation, Growth and Technology",0,33675,45769,Operational Delivery
+Oct-15,,IGT-2351,Junior,,EO,Diary Secretary,"Innovation, Growth and Technology",0,21438,30275,Operational Delivery
+Oct-15,,IGT-2351,Junior,,AO,Business Support Officer,"Innovation, Growth and Technology",0,17209,23567,Operational Delivery
+Oct-15,,RDD-040,Junior,,EO,Executive Assistant,Research & Development Directorate,0,21438,30275,Policy
+Oct-15,,RDD-040,Junior,,G7,Policy Manager,Research & Development Directorate,0,45299,61976,Policy
+Oct-15,,RDD-040,Junior,,HEO,Policy Support Officer,Research & Development Directorate,0,26492,37316,Policy
+Oct-15,,RDD-040,Junior,,SEO,Policy Manager,Research & Development Directorate,0,33675,45769,Policy
+Oct-15,,RDD-041,Junior,,AO,Admin support,Research & Development Directorate,0,17209,23567,Policy
+Oct-15,,RDD-041,Junior,,EO,Finance Support Officer,Research & Development Directorate,0,21438,30275,Policy
+Oct-15,,RDD-041,Junior,,EO,Business Support Officer,Research & Development Directorate,0,21438,30275,Policy
+Oct-15,,RDD-041,Junior,,EO,Executive Assistant,Research & Development Directorate,0,21438,30275,Policy
+Oct-15,,RDD-041,Junior,,G6,Policy Manager,Research & Development Directorate,0,57075,75035,Policy
+Oct-15,,RDD-041,Junior,,G6,Finance Manager,Research & Development Directorate,0,57075,75035,Policy
+Oct-15,,RDD-041,Junior,,G7,Policy Manager,Research & Development Directorate,0,45299,61976,Policy
+Oct-15,,RDD-041,Junior,,HEO,Business Support Officer,Research & Development Directorate,0,26492,37316,Policy
+Oct-15,,RDD-041,Junior,,HEO,Finance Support Officer,Research & Development Directorate,0,26492,37316,Policy
+Oct-15,,RDD-041,Junior,,SEO,Programme Support Officer,Research & Development Directorate,0,33675,45769,Policy
+Oct-15,,RDD-041,Junior,,SEO,Finance Officer,Research & Development Directorate,0,33675,45769,Policy
+Oct-15,,RDD-009,Junior,,HEO,Business Support Officer,Research & Development Directorate,0,26492,37316,Policy
+Oct-15,,RDD-009,Junior,,G7,Senior Business Manager,Research & Development Directorate,0,45299,61976,Policy
+Oct-15,,RDD-009,Junior,,G7,Policy Manager,Research & Development Directorate,0,45299,61976,Policy
+Oct-15,,RDD-037,Junior,,EO,Policy Support Officer,Research & Development Directorate,0,21438,30275,Policy
+Oct-15,,RDD-037,Junior,,EO,Executive Assistant,Research & Development Directorate,0,21438,30275,Policy
+Oct-15,,RDD-037,Junior,,G6,Programme Manager,Research & Development Directorate,0,57075,75035,Policy
+Oct-15,,RDD-037,Junior,,G7,Policy Manager,Research & Development Directorate,0,45299,61976,Policy
+Oct-15,,RDD-037,Junior,,HEO,Policy Support Officer,Research & Development Directorate,0,26492,37316,Policy
+Oct-15,,RDD-037,Junior,,SEO,Policy Manager,Research & Development Directorate,0,33675,45769,Policy
+Oct-15,,RDD-039,Junior,,EO,Policy Support Officer,Research & Development Directorate,0,21438,30275,Policy
+Oct-15,,RDD-039,Junior,,G7,Policy Manager,Research & Development Directorate,0,45299,61976,Policy
+Oct-15,,RDD-039,Junior,,AO,Admin support,Research & Development Directorate,0,17209,23567,Policy
+Oct-15,,RDD-039,Junior,,EO,Executive Assistant,Research & Development Directorate,0,21438,30275,Policy
+Oct-15,,RDD-039,Junior,,FS,Policy Manager,Research & Development Directorate,0,29992,41546,Policy
+Oct-15,,RDD-039,Junior,,G6,Policy Manager,Research & Development Directorate,0,57075,75035,Policy
+Oct-15,,SC-003,Junior,,G7,Private Secretary,Social Care Local Government & Care Partnerships Directorate,0,45299,61976,Operational Delivery
+Oct-15,,SC-003,Junior,,EO,Diary Manager,Social Care Local Government & Care Partnerships Directorate,0,21438,30275,Operational Delivery
+Oct-15,,SC-003,Junior,,G6,Section Head,Social Care Local Government & Care Partnerships Directorate,0,57075,75035,Operational Delivery
+Oct-15,,SC-003,Junior,,G6,Analyst,Social Care Local Government & Care Partnerships Directorate,0,57075,75035,Statisticians
+Oct-15,,SC-003,Junior,,G7,Senior Operational Manager,Social Care Local Government & Care Partnerships Directorate,0,45299,61976,Operational Delivery
+Oct-15,,SC-003,Junior,,G7,Senior Project Manager,Social Care Local Government & Care Partnerships Directorate,0,45299,61976,Operational Delivery
+Oct-15,,SC-003,Junior,,SEO,Resource Manager,Social Care Local Government & Care Partnerships Directorate,0,33675,45769,Operational Delivery
+Oct-15,,SC-003,Junior,,HEO,Operations Support Officer,Social Care Local Government & Care Partnerships Directorate,0,26492,37316,Operational Delivery
+Oct-15,,SC-003,Junior,,HEO,Business Manager,Social Care Local Government & Care Partnerships Directorate,0,26492,37316,Operational Delivery
+Oct-15,,SC-003,Junior,,EO,Business Support Officer,Social Care Local Government & Care Partnerships Directorate,0,21438,30275,Operational Delivery
+Oct-15,,SC-003,Junior,,AO,Admin support,Social Care Local Government & Care Partnerships Directorate,0,17209,23567,Operational Delivery
+Oct-15,,SC-022,Junior,,HEO,Business Manager,Social Care Local Government & Care Partnerships Directorate,0,26492,37316,Policy
+Oct-15,,SC-022,Junior,,EO,Policy Support Officer,Social Care Local Government & Care Partnerships Directorate,0,21438,30275,Policy
+Oct-15,,SC-022,Junior,,EO,Executive Assistant,Social Care Local Government & Care Partnerships Directorate,0,21438,30275,Operational Delivery
+Oct-15,,SC-022,Junior,,SEO,Policy Adviser,Social Care Local Government & Care Partnerships Directorate,0,33675,45769,Policy
+Oct-15,,SC-022,Junior,,G7,Policy Manager,Social Care Local Government & Care Partnerships Directorate,0,45299,61976,Policy
+Oct-15,,SC-023,Junior,,EO,Executive Assistant,Social Care Local Government & Care Partnerships Directorate,0,21438,30275,Operational Delivery
+Oct-15,,SC-024,Junior,,G7,Economist,Social Care Local Government & Care Partnerships Directorate,0,45299,61976,Statisticians
+Oct-15,,SC-024,Junior,,G7,Policy Manager,Social Care Local Government & Care Partnerships Directorate,0,45299,61976,Policy
+Oct-15,,SC-024,Junior,,FS,Policy Adviser,Social Care Local Government & Care Partnerships Directorate,0,29992,41546,Policy
+Oct-15,,SC-024,Junior,,HEO,Policy Adviser,Social Care Local Government & Care Partnerships Directorate,0,26492,37316,Policy
+Oct-15,,SC-024,Junior,,SEO,Policy Adviser,Social Care Local Government & Care Partnerships Directorate,0,33675,45769,Policy
+Oct-15,,SC-024,Junior,,SEO,Not In Post,Social Care Local Government & Care Partnerships Directorate,0,33675,45769,Policy
+Oct-15,,SC-024,Junior,,EO,Executive Assistant,Social Care Local Government & Care Partnerships Directorate,0,21438,30275,Operational Delivery
+Oct-15,,SC-024,Junior,,EO,Policy Support Officer,Social Care Local Government & Care Partnerships Directorate,0,21438,30275,Policy
+Oct-15,,SC-026,Junior,,EO,Executive Assistant,Social Care Local Government & Care Partnerships Directorate,0,21438,30275,Operational Delivery
+Oct-15,,SC-026,Junior,,HEO,Operational Manager,Social Care Local Government & Care Partnerships Directorate,0,26492,37316,Operational Delivery
+Oct-15,,SC-074,Junior,,G6,Project Manager,Social Care Local Government & Care Partnerships Directorate,0,57075,75035,Policy
+Oct-15,,SC-074,Junior,,G7,Senior Policy Adviser,Social Care Local Government & Care Partnerships Directorate,0,45299,61976,Policy
+Oct-15,,SC-074,Junior,,SEO,Policy Manager,Social Care Local Government & Care Partnerships Directorate,0,33675,45769,Policy
+Oct-15,,SC-074,Junior,,HEO,Policy Support Officer,Social Care Local Government & Care Partnerships Directorate,0,26492,37316,Policy
+Oct-15,,SC-074,Junior,,EO,Business Support Officer,Social Care Local Government & Care Partnerships Directorate,0,21438,30275,Policy
+Oct-15,,SC-075,Junior,,HEO,Senior Policy Manager,Social Care Local Government & Care Partnerships Directorate,0,26492,37316,Policy
+Oct-15,,SC-075,Junior,,G7,Senior Policy Manager,Social Care Local Government & Care Partnerships Directorate,0,45299,61976,Policy
+Oct-15,,SC-075,Junior,,SEO,Policy Support Officer,Social Care Local Government & Care Partnerships Directorate,0,33675,45769,Policy
+Oct-15,,SC-075,Junior,,G6,Policy Manager,Social Care Local Government & Care Partnerships Directorate,0,57075,75035,Policy
+Oct-15,,SC-075,Junior,,EO,Policy Support Officer,Social Care Local Government & Care Partnerships Directorate,0,21438,30275,Policy
+Oct-15,,SC-075,Junior,,FS,Policy Manager,Social Care Local Government & Care Partnerships Directorate,0,29992,41546,Policy
+Oct-15,,SC-077,Junior,,G6,Policy Manager,Social Care Local Government & Care Partnerships Directorate,0,57075,75035,Policy
+Oct-15,,SC-077,Junior,,G7,Policy Manager,Social Care Local Government & Care Partnerships Directorate,0,45299,61976,Policy
+Oct-15,,SC-077,Junior,,SEO,Policy Manager,Social Care Local Government & Care Partnerships Directorate,0,33675,45769,Policy
+Oct-15,,SC-077,Junior,,EO,Business Support Officer,Social Care Local Government & Care Partnerships Directorate,0,21438,30275,Policy
+Oct-15,,SC-077,Junior,,HEO,Policy Manager,Social Care Local Government & Care Partnerships Directorate,0,26492,37316,Policy
+Oct-15,,SC-078,Junior,,G7,Policy Manager,Social Care Local Government & Care Partnerships Directorate,0,45299,61976,policy
+Oct-15,,SC-078,Junior,,SEO,Policy Manager,Social Care Local Government & Care Partnerships Directorate,0,33675,45769,policy
+Oct-15,,SC-078,Junior,,EO,Business Support Officer,Social Care Local Government & Care Partnerships Directorate,0,21438,30275,policy
+Oct-15,,SC-078,Junior,,HEO,Policy Manager,Social Care Local Government & Care Partnerships Directorate,0,26492,37316,Policy
+Oct-15,,SC-078,Junior,,FS,Policy Manager,Social Care Local Government & Care Partnerships Directorate,0,29992,41546,Policy
+Oct-15,,SC-079,Junior,,G7,Senior Policy Adviser,Social Care Local Government & Care Partnerships Directorate,0,45299,61976,Policy
+Oct-15,,SC-079,Junior,,SEO,Policy Manager,Social Care Local Government & Care Partnerships Directorate,0,33675,45769,Policy
+Oct-15,,SC-079,Junior,,HEO,Policy Manager,Social Care Local Government & Care Partnerships Directorate,0,26492,37316,Policy
+Oct-15,,SC-079,Junior,,EO,Policy Support Officer,Social Care Local Government & Care Partnerships Directorate,0,21438,30275,Policy
+Oct-15,,SC-079,Junior,,G6,Senior Policy Manager,Social Care Local Government & Care Partnerships Directorate,0,57075,75035,Policy
+Oct-15,,SC-080,Junior,,G6,Senior Project Manager,Social Care Local Government & Care Partnerships Directorate,0,57075,75035,Policy
+Oct-15,,SC-080,Junior,,G7,Senior Project Manager,Social Care Local Government & Care Partnerships Directorate,0,45299,61976,Policy
+Oct-15,,SC-080,Junior,,SEO,Project Manager,Social Care Local Government & Care Partnerships Directorate,0,33675,45769,Policy
+Oct-15,,SC-080,Junior,,EO,Project Support Officer,Social Care Local Government & Care Partnerships Directorate,0,21438,30275,Policy
+Oct-15,,SC-082,Junior,,G6,Senior Policy Manager,Social Care Local Government & Care Partnerships Directorate,0,57075,75035,Policy
+Oct-15,,SC-082,Junior,,G7,Policy Manager,Social Care Local Government & Care Partnerships Directorate,0,45299,61976,Policy
+Oct-15,,SC-082,Junior,,FS,Policy Support Officer,Social Care Local Government & Care Partnerships Directorate,0,29992,41546,Policy
+Oct-15,,SC-082,Junior,,SEO,Assistant Policy Manager,Social Care Local Government & Care Partnerships Directorate,0,33675,45769,Policy
+Oct-15,,SC-082,Junior,,EO,Project Support Officer,Social Care Local Government & Care Partnerships Directorate,0,21438,30275,Policy
+Oct-15,,SC-082,Junior,,EO,Executive Assistant,Social Care Local Government & Care Partnerships Directorate,0,21438,30275,Operational Delivery
+Oct-15,,SC-086,Junior,,G6,Senior Project Officer,Social Care Local Government & Care Partnerships Directorate,0,57075,75035,Policy
+Oct-15,,SC-086,Junior,,G6,Policy Manager,Social Care Local Government & Care Partnerships Directorate,0,57075,75035,Policy
+Oct-15,,SC-086,Junior,,G7,Policy Manager,Social Care Local Government & Care Partnerships Directorate,0,45299,61976,Policy
+Oct-15,,SC-086,Junior,,SEO,Policy Manager,Social Care Local Government & Care Partnerships Directorate,0,33675,45769,Policy
+Oct-15,,SC-086,Junior,,HEO,Project Support Officer,Social Care Local Government & Care Partnerships Directorate,0,26492,37316,Policy
+Oct-15,,SC-086,Junior,,EO,Policy Support Officer,Social Care Local Government & Care Partnerships Directorate,0,21438,30275,Policy
+Oct-15,,SC-086,Junior,,EO,Executive Assistant,Social Care Local Government & Care Partnerships Directorate,0,21438,30275,Policy
+Oct-15,,SC-086,Junior,,G7,Programme Manager,Social Care Local Government & Care Partnerships Directorate,0,45299,61976,Policy
+Oct-15,,SC-086,Junior,,SEO,Not In Post,Social Care Local Government & Care Partnerships Directorate,0,33675,45769,Policy
+Oct-15,,SC-087,Junior,,G7,Policy Manager,Social Care Local Government & Care Partnerships Directorate,0,45299,61976,Policy
+Oct-15,,SC-087,Junior,,SEO,Policy Manager,Social Care Local Government & Care Partnerships Directorate,0,33675,45769,Policy
+Oct-15,,SC-087,Junior,,HEO,Policy Support Officer,Social Care Local Government & Care Partnerships Directorate,0,26492,37316,Policy
+Oct-15,,SC-087,Junior,,FS,Policy Support Officer,Social Care Local Government & Care Partnerships Directorate,0,29992,41546,Policy
+Oct-15,,SC-087,Junior,,EO,Not In Post,Social Care Local Government & Care Partnerships Directorate,0,21438,30275,Policy
+Oct-15,,SC-088,Junior,,G6,Policy Manager,Social Care Local Government & Care Partnerships Directorate,0,57075,75035,Policy
+Oct-15,,SC-088,Junior,,G7,Policy Manager,Social Care Local Government & Care Partnerships Directorate,0,45299,61976,Policy
+Oct-15,,SC-088,Junior,,SEO,Policy Manager,Social Care Local Government & Care Partnerships Directorate,0,33675,45769,Policy
+Oct-15,,SC-088,Junior,,HEO,Policy Support Officer,Social Care Local Government & Care Partnerships Directorate,0,26492,37316,Policy
+Oct-15,,SC-088,Junior,,EO,Executive Assistant,Social Care Local Government & Care Partnerships Directorate,0,21438,30275,Policy
+Oct-15,,SC-088,Junior,,EO,Admin support,Social Care Local Government & Care Partnerships Directorate,0,21438,30275,Policy
+Oct-15,,SC-088,Junior,,AO,Admin support,Social Care Local Government & Care Partnerships Directorate,0,17209,23567,Policy
+Oct-15,,SC-1937,Junior,,G7,Senior Policy Manager,Social Care Local Government & Care Partnerships Directorate,0,45299,61976,Policy
+Oct-15,,SC-1937,Junior,,HEO,Executive Assistant,Social Care Local Government & Care Partnerships Directorate,0,26492,37316,Policy
+Oct-15,,SC-209,Junior,,G6,Senior Economist,Social Care Local Government & Care Partnerships Directorate,0,57075,75035,Economics
+Oct-15,,SC-209,Junior,,G7,Statistician,Social Care Local Government & Care Partnerships Directorate,0,45299,61976,Statisticians
+Oct-15,,SC-209,Junior,,G7,Senior Economist,Social Care Local Government & Care Partnerships Directorate,0,45299,61976,Economics
+Oct-15,,SC-209,Junior,,FS,Statistician,Social Care Local Government & Care Partnerships Directorate,0,29992,41546,Statisticians
+Oct-15,,SC-209,Junior,,HEO,Economist,Social Care Local Government & Care Partnerships Directorate,0,26492,37316,Economics
+Oct-15,,SC-209,Junior,,EO,Statistician,Social Care Local Government & Care Partnerships Directorate,0,21438,30275,Statisticians
+Oct-15,,SC-209,Junior,,SEO,Operational Researcher,Social Care Local Government & Care Partnerships Directorate,0,33675,45769,Operational Research
+Oct-15,,SC-209,Junior,,G7,Operational Researcher,Social Care Local Government & Care Partnerships Directorate,0,45299,61976,Operational Research
+Oct-15,,SC-209,Junior,,AO,Analyst,Social Care Local Government & Care Partnerships Directorate,0,17209,23567,Statisticians
+Oct-15,,SC-212,Junior,,G7,Policy Manager,Social Care Local Government & Care Partnerships Directorate,0,45299,61976,Policy
+Oct-15,,SC-212,Junior,,FS,Policy Adviser,Social Care Local Government & Care Partnerships Directorate,0,29992,41546,Policy
+Oct-15,,SC-212,Junior,,EO,Executive Assistant,Social Care Local Government & Care Partnerships Directorate,0,21438,30275,Policy
+Oct-15,,SC-212,Junior,,EO,Policy Support Officer,Social Care Local Government & Care Partnerships Directorate,0,21438,30275,Policy
+Oct-15,,SC-212,Junior,,HEO,Policy Support Officer,Social Care Local Government & Care Partnerships Directorate,0,26492,37316,Policy
+Oct-15,,SC-2249,Junior,,G6,Policy Adviser,Social Care Local Government & Care Partnerships Directorate,0,57075,75035,Policy
+Oct-15,,SC-2249,Junior,,G7,Policy Adviser,Social Care Local Government & Care Partnerships Directorate,0,45299,61976,Policy
+Oct-15,,SC-2249,Junior,,HEO,Policy Support Officer,Social Care Local Government & Care Partnerships Directorate,0,26492,37316,Policy
+Oct-15,,SC-2249,Junior,,EO,Admin support,Social Care Local Government & Care Partnerships Directorate,0,21438,30275,Policy
+Oct-15,,SC2250,Junior,,G6,Policy Manager,Social Care Local Government & Care Partnerships Directorate,0,57075,75035,Policy
+Oct-15,,SC2252,Junior,,G6,Policy Manager,Social Care Local Government & Care Partnerships Directorate,0,57075,75035,Policy
+Oct-15,,SC2252,Junior,,G7,Policy Manager,Social Care Local Government & Care Partnerships Directorate,0,45299,61976,Policy
+Oct-15,,SC2252,Junior,,EO,Policy Support Officer,Social Care Local Government & Care Partnerships Directorate,0,21438,30275,Policy
+Oct-15,,SC2252,Junior,,EO,Not In Post,Social Care Local Government & Care Partnerships Directorate,0,21438,30275,Policy
+Oct-15,,SC2252,Junior,,SEO,Policy Support Officer,Social Care Local Government & Care Partnerships Directorate,0,33675,45769,Policy
+Oct-15,,SC2252,Junior,,FS,Policy Support Officer,Social Care Local Government & Care Partnerships Directorate,0,29992,41546,Policy
+Oct-15,,CMO-002,Junior,,HEO,Private Secretary,Chief Medical Officer's Private Office,0,26492,37316,Policy
+Oct-15,,CMO-002,Junior,,EO,PA Support,Chief Medical Officer's Private Office,0,21438,30275,Policy
+Oct-15,,CMO-002,Junior,,HEO,Private Secretary,Chief Medical Officer's Private Office,0,26492,37316,Policy
+Oct-15,,CMO-002,Junior,,FS,Private Secretary,Chief Medical Officer's Private Office,0,29992,41546,Policy
+Oct-15,,CMO-002,Junior,,EO,PA Support,Chief Medical Officer's Private Office,0,21438,30275,Policy
+Oct-15,,CMO-002,Junior,,EO,Diary Manager,Chief Medical Officer's Private Office,0,21438,30275,Policy
+Oct-15,,CMO-002,Junior,,AO,Admin support,Chief Medical Officer's Private Office,0,17209,23567,Policy
+Oct-15,,CMO-002,Junior,,EO,Executive Assistant,Chief Medical Officer's Private Office,0,21438,30275,Policy
+Oct-15,,CMO-002,Junior,,SEO,Private Secretary,Chief Medical Officer's Private Office,0,33675,45769,Policy
+Oct-15,,CMO-002,Junior,,FS,Private Secretary,Chief Medical Officer's Private Office,0,29992,41546,Policy
+Oct-15,,CMO-002,Junior,,G7,Private Secretary,Chief Medical Officer's Private Office,0,45299,61976,Policy
+Oct-15,,CMO-038,Junior,,EO,Personal Assistant,Chief Medical Officer's Private Office,0,21438,30275,Policy
+Oct-15,,CMO-038,Junior,,G6,Senior Policy Adviser,Chief Medical Officer's Private Office,0,57075,75035,Policy
+Oct-15,,CMO-038,Junior,,AO,Admin support,Chief Medical Officer's Private Office,0,17209,23567,Policy
+Oct-15,,CMO-038,Junior,,SEO,Business Manager,Chief Medical Officer's Private Office,0,33675,45769,Policy
+Oct-15,,CMO-038,Junior,,HEO,Business Manager,Chief Medical Officer's Private Office,0,26492,37316,Policy
+Oct-15,,CMO-038,Junior,,SEO,Business Manager,Chief Medical Officer's Private Office,0,33675,45769,Policy
+Oct-15,,CMO-038,Junior,,G7,Senior Business Manager,Chief Medical Officer's Private Office,0,45299,61976,Policy
+Oct-15,,CMO-038,Junior,,SEO,Senior Policy Adviser,Chief Medical Officer's Private Office,0,33675,45769,Policy
+Oct-15,,PHD-006,Junior,,EO,Admin support,Public Health Directorate,0,21438,30275,Operational Delivery
+Oct-15,,PHD-006,Junior,,HEO,Operational Support Officer,Public Health Directorate,0,26492,37316,Operational Delivery
+Oct-15,,PHD-006,Junior,,G6,Senior Business Manager,Public Health Directorate,0,57075,75035,Operational Delivery
+Oct-15,,PHD-006,Junior,,HEO,Operational Support Officer,Public Health Directorate,0,26492,37316,Operational Delivery
+Oct-15,,PHD-006,Junior,,EO,Diary Manager,Public Health Directorate,0,21438,30275,Operational Delivery
+Oct-15,,PHD-006,Junior,,HEO,Project Manager,Public Health Directorate,0,26492,37316,Operational Delivery
+Oct-15,,PHD-006,Junior,,HEO,Project Manager,Public Health Directorate,0,26492,37316,Operational Delivery
+Oct-15,,PHD-006,Junior,,G7,Senior Project Manager,Public Health Directorate,0,45299,61976,Operational Delivery
+Oct-15,,PHD-006,Junior,,SEO,Finance Manager,Public Health Directorate,0,33675,45769,Operational Delivery
+Oct-15,,PHD-006,Junior,,HEO,Assistant Private Secretary,Public Health Directorate,0,26492,37316,Operational Delivery
+Oct-15,,PHD-006,Junior,,G7,Project Manager,Public Health Directorate,0,45299,61976,Operational Delivery
+Oct-15,,PHD-006,Junior,,G7,Private Secretary,Public Health Directorate,0,45299,61976,Operational Delivery
+Oct-15,,PHD-006,Junior,,G7,Project Manager,Public Health Directorate,0,45299,61976,Operational Delivery
+Oct-15,,PHD78,Junior,,G7,Policy Manager,Public Health Directorate,0,45299,61976,Policy
+Oct-15,,PHD78,Junior,,G7,Policy Manager,Public Health Directorate,0,45299,61976,Policy
+Oct-15,,PHD78,Junior,,HEO,Policy Support Officer,Public Health Directorate,0,26492,37316,Policy
+Oct-15,,PHD-017,Junior,,G6,Senior Policy Manager,Public Health Directorate,0,57075,75035,Policy
+Oct-15,,PHD-017,Junior,,EO,Personal Assistant,Public Health Directorate,0,21438,30275,Policy
+Oct-15,,PHD-072,Junior,,SEO,Policy Manager,Public Health Directorate,0,33675,45769,Policy
+Oct-15,,PHD-072,Junior,,SEO,Policy Manager,Public Health Directorate,0,33675,45769,Policy
+Oct-15,,PHD-072,Junior,,HEO,Policy Manager,Public Health Directorate,0,26492,37316,Policy
+Oct-15,,PHD-072,Junior,,HEO,Policy Manager,Public Health Directorate,0,26492,37316,Policy
+Oct-15,,PHD-072,Junior,,HEO,Policy Manager,Public Health Directorate,0,26492,37316,Policy
+Oct-15,,PHD-072,Junior,,SEO,Policy Manager,Public Health Directorate,0,33675,45769,Policy
+Oct-15,,PHD-072,Junior,,G7,Senior Policy Manager,Public Health Directorate,0,45299,61976,Policy
+Oct-15,,PHD-072,Junior,,G7,Senior Policy Manager,Public Health Directorate,0,45299,61976,Policy
+Oct-15,,PHD-072,Junior,,SEO,Policy Manager,Public Health Directorate,0,33675,45769,Policy
+Oct-15,,PHD-072,Junior,,HEO,Policy Manager,Public Health Directorate,0,26492,37316,Policy
+Oct-15,,PHD-072,Junior,,SEO,Policy Manager,Public Health Directorate,0,33675,45769,Policy
+Oct-15,,PHD-072,Junior,,G7,Senior Policy Manager,Public Health Directorate,0,45299,61976,Policy
+Oct-15,,PHD-072,Junior,,G6,Senior Policy Manager,Public Health Directorate,0,57075,75035,Policy
+Oct-15,,PHD-072,Junior,,HEO,Policy Manager,Public Health Directorate,0,26492,37316,Policy
+Oct-15,,PHD-072,Junior,,G7,Senior Policy Manager,Public Health Directorate,0,45299,61976,Policy
+Oct-15,,PHD-072,Junior,,G6,Senior Policy Manager,Public Health Directorate,0,57075,75035,Policy
+Oct-15,,PHD066,Junior,,EO,Policy Support Officer,Public Health Directorate,0,21438,30275,Policy
+Oct-15,,PHD066,Junior,,SEO,Policy Manager,Public Health Directorate,0,33675,45769,Policy
+Oct-15,,PHD066,Junior,,G7,Senior Policy Manager,Public Health Directorate,0,45299,61976,Policy
+Oct-15,,PHD066,Junior,,G7,Senior Policy Manager,Public Health Directorate,0,45299,61976,Policy
+Oct-15,,PHD066,Junior,,SEO,Policy Manager,Public Health Directorate,0,33675,45769,Policy
+Oct-15,,PHD066,Junior,,SEO,Policy Manager,Public Health Directorate,0,33675,45769,Policy
+Oct-15,,PHD066,Junior,,SEO,Policy Manager,Public Health Directorate,0,33675,45769,Policy
+Oct-15,,PHD066,Junior,,G7,Senior Policy Manager,Public Health Directorate,0,45299,61976,Policy
+Oct-15,,PHD066,Junior,,G7,Senior Policy Manager,Public Health Directorate,0,45299,61976,Policy
+Oct-15,,PHD-072,Junior,,EO,Policy Support Officer,Public Health Directorate,0,21438,30275,Policy
+Oct-15,,PHD-072,Junior,,EO,Policy Support Officer,Public Health Directorate,0,21438,30275,Policy
+Oct-15,,PHD-072,Junior,,HEO,Policy Manager,Public Health Directorate,0,26492,37316,Policy
+Oct-15,,PHD-072,Junior,,HEO,Policy Manager,Public Health Directorate,0,26492,37316,Policy
+Oct-15,,PHD-072,Junior,,SEO,Policy Manager,Public Health Directorate,0,33675,45769,Policy
+Oct-15,,PHD-072,Junior,,HEO,Policy Manager,Public Health Directorate,0,26492,37316,Policy
+Oct-15,,PHD-072,Junior,,EO,Policy Support Officer,Public Health Directorate,0,21438,30275,Policy
+Oct-15,,PHD-072,Junior,,HEO,Policy Manager,Public Health Directorate,0,26492,37316,Policy
+Oct-15,,PHD-072,Junior,,EO,Policy Support Officer,Public Health Directorate,0,21438,30275,Policy
+Oct-15,,PHD-072,Junior,,AO,Policy Support Officer,Public Health Directorate,0,17209,23567,Policy
+Oct-15,,PHD-072,Junior,,AO,Policy Support Officer,Public Health Directorate,0,17209,23567,Policy
+Oct-15,,PHD-072,Junior,,EO,Policy Support Officer,Public Health Directorate,0,21438,30275,Policy
+Oct-15,,PHD-072,Junior,,FS,Policy Manager,Public Health Directorate,0,29992,41546,Policy
+Oct-15,,PHD-072,Junior,,EO,Policy Support Officer,Public Health Directorate,0,21438,30275,Policy
+Oct-15,,PHD066,Junior,,G7,Senior Policy Manager,Public Health Directorate,0,45299,61976,Policy
+Oct-15,,PHD066,Junior,,EO,Policy Support Officer,Public Health Directorate,0,21438,30275,Policy
+Oct-15,,PHD066,Junior,,EO,Policy Support Officer,Public Health Directorate,0,21438,30275,Policy
+Oct-15,,PHD066,Junior,,EO,Policy Support Officer,Public Health Directorate,0,21438,30275,Policy
+Oct-15,,PHD-1893,Junior,,G6,Analyst,Public Health Directorate,0,57075,75035,Other
+Oct-15,,PHD-1893,Junior,,G6,Analyst,Public Health Directorate,0,57075,75035,Other
+Oct-15,,PHD-1893,Junior,,AO,Admin support,Public Health Directorate,0,17209,23567,Other
+Oct-15,,PHD-1893,Junior,,G6,Analyst,Public Health Directorate,0,57075,75035,Other
+Oct-15,,PHD-1893,Junior,,FS,Analyst,Public Health Directorate,0,29992,41546,Other
+Oct-15,,PHD-1893,Junior,,FS,Analyst,Public Health Directorate,0,29992,41546,Other
+Oct-15,,PHD-1893,Junior,,G7,Analyst,Public Health Directorate,0,45299,61976,Other
+Oct-15,,PHD-1893,Junior,,G7,Analyst,Public Health Directorate,0,45299,61976,Other
+Oct-15,,PHD-1893,Junior,,G7,Analyst,Public Health Directorate,0,45299,61976,Other
+Oct-15,,PHD-1893,Junior,,FS,Analyst,Public Health Directorate,0,29992,41546,Other
+Oct-15,,PHD-1893,Junior,,EO,Admin support,Public Health Directorate,0,21438,30275,Other
+Oct-15,,PHD-1893,Junior,,AO,Admin support,Public Health Directorate,0,17209,23567,Other
+Oct-15,,PHD-1893,Junior,,AO,Admin support,Public Health Directorate,0,17209,23567,Other
+Oct-15,,PHD-1893,Junior,,AO,Admin support,Public Health Directorate,0,17209,23567,Other
+Oct-15,,PHD-1893,Junior,,AO,Admin support,Public Health Directorate,0,17209,23567,Other
+Oct-15,,PHD-1893,Junior,,SEO,Analyst,Public Health Directorate,0,33675,45769,Other
+Oct-15,,PHD-1893,Junior,,SEO,Analyst,Public Health Directorate,0,33675,45769,Other
+Oct-15,,PHD-1893,Junior,,G7,Analyst,Public Health Directorate,0,45299,61976,Other
+Oct-15,,PHD-1893,Junior,,G7,Analyst,Public Health Directorate,0,45299,61976,Other
+Oct-15,,PHD-1893,Junior,,FS,Analyst,Public Health Directorate,0,29992,41546,Other
+Oct-15,,PHD-1893,Junior,,FS,Analyst,Public Health Directorate,0,29992,41546,Other
+Oct-15,,PHD-1893,Junior,,FS,Analyst,Public Health Directorate,0,29992,41546,Other
+Oct-15,,PHD-1893,Junior,,G7,Analyst,Public Health Directorate,0,45299,61976,Other
+Oct-15,,PHD-1893,Junior,,G7,Analyst,Public Health Directorate,0,45299,61976,Other
+Oct-15,,PHD-1893,Junior,,SEO,Analyst,Public Health Directorate,0,33675,45769,Other
+Oct-15,,PHD-1893,Junior,,FS,Analyst,Public Health Directorate,0,29992,41546,Other
+Oct-15,,PHD-1893,Junior,,EO,Admin support,Public Health Directorate,0,21438,30275,Other
+Oct-15,,PHD-1893,Junior,,AO,Admin support,Public Health Directorate,0,17209,23567,Other
+Oct-15,,PHD-067,Junior,,AO,Admin support,Public Health Directorate,0,17209,23567,Other
+Oct-15,,PHD-067,Junior,,G6,Analyst,Public Health Directorate,0,57075,75035,Other
+Oct-15,,PHD-067,Junior,,G6,Analyst,Public Health Directorate,0,57075,75035,Other
+Oct-15,,PHD-067,Junior,,G6,Analyst,Public Health Directorate,0,57075,75035,Other
+Oct-15,,PHD-067,Junior,,G6,Analyst,Public Health Directorate,0,57075,75035,Other
+Oct-15,,PHD-067,Junior,,G7,Analyst,Public Health Directorate,0,45299,61976,Other
+Oct-15,,PHD-067,Junior,,HEO,Analyst,Public Health Directorate,0,26492,37316,Other
+Oct-15,,PHD-067,Junior,,SEO,Analyst,Public Health Directorate,0,33675,45769,Other
+Oct-15,,PHD-067,Junior,,SEO,Analyst,Public Health Directorate,0,33675,45769,Other
+Oct-15,,PHD-067,Junior,,G7,Analyst,Public Health Directorate,0,45299,61976,Other
+Oct-15,,PHD-067,Junior,,G7,Analyst,Public Health Directorate,0,45299,61976,Other
+Oct-15,,PHD-067,Junior,,FS,Analyst,Public Health Directorate,0,29992,41546,Other
+Oct-15,,PHD-067,Junior,,EO,Admin support,Public Health Directorate,0,21438,30275,Other
+Oct-15,,PHD-067,Junior,,AO,Admin support,Public Health Directorate,0,17209,23567,Other
+Oct-15,,PHD-073,Junior,,G7,Senior Policy Manager,Public Health Directorate,0,45299,61976,Policy
+Oct-15,,PHD-073,Junior,,G7,Senior Policy Manager,Public Health Directorate,0,45299,61976,Policy
+Oct-15,,PHD-073,Junior,,G7,Senior Policy Manager,Public Health Directorate,0,45299,61976,Policy
+Oct-15,,PHD-073,Junior,,EO,Policy Support Officer,Public Health Directorate,0,21438,30275,Policy
+Oct-15,,PHD-073,Junior,,G7,Senior Policy Manager,Public Health Directorate,0,45299,61976,Policy
+Oct-15,,PHD-073,Junior,,HEO,Policy Manager,Public Health Directorate,0,26492,37316,Policy
+Oct-15,,PHD-073,Junior,,HEO,Policy Manager,Public Health Directorate,0,26492,37316,Policy
+Oct-15,,PHD-073,Junior,,SEO,Policy Manager,Public Health Directorate,0,33675,45769,Policy
+Oct-15,,PHD-073,Junior,,HEO,Policy Manager,Public Health Directorate,0,26492,37316,Policy
+Oct-15,,PHD-073,Junior,,SEO,Policy Manager,Public Health Directorate,0,33675,45769,Policy
+Oct-15,,PHD80,Junior,,HEO,Policy Manager,Public Health Directorate,0,26492,37316,Policy
+Oct-15,,PHD80,Junior,,FS,Policy Manager,Public Health Directorate,0,29992,41546,Policy
+Oct-15,,PHD80,Junior,,G6,Senior Policy Manager,Public Health Directorate,0,57075,75035,Policy
+Oct-15,,PHD80,Junior,,SEO,Policy Manager,Public Health Directorate,0,33675,45769,Policy
+Oct-15,,PHD80,Junior,,HEO,Policy Manager,Public Health Directorate,0,26492,37316,Policy
+Oct-15,,PHD80,Junior,,FS,Policy Manager,Public Health Directorate,0,29992,41546,Policy
+Oct-15,,PHD80,Junior,,EO,Policy Support Officer,Public Health Directorate,0,21438,30275,Policy
+Oct-15,,PHD80,Junior,,G7,Senior Policy Manager,Public Health Directorate,0,45299,61976,Policy
+Oct-15,,PHD80,Junior,,G6,Senior Policy Manager,Public Health Directorate,0,57075,75035,Policy
+Oct-15,,PHD80,Junior,,G7,Senior Policy Manager,Public Health Directorate,0,45299,61976,Policy
+Oct-15,,PHD80,Junior,,G7,Senior Policy Manager,Public Health Directorate,0,45299,61976,Policy
+Oct-15,,PHD-065,Junior,,G7,Senior Policy Manager,Public Health Directorate,0,45299,61976,Policy
+Oct-15,,PHD-065,Junior,,G7,Senior Policy Manager,Public Health Directorate,0,45299,61976,Policy
+Oct-15,,PHD-065,Junior,,G6,Senior Policy Manager,Public Health Directorate,0,57075,75035,Policy
+Oct-15,,PHD-065,Junior,,G7,Senior Policy Manager,Public Health Directorate,0,45299,61976,Policy
+Oct-15,,PHD-065,Junior,,G7,Senior Policy Manager,Public Health Directorate,0,45299,61976,Policy
+Oct-15,,PHD-065,Junior,,AO,Policy Support Officer,Public Health Directorate,0,17209,23567,Policy
+Oct-15,,PHD-065,Junior,,EO,Policy Support Officer,Public Health Directorate,0,21438,30275,Policy
+Oct-15,,PHD-065,Junior,,HEO,Policy Manager,Public Health Directorate,0,26492,37316,Policy
+Oct-15,,PHD-065,Junior,,SEO,Policy Manager,Public Health Directorate,0,33675,45769,Policy
+Oct-15,,PHD-065,Junior,,G7,Senior Policy Manager,Public Health Directorate,0,45299,61976,Policy
+Oct-15,,PHD-065,Junior,,SEO,Policy Manager,Public Health Directorate,0,33675,45769,Policy
+Oct-15,,PHD-065,Junior,,G7,Senior Policy Manager,Public Health Directorate,0,45299,61976,Policy
+Oct-15,,PHD-064,Junior,,EO,Policy Support Officer,Public Health Directorate,0,21438,30275,Policy
+Oct-15,,PHD-064,Junior,,EO,Policy Support Officer,Public Health Directorate,0,21438,30275,Policy
+Oct-15,,PHD-064,Junior,,G7,Senior Policy Manager,Public Health Directorate,0,45299,61976,Policy
+Oct-15,,PHD-064,Junior,,G7,Senior Policy Manager,Public Health Directorate,0,45299,61976,Policy
+Oct-15,,PHD-064,Junior,,SEO,Policy Manager,Public Health Directorate,0,33675,45769,Policy
+Oct-15,,PHD-064,Junior,,SEO,Policy Manager,Public Health Directorate,0,33675,45769,Policy
+Oct-15,,PHD-064,Junior,,G7,Senior Policy Manager,Public Health Directorate,0,45299,61976,Policy
+Oct-15,,PHD-064,Junior,,G7,Senior Policy Manager,Public Health Directorate,0,45299,61976,Policy
+Oct-15,,PHD-064,Junior,,HEO,Policy Manager,Public Health Directorate,0,26492,37316,Policy
+Oct-15,,PHD-064,Junior,,EO,Policy Support Officer,Public Health Directorate,0,21438,30275,Policy
+Oct-15,,PHD-064,Junior,,FS,Policy Manager,Public Health Directorate,0,29992,41546,Policy
+Oct-15,,PHD-064,Junior,,SEO,Policy Manager,Public Health Directorate,0,33675,45769,Policy
+Oct-15,,PHD-064,Junior,,SEO,Policy Manager,Public Health Directorate,0,33675,45769,Policy
+Oct-15,,PHD-064,Junior,,G6,Senior Policy Manager,Public Health Directorate,0,57075,75035,Policy
+Oct-15,,PHD-064,Junior,,G6,Senior Policy Manager,Public Health Directorate,0,57075,75035,Policy
+Oct-15,,PHD-020,Junior,,EO,Personal Assistant,Public Health Directorate,0,21438,30275,Policy
+Oct-15,,PHD-068,Junior,,EO,Personal Assistant,Public Health Directorate,0,21438,30275,Policy
+Oct-15,,PHD-061,Junior,,SEO,Policy Manager,Public Health Directorate,0,33675,45769,Policy
+Oct-15,,PHD-061,Junior,,HEO,Policy Manager,Public Health Directorate,0,26492,37316,Policy
+Oct-15,,PHD-061,Junior,,SEO,Policy Manager,Public Health Directorate,0,33675,45769,Policy
+Oct-15,,PHD-061,Junior,,HEO,Policy Manager,Public Health Directorate,0,26492,37316,Policy
+Oct-15,,PHD-061,Junior,,SEO,Policy Manager,Public Health Directorate,0,33675,45769,Policy
+Oct-15,,PHD-061,Junior,,G6,Senior Policy Manager,Public Health Directorate,0,57075,75035,Policy
+Oct-15,,PHD-061,Junior,,G7,Senior Policy Manager,Public Health Directorate,0,45299,61976,Policy
+Oct-15,,PHD-061,Junior,,G7,Senior Policy Manager,Public Health Directorate,0,45299,61976,Policy
+Oct-15,,PHD-1876,Junior,,G7,Senior Policy Manager,Public Health Directorate,0,45299,61976,Policy
+Oct-15,,PHD-1876,Junior,,G7,Senior Policy Manager,Public Health Directorate,0,45299,61976,Policy
+Oct-15,,PHD-1876,Junior,,AO,Policy Support Officer,Public Health Directorate,0,17209,23567,Policy
+Oct-15,,PHD-1876,Junior,,HEO,Policy Manager,Public Health Directorate,0,26492,37316,Policy
+Oct-15,,PHD-1876,Junior,,SEO,Policy Manager,Public Health Directorate,0,33675,45769,Policy
+Oct-15,,PHD-1876,Junior,,SEO,Policy Manager,Public Health Directorate,0,33675,45769,Policy
+Oct-15,,PHD-1876,Junior,,SEO,Policy Manager,Public Health Directorate,0,33675,45769,Policy
+Oct-15,,PHD-1878,Junior,,G7,Senior Policy Manager,Public Health Directorate,0,45299,61976,Policy
+Oct-15,,PHD-1878,Junior,,SEO,Policy Manager,Public Health Directorate,0,33675,45769,Policy
+Oct-15,,PHD-1878,Junior,,G6,Senior Policy Manager,Public Health Directorate,0,57075,75035,Policy
+Oct-15,,PHD-1878,Junior,,G7,Senior Policy Manager,Public Health Directorate,0,45299,61976,Policy
+Oct-15,,PHD-1878,Junior,,EO,Policy Support Officer,Public Health Directorate,0,21438,30275,Policy
+Oct-15,,PHD-1878,Junior,,HEO,Policy Manager,Public Health Directorate,0,26492,37316,Policy
+Oct-15,,PHD-1878,Junior,,EO,Policy Support Officer,Public Health Directorate,0,21438,30275,Policy
+Oct-15,,PHD-1878,Junior,,SEO,Policy Manager,Public Health Directorate,0,33675,45769,Policy
+Oct-15,,PHD-1913,Junior,,G7,Senior Policy Manager,Public Health Directorate,0,45299,61976,Policy
+Oct-15,,PHD-1913,Junior,,HEO,Policy Manager,Public Health Directorate,0,26492,37316,Policy
+Oct-15,,PHD-1913,Junior,,EO,Policy Support Officer,Public Health Directorate,0,21438,30275,Policy
+Oct-15,,PHD-1913,Junior,,G6,Senior Policy Manager,Public Health Directorate,0,57075,75035,Policy
+Oct-15,,PHD-1913,Junior,,EO,Policy Support Officer,Public Health Directorate,0,21438,30275,Policy
+Oct-15,,PHD-1913,Junior,,G6,Senior Policy Manager,Public Health Directorate,0,57075,75035,Policy
+Oct-15,,PHD-1913,Junior,,HEO,Policy Manager,Public Health Directorate,0,26492,37316,Policy
+Oct-15,,PHD-1913,Junior,,G7,Senior Policy Manager,Public Health Directorate,0,45299,61976,Policy
+Oct-15,,PHD-1913,Junior,,SEO,Policy Manager,Public Health Directorate,0,33675,45769,Policy
+Oct-15,,PHD-1913,Junior,,SEO,Policy Manager,Public Health Directorate,0,33675,45769,Policy
+Oct-15,,PHD-019,Junior,,EO,Personal Assistant,Public Health Directorate,0,21438,30275,Policy
+Oct-15,,PHD-019,Junior,,G7,Business Manager,Public Health Directorate,0,45299,61976,Policy
+Oct-15,,PHD-071,Junior,,HEO,Policy Manager,Public Health Directorate,0,26492,37316,Policy
+Oct-15,,PHD-071,Junior,,EO,Policy Support Officer,Public Health Directorate,0,21438,30275,Policy
+Oct-15,,PHD-071,Junior,,EO,Policy Support Officer,Public Health Directorate,0,21438,30275,Policy
+Oct-15,,PHD-071,Junior,,G6,Senior Policy Manager,Public Health Directorate,0,57075,75035,Policy
+Oct-15,,PHD-071,Junior,,G7,Senior Policy Manager,Public Health Directorate,0,45299,61976,Policy
+Oct-15,,PHD-071,Junior,,G6,Senior Policy Manager,Public Health Directorate,0,57075,75035,Policy
+Oct-15,,PHD-063,Junior,,HEO,Policy Manager,Public Health Directorate,0,26492,37316,Policy
+Oct-15,,PHD-063,Junior,,SEO,Policy Manager,Public Health Directorate,0,33675,45769,Policy
+Oct-15,,PHD-063,Junior,,EO,Policy Support Officer,Public Health Directorate,0,21438,30275,Policy
+Oct-15,,PHD-063,Junior,,HEO,Policy Manager,Public Health Directorate,0,26492,37316,Policy
+Oct-15,,PHD-063,Junior,,AO,Policy Support Officer,Public Health Directorate,0,17209,23567,Policy
+Oct-15,,PHD-063,Junior,,SEO,Policy Manager,Public Health Directorate,0,33675,45769,Policy
+Oct-15,,PHD-063,Junior,,G7,Senior Policy Manager,Public Health Directorate,0,45299,61976,Policy
+Oct-15,,PHD-063,Junior,,SEO,Policy Manager,Public Health Directorate,0,33675,45769,Policy
+Oct-15,,PHD-063,Junior,,HEO,Policy Manager,Public Health Directorate,0,26492,37316,Policy
+Oct-15,,PHD-063,Junior,,G7,Senior Policy Manager,Public Health Directorate,0,45299,61976,Policy
+Oct-15,,PHD-063,Junior,,SEO,Policy Manager,Public Health Directorate,0,33675,45769,Policy
+Oct-15,,PHD-063,Junior,,EO,Policy Support Officer,Public Health Directorate,0,21438,30275,Policy
+Oct-15,,PHD-063,Junior,,G7,Senior Policy Manager,Public Health Directorate,0,45299,61976,Policy
+Oct-15,,PHD-063,Junior,,SEO,Policy Manager,Public Health Directorate,0,33675,45769,Policy
+Oct-15,,PHD-063,Junior,,FS,Policy Manager,Public Health Directorate,0,29992,41546,Policy
+Oct-15,,PHD-063,Junior,,G7,Senior Policy Manager,Public Health Directorate,0,45299,61976,Policy
+Oct-15,,PHD-063,Junior,,HEO,Policy Manager,Public Health Directorate,0,26492,37316,Policy
+Oct-15,,PHD-063,Junior,,G6,Senior Policy Manager,Public Health Directorate,0,57075,75035,Policy
+Oct-15,,PHD-063,Junior,,G6,Senior Policy Manager,Public Health Directorate,0,57075,75035,Policy
+Oct-15,,PHD-069,Junior,,SEO,Policy Manager,Public Health Directorate,0,33675,45769,Policy
+Oct-15,,PHD-069,Junior,,HEO,Policy Manager,Public Health Directorate,0,26492,37316,Policy
+Oct-15,,PHD-069,Junior,,HEO,Policy Manager,Public Health Directorate,0,26492,37316,Policy
+Oct-15,,PHD-069,Junior,,HEO,Policy Manager,Public Health Directorate,0,26492,37316,Policy
+Oct-15,,PHD-069,Junior,,G7,Senior Policy Manager,Public Health Directorate,0,45299,61976,Policy
+Oct-15,,PHD-069,Junior,,G7,Senior Policy Manager,Public Health Directorate,0,45299,61976,Policy
+Oct-15,,PHD-069,Junior,,G7,Senior Policy Manager,Public Health Directorate,0,45299,61976,Policy
+Oct-15,,PHD-069,Junior,,G7,Senior Policy Manager,Public Health Directorate,0,45299,61976,Policy
+Oct-15,,PHD-069,Junior,,G7,Senior Policy Manager,Public Health Directorate,0,45299,61976,Policy
+Oct-15,,PHD-069,Junior,,SEO,Policy Manager,Public Health Directorate,0,33675,45769,Policy
+Oct-15,,PHD-069,Junior,,SEO,Policy Manager,Public Health Directorate,0,33675,45769,Policy
+Oct-15,,PHD-069,Junior,,HEO,Policy Manager,Public Health Directorate,0,26492,37316,Policy
+Oct-15,,PHD-069,Junior,,EO,Policy Support Officer,Public Health Directorate,0,21438,30275,Policy
+Oct-15,,PHD-069,Junior,,FS,Policy Manager,Public Health Directorate,0,29992,41546,Policy
+Oct-15,,PHD-066,Junior,,EO,Policy Support Officer,Public Health Directorate,0,21438,30275,Policy
+Oct-15,,PHD-066,Junior,,G7,Senior Policy Manager,Public Health Directorate,0,45299,61976,Policy
+Oct-15,,PHD-066,Junior,,G6,Senior Policy Manager,Public Health Directorate,0,57075,75035,Policy
+Oct-15,,PHD-066,Junior,,SEO,Policy Manager,Public Health Directorate,0,33675,45769,Policy
+Oct-15,,PHD-066,Junior,,HEO,Policy Manager,Public Health Directorate,0,26492,37316,Policy
+Oct-15,,PHD-066,Junior,,SEO,Policy Manager,Public Health Directorate,0,33675,45769,Policy
+Oct-15,,PHD-066,Junior,,HEO,Policy Manager,Public Health Directorate,0,26492,37316,Policy
+Oct-15,,PHD-066,Junior,,G7,Senior Policy Manager,Public Health Directorate,0,45299,61976,Policy
+Oct-15,,PHD-066,Junior,,G7,Senior Policy Manager,Public Health Directorate,0,45299,61976,Policy
+Oct-15,,PHD-066,Junior,,EO,Policy Support Officer,Public Health Directorate,0,21438,30275,Policy
+Oct-15,,PHD-066,Junior,,HEO,Policy Manager,Public Health Directorate,0,26492,37316,Policy
+Oct-15,,SER-120,Junior,,G6,Strategy Advisor,Group Operations,0,57075,75035,Policy
+Oct-15,,SER-283,Junior,,G6,Economist,Group Operations,0,57075,75035,Economics
+Oct-15,,SER-283,Junior,,G7,Strategy Advisor,Group Operations,0,45299,61976,Policy
+Oct-15,,IGO-005,Junior,,G7,Senior Business Manager,Group Operations,0,45299,61976,Operational Delivery
+Oct-15,,IGO-005,Junior,,SEO,Business Manager,Group Operations,0,33675,45769,Operational Delivery
+Oct-15,,IGO-005,Junior,,EO,Business Support Officer,Group Operations,0,21438,30275,Operational Delivery
+Oct-15,,IGO-005,Junior,,HEO,Diary Manager,Group Operations,0,26492,37316,Operational Delivery
+Oct-15,,IGO-005,Junior,,G6,Business Manager,Group Operations,0,57075,75035,Operational Delivery
+Oct-15,,IGO-005,Junior,,HEO,Assistant Private Secretary,Group Operations,0,26492,37316,Operational Delivery
+Oct-15,,SER-120,Junior,,EO,Business Support Officer,Group Operations,0,21438,30275,Operational Delivery
+Oct-15,,SER-283,Junior,,FS,Economist,Group Operations,0,29992,41546,Economics
+Oct-15,,SER-120,Junior,,G7,Strategy Advisor,Group Operations,0,45299,61976,Policy
+Oct-15,,SER-120,Junior,,FS,Economist,Group Operations,0,29992,41546,Economics
+Oct-15,,SER-283,Junior,,AO,Analyst,Group Operations,0,17209,23567,Policy
+Oct-15,,SER-283,Junior,,G6,Strategy Advisor,Group Operations,0,57075,75035,Policy
+Oct-15,,IGO-1831,Junior,,G7,Senior Business Manager,Group Operations,0,45299,61976,Operational Delivery
+Oct-15,,IGO-1831,Junior,,EO,Honours Team Support,Group Operations,0,21438,30275,Operational Delivery
+Oct-15,,IGO-1831,Junior,,HEO,Honours Team Support,Group Operations,0,26492,37316,Operational Delivery
+Oct-15,,IGO-1831,Junior,,HEO,Business Manager,Group Operations,0,26492,37316,Operational Delivery
+Oct-15,,IGO-1831,Junior,,EO,Business Support Officer,Group Operations,0,21438,30275,Operational Delivery
+Oct-15,,IGO-054,Junior,,G6,Senior Operational Manager,Group Operations,0,57075,75035,Operational Delivery
+Oct-15,,IGO-054,Junior,,G7,Not In Post,Group Operations,0,45299,61976,Operational Delivery
+Oct-15,,IGO-054,Junior,,G7,Senior Operational Manager,Group Operations,0,45299,61976,Operational Delivery
+Oct-15,,IGO-054,Junior,,FS,Operational Manager,Group Operations,0,29992,41546,Operational Delivery
+Oct-15,,IGO-054,Junior,,SEO,Operational Manager,Group Operations,0,33675,45769,Operational Delivery
+Oct-15,,IGO-054,Junior,,HEO,Operational Support Officer,Group Operations,0,26492,37316,Operational Delivery
+Oct-15,,IGO-054,Junior,,HEO,Not In Post,Group Operations,0,26492,37316,Operational Delivery
+Oct-15,,IGO-054,Junior,,EO,Operational Support Officer,Group Operations,0,21438,30275,Operational Delivery
+Oct-15,,IGO-121,Junior,,G6,Deputy Head of Unit,Group Operations,0,57075,75035,Internal Audit
+Oct-15,,IGO-121,Junior,,G7,Senior Business Manager,Group Operations,0,45299,61976,Internal Audit
+Oct-15,,IGO-121,Junior,,SEO,Senior Internal Auditor,Group Operations,0,33675,45769,Internal Audit
+Oct-15,,IGO-121,Junior,,SEO,Not In Post,Group Operations,0,33675,45769,Internal Audit
+Oct-15,,IGO-121,Junior,,HEO,Internal Auditor,Group Operations,0,26492,37316,Internal Audit
+Oct-15,,IGO-121,Junior,,HEO,Business Manager,Group Operations,0,26492,37316,Internal Audit
+Oct-15,,IGO-121,Junior,,EO,Business Support Officer,Group Operations,0,21438,30275,Internal Audit
+Oct-15,,IGO-2170,Junior,,G7,Programme Support Officer,Group Operations,0,45299,61976,Programme and Project Management (PPM)
+Oct-15,,IGO-2170,Junior,,SEO,Programme Support Officer,Group Operations,0,33675,45769,Programme and Project Management (PPM)
+Oct-15,,IGO-2170,Junior,,HEO,Programme Support Officer,Group Operations,0,26492,37316,Programme and Project Management (PPM)
+Oct-15,,IGO-2170,Junior,,HEO,Not In Post,Group Operations,0,26492,37316,Programme and Project Management (PPM)
+Oct-15,,IGO-2170,Junior,,EO,Not In Post,Group Operations,0,21438,30275,Programme and Project Management (PPM)
+Oct-15,,IGO2187,Junior,,G6,Not In Post,Group Operations,0,57075,75035,Programme and Project Management (PPM)
+Oct-15,,IGO2187,Junior,,G7,Senior Project Manager,Group Operations,0,45299,61976,Programme and Project Management (PPM)
+Oct-15,,IGO2187,Junior,,G7,Not In Post,Group Operations,0,45299,61976,Programme and Project Management (PPM)
+Oct-15,,IGO2187,Junior,,EO,PA Support,Group Operations,0,21438,30275,Operational Delivery
+Oct-15,,IGO-012,Junior,,G7,FOI Team Lead,Group Operations,0,45299,61976,Operational Delivery
+Oct-15,,IGO-012,Junior,,SEO,Senior FOI Support Officer,Group Operations,0,33675,45769,Operational Delivery
+Oct-15,,IGO-012,Junior,,EO,FOI Support Officer,Group Operations,0,21438,30275,Operational Delivery
+Oct-15,,IGO-012,Junior,,EO,PA Support,Group Operations,0,21438,30275,Operational Delivery
+Oct-15,,IGO-012,Junior,,HEO,Admin support,Group Operations,0,26492,37316,Operational Delivery
+Oct-15,,IGO-012,Junior,,AO,Admin support,Group Operations,0,17209,23567,Operational Delivery
+Oct-15,,IGO-012,Junior,,EO,Correspondence Officer,Group Operations,0,21438,30275,Operational Delivery
+Oct-15,,IGO-012,Junior,,HEO,Business Support Officer,Group Operations,0,26492,37316,Operational Delivery
+Oct-15,,IGO-012,Junior,,EO,Call Centre Information Adviser,Group Operations,0,21438,30275,Operational Delivery
+Oct-15,,IGO-012,Junior,,HEO,Correspondence Manager,Group Operations,0,26492,37316,Operational Delivery
+Oct-15,,IGO-012,Junior,,G7,Senior Operational Manager,Group Operations,0,45299,61976,Operational Delivery
+Oct-15,,IGO-012,Junior,,G6,Senior Correspondence Manager,Group Operations,0,57075,75035,Operational Delivery
+Oct-15,,IGO-012,Junior,,EO,Correspondence Officer,Group Operations,0,21438,30275,Operational Delivery
+Oct-15,,IGO-012,Junior,,SEO,Senior Business Manager,Group Operations,0,33675,45769,Operational Delivery
+Oct-15,,IGO-012,Junior,,EO,Business Support Officer,Group Operations,0,21438,30275,Operational Delivery
+Oct-15,,IGO-012,Junior,,HEO,Assistant NHS Business Manager,Group Operations,0,26492,37316,Operational Delivery
+Oct-15,,IGO-012,Junior,,G7,Senior Programme Manager,Group Operations,0,45299,61976,Operational Delivery
+Oct-15,,IGO-012,Junior,,G6,Senior Programme Manager,Group Operations,0,57075,75035,Operational Delivery
+Oct-15,,IGO-012,Junior,,SEO,Call Centre Manager,Group Operations,0,33675,45769,Operational Delivery
+Oct-15,,IGO-012,Junior,,G7,Senior Programme Manager,Group Operations,0,45299,61976,Operational Delivery
+Oct-15,,IGO-012,Junior,,EO,Personal Assistant,Group Operations,0,21438,30275,Operational Delivery
+Oct-15,,IGO-056,Junior,,EO,Assistant Private Secretary,Group Operations,0,21438,30275,Operational Delivery
+Oct-15,,IGO-056,Junior,,FS,Assistant Private Secretary,Group Operations,0,29992,41546,Operational Delivery
+Oct-15,,IGO-056,Junior,,EO,Assistant Private Secretary,Group Operations,0,21438,30275,Operational Delivery
+Oct-15,,IGO-056,Junior,,G7,Private Secretary,Group Operations,0,45299,61976,Operational Delivery
+Oct-15,,IGO-034,Junior,,G7,Private Secretary,Group Operations,0,45299,61976,Operational Delivery
+Oct-15,,IGO-034,Junior,,FS,Private Secretary,Group Operations,0,29992,41546,Operational Delivery
+Oct-15,,IGO-034,Junior,,HEO,Private Secretary,Group Operations,0,26492,37316,Operational Delivery
+Oct-15,,IGO-034,Junior,,EO,Assistant Private Secretary,Group Operations,0,21438,30275,Operational Delivery
+Oct-15,,IGO-034,Junior,,EO,Diary Manager,Group Operations,0,21438,30275,Operational Delivery
+Oct-15,,IGO-034,Junior,,EO,Executive Assistant,Group Operations,0,21438,30275,Operational Delivery
+Oct-15,,IGO-034,Junior,,AO,Office Manager,Group Operations,0,17209,23567,Operational Delivery
+Oct-15,,IGO-034,Junior,,G6,Senior Policy Manager,Group Operations,0,57075,75035,Policy
+Oct-15,,IGO-034,Junior,,G7,Senior Parliamentary Officer,Group Operations,0,45299,61976,Operational Delivery
+Oct-15,,IGO-034,Junior,,SEO,Senior Parliamentary Officer,Group Operations,0,33675,45769,Operational Delivery
+Oct-15,,IGO-034,Junior,,HEO,Senior Parliamentary Officer,Group Operations,0,26492,37316,Operational Delivery
+Oct-15,,IGO-034,Junior,,EO,Parliamentary Officer,Group Operations,0,21438,30275,Operational Delivery
+Oct-15,,IGO-034,Junior,,EO,Legislation Officer,Group Operations,0,21438,30275,Operational Delivery
+Oct-15,,IGO-034,Junior,,AO,Parliamentary Support Officer,Group Operations,0,17209,23567,Operational Delivery
+Oct-15,,IGO-050,Junior,,G7,Senior HR Manager,Group Operations,0,45299,61976,Human Resources
+Oct-15,,IGO-050,Junior,,G7,Not In Post,Group Operations,0,45299,61976,Human Resources
+Oct-15,,IGO-050,Junior,,SEO,HR Officer,Group Operations,0,33675,45769,Human Resources
+Oct-15,,IGO-050,Junior,,HEO,HR Officer,Group Operations,0,26492,37316,Human Resources
+Oct-15,,IGO-050,Junior,,EO,HR Support Officer,Group Operations,0,21438,30275,Human Resources
+Oct-15,,IGO-050,Junior,,EO,Executive Assistant,Group Operations,0,21438,30275,Human Resources
+Oct-15,,IGO-050,Junior,,EO,Not In Post,Group Operations,0,21438,30275,Human Resources
+Oct-15,,IGO-050,Junior,,AO,HR Support Officer,Group Operations,0,17209,23567,Human Resources
+Oct-15,,IGO-053,Junior,,G6,Senior HR Manager,Group Operations,0,57075,75035,Human Resources
+Oct-15,,IGO-053,Junior,,G6,Not In Post,Group Operations,0,57075,75035,Human Resources
+Oct-15,,IGO-053,Junior,,G7,Senior HR Manager,Group Operations,0,45299,61976,Human Resources
+Oct-15,,IGO-053,Junior,,G7,Business Manager,Group Operations,0,45299,61976,Human Resources
+Oct-15,,IGO-053,Junior,,SEO,HR Officer,Group Operations,0,33675,45769,Human Resources
+Oct-15,,IGO-053,Junior,,HEO,HR Officer,Group Operations,0,26492,37316,Human Resources
+Oct-15,,IGO-053,Junior,,HEO,Not In Post,Group Operations,0,26492,37316,Human Resources
+Oct-15,,IGO-053,Junior,,SEO,Business Support Officer,Group Operations,0,33675,45769,Human Resources
+Oct-15,,IGO-053,Junior,,EO,HR Support Officer,Group Operations,0,21438,30275,Human Resources
+Oct-15,,IGO-053,Junior,,EO,Executive Assistant,Group Operations,0,21438,30275,Human Resources
+Oct-15,,IGO-053,Junior,,EO,Finance Support Officer,Group Operations,0,21438,30275,Human Resources
+Oct-15,,IGO-057,Junior,,G6,Senior HR Manager,Group Operations,0,57075,75035,Human Resources
+Oct-15,,IGO-057,Junior,,G7,Senior HR Manager,Group Operations,0,45299,61976,Human Resources
+Oct-15,,IGO-057,Junior,,HEO,HR Officer,Group Operations,0,26492,37316,Human Resources
+Oct-15,,IGO-057,Junior,,EO,Executive Assistant,Group Operations,0,21438,30275,Human Resources
+Oct-15,,IGO-014,Junior,,G6,Senior HR Manager,Group Operations,0,57075,75035,Human Resources
+Oct-15,,IGO-014,Junior,,G7,Senior HR Manager,Group Operations,0,45299,61976,Human Resources
+Oct-15,,IGO-014,Junior,,EO,Executive Assistant,Group Operations,0,21438,30275,Human Resources
+Oct-15,,IGO-014,Junior,,EO,HR Support Officer,Group Operations,0,21438,30275,Human Resources
+Oct-15,,IGO-005,Junior,,AO,Admin support,Group Operations,0,17209,23567,Human Resources
+Oct-15,,SER106,Junior,,HEO,Project Manager,Group Operations,0,26492,37316,Operational Delivery
+Oct-15,,SER106,Junior,,G6,Senior Project Manager,Group Operations,0,57075,75035,Operational Delivery
+Oct-15,,IGO2186,Junior,,G6,Programme Manager,Group Operations,0,57075,75035,Operational Delivery
+Oct-15,,IGO2186,Junior,,G7,Programme Manager,Group Operations,0,45299,61976,Operational Delivery
+Oct-15,,IGO2186,Junior,,HEO,Programme Support Officer,Group Operations,0,26492,37316,Operational Delivery
+Oct-15,,IGO2186,Junior,,EO,Business Support Officer,Group Operations,0,21438,30275,Operational Delivery
+Oct-15,,IGO-049,Junior,,G6,Section Head,Group Operations,0,57075,75035,Information Technology
+Oct-15,,IGO-049,Junior,,G7,Senior IT Manager,Group Operations,0,45299,61976,Information Technology
+Oct-15,,IGO-049,Junior,,G7,Not In Post,Group Operations,0,45299,61976,Information Technology
+Oct-15,,IGO-049,Junior,,SEO,IT Manager,Group Operations,0,33675,45769,Information Technology
+Oct-15,,IGO-049,Junior,,SEO,Not In Post,Group Operations,0,33675,45769,Information Technology
+Oct-15,,IGO-049,Junior,,HEO,IT Manager,Group Operations,0,26492,37316,Information Technology
+Oct-15,,IGO-049,Junior,,HEO,Not In Post,Group Operations,0,26492,37316,Information Technology
+Oct-15,,IGO-049,Junior,,EO,IT Support Officer,Group Operations,0,21438,30275,Information Technology
+Oct-15,,IGO-049,Junior,,EO,Knowledge Information Management Support Officer,Group Operations,0,21438,30275,Information Technology
+Oct-15,,IGO-049,Junior,,EO,Business Support Officer,Group Operations,0,21438,30275,Information Technology
+Oct-15,,IGO-049,Junior,,EO,Not In Post,Group Operations,0,21438,30275,Information Technology
+Oct-15,,IGO-049,Junior,,AO,Team Support Officer,Group Operations,0,17209,23567,Information Technology
+Oct-15,,IGO-058,Junior,,G6,Senior IT Manager,Group Operations,0,57075,75035,Information Technology
+Oct-15,,IGO-058,Junior,,G7,Senior Technical Adviser,Group Operations,0,45299,61976,Information Technology
+Oct-15,,IGO-058,Junior,,G7,Senior Project Manager,Group Operations,0,45299,61976,Information Technology
+Oct-15,,IGO-058,Junior,,G7,Senior Information Manager,Group Operations,0,45299,61976,Knowledge and Information Management (KIM)
+Oct-15,,IGO-058,Junior,,SEO,IT Manager,Group Operations,0,33675,45769,Information Technology
+Oct-15,,IGO-058,Junior,,SEO,Knowledge Information Management Manager,Group Operations,0,33675,45769,Knowledge and Information Management (KIM)
+Oct-15,,IGO-058,Junior,,SEO,Development Manager,Group Operations,0,33675,45769,Information Technology
+Oct-15,,IGO-058,Junior,,HEO,IT Manager,Group Operations,0,26492,37316,Information Technology
+Oct-15,,IGO-058,Junior,,EO,Project Support Officer,Group Operations,0,21438,30275,Information Technology
+Oct-15,,IGO-016,Junior,,G6,Senior Policy Manager,Group Operations,0,57075,75035,Policy
+Oct-15,,IGO-016,Junior,,G7,Senior Project Manager,Group Operations,0,45299,61976,Policy
+Oct-15,,IGO-016,Junior,,G7,Senior Finance Manager,Group Operations,0,45299,61976,Policy
+Oct-15,,IGO-016,Junior,,G7,Section Head,Group Operations,0,45299,61976,Policy
+Oct-15,,IGO-016,Junior,,SEO,Policy Manager,Group Operations,0,33675,45769,Policy
+Oct-15,,IGO-016,Junior,,HEO,Policy Support Officer,Group Operations,0,26492,37316,Policy
+Oct-15,,IGO-016,Junior,,HEO,Assistant Finance Manager,Group Operations,0,26492,37316,Finance
+Oct-15,,IGO-016,Junior,,EO,Team Support Officer,Group Operations,0,21438,30275,Policy
+Oct-15,,IGO-016,Junior,,EO,Finance Support Officer,Group Operations,0,21438,30275,Finance
+Oct-15,,IGO-016,Junior,,HEO,Not In Post,Group Operations,0,26492,37316,Policy
+Oct-15,,IGO-016,Junior,,AO,Finance Support Officer,Group Operations,0,17209,23567,Finance
+Oct-15,,IGO-016,Junior,,AO,Not In Post,Group Operations,0,17209,23567,Policy
+Oct-15,,IGO-051,Junior,,G6,Deputy Head of Unit,Group Operations,0,57075,75035,Policy
+Oct-15,,IGO-051,Junior,,G7,Senior Operational Manager,Group Operations,0,45299,61976,Property and asset management
+Oct-15,,IGO-051,Junior,,G7,Senior Knowledge Information Management Manager,Group Operations,0,45299,61976,Knowledge and Information Management (KIM)
+Oct-15,,IGO-051,Junior,,G7,Senior Project Manager,Group Operations,0,45299,61976,Programme and Project Management (PPM)
+Oct-15,,IGO-051,Junior,,G7,Senior Information Manager,Group Operations,0,45299,61976,Knowledge and Information Management (KIM)
+Oct-15,,IGO-051,Junior,,SEO,Knowledge Information Management Manager,Group Operations,0,33675,45769,Knowledge and Information Management (KIM)
+Oct-15,,IGO-051,Junior,,HEO,Knowledge Information Management Manager,Group Operations,0,26492,37316,Knowledge and Information Management (KIM)
+Oct-15,,IGO-051,Junior,,EO,Knowledge Information Management Support Officer,Group Operations,0,21438,30275,Knowledge and Information Management (KIM)
+Oct-15,,IGO-051,Junior,,EO,Team Support Officer,Group Operations,0,21438,30275,Knowledge and Information Management (KIM)
+Oct-15,,IGO-051,Junior,,AO,Admin support,Group Operations,0,17209,23567,Knowledge and Information Management (KIM)
+Oct-15,,IGO-051,Junior,,AO,PA Support,Group Operations,0,17209,23567,Operational Delivery
+Oct-15,,IGO-051,Junior,,AO,Knowledge Information Management Support Officer,Group Operations,0,17209,23567,Knowledge and Information Management (KIM)

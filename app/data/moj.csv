@@ -1,1008 +1,1008 @@
-date,level,id,parentId
-,,root,
-Mar-13,Senior,1,root
-Mar-13,Senior,2,1
-Mar-13,Senior,4,2
-Mar-13,Senior,5,77
-Mar-13,Senior,13,2
-Mar-13,Senior,14,2
-Mar-13,Senior,16,root
-Mar-13,Senior,19,68
-Mar-13,Senior,20,77
-Mar-13,Senior,24,302
-Mar-13,Senior,26,116
-Mar-13,Senior,27,73
-Mar-13,Senior,28,326
-Mar-13,Senior,33,174
-Mar-13,Senior,40,50
-Mar-13,Senior,41,40
-Mar-13,Senior,43,188
-Mar-13,Senior,44,2
-Mar-13,Senior,45,1
-Mar-13,Senior,47,326
-Mar-13,Senior,48,2
-Mar-13,Senior,49,50
-Mar-13,Senior,50,1
-Mar-13,Senior,347,302
-Mar-13,Senior,52,78
-Mar-13,Senior,55,116
-Mar-13,Senior,58,49
-Mar-13,Senior,59,49
-Mar-13,Senior,346,325
-Mar-13,Senior,65,68
-Mar-13,Senior,68,1
-Mar-13,Senior,69,68
-Mar-13,Senior,70,68
-Mar-13,Senior,72,136
-Mar-13,Senior,345,174
-Mar-13,Senior,73,68
-Mar-13,Senior,77,78
-Mar-13,Senior,78,68
-Mar-13,Senior,344,77
-Mar-13,Senior,82,329
-Mar-13,Senior,83,68
-Mar-13,Senior,84,83
-Mar-13,Senior,85,83
-Mar-13,Senior,86,97
-Mar-13,Senior,91,116
-Mar-13,Senior,97,98
-Mar-13,Senior,98,1
-Mar-13,Senior,99,116
-Mar-13,Senior,107,116
-Mar-13,Senior,108,167
-Mar-13,Senior,114,98
-Mar-13,Senior,115,97
-Mar-13,Senior,116,68
-Mar-13,Senior,119,325
-Mar-13,Senior,125,98
-Mar-13,Senior,348,97
-Mar-13,Senior,126,97
-Mar-13,Senior,136,68
-Mar-13,Senior,137,68
-Mar-13,Senior,140,174
-Mar-13,Senior,153,136
-Mar-13,Senior,157,136
-Mar-13,Senior,158,344
-Mar-13,Senior,159,136
-Mar-13,Senior,165,327
-Mar-13,Senior,167,98
-Mar-13,Senior,174,98
-Mar-13,Senior,175,77
-Mar-13,Senior,177,327
-Mar-13,Senior,178,77
-Mar-13,Senior,180,77
-Mar-13,Senior,181,77
-Mar-13,Senior,182,77
-Mar-13,Senior,183,77
-Mar-13,Senior,188,2
-Mar-13,Senior,215,125
-Mar-13,Senior,217,83
-Mar-13,Senior,220,174
-Mar-13,Senior,301,4
-Mar-13,Senior,302,2
-Mar-13,Senior,303,2
-Mar-13,Senior,304,303
-Mar-13,Senior,306,2
-Mar-13,Senior,307,306
-Mar-13,Senior,308,2
-Mar-13,Senior,309,2
-Mar-13,Senior,310,309
-Mar-13,Senior,311,2
-Mar-13,Senior,312,311
-Mar-13,Senior,313,314
-Mar-13,Senior,314,2
-Mar-13,Senior,315,2
-Mar-13,Senior,316,315
-Mar-13,Senior,317,4
-Mar-13,Senior,318,13
-Mar-13,Senior,319,13
-Mar-13,Senior,320,302
-Mar-13,Senior,321,188
-Mar-13,Senior,322,49
-Mar-13,Senior,323,325
-Mar-13,Senior,324,325
-Mar-13,Senior,325,50
-Mar-13,Senior,326,50
-Mar-13,Senior,327,50
-Mar-13,Senior,329,174
-Mar-13,Senior,330,77
-Mar-13,Senior,332,174
-Mar-13,Senior,333,78
-Mar-13,Senior,334,174
-Mar-13,Senior,335,174
-Mar-13,Senior,349,125
-Mar-13,Senior,338,68
-Mar-13,Senior,341,68
-Mar-13,Senior,343,4
-Mar-13,Junior,,329
-Mar-13,Junior,,329
-Mar-13,Junior,,329
-Mar-13,Junior,,329
-Mar-13,Junior,,329
-Mar-13,Junior,,333
-Mar-13,Junior,,333
-Mar-13,Junior,,333
-Mar-13,Junior,,333
-Mar-13,Junior,,333
-Mar-13,Junior,,333
-Mar-13,Junior,,333
-Mar-13,Junior,,333
-Mar-13,Junior,,333
-Mar-13,Junior,,333
-Mar-13,Junior,,333
-Mar-13,Junior,,333
-Mar-13,Junior,,333
-Mar-13,Junior,,333
-Mar-13,Junior,,333
-Mar-13,Junior,,333
-Mar-13,Junior,,347
-Mar-13,Junior,,4
-Mar-13,Junior,,4
-Mar-13,Junior,,4
-Mar-13,Junior,,4
-Mar-13,Junior,,69
-Mar-13,Junior,,347
-Mar-13,Junior,,347
-Mar-13,Junior,,108
-Mar-13,Junior,,108
-Mar-13,Junior,,108
-Mar-13,Junior,,108
-Mar-13,Junior,,108
-Mar-13,Junior,,108
-Mar-13,Junior,,114
-Mar-13,Junior,,114
-Mar-13,Junior,,114
-Mar-13,Junior,,114
-Mar-13,Junior,,114
-Mar-13,Junior,,114
-Mar-13,Junior,,114
-Mar-13,Junior,,114
-Mar-13,Junior,,114
-Mar-13,Junior,,114
-Mar-13,Junior,,114
-Mar-13,Junior,,114
-Mar-13,Junior,,114
-Mar-13,Junior,,332
-Mar-13,Junior,,332
-Mar-13,Junior,,332
-Mar-13,Junior,,332
-Mar-13,Junior,,332
-Mar-13,Junior,,332
-Mar-13,Junior,,77
-Mar-13,Junior,,77
-Mar-13,Junior,,77
-Mar-13,Junior,,77
-Mar-13,Junior,,175
-Mar-13,Junior,,175
-Mar-13,Junior,,175
-Mar-13,Junior,,182
-Mar-13,Junior,,182
-Mar-13,Junior,,182
-Mar-13,Junior,,182
-Mar-13,Junior,,323
-Mar-13,Junior,,323
-Mar-13,Junior,,323
-Mar-13,Junior,,323
-Mar-13,Junior,,323
-Mar-13,Junior,,323
-Mar-13,Junior,,323
-Mar-13,Junior,,323
-Mar-13,Junior,,323
-Mar-13,Junior,,325
-Mar-13,Junior,,325
-Mar-13,Junior,,325
-Mar-13,Junior,,325
-Mar-13,Junior,,325
-Mar-13,Junior,,332
-Mar-13,Junior,,332
-Mar-13,Junior,,332
-Mar-13,Junior,,332
-Mar-13,Junior,,332
-Mar-13,Junior,,332
-Mar-13,Junior,,59
-Mar-13,Junior,,59
-Mar-13,Junior,,59
-Mar-13,Junior,,19
-Mar-13,Junior,,19
-Mar-13,Junior,,19
-Mar-13,Junior,,19
-Mar-13,Junior,,19
-Mar-13,Junior,,19
-Mar-13,Junior,,19
-Mar-13,Junior,,19
-Mar-13,Junior,,19
-Mar-13,Junior,,19
-Mar-13,Junior,,20
-Mar-13,Junior,,20
-Mar-13,Junior,,20
-Mar-13,Junior,,20
-Mar-13,Junior,,338
-Mar-13,Junior,,338
-Mar-13,Junior,,338
-Mar-13,Junior,,338
-Mar-13,Junior,,338
-Mar-13,Junior,,338
-Mar-13,Junior,,338
-Mar-13,Junior,,338
-Mar-13,Junior,,338
-Mar-13,Junior,,91
-Mar-13,Junior,,91
-Mar-13,Junior,,91
-Mar-13,Junior,,91
-Mar-13,Junior,,91
-Mar-13,Junior,,91
-Mar-13,Junior,,91
-Mar-13,Junior,,91
-Mar-13,Junior,,91
-Mar-13,Junior,,91
-Mar-13,Junior,,91
-Mar-13,Junior,,91
-Mar-13,Junior,,91
-Mar-13,Junior,,91
-Mar-13,Junior,,91
-Mar-13,Junior,,91
-Mar-13,Junior,,91
-Mar-13,Junior,,24
-Mar-13,Junior,,24
-Mar-13,Junior,,24
-Mar-13,Junior,,24
-Mar-13,Junior,,24
-Mar-13,Junior,,24
-Mar-13,Junior,,24
-Mar-13,Junior,,24
-Mar-13,Junior,,24
-Mar-13,Junior,,24
-Mar-13,Junior,,24
-Mar-13,Junior,,24
-Mar-13,Junior,,24
-Mar-13,Junior,,24
-Mar-13,Junior,,24
-Mar-13,Junior,,24
-Mar-13,Junior,,24
-Mar-13,Junior,,24
-Mar-13,Junior,,24
-Mar-13,Junior,,24
-Mar-13,Junior,,24
-Mar-13,Junior,,24
-Mar-13,Junior,,24
-Mar-13,Junior,,24
-Mar-13,Junior,,24
-Mar-13,Junior,,26
-Mar-13,Junior,,26
-Mar-13,Junior,,26
-Mar-13,Junior,,26
-Mar-13,Junior,,26
-Mar-13,Junior,,26
-Mar-13,Junior,,26
-Mar-13,Junior,,26
-Mar-13,Junior,,26
-Mar-13,Junior,,26
-Mar-13,Junior,,26
-Mar-13,Junior,,26
-Mar-13,Junior,,26
-Mar-13,Junior,,26
-Mar-13,Junior,,26
-Mar-13,Junior,,26
-Mar-13,Junior,,26
-Mar-13,Junior,,26
-Mar-13,Junior,,26
-Mar-13,Junior,,91
-Mar-13,Junior,,91
-Mar-13,Junior,,91
-Mar-13,Junior,,91
-Mar-13,Junior,,91
-Mar-13,Junior,,91
-Mar-13,Junior,,91
-Mar-13,Junior,,91
-Mar-13,Junior,,91
-Mar-13,Junior,,91
-Mar-13,Junior,,91
-Mar-13,Junior,,91
-Mar-13,Junior,,91
-Mar-13,Junior,,91
-Mar-13,Junior,,28
-Mar-13,Junior,,28
-Mar-13,Junior,,28
-Mar-13,Junior,,28
-Mar-13,Junior,,28
-Mar-13,Junior,,28
-Mar-13,Junior,,28
-Mar-13,Junior,,28
-Mar-13,Junior,,28
-Mar-13,Junior,,28
-Mar-13,Junior,,28
-Mar-13,Junior,,28
-Mar-13,Junior,,28
-Mar-13,Junior,,28
-Mar-13,Junior,,28
-Mar-13,Junior,,28
-Mar-13,Junior,,28
-Mar-13,Junior,,47
-Mar-13,Junior,,47
-Mar-13,Junior,,47
-Mar-13,Junior,,47
-Mar-13,Junior,,47
-Mar-13,Junior,,345
-Mar-13,Junior,,345
-Mar-13,Junior,,345
-Mar-13,Junior,,345
-Mar-13,Junior,,345
-Mar-13,Junior,,345
-Mar-13,Junior,,345
-Mar-13,Junior,,345
-Mar-13,Junior,,345
-Mar-13,Junior,,345
-Mar-13,Junior,,345
-Mar-13,Junior,,345
-Mar-13,Junior,,345
-Mar-13,Junior,,345
-Mar-13,Junior,,345
-Mar-13,Junior,,345
-Mar-13,Junior,,345
-Mar-13,Junior,,345
-Mar-13,Junior,,345
-Mar-13,Junior,,345
-Mar-13,Junior,,345
-Mar-13,Junior,,345
-Mar-13,Junior,,345
-Mar-13,Junior,,345
-Mar-13,Junior,,345
-Mar-13,Junior,,345
-Mar-13,Junior,,345
-Mar-13,Junior,,345
-Mar-13,Junior,,345
-Mar-13,Junior,,345
-Mar-13,Junior,,345
-Mar-13,Junior,,345
-Mar-13,Junior,,344
-Mar-13,Junior,,344
-Mar-13,Junior,,344
-Mar-13,Junior,,344
-Mar-13,Junior,,344
-Mar-13,Junior,,344
-Mar-13,Junior,,344
-Mar-13,Junior,,344
-Mar-13,Junior,,27
-Mar-13,Junior,,27
-Mar-13,Junior,,27
-Mar-13,Junior,,27
-Mar-13,Junior,,27
-Mar-13,Junior,,27
-Mar-13,Junior,,27
-Mar-13,Junior,,27
-Mar-13,Junior,,27
-Mar-13,Junior,,27
-Mar-13,Junior,,27
-Mar-13,Junior,,27
-Mar-13,Junior,,27
-Mar-13,Junior,,27
-Mar-13,Junior,,27
-Mar-13,Junior,,27
-Mar-13,Junior,,27
-Mar-13,Junior,,27
-Mar-13,Junior,,27
-Mar-13,Junior,,27
-Mar-13,Junior,,27
-Mar-13,Junior,,27
-Mar-13,Junior,,27
-Mar-13,Junior,,27
-Mar-13,Junior,,27
-Mar-13,Junior,,27
-Mar-13,Junior,,27
-Mar-13,Junior,,27
-Mar-13,Junior,,27
-Mar-13,Junior,,27
-Mar-13,Junior,,27
-Mar-13,Junior,,27
-Mar-13,Junior,,27
-Mar-13,Junior,,27
-Mar-13,Junior,,27
-Mar-13,Junior,,27
-Mar-13,Junior,,27
-Mar-13,Junior,,27
-Mar-13,Junior,,27
-Mar-13,Junior,,27
-Mar-13,Junior,,27
-Mar-13,Junior,,27
-Mar-13,Junior,,27
-Mar-13,Junior,,27
-Mar-13,Junior,,27
-Mar-13,Junior,,27
-Mar-13,Junior,,27
-Mar-13,Junior,,27
-Mar-13,Junior,,27
-Mar-13,Junior,,27
-Mar-13,Junior,,27
-Mar-13,Junior,,27
-Mar-13,Junior,,27
-Mar-13,Junior,,27
-Mar-13,Junior,,27
-Mar-13,Junior,,27
-Mar-13,Junior,,27
-Mar-13,Junior,,27
-Mar-13,Junior,,27
-Mar-13,Junior,,33
-Mar-13,Junior,,33
-Mar-13,Junior,,33
-Mar-13,Junior,,33
-Mar-13,Junior,,33
-Mar-13,Junior,,33
-Mar-13,Junior,,119
-Mar-13,Junior,,119
-Mar-13,Junior,,119
-Mar-13,Junior,,119
-Mar-13,Junior,,119
-Mar-13,Junior,,119
-Mar-13,Junior,,119
-Mar-13,Junior,,119
-Mar-13,Junior,,119
-Mar-13,Junior,,119
-Mar-13,Junior,,119
-Mar-13,Junior,,119
-Mar-13,Junior,,119
-Mar-13,Junior,,119
-Mar-13,Junior,,119
-Mar-13,Junior,,346
-Mar-13,Junior,,346
-Mar-13,Junior,,346
-Mar-13,Junior,,324
-Mar-13,Junior,,324
-Mar-13,Junior,,324
-Mar-13,Junior,,324
-Mar-13,Junior,,324
-Mar-13,Junior,,324
-Mar-13,Junior,,324
-Mar-13,Junior,,324
-Mar-13,Junior,,324
-Mar-13,Junior,,324
-Mar-13,Junior,,324
-Mar-13,Junior,,324
-Mar-13,Junior,,324
-Mar-13,Junior,,180
-Mar-13,Junior,,180
-Mar-13,Junior,,180
-Mar-13,Junior,,41
-Mar-13,Junior,,70
-Mar-13,Junior,,70
-Mar-13,Junior,,70
-Mar-13,Junior,,70
-Mar-13,Junior,,70
-Mar-13,Junior,,58
-Mar-13,Junior,,58
-Mar-13,Junior,,58
-Mar-13,Junior,,58
-Mar-13,Junior,,58
-Mar-13,Junior,,58
-Mar-13,Junior,,58
-Mar-13,Junior,,58
-Mar-13,Junior,,58
-Mar-13,Junior,,58
-Mar-13,Junior,,45
-Mar-13,Junior,,45
-Mar-13,Junior,,45
-Mar-13,Junior,,45
-Mar-13,Junior,,45
-Mar-13,Junior,,45
-Mar-13,Junior,,45
-Mar-13,Junior,,45
-Mar-13,Junior,,45
-Mar-13,Junior,,45
-Mar-13,Junior,,45
-Mar-13,Junior,,45
-Mar-13,Junior,,45
-Mar-13,Junior,,344
-Mar-13,Junior,,344
-Mar-13,Junior,,344
-Mar-13,Junior,,344
-Mar-13,Junior,,344
-Mar-13,Junior,,344
-Mar-13,Junior,,344
-Mar-13,Junior,,344
-Mar-13,Junior,,344
-Mar-13,Junior,,344
-Mar-13,Junior,,344
-Mar-13,Junior,,344
-Mar-13,Junior,,344
-Mar-13,Junior,,344
-Mar-13,Junior,,329
-Mar-13,Junior,,329
-Mar-13,Junior,,329
-Mar-13,Junior,,329
-Mar-13,Junior,,329
-Mar-13,Junior,,329
-Mar-13,Junior,,329
-Mar-13,Junior,,52
-Mar-13,Junior,,52
-Mar-13,Junior,,52
-Mar-13,Junior,,52
-Mar-13,Junior,,52
-Mar-13,Junior,,52
-Mar-13,Junior,,52
-Mar-13,Junior,,52
-Mar-13,Junior,,52
-Mar-13,Junior,,52
-Mar-13,Junior,,52
-Mar-13,Junior,,52
-Mar-13,Junior,,52
-Mar-13,Junior,,52
-Mar-13,Junior,,52
-Mar-13,Junior,,52
-Mar-13,Junior,,49
-Mar-13,Junior,,322
-Mar-13,Junior,,322
-Mar-13,Junior,,322
-Mar-13,Junior,,322
-Mar-13,Junior,,322
-Mar-13,Junior,,322
-Mar-13,Junior,,322
-Mar-13,Junior,,322
-Mar-13,Junior,,322
-Mar-13,Junior,,322
-Mar-13,Junior,,126
-Mar-13,Junior,,126
-Mar-13,Junior,,126
-Mar-13,Junior,,126
-Mar-13,Junior,,126
-Mar-13,Junior,,126
-Mar-13,Junior,,126
-Mar-13,Junior,,126
-Mar-13,Junior,,126
-Mar-13,Junior,,126
-Mar-13,Junior,,126
-Mar-13,Junior,,126
-Mar-13,Junior,,126
-Mar-13,Junior,,126
-Mar-13,Junior,,126
-Mar-13,Junior,,126
-Mar-13,Junior,,126
-Mar-13,Junior,,126
-Mar-13,Junior,,126
-Mar-13,Junior,,126
-Mar-13,Junior,,126
-Mar-13,Junior,,126
-Mar-13,Junior,,126
-Mar-13,Junior,,126
-Mar-13,Junior,,126
-Mar-13,Junior,,126
-Mar-13,Junior,,126
-Mar-13,Junior,,126
-Mar-13,Junior,,126
-Mar-13,Junior,,126
-Mar-13,Junior,,126
-Mar-13,Junior,,126
-Mar-13,Junior,,126
-Mar-13,Junior,,126
-Mar-13,Junior,,178
-Mar-13,Junior,,178
-Mar-13,Junior,,178
-Mar-13,Junior,,178
-Mar-13,Junior,,82
-Mar-13,Junior,,82
-Mar-13,Junior,,82
-Mar-13,Junior,,82
-Mar-13,Junior,,115
-Mar-13,Junior,,115
-Mar-13,Junior,,115
-Mar-13,Junior,,115
-Mar-13,Junior,,115
-Mar-13,Junior,,115
-Mar-13,Junior,,115
-Mar-13,Junior,,115
-Mar-13,Junior,,115
-Mar-13,Junior,,115
-Mar-13,Junior,,115
-Mar-13,Junior,,115
-Mar-13,Junior,,115
-Mar-13,Junior,,115
-Mar-13,Junior,,181
-Mar-13,Junior,,181
-Mar-13,Junior,,181
-Mar-13,Junior,,181
-Mar-13,Junior,,181
-Mar-13,Junior,,333
-Mar-13,Junior,,333
-Mar-13,Junior,,333
-Mar-13,Junior,,333
-Mar-13,Junior,,333
-Mar-13,Junior,,215
-Mar-13,Junior,,215
-Mar-13,Junior,,215
-Mar-13,Junior,,215
-Mar-13,Junior,,215
-Mar-13,Junior,,140
-Mar-13,Junior,,140
-Mar-13,Junior,,140
-Mar-13,Junior,,140
-Mar-13,Junior,,165
-Mar-13,Junior,,165
-Mar-13,Junior,,165
-Mar-13,Junior,,165
-Mar-13,Junior,,165
-Mar-13,Junior,,165
-Mar-13,Junior,,165
-Mar-13,Junior,,165
-Mar-13,Junior,,165
-Mar-13,Junior,,165
-Mar-13,Junior,,165
-Mar-13,Junior,,165
-Mar-13,Junior,,165
-Mar-13,Junior,,165
-Mar-13,Junior,,165
-Mar-13,Junior,,165
-Mar-13,Junior,,165
-Mar-13,Junior,,165
-Mar-13,Junior,,165
-Mar-13,Junior,,165
-Mar-13,Junior,,165
-Mar-13,Junior,,165
-Mar-13,Junior,,165
-Mar-13,Junior,,165
-Mar-13,Junior,,165
-Mar-13,Junior,,165
-Mar-13,Junior,,165
-Mar-13,Junior,,165
-Mar-13,Junior,,165
-Mar-13,Junior,,165
-Mar-13,Junior,,165
-Mar-13,Junior,,165
-Mar-13,Junior,,165
-Mar-13,Junior,,165
-Mar-13,Junior,,165
-Mar-13,Junior,,165
-Mar-13,Junior,,165
-Mar-13,Junior,,165
-Mar-13,Junior,,165
-Mar-13,Junior,,165
-Mar-13,Junior,,165
-Mar-13,Junior,,165
-Mar-13,Junior,,165
-Mar-13,Junior,,165
-Mar-13,Junior,,165
-Mar-13,Junior,,165
-Mar-13,Junior,,165
-Mar-13,Junior,,165
-Mar-13,Junior,,165
-Mar-13,Junior,,165
-Mar-13,Junior,,165
-Mar-13,Junior,,165
-Mar-13,Junior,,165
-Mar-13,Junior,,165
-Mar-13,Junior,,165
-Mar-13,Junior,,165
-Mar-13,Junior,,165
-Mar-13,Junior,,165
-Mar-13,Junior,,165
-Mar-13,Junior,,165
-Mar-13,Junior,,165
-Mar-13,Junior,,165
-Mar-13,Junior,,165
-Mar-13,Junior,,165
-Mar-13,Junior,,165
-Mar-13,Junior,,65
-Mar-13,Junior,,65
-Mar-13,Junior,,65
-Mar-13,Junior,,65
-Mar-13,Junior,,65
-Mar-13,Junior,,65
-Mar-13,Junior,,65
-Mar-13,Junior,,349
-Mar-13,Junior,,349
-Mar-13,Junior,,349
-Mar-13,Junior,,349
-Mar-13,Junior,,349
-Mar-13,Junior,,349
-Mar-13,Junior,,157
-Mar-13,Junior,,157
-Mar-13,Junior,,157
-Mar-13,Junior,,157
-Mar-13,Junior,,157
-Mar-13,Junior,,157
-Mar-13,Junior,,157
-Mar-13,Junior,,157
-Mar-13,Junior,,220
-Mar-13,Junior,,220
-Mar-13,Junior,,220
-Mar-13,Junior,,220
-Mar-13,Junior,,177
-Mar-13,Junior,,177
-Mar-13,Junior,,177
-Mar-13,Junior,,177
-Mar-13,Junior,,177
-Mar-13,Junior,,177
-Mar-13,Junior,,177
-Mar-13,Junior,,177
-Mar-13,Junior,,177
-Mar-13,Junior,,177
-Mar-13,Junior,,177
-Mar-13,Junior,,177
-Mar-13,Junior,,177
-Mar-13,Junior,,177
-Mar-13,Junior,,177
-Mar-13,Junior,,159
-Mar-13,Junior,,159
-Mar-13,Junior,,177
-Mar-13,Junior,,177
-Mar-13,Junior,,177
-Mar-13,Junior,,177
-Mar-13,Junior,,177
-Mar-13,Junior,,177
-Mar-13,Junior,,177
-Mar-13,Junior,,177
-Mar-13,Junior,,177
-Mar-13,Junior,,177
-Mar-13,Junior,,177
-Mar-13,Junior,,177
-Mar-13,Junior,,177
-Mar-13,Junior,,177
-Mar-13,Junior,,177
-Mar-13,Junior,,72
-Mar-13,Junior,,72
-Mar-13,Junior,,72
-Mar-13,Junior,,72
-Mar-13,Junior,,72
-Mar-13,Junior,,73
-Mar-13,Junior,,73
-Mar-13,Junior,,73
-Mar-13,Junior,,73
-Mar-13,Junior,,73
-Mar-13,Junior,,107
-Mar-13,Junior,,107
-Mar-13,Junior,,107
-Mar-13,Junior,,107
-Mar-13,Junior,,107
-Mar-13,Junior,,107
-Mar-13,Junior,,107
-Mar-13,Junior,,107
-Mar-13,Junior,,107
-Mar-13,Junior,,107
-Mar-13,Junior,,334
-Mar-13,Junior,,334
-Mar-13,Junior,,334
-Mar-13,Junior,,334
-Mar-13,Junior,,334
-Mar-13,Junior,,334
-Mar-13,Junior,,78
-Mar-13,Junior,,78
-Mar-13,Junior,,78
-Mar-13,Junior,,78
-Mar-13,Junior,,78
-Mar-13,Junior,,78
-Mar-13,Junior,,78
-Mar-13,Junior,,78
-Mar-13,Junior,,78
-Mar-13,Junior,,49
-Mar-13,Junior,,49
-Mar-13,Junior,,49
-Mar-13,Junior,,49
-Mar-13,Junior,,49
-Mar-13,Junior,,49
-Mar-13,Junior,,73
-Mar-13,Junior,,73
-Mar-13,Junior,,73
-Mar-13,Junior,,73
-Mar-13,Junior,,73
-Mar-13,Junior,,73
-Mar-13,Junior,,314
-Mar-13,Junior,,314
-Mar-13,Junior,,314
-Mar-13,Junior,,314
-Mar-13,Junior,,314
-Mar-13,Junior,,314
-Mar-13,Junior,,314
-Mar-13,Junior,,314
-Mar-13,Junior,,314
-Mar-13,Junior,,314
-Mar-13,Junior,,314
-Mar-13,Junior,,314
-Mar-13,Junior,,314
-Mar-13,Junior,,314
-Mar-13,Junior,,314
-Mar-13,Junior,,314
-Mar-13,Junior,,314
-Mar-13,Junior,,311
-Mar-13,Junior,,311
-Mar-13,Junior,,306
-Mar-13,Junior,,306
-Mar-13,Junior,,306
-Mar-13,Junior,,306
-Mar-13,Junior,,306
-Mar-13,Junior,,306
-Mar-13,Junior,,306
-Mar-13,Junior,,306
-Mar-13,Junior,,306
-Mar-13,Junior,,306
-Mar-13,Junior,,306
-Mar-13,Junior,,306
-Mar-13,Junior,,306
-Mar-13,Junior,,306
-Mar-13,Junior,,306
-Mar-13,Junior,,306
-Mar-13,Junior,,303
-Mar-13,Junior,,303
-Mar-13,Junior,,50
-Mar-13,Junior,,50
-Mar-13,Junior,,50
-Mar-13,Junior,,50
-Mar-13,Junior,,50
-Mar-13,Junior,,50
-Mar-13,Junior,,50
-Mar-13,Junior,,50
-Mar-13,Junior,,50
-Mar-13,Junior,,50
-Mar-13,Junior,,2
-Mar-13,Junior,,4
-Mar-13,Junior,,13
-Mar-13,Junior,,13
-Mar-13,Junior,,44
-Mar-13,Junior,,44
-Mar-13,Junior,,44
-Mar-13,Junior,,44
-Mar-13,Junior,,44
-Mar-13,Junior,,44
-Mar-13,Junior,,44
-Mar-13,Junior,,44
-Mar-13,Junior,,48
-Mar-13,Junior,,48
-Mar-13,Junior,,48
-Mar-13,Junior,,48
-Mar-13,Junior,,48
-Mar-13,Junior,,48
-Mar-13,Junior,,48
-Mar-13,Junior,,48
-Mar-13,Junior,,48
-Mar-13,Junior,,315
-Mar-13,Junior,,315
-Mar-13,Junior,,315
-Mar-13,Junior,,315
-Mar-13,Junior,,315
-Mar-13,Junior,,315
-Mar-13,Junior,,315
-Mar-13,Junior,,315
-Mar-13,Junior,,318
-Mar-13,Junior,,318
-Mar-13,Junior,,318
-Mar-13,Junior,,318
-Mar-13,Junior,,318
-Mar-13,Junior,,318
-Mar-13,Junior,,318
-Mar-13,Junior,,318
-Mar-13,Junior,,318
-Mar-13,Junior,,319
-Mar-13,Junior,,319
-Mar-13,Junior,,319
-Mar-13,Junior,,188
-Mar-13,Junior,,188
-Mar-13,Junior,,188
-Mar-13,Junior,,188
-Mar-13,Junior,,188
-Mar-13,Junior,,48
-Mar-13,Junior,,48
-Mar-13,Junior,,48
-Mar-13,Junior,,48
-Mar-13,Junior,,48
-Mar-13,Junior,,2
-Mar-13,Junior,,309
-Mar-13,Junior,,309
-Mar-13,Junior,,309
-Mar-13,Junior,,309
-Mar-13,Junior,,309
-Mar-13,Junior,,309
-Mar-13,Junior,,309
-Mar-13,Junior,,309
-Mar-13,Junior,,309
-Mar-13,Junior,,309
-Mar-13,Junior,,309
-Mar-13,Junior,,302
-Mar-13,Junior,,302
-Mar-13,Junior,,302
-Mar-13,Junior,,302
-Mar-13,Junior,,302
-Mar-13,Junior,,302
-Mar-13,Junior,,302
-Mar-13,Junior,,302
-Mar-13,Junior,,302
-Mar-13,Junior,,302
-Mar-13,Junior,,302
-Mar-13,Junior,,302
-Mar-13,Junior,,50
-Mar-13,Junior,,301
-Mar-13,Junior,,301
-Mar-13,Junior,,301
-Mar-13,Junior,,301
-Mar-13,Junior,,301
-Mar-13,Junior,,301
-Mar-13,Junior,,317
-Mar-13,Junior,,317
-Mar-13,Junior,,317
-Mar-13,Junior,,317
-Mar-13,Junior,,317
-Mar-13,Junior,,4
-Mar-13,Junior,,188
-Mar-13,Junior,,315
-Mar-13,Junior,,317
-Mar-13,Junior,,43
-Mar-13,Junior,,43
-Mar-13,Junior,,43
-Mar-13,Junior,,43
-Mar-13,Junior,,43
-Mar-13,Junior,,14
-Mar-13,Junior,,14
-Mar-13,Junior,,14
-Mar-13,Junior,,14
-Mar-13,Junior,,4
-Mar-13,Junior,,4
-Mar-13,Junior,,304
-Mar-13,Junior,,304
-Mar-13,Junior,,317
-Mar-13,Junior,,319
-Mar-13,Junior,,319
-Mar-13,Junior,,343
-Mar-13,Junior,,343
-Mar-13,Junior,,343
-Mar-13,Junior,,343
-Mar-13,Junior,,343
-Mar-13,Junior,,343
-Mar-13,Junior,,343
-Mar-13,Junior,,343
-Mar-13,Junior,,343
-Mar-13,Junior,,319
-Mar-13,Junior,,319
-Mar-13,Junior,,319
-Mar-13,Junior,,319
-Mar-13,Junior,,48
-Mar-13,Junior,,48
-Mar-13,Junior,,48
-Mar-13,Junior,,41
-Mar-13,Junior,,41
-Mar-13,Junior,,41
-Mar-13,Junior,,41
-Mar-13,Junior,,41
-Mar-13,Junior,,41
-Mar-13,Junior,,41
-Mar-13,Junior,,41
-Mar-13,Junior,,41
-Mar-13,Junior,,41
-Mar-13,Junior,,41
-Mar-13,Junior,,41
-Mar-13,Junior,,41
-Mar-13,Junior,,41
-Mar-13,Junior,,41
-Mar-13,Junior,,41
-Mar-13,Junior,,41
-Mar-13,Junior,,41
-Mar-13,Junior,,41
-Mar-13,Junior,,41
-Mar-13,Junior,,41
-Mar-13,Junior,,41
-Mar-13,Junior,,41
-Mar-13,Junior,,41
-Mar-13,Junior,,41
-Mar-13,Junior,,41
-Mar-13,Junior,,41
-Mar-13,Junior,,41
-Mar-13,Junior,,41
-Mar-13,Junior,,41
-Mar-13,Junior,,41
-Mar-13,Junior,,41
-Mar-13,Junior,,84
-Mar-13,Junior,,84
-Mar-13,Junior,,84
-Mar-13,Junior,,85
-Mar-13,Junior,,85
-Mar-13,Junior,,85
-Mar-13,Junior,,85
-Mar-13,Junior,,85
-Mar-13,Junior,,85
-Mar-13,Junior,,85
-Mar-13,Junior,,85
-Mar-13,Junior,,85
-Mar-13,Junior,,85
-Mar-13,Junior,,85
-Mar-13,Junior,,85
-Mar-13,Junior,,217
-Mar-13,Junior,,217
-Mar-13,Junior,,327
-Mar-13,Junior,,327
-Mar-13,Junior,,327
-Mar-13,Junior,,327
-Mar-13,Junior,,327
+id,parentId,date,level,name,grade,jobTitle,unit,salaryCostOfReports,payFloor,payCeil,professionalOccupationalGroup
+root,,,,,,,,,,,
+1,root,Mar-13,Senior,Ursula Brennan,SCS4,Permanent Secretary,Ministry of Justice,0,180000,184999,Operational Delivery
+2,1,Mar-13,Senior,Peter Handcock CBE,SCS3,"Chief Executive, HM Courts & Tribunals Service",Her Majesty's Courts and Tribunals Service (HMCTS),538952,145000,149999,Operational Delivery
+4,2,Mar-13,Senior,Kevin Sadler,SCS2,"Director, Civil, Family and Tribunals",Her Majesty's Courts and Tribunals Service (HMCTS),0,95000,99999,Operational Delivery
+5,77,Mar-13,Senior,N/D,SCS1,Director ICT HQ,Corporate Performance Group,0,N/A,,Information Technology
+13,2,Mar-13,Senior,Guy Tomkins,SCS2,"Director, Crime",Her Majesty's Courts and Tribunals Service (HMCTS),291248,80000,84999,Operational Delivery
+14,2,Mar-13,Senior,Paul Shipley,SCS2,HMCTS IT Director,Her Majesty's Courts and Tribunals Service (HMCTS),0,115000,119999,Information Technology
+16,root,Mar-13,Senior,Eliminated,SCS1,Director of Estates,Her Majesty's Courts and Tribunals Service (HMCTS),0,N/A,,Operational Delivery
+19,68,Mar-13,Senior,N/D,SCS1,Head of Finance Strategy & Planning,Corporate Performance Group,0,N/A,,Finance
+20,77,Mar-13,Senior,N/D,SCS1,Head of Demand and Programme Office,Corporate Performance Group,0,N/A,,Programme and Project Management (PPM)
+24,302,Mar-13,Senior,N/D,SCS1,Head of Crime for London,Her Majesty's Courts and Tribunals Service (HMCTS),0,N/A,,Operational Delivery
+26,116,Mar-13,Senior,N/D,SCS1,Deputy Director for Customer Insight & Corporate Functions Analytical Services,Corporate Performance Group,0,N/A,,Operational Research
+27,73,Mar-13,Senior,N/D,SCS1,Head of Payroll & Finance Services,Corporate Performance Group,0,N/A,,Finance
+28,326,Mar-13,Senior,N/D,SCS1,Board Secretary and Head of TJ Strategy and Governance,Corporate Performance Group,0,N/A,,Planning
+33,174,Mar-13,Senior,N/D,SCS1,Deputy Director - Justice Reform,Justice Policy Group,0,N/A,,Policy
+40,50,Mar-13,Senior,N/D,SCS1,Public Guardian & Chief Executive,Office of the Public Guardian (OPG),0,N/A,,Operational Delivery
+41,40,Mar-13,Senior,N/D,SCS1,Senior Legal Advisor to the Public Guardian,Office of the Public Guardian (OPG),13687582,N/A,,Law
+43,188,Mar-13,Senior,N/D,SCS1,HMCTS Deputy Director Strategy and Change,Her Majesty's Courts and Tribunals Service (HMCTS),0,N/A,,Programme and Project Management (PPM)
+44,2,Mar-13,Senior,N/D,SCS1,HMCTS Finance Director,Her Majesty's Courts and Tribunals Service (HMCTS),7953613,N/A,,Finance
+45,1,Mar-13,Senior,N/D,SCS1,Principal Private Secretary to the Justice Secretary,Private Office,0,N/A,,Policy
+47,326,Mar-13,Senior,N/D,SCS1,Head of ALB Governance Division,Corporate Performance Group,0,N/A,,Policy
+48,2,Mar-13,Senior,Chris Ball,SCS2,"HR & Enforcement Director, HMCTS",Her Majesty's Courts and Tribunals Service (HMCTS),2838855,95000,99999,Human Resources
+49,50,Mar-13,Senior,Pam Teare,SCS2,Director - Communications and Information Directorate,Corporate Performance Group,0,110000,114999,Operational Delivery
+50,1,Mar-13,Senior,Antonia Romeo,SCS3,Director General - Transforming Justice,Corporate Performance Group,0,125000,129999,Operational Delivery
+347,302,Mar-13,Senior,N/D,SCS1,"Cluster manager of Royal Courts of Justice group, HMCS",Her Majesty's Courts and Tribunals Service (HMCTS),24299088,N/A,,Operational Delivery
+52,78,Mar-13,Senior,N/D,SCS1,Shared Services Programme Director,Corporate Performance Group,0,N/A,,Programme and Project Management (PPM)
+55,116,Mar-13,Senior,N/D,SCS1,Deputy Director -,Corporate Performance Group,0,N/A,,Programme and Project Management (PPM)
+58,49,Mar-13,Senior,N/D,SCS1,Head of Corporate Communication,Corporate Performance Group,0,N/A,,Communications
+59,49,Mar-13,Senior,N/D,SCS1,Head of News,Corporate Performance Group,1199971,N/A,,Communications
+346,325,Mar-13,Senior,N/D,SCS1,HR Director,Corporate Performance Group,421106,N/A,,Human Resources
+65,68,Mar-13,Senior,N/D,SCS1,Financial Controller,Corporate Performance Group,0,N/A,,Finance
+68,1,Mar-13,Senior,Ann Beasley,SCS3,"Director General, Finance and Corporate Services",Corporate Performance Group,0,140000,144999,Finance
+69,68,Mar-13,Senior,Craig Watkins,SCS2,Director of Finance and Planning,Corporate Performance Group,0,110000,114999,Finance
+70,68,Mar-13,Senior,N/D,SCS1,Head of Internal Audit and Assurance,Corporate Performance Group,0,N/A,,Internal Audit
+72,136,Mar-13,Senior,N/D,SCS1,Head of Information & Human Rights Law,Corporate Performance Group,0,N/A,,Law
+345,174,Mar-13,Senior,N/D,SCS1,Deputy Director Justice Policy Group,Justice Policy Group,0,N/A,,Policy
+73,68,Mar-13,Senior,Gerry Smith,SCS2,Head of Shared Services,Corporate Performance Group,10374990,120000,124999,Operational Delivery
+77,78,Mar-13,Senior,Andy Grant,SCS2,"Director, Service Management",Corporate Performance Group,0,140000,144999,Information Technology
+78,68,Mar-13,Senior,Nick Ramsay,SCS2,Interim Chief Information Officer,Corporate Performance Group,3512,160000,164999,Information Technology
+344,77,Mar-13,Senior,N/D,SCS1,Head of ICTIA,Corporate Performance Group,367308,N/A,,Information Technology
+82,329,Mar-13,Senior,N/D,SCS1,Head of Strategy & Alignment,Corporate Performance Group,0,N/A,,Information Technology
+83,68,Mar-13,Senior,Vincent Godfrey,SCS2,Director of Procurement,Corporate Performance Group,1344147,120000,124999,Procurement
+84,83,Mar-13,Senior,N/D,SCS1,Head of Procurement Prison Portfolio,Corporate Performance Group,2644655,N/A,,Procurement
+85,83,Mar-13,Senior,Vacant,SCS1,Head of Procurement Operation Services Portfolio,Corporate Performance Group,7323806,N/A,,Procurement
+86,97,Mar-13,Senior,N/D,SCS1,Deputy Director Legal Aid and Legal Services Policy,Justice Policy Group,0,N/A,,Policy
+91,116,Mar-13,Senior,N/D,SCS1,Deputy Director Offender Management and Sentencing Analytical Services,Corporate Performance Group,0,N/A,,Social Research
+97,98,Mar-13,Senior,Helen Judge,SCS2,Policy Director,Justice Policy Group,390000,80000,84999,Policy
+98,1,Mar-13,Senior,Helen Edwards,SCS3,"Director General, Justice Policy Group",Justice Policy Group,0,160000,164999,Policy
+99,116,Mar-13,Senior,N/D,SCS1,Chief Statistician and Deputy Director for Justice Statistics Analytical Services,Corporate Performance Group,1961971,N/A,,Statisticians
+107,116,Mar-13,Senior,N/D,SCS1,"Chief Economist and Deputy Director for Strategic Reform, Forecasting and Finance Analytical Services",Corporate Performance Group,2179041,N/A,,Economics
+108,167,Mar-13,Senior,N/D,SCS1,Deputy Director,Justice Policy Group,0,N/A,,Policy
+114,98,Mar-13,Senior,N/D,SCS1,Deputy Director,Justice Policy Group,546599,N/A,,Policy
+115,97,Mar-13,Senior,N/D,SCS1,Deputy Director - Reducing Reoffending,Justice Policy Group,255219,N/A,,Policy
+116,68,Mar-13,Senior,Rebecca Endean,SCS2,Director for Analytical Services,Corporate Performance Group,22757,85000,89999,Economics
+119,325,Mar-13,Senior,N/D,SCS1,Head of Capacity Group,Corporate Performance Group,287901,N/A,,Human Resources
+125,98,Mar-13,Senior,Catherine Lee,SCS2,Policy Director,Justice Policy Group,390000,85000,89999,Policy
+348,97,Mar-13,Senior,N/D,SCS1,Deputy Director,Justice Policy Group,390000,N/A,,Policy
+126,97,Mar-13,Senior,N/D,SCS1,Deputy Director - Sentencing Policy,Justice Policy Group,1109062,N/A,,Policy
+136,68,Mar-13,Senior,Rosemary Davies,SCS2,Legal Director,Corporate Performance Group,0,95000,99999,Law
+137,68,Mar-13,Senior,Jane Hill,SCS2,Legal Director,Corporate Performance Group,267818,65000,69999,Law
+140,174,Mar-13,Senior,N/D,SCS1,"Deputy Director, Head of Human Rights and Security Policy",Justice Policy Group,478448,N/A,,Policy
+153,136,Mar-13,Senior,N/D,SCS1,Deputy Director (Legal Aid and Legal Services Team),Corporate Performance Group,0,N/A,,Law
+157,136,Mar-13,Senior,N/D,SCS1,Head of Criminal Law Team,Corporate Performance Group,0,N/A,,Policy
+158,344,Mar-13,Senior,N/D,SCS1,Deputy Director - Judicial Reward and Pensions Reform,Corporate Performance Group,0,N/A,,Policy
+159,136,Mar-13,Senior,N/D,SCS1,Head of Civil and Family Law,Corporate Performance Group,0,N/A,,Law
+165,327,Mar-13,Senior,N/D,SCS1,Deputy Director Asset Management Unit,Corporate Performance Group,0,N/A,,Property and Asset Management
+167,98,Mar-13,Senior,Mark Sweeney,SCS2,Policy Director,Justice Policy Group,420000,90000,94999,Policy
+174,98,Mar-13,Senior,Paul Kett,SCS2,Policy Director,Justice Policy Group,378000,80000,84999,Policy
+175,77,Mar-13,Senior,N/D,SCS1,"Head of Strategy, Planning and Operations, ICT",Corporate Performance Group,0,N/A,,Information Technology
+177,327,Mar-13,Senior,N/D,SCS1,"Deputy Director, Interim Head of Strategy Programme Development Unit and Deputy Head of Progamme Management Unit",Corporate Performance Group,0,N/A,,Programme and Project Management (PPM)
+178,77,Mar-13,Senior,N/D,SCS1,Head of Architecture and Assurance,Corporate Performance Group,752319,N/A,,Information Technology
+180,77,Mar-13,Senior,N/D,SCS1,MOJ ICT Head of Delivery (NOMS Portfolio),Corporate Performance Group,0,N/A,,Programme and Project Management (PPM)
+181,77,Mar-13,Senior,N/D,SCS1,"Deputy Director, Head of Delivery Management (HQ)",Corporate Performance Group,0,N/A,,Information Technology
+182,77,Mar-13,Senior,N/D,SCS1,Head of Service Delivery,Corporate Performance Group,0,N/A,,Information Technology
+183,77,Mar-13,Senior,N/D,SCS1,EUC Tower & Programme Transition Lead,Corporate Performance Group,0,N/A,,Information Technology
+188,2,Mar-13,Senior,Sarah Albon,SCS2,"Director, HMCTS Strategy and Change",Her Majesty's Courts and Tribunals Service (HMCTS),4022224,80000,84999,Programme and Project Management (PPM)
+215,125,Mar-13,Senior,N/D,SCS1,"Deputy Director, Civil & Family Justice",Justice Policy Group,805009,N/A,,Policy
+217,83,Mar-13,Senior,N/D,SCS1,Head of Procurement (ICT),Corporate Performance Group,2096163,N/A,,Procurement
+220,174,Mar-13,Senior,N/D,SCS1,Deputy Director - Judicial Policy,Justice Policy Group,399430,N/A,,Policy
+301,4,Mar-13,Senior,N/D,SCS1,"Deputy Director, Civil & Family",Her Majesty's Courts and Tribunals Service (HMCTS),16848412,N/A,,Operational Delivery
+302,2,Mar-13,Senior,Sheila Proudlock,SCS2,"Delivery Director, HMCTS London",Her Majesty's Courts and Tribunals Service (HMCTS),92588724,115000,119999,Operational Delivery
+303,2,Mar-13,Senior,N/D,SCS1,Midlands Region Delivery Director,Her Majesty's Courts and Tribunals Service (HMCTS),53363509,N/A,,Operational Delivery
+304,303,Mar-13,Senior,N/D,SCS1,Head of Crime for Midlands,Her Majesty's Courts and Tribunals Service (HMCTS),0,N/A,,Operational Delivery
+306,2,Mar-13,Senior,N/D,SCS1,"Delivery Director, HMCTS North West",Her Majesty's Courts and Tribunals Service (HMCTS),47844582,N/A,,Operational Delivery
+307,306,Mar-13,Senior,N/D,SCS1,Head of Crime for HMCTS North West,Her Majesty's Courts and Tribunals Service (HMCTS),0,N/A,,Operational Delivery
+308,2,Mar-13,Senior,N/D,SCS1,"Delivery director, Scotland",Her Majesty's Courts and Tribunals Service (HMCTS),0,N/A,,Operational Delivery
+309,2,Mar-13,Senior,N/D,SCS1,"Delivery Director, HMCTS South East",Her Majesty's Courts and Tribunals Service (HMCTS),48579778,N/A,,Operational Delivery
+310,309,Mar-13,Senior,N/D,SCS1,Head of Crime for HMCTS South East,Her Majesty's Courts and Tribunals Service (HMCTS),0,N/A,,Operational Delivery
+311,2,Mar-13,Senior,Sandra Aston,SCS1A,"Delivery Director, South West Region",Her Majesty's Courts and Tribunals Service (HMCTS),29821266,N/A,,Operational Delivery
+312,311,Mar-13,Senior,N/D,SCS1,"Head of Crime, HMCTS South West",Her Majesty's Courts and Tribunals Service (HMCTS),0,N/A,,Operational Delivery
+313,314,Mar-13,Senior,N/D,SCS1,"Head of Crime, HMCTS Wales",Her Majesty's Courts and Tribunals Service (HMCTS),21150530,N/A,,Operational Delivery
+314,2,Mar-13,Senior,N/D,SCS1,"Delivery Director Wales, HMCTS",Her Majesty's Courts and Tribunals Service (HMCTS),0,N/A,,Operational Delivery
+315,2,Mar-13,Senior,N/D,SCS1,Delivery Director HMCTS North East,Her Majesty's Courts and Tribunals Service (HMCTS),51266795,N/A,,Operational Delivery
+316,315,Mar-13,Senior,N/D,SCS1,"Head of Crime, HMCTS North East",Her Majesty's Courts and Tribunals Service (HMCTS),34900052,N/A,,Operational Delivery
+317,4,Mar-13,Senior,N/D,SCS1,"Deputy Director, HMCTS Tribunals",Her Majesty's Courts and Tribunals Service (HMCTS),1136754,N/A,,Operational Delivery
+318,13,Mar-13,Senior,N/D,SCS1,Deputy Director HMCTS Crime (Magistrates),Her Majesty's Courts and Tribunals Service (HMCTS),1672365,N/A,,Operational Delivery
+319,13,Mar-13,Senior,N/D,SCS1,Deputy Director HMCTS Crime (Crown),Her Majesty's Courts and Tribunals Service (HMCTS),816986,N/A,,Operational Delivery
+320,302,Mar-13,Senior,Martin John,SCS1A,"Head of Civil, Family and Tribunals, HMCTS London",Her Majesty's Courts and Tribunals Service (HMCTS),0,N/A,,Operational Delivery
+321,188,Mar-13,Senior,N/D,SCS1,"Deputy Director, Programme Director",Her Majesty's Courts and Tribunals Service (HMCTS),367691,N/A,,Programme and Project Management (PPM)
+322,49,Mar-13,Senior,N/D,SCS1,Head of Information Operations,Corporate Performance Group,3420907,N/A,,Knowledge and Information Management (KIM)
+323,325,Mar-13,Senior,N/D,SCS1,"Deputy Director, HR Strategy, Performance and Transformation",Corporate Performance Group,0,N/A,,Human Resources
+324,325,Mar-13,Senior,N/D,SCS1,"Deputy Director, Reward, Employee Relations and Policy",Corporate Performance Group,412901,N/A,,Human Resources
+325,50,Mar-13,Senior,Debbie Alder,SCS2,Group HR Director,Corporate Performance Group,0,90000,94999,Human Resources
+326,50,Mar-13,Senior,Darren Tierney,SCS2,Director - Transforming Justice,Corporate Performance Group,0,80000,84999,Operational Delivery
+327,50,Mar-13,Senior,Mark Read,SCS2,Interim Estate Director,Corporate Performance Group,0,85000,89999,Operational Delivery
+329,174,Mar-13,Senior,N/D,SCS1,"Deputy Director, Criminal Justice Strategy, Justice Reform Directorate",Justice Policy Group,666301,N/A,,Policy
+330,77,Mar-13,Senior,Peter Scott,SCS2,Chief Technology Officer,Corporate Performance Group,2243023,100000,104999,Information Technology
+332,174,Mar-13,Senior,N/D,SCS1,Deputy Director,Justice Policy Group,190000,N/A,,Policy
+333,78,Mar-13,Senior,N/D,SCS1,"Interim Director, Programme & Projects Delivery",Corporate Performance Group,0,N/A,,Information Technology
+334,174,Mar-13,Senior,N/D,SCS1,Deputy Director,Justice Policy Group,767218,N/A,,Policy
+335,174,Mar-13,Senior,N/D,SCS1,"Deputy Director, Information Rights and Devolution",Justice Policy Group,508850,N/A,,Policy
+349,125,Mar-13,Senior,N/D,SCS1,Deputy Director-Youth Justice Policy Unit,Justice Policy Group,770246,N/A,,Policy
+338,68,Mar-13,Senior,N/D,SCS1,"Deputy Director, Access to Justice Analytical Services",Corporate Performance Group,0,N/A,,Economics
+341,68,Mar-13,Senior,N/D,SCS1,Departmental Trade Union Side,Corporate Performance Group,0,N/A,,Operational Delivery
+343,4,Mar-13,Senior,N/D,SCS1,Deputy Director - National Back Office,Her Majesty's Courts and Tribunals Service (HMCTS),0,N/A,,Operational Delivery
+,329,Mar-13,Junior,,Band A,Policy Manager,"Criminal Justice Strategy, Justice Reform Directorate",0,42034,67969,Policy
+,329,Mar-13,Junior,,Band B,Senior Policy Adviser,"Criminal Justice Strategy, Justice Reform Directorate",0,29634,44964,Policy
+,329,Mar-13,Junior,,Band C,Policy Adviser,"Criminal Justice Strategy, Justice Reform Directorate",0,21096,36061,Policy
+,329,Mar-13,Junior,,Band C,Fastreamer,"Criminal Justice Strategy, Justice Reform Directorate",0,21096,36061,Policy
+,329,Mar-13,Junior,,Band D,Policy Officer,"Criminal Justice Strategy, Justice Reform Directorate",0,17513,28000,Policy
+,333,Mar-13,Junior,,Band A,Demand and Programme Office,Programme & Projects Delivery - ICT,0,42034,67969,Programme and Project Management (PPM)
+,333,Mar-13,Junior,,Band B,Demand and Programme Office,Programme & Projects Delivery - ICT,0,29634,44964,Programme and Project Management (PPM)
+,333,Mar-13,Junior,,Band C,Demand and Programme Office,Programme & Projects Delivery - ICT,0,21096,36061,Programme and Project Management (PPM)
+,333,Mar-13,Junior,,Band D,Demand and Programme Office,Programme & Projects Delivery - ICT,0,17513,28000,Programme and Project Management (PPM)
+,333,Mar-13,Junior,,Band A,Programme Manager,Programme & Projects Delivery - ICT,0,42034,67969,Information Technology
+,333,Mar-13,Junior,,Band A,Senior Project Manager,Programme & Projects Delivery - ICT,0,42034,67969,Information Technology
+,333,Mar-13,Junior,,Band B,Project Manager,Programme & Projects Delivery - ICT,0,29634,44964,Information Technology
+,333,Mar-13,Junior,,Band C,Project Support Officer,Programme & Projects Delivery - ICT,0,21096,36061,Information Technology
+,333,Mar-13,Junior,,Band D,Project Support Officer,Programme & Projects Delivery - ICT,0,17513,28000,Information Technology
+,333,Mar-13,Junior,,Band D,Project Team Member,Programme & Projects Delivery - ICT,0,17513,28000,Information Technology
+,333,Mar-13,Junior,,Band D,Business Solutions Support,Programme & Projects Delivery - ICT,0,17513,28000,Information Technology
+,333,Mar-13,Junior,,Band A,Head of Solutions Development,Programme & Projects Delivery - ICT,0,42034,67969,Information Technology
+,333,Mar-13,Junior,,Band B,Senior Analyst,Programme & Projects Delivery - ICT,0,29634,44964,Information Technology
+,333,Mar-13,Junior,,Band B,Analyst,Programme & Projects Delivery - ICT,0,29634,44964,Information Technology
+,333,Mar-13,Junior,,Band D,Analyst,Programme & Projects Delivery - ICT,0,17513,28000,Information Technology
+,333,Mar-13,Junior,,Band C,Executive Assistant,Programme & Projects Delivery - ICT,0,21096,36061,Information Technology
+,347,Mar-13,Junior,,Band B,Analyst,Rehabilitation Programme,0,29634,44964,Information Technology
+,4,Mar-13,Junior,,Band A,Senior IT Manager,ICT Demand,0,42034,67969,Information Technology
+,4,Mar-13,Junior,,Band A,IT Manager,ICT Demand,0,42034,67969,Information Technology
+,4,Mar-13,Junior,,Band B,Business Support,ICT Demand,0,29634,44964,Information Technology
+,4,Mar-13,Junior,,Band D,Executive Assistant,ICT Demand,0,17513,28000,Information Technology
+,69,Mar-13,Junior,,Band A,Head of Planning and Operations,Information Technology,0,42034,67969,Information Technology
+,347,Mar-13,Junior,,Band A,Senior Policy Adviser,Rehabilitation Programme,0,42034,67969,Policy
+,347,Mar-13,Junior,,Band C,Policy Adviser,Rehabilitation Programme,0,21096,36061,Policy
+,108,Mar-13,Junior,,Band A,Senior Policy Adviser,Criminal Law and Legal Policy,0,42034,67969,Policy
+,108,Mar-13,Junior,,Band B,Senior Policy Adviser,Criminal Law and Legal Policy,0,29634,44964,Policy
+,108,Mar-13,Junior,,Fast Streamer,Policy Adviser,Criminal Law and Legal Policy,0,27000,43400,Policy
+,108,Mar-13,Junior,,Band C,Policy Adviser,Criminal Law and Legal Policy,0,21096,36061,Policy
+,108,Mar-13,Junior,,Band D,Assistant Policy Advisor,Criminal Law and Legal Policy,0,17513,28000,Policy
+,108,Mar-13,Junior,,Band E,Policy Support Officer,Criminal Law and Legal Policy,0,15935,22250,Policy
+,114,Mar-13,Junior,,Band A,"Head of Culture Change, Capability and Group Coordination",Justice Policy Group,0,42034,67969,Policy
+,114,Mar-13,Junior,,Band A,Policy Planning and Strategy Head,Justice Policy Group,0,42034,67969,Policy
+,114,Mar-13,Junior,,Band A,Business Manager,Justice Policy Group,0,42034,67969,Policy
+,114,Mar-13,Junior,,Band C,JPG Resources Lead,Justice Policy Group,0,21096,36061,Policy
+,114,Mar-13,Junior,,Band C,Correspondence Manager,Justice Policy Group,0,21096,36061,Policy
+,114,Mar-13,Junior,,Band C,Insight and Engagement Lead,Justice Policy Group,0,21096,36061,Policy
+,114,Mar-13,Junior,,Band C,Policy Manager,Justice Policy Group,0,21096,36061,Policy
+,114,Mar-13,Junior,,Band C,JPG Capability Lead,Justice Policy Group,0,21096,36061,Policy
+,114,Mar-13,Junior,,Band D,Group Coordination Officer,Justice Policy Group,0,17513,28000,Policy
+,114,Mar-13,Junior,,Band D,Correspondence Officer,Justice Policy Group,0,17513,28000,Policy
+,114,Mar-13,Junior,,Band E,Policy support,Justice Policy Group,0,15935,22250,Policy
+,114,Mar-13,Junior,,Band E,PA to Deputy Director,Justice Policy Group,0,15935,22250,Policy
+,114,Mar-13,Junior,,Band E,Correspondence Officer,Justice Policy Group,0,15935,22250,Policy
+,332,Mar-13,Junior,,Band A,Policy Manager,Justice Policy Group,0,42034,67969,Policy
+,332,Mar-13,Junior,,Band B,Senior Policy Adviser,Justice Policy Group,0,29634,44964,Policy
+,332,Mar-13,Junior,,Band C,Policy Adviser,Justice Policy Group,0,21096,36061,Policy
+,332,Mar-13,Junior,,Band C,Fastreamer,Justice Policy Group,0,21096,36061,Policy
+,332,Mar-13,Junior,,Band D,Policy Officer,Justice Policy Group,0,17513,28000,Policy
+,332,Mar-13,Junior,,Band E,Policy Assistant,Justice Policy Group,0,15935,22250,Policy
+,77,Mar-13,Junior,,Band A,Lead CSM Prisons,ICT Service Management,0,42034,67969,Information Technology
+,77,Mar-13,Junior,,Band A,Lead CSM HMCTS,ICT Service Management,0,42034,67969,Information Technology
+,77,Mar-13,Junior,,Band A,Lead CSM Probation,ICT Service Management,0,42034,67969,Information Technology
+,77,Mar-13,Junior,,Band A,Lead CSM HQ,ICT Service Management,0,42034,67969,Information Technology
+,175,Mar-13,Junior,,Band A,IT Business Manager,Information Technology,0,42034,67969,Information Technology
+,175,Mar-13,Junior,,Band B,IT Business Manager,Information Technology,0,29634,44964,Information Technology
+,175,Mar-13,Junior,,Band C,IT Business Manager,Information Technology,0,21096,36061,Information Technology
+,182,Mar-13,Junior,,Band A,IT Service Manager,IT Service Delivery,0,42034,67969,Information Technology
+,182,Mar-13,Junior,,Band B,IT Service Manager,IT Service Delivery,0,29634,44964,Information Technology
+,182,Mar-13,Junior,,Band C,IT Service Manager,IT Service Delivery,0,21096,36061,Information Technology
+,182,Mar-13,Junior,,Band D,IT Service Manager,IT Service Delivery,0,17513,28000,Information Technology
+,323,Mar-13,Junior,,Band A,Head of Business Delivery,"HR Strategy, Performance and Transformation",0,42034,67969,Human Resources
+,323,Mar-13,Junior,,Band A,Head of HR Strategy,"HR Strategy, Performance and Transformation",0,42034,67969,Human Resources
+,323,Mar-13,Junior,,Band B,Deputy Head of Business Delivery,"HR Strategy, Performance and Transformation",0,29634,44964,Human Resources
+,323,Mar-13,Junior,,Band C,Briefing and Correspondence Manager,"HR Strategy, Performance and Transformation",0,21096,36061,Human Resources
+,323,Mar-13,Junior,,Band C,Business Delivery Support Officer,"HR Strategy, Performance and Transformation",0,21096,36061,Human Resources
+,323,Mar-13,Junior,,Band C,HR Support Team Manager,"HR Strategy, Performance and Transformation",0,21096,36061,Human Resources
+,323,Mar-13,Junior,,Band C,Honours Secretary,"HR Strategy, Performance and Transformation",0,21096,36061,Human Resources
+,323,Mar-13,Junior,,Band D,HR Support Team administrator,"HR Strategy, Performance and Transformation",0,17513,28000,Human Resources
+,323,Mar-13,Junior,,Band E,HR Support Team administrator,"HR Strategy, Performance and Transformation",0,15935,22250,Human Resources
+,325,Mar-13,Junior,,Band A,Head of Employee Engagement,Human Resources,0,42034,67969,Human Resources
+,325,Mar-13,Junior,,Band A,Head of Corporate Learning,Human Resources,0,42034,67969,Human Resources
+,325,Mar-13,Junior,,Band A,Head of Corporate Equality,Human Resources,0,42034,67969,Human Resources
+,325,Mar-13,Junior,,Band A,Head of Talent Management,Human Resources,0,42034,67969,Human Resources
+,325,Mar-13,Junior,,Band C,Business Manager,Human Resources,0,21096,36061,Human Resources
+,332,Mar-13,Junior,,Band A,Policy lead,CJS Operating Project,0,42034,67969,Policy
+,332,Mar-13,Junior,,Band B,Policy manager,CJS Operating Project,0,29634,44964,Policy
+,332,Mar-13,Junior,,Band B,Policy manager,CJS Operating Project,0,29634,44964,Policy
+,332,Mar-13,Junior,,Fast streamer,Policy Manager,CJS Operating Project,0,27000,43400,Policy
+,332,Mar-13,Junior,,Band D,Senior Personal Secretary,CJS Operating Project,0,17513,28000,Policy
+,332,Mar-13,Junior,,Band E,Administration officer,CJS Operating Project,0,15935,22250,Policy
+,59,Mar-13,Junior,,Band A,Chief Press Officers,Press Office,0,42034,67969,Communications
+,59,Mar-13,Junior,,Band B,Senior Press officers,Press Office,0,29634,44964,Communications
+,59,Mar-13,Junior,,Band C,Press Officer,Press Office,0,21096,36061,Communications
+,19,Mar-13,Junior,,Band A,Senior Policy Manager,"Financial Policy, Planning, Governance and Capability",0,42034,67969,Policy
+,19,Mar-13,Junior,,Band A,Senior Finance Manager,"Financial Policy, Planning, Governance and Capability",0,42034,67969,Finance
+,19,Mar-13,Junior,,Band A,Programme Manager,"Financial Policy, Planning, Governance and Capability",0,42034,67969,Programme and Project Management (PPM)
+,19,Mar-13,Junior,,Band B,Finance Analyst,"Financial Policy, Planning, Governance and Capability",0,29634,44964,Finance
+,19,Mar-13,Junior,,Band B,Policy Manager,"Financial Policy, Planning, Governance and Capability",0,29634,44964,Policy
+,19,Mar-13,Junior,,Band C,Business Manager,"Financial Policy, Planning, Governance and Capability",0,21096,36061,Operational delivery
+,19,Mar-13,Junior,,Band C,Finance Trainee,"Financial Policy, Planning, Governance and Capability",0,21096,36061,Finance
+,19,Mar-13,Junior,,Fast streamer,Finance Trainee,"Financial Policy, Planning, Governance and Capability",0,27000,43400,Policy
+,19,Mar-13,Junior,,Band D,Business support,"Financial Policy, Planning, Governance and Capability",0,17513,28000,Operational delivery
+,19,Mar-13,Junior,,Band E,Business support,"Financial Policy, Planning, Governance and Capability",0,15935,22250,Operational delivery
+,20,Mar-13,Junior,,Band A,Programme and Project Support,Portfolio Planning and Reporting,0,42034,67969,Programme and Project Management (PPM)
+,20,Mar-13,Junior,,Band B,Programme and Project Support,Portfolio Planning and Reporting,0,29634,44964,Programme and Project Management (PPM)
+,20,Mar-13,Junior,,Band C,Programme and Project Support,Portfolio Planning and Reporting,0,21096,36061,Programme and Project Management (PPM)
+,20,Mar-13,Junior,,Band D,Programme and Project Support,Portfolio Planning and Reporting,0,17513,28000,Programme and Project Management (PPM)
+,338,Mar-13,Junior,,Band A,Economist,Analytical Services,0,42034,67969,Economics
+,338,Mar-13,Junior,,Band A,Economist,Analytical Services,0,42034,67969,Economics
+,338,Mar-13,Junior,,Band C,Economist,Analytical Services,0,21096,36061,Economics
+,338,Mar-13,Junior,,Fast Streamer,Economist,Analytical Services,0,27000,43400,Economics
+,338,Mar-13,Junior,,Band A,Social Researcher,Analytical Services,0,42034,67969,Social Research
+,338,Mar-13,Junior,,Band A,Social Researcher,Analytical Services,0,42034,67969,Social Research
+,338,Mar-13,Junior,,Band B,Social Researcher,Analytical Services,0,29634,44964,Social Research
+,338,Mar-13,Junior,,Band C,Social Researcher,Analytical Services,0,21096,36061,Social Research
+,338,Mar-13,Junior,,Band C,Generalist,Analytical Services,0,21096,36061,Programme and Project Management (PPM)
+,91,Mar-13,Junior,,Band A,Economist,Analytical Services,0,42034,67969,Economics
+,91,Mar-13,Junior,,Band A,Economist,Analytical Services,0,42034,67969,Economics
+,91,Mar-13,Junior,,Band A,Economist,Analytical Services,0,42034,67969,Economics
+,91,Mar-13,Junior,,Fast Streamer,Economist,Analytical Services,0,27000,43400,Economics
+,91,Mar-13,Junior,,Band A,Statistician,Analytical Services,0,42034,67969,Statisticians
+,91,Mar-13,Junior,,Band A,Social Researcher,Analytical Services,0,42034,67969,Social Research
+,91,Mar-13,Junior,,Band B,Statistician,Analytical Services,0,29634,44964,Statisticians
+,91,Mar-13,Junior,,Band A,Social Researcher,Analytical Services,0,42034,67969,Social Research
+,91,Mar-13,Junior,,Band B,Social Researcher,Analytical Services,0,29634,44964,Social Research
+,91,Mar-13,Junior,,Band C,Social Researcher,Analytical Services,0,21096,36061,Social Research
+,91,Mar-13,Junior,,Band A,Operational Researcher,Analytical Services,0,42034,67969,Operational Research
+,91,Mar-13,Junior,,Fast streamer,Social Researcher,Analytical Services,0,27000,43400,Social Research
+,91,Mar-13,Junior,,Band C,Operational Researcher,Analytical Services,0,21096,36061,Operational Research
+,91,Mar-13,Junior,,Fast streamer,Operational Researcher,Analytical Services,0,27000,43400,Operational Research
+,91,Mar-13,Junior,,Band B,Social Researcher,Analytical Services,0,29634,44964,Social Research
+,91,Mar-13,Junior,,Band B,Statistician,Analytical Services,0,29634,44964,Statisticians
+,91,Mar-13,Junior,,Band B,Economist,Analytical Services,0,29634,44964,Economics
+,24,Mar-13,Junior,,Band A,Economist,Analytical Services,0,42034,67969,Economics
+,24,Mar-13,Junior,,Band A,Economist,Analytical Services,0,42034,67969,Economics
+,24,Mar-13,Junior,,Band D,Economist,Analytical Services,0,17513,28000,Economics
+,24,Mar-13,Junior,,Fast streamer,Economist,Analytical Services,0,27000,43400,Statisticians
+,24,Mar-13,Junior,,Band A,Statistician,Analytical Services,0,42034,67969,Social Research
+,24,Mar-13,Junior,,Band A,Social Researcher,Analytical Services,0,42034,67969,Social Research
+,24,Mar-13,Junior,,Band A,Social Researcher,Analytical Services,0,42034,67969,Social Research
+,24,Mar-13,Junior,,Band B,Social Researcher,Analytical Services,0,29634,44964,Social Research
+,24,Mar-13,Junior,,Band C,Social Researcher,Analytical Services,0,21096,36061,Social Research
+,24,Mar-13,Junior,,Fast streamer,Social Researcher,Analytical Services,0,27000,43400,Operational Research
+,24,Mar-13,Junior,,Band A,Operational Researcher,Analytical Services,0,42034,67969,Operational Research
+,24,Mar-13,Junior,,Band A,Operational Researcher,Analytical Services,0,42034,67969,Operational Research
+,24,Mar-13,Junior,,Band B,Operational Researcher,Analytical Services,0,29634,44964,Operational Research
+,24,Mar-13,Junior,,Band C,Operational Researcher,Analytical Services,0,21096,36061,Operational Research
+,24,Mar-13,Junior,,Band D,Operational Researcher,Analytical Services,0,17513,28000,Operational Research
+,24,Mar-13,Junior,,Fast streamer,Operational Researcher,Analytical Services,0,27000,43400,Operational Research
+,24,Mar-13,Junior,,Band A,Generalist,Analytical Services,0,42034,67969,Programme and Project Management (PPM)
+,24,Mar-13,Junior,,Band B,Generalist,Analytical Services,0,29634,44964,Programme and Project Management (PPM)
+,24,Mar-13,Junior,,Band C,Generalist,Analytical Services,0,21096,36061,Programme and Project Management (PPM)
+,24,Mar-13,Junior,,Band A,Economist,Analytical Services,0,42034,67969,Economics
+,24,Mar-13,Junior,,Band D,Economist,Analytical Services,0,17513,28000,Economics
+,24,Mar-13,Junior,,Fast Streamer,Economist,Analytical Services,0,27000,43400,Economics
+,24,Mar-13,Junior,,Band B,Operational Researcher,Analytical Services,0,29634,44964,Operational Research
+,24,Mar-13,Junior,,Fast Streamer,Operational Researcher,Analytical Services,0,27000,43400,Operational Research
+,24,Mar-13,Junior,,Band D,Generalist,Analytical Services,0,17513,28000,Other
+,26,Mar-13,Junior,,Band A,Economist,Analytical Services,0,42034,67969,Economics
+,26,Mar-13,Junior,,Band B,Economist,Analytical Services,0,29634,44964,Economics
+,26,Mar-13,Junior,,Fast Streamer,Economist,Analytical Services,0,27000,43400,Economics
+,26,Mar-13,Junior,,Band A,Statistician,Analytical Services,0,42034,67969,Statisticians
+,26,Mar-13,Junior,,Band A,Statistician,Analytical Services,0,42034,67969,Statisticians
+,26,Mar-13,Junior,,Band B,Statistician,Analytical Services,0,29634,44964,Statisticians
+,26,Mar-13,Junior,,Band C,Statistician,Analytical Services,0,21096,36061,Statisticians
+,26,Mar-13,Junior,,Band D,Statistician,Analytical Services,0,17513,28000,Statisticians
+,26,Mar-13,Junior,,Fast Streamer,Statistician,Analytical Services,0,27000,43400,Statisticians
+,26,Mar-13,Junior,,Band A,Social Researcher,Analytical Services,0,42034,67969,Social Research
+,26,Mar-13,Junior,,Band A,Social Researcher,Analytical Services,0,42034,67969,Statisticians
+,26,Mar-13,Junior,,Band A,Generalist,Analytical Services,0,42034,67969,Statisticians
+,26,Mar-13,Junior,,Band B,Generalist,Analytical Services,0,29634,44964,Statisticians
+,26,Mar-13,Junior,,Band C,Generalist,Analytical Services,0,21096,36061,Statisticians
+,26,Mar-13,Junior,,Band D,Generalist,Analytical Services,0,17513,28000,Statisticians
+,26,Mar-13,Junior,,Band A,Statistician,Analytical Services,0,42034,67969,Statisticians
+,26,Mar-13,Junior,,Band B,Statistician,Analytical Services,0,29634,44964,Statisticians
+,26,Mar-13,Junior,,Band C,Statistician,Analytical Services,0,21096,36061,Statisticians
+,26,Mar-13,Junior,,Band D,Statistician,Analytical Services,0,17513,28000,Statisticians
+,91,Mar-13,Junior,,Band A,Social Researcher,Analytical Services,0,42034,67969,Social Research
+,91,Mar-13,Junior,,Band A,Social Researcher,Analytical Services,0,42034,67969,Social Research
+,91,Mar-13,Junior,,Band B,Social Researcher,Analytical Services,0,29634,44964,Social Research
+,91,Mar-13,Junior,,Band A,Operational Researcher,Analytical Services,0,42034,67969,Operational Research
+,91,Mar-13,Junior,,Band A,Operational Researcher,Analytical Services,0,42034,67969,Operational Research
+,91,Mar-13,Junior,,Band B,Operational Researcher,Analytical Services,0,29634,44964,Operational Research
+,91,Mar-13,Junior,,Band C,Operational Researcher,Analytical Services,0,21096,36061,Operational Research
+,91,Mar-13,Junior,,Band D,Operational Researcher,Analytical Services,0,17513,28000,Operational Research
+,91,Mar-13,Junior,,Band A,Business support,Analytical Services,0,42034,67969,Programme and Project Management (PPM)
+,91,Mar-13,Junior,,Band B,Business support,Analytical Services,0,29634,44964,Programme and Project Management (PPM)
+,91,Mar-13,Junior,,Band C,Business support,Analytical Services,0,21096,36061,Programme and Project Management (PPM)
+,91,Mar-13,Junior,,Band D,Business support,Analytical Services,0,17513,28000,Programme and Project Management (PPM)
+,91,Mar-13,Junior,,Band D,Business support,Analytical Services,0,17513,28000,Programme and Project Management (PPM)
+,91,Mar-13,Junior,,Band D,Operational Researcher,Analytical Services,0,17513,28000,Operational Research
+,28,Mar-13,Junior,,Band A,Governance,Planning,0,42034,67969,Planning
+,28,Mar-13,Junior,,Band B,Governance,Planning,0,29634,44964,Planning
+,28,Mar-13,Junior,,Band C,Governance,Planning,0,21096,36061,Planning
+,28,Mar-13,Junior,,Band A,performance,Planning,0,42034,67969,Planning
+,28,Mar-13,Junior,,Band B,performance,Planning,0,29634,44964,Planning
+,28,Mar-13,Junior,,Band A,TJ Portfolio,Planning,0,42034,67969,Planning
+,28,Mar-13,Junior,,Band B,TJ Portfolio,Planning,0,29634,44964,Planning
+,28,Mar-13,Junior,,Band C,TJ Portfolio,Planning,0,21096,36061,Planning
+,28,Mar-13,Junior,,Band A,Strategy,Planning,0,42034,67969,Planning
+,28,Mar-13,Junior,,Band B,Strategy,Planning,0,29634,44964,Planning
+,28,Mar-13,Junior,,Fast Streamer,Strategy,Planning,0,27000,43400,Planning
+,28,Mar-13,Junior,,Band C,Strategy,Planning,0,21096,36061,Planning
+,28,Mar-13,Junior,,Band D,Directorate Team Support,Planning,0,17513,28000,Planning
+,28,Mar-13,Junior,,Band E,Directorate Team Support,Planning,0,15935,22250,Planning
+,28,Mar-13,Junior,,Band A,TJ DG Office,Planning,0,42034,67969,Planning
+,28,Mar-13,Junior,,band C,TJ DG Office,Planning,0,21096,36061,Planning
+,28,Mar-13,Junior,,Band D,TJ DG Office,Planning,0,17513,28000,Planning
+,47,Mar-13,Junior,,Band A,Head of Team,ALB Governance Divison,0,42034,67969,Policy
+,47,Mar-13,Junior,,Band B,Senior Policy and Delivery Officer,ALB Governance Divison,0,29634,44964,Policy
+,47,Mar-13,Junior,,Band C,Policy and Delivery Officer,ALB Governance Divison,0,21096,36061,Policy
+,47,Mar-13,Junior,,Band D,Support Officer,ALB Governance Divison,0,17513,28000,Policy
+,47,Mar-13,Junior,,Fast Streamer,Policy Officer,ALB Governance Divison,0,27000,43400,Policy
+,345,Mar-13,Junior,,Band D,Executive Assistant,Digital Transformation,0,17513,28000,Operational delivery
+,345,Mar-13,Junior,,Band A,Digital Strategy and Policy Lead,Digital Transformation,0,42034,67969,Operational delivery
+,345,Mar-13,Junior,,Band A,Digital Strategy and Policy,Digital Transformation,0,42034,67969,Operational delivery
+,345,Mar-13,Junior,,Fast Streamer,Digital Strategy and Policy Advisor,Digital Transformation,0,27000,43400,Operational delivery
+,345,Mar-13,Junior,,Fast Streamer,Digital Strategy and Policy Advisor,Digital Transformation,0,27000,43400,Operational delivery
+,345,Mar-13,Junior,,Band A,Design Lead,Digital Transformation,0,42034,67969,Operational delivery
+,345,Mar-13,Junior,,Band A,Interaction Designer,Digital Transformation,0,42034,67969,Operational delivery
+,345,Mar-13,Junior,,Band B,Interaction Designer,Digital Transformation,0,29634,44964,Operational delivery
+,345,Mar-13,Junior,,Band B,Visual Designer,Digital Transformation,0,29634,44964,Operational delivery
+,345,Mar-13,Junior,,Band A,Content Design Lead,Digital Transformation,0,42034,67969,Operational delivery
+,345,Mar-13,Junior,,Band B,Content Designer,Digital Transformation,0,29634,44964,Operational delivery
+,345,Mar-13,Junior,,Band B,Content Designer,Digital Transformation,0,29634,44964,Operational delivery
+,345,Mar-13,Junior,,Band A,Product Manager,Digital Transformation,0,42034,67969,Operational delivery
+,345,Mar-13,Junior,,Band A,Product Manager,Digital Transformation,0,42034,67969,Operational delivery
+,345,Mar-13,Junior,,Band A,Product Manager,Digital Transformation,0,42034,67969,Operational delivery
+,345,Mar-13,Junior,,Band B,Product Analytics,Digital Transformation,0,29634,44964,Operational delivery
+,345,Mar-13,Junior,,Band A,Digital Portfolio Lead,Digital Transformation,0,42034,67969,Operational delivery
+,345,Mar-13,Junior,,Band B,P30 Manager,Digital Transformation,0,29634,44964,Operational delivery
+,345,Mar-13,Junior,,Band B,P30 Manager,Digital Transformation,0,29634,44964,Operational delivery
+,345,Mar-13,Junior,,Band A,Delivery Manager,Digital Transformation,0,42034,67969,Operational delivery
+,345,Mar-13,Junior,,Band A,Delivery Manager,Digital Transformation,0,42034,67969,Operational delivery
+,345,Mar-13,Junior,,Band A,Developer Lead,Digital Transformation,0,42034,67969,Operational delivery
+,345,Mar-13,Junior,,Band A,Tech Architect,Digital Transformation,0,42034,67969,Operational delivery
+,345,Mar-13,Junior,,Band A,Developer,Digital Transformation,0,42034,67969,Operational delivery
+,345,Mar-13,Junior,,Band B,Developer,Digital Transformation,0,29634,44964,Operational delivery
+,345,Mar-13,Junior,,Band C,Developer,Digital Transformation,0,21096,36061,Operational delivery
+,345,Mar-13,Junior,,Band C,Developer,Digital Transformation,0,21096,36061,Operational delivery
+,345,Mar-13,Junior,,Band A,Developer,Digital Transformation,0,42034,67969,Operational delivery
+,345,Mar-13,Junior,,Band A,Developer web ops,Digital Transformation,0,42034,67969,Operational delivery
+,345,Mar-13,Junior,,Band A,Developer,Digital Transformation,0,42034,67969,Operational delivery
+,345,Mar-13,Junior,,Band A,Developer,Digital Transformation,0,42034,67969,Operational delivery
+,345,Mar-13,Junior,,Band B,Developer,Digital Transformation,0,29634,44964,Operational delivery
+,344,Mar-13,Junior,,Band A,Programme Manager,Judicial Reward and Pensions Reform,0,42034,67969,Programme and Project Management (PPM)
+,344,Mar-13,Junior,,Band A,Judicial Pension Scheme Administrator,Judicial Reward and Pensions Reform,0,42034,67969,Policy
+,344,Mar-13,Junior,,Band B,Judicial Pension and Pay Manager,Judicial Reward and Pensions Reform,0,29634,44964,Finance
+,344,Mar-13,Junior,,Band B,Judicial Pay Lead,Judicial Reward and Pensions Reform,0,29634,44964,Human Resources
+,344,Mar-13,Junior,,Band C,Judicial Pension and Pay Manager,Judicial Reward and Pensions Reform,0,21096,36061,Human Resources
+,344,Mar-13,Junior,,Band D,Judicial Pension Scheme Administrator,Judicial Reward and Pensions Reform,0,17513,28000,Human Resources
+,344,Mar-13,Junior,,Band D,Judicial Pension Scheme Finance Officer,Judicial Reward and Pensions Reform,0,17513,28000,Finance
+,344,Mar-13,Junior,,Band E,Judicial Pensions Scheme Finance Support,Judicial Reward and Pensions Reform,0,15935,22250,Human Resources
+,27,Mar-13,Junior,,Band B,Head of Business Compliance,Payroll Services,0,29634,44964,Finance
+,27,Mar-13,Junior,,Band B,Head of Payroll Operations,Payroll Services,0,29634,44964,Finance
+,27,Mar-13,Junior,,Band B,Operational Payroll,Payroll Services,0,29634,44964,Finance
+,27,Mar-13,Junior,,Band B,Programme Payroll Lead,Payroll Services,0,29634,44964,Finance
+,27,Mar-13,Junior,,Band B,Systems and Operational Support Lead,Payroll Services,0,29634,44964,Finance
+,27,Mar-13,Junior,,Band B,Transactional Team and Continuous Improvement Lead,Payroll Services,0,29634,44964,Finance
+,27,Mar-13,Junior,,Band B,IT Support and Data Integrity Lead,Payroll Services,0,29634,44964,Finance
+,27,Mar-13,Junior,,Band C,Systems and Operational Support Manager,Payroll Services,0,21096,36061,Finance
+,27,Mar-13,Junior,,Band C,Continuous Improvement,Payroll Services,0,21096,36061,Finance
+,27,Mar-13,Junior,,Band C,Data Integrity,Payroll Services,0,21096,36061,Finance
+,27,Mar-13,Junior,,Band C,Business Support and Finance Manager,Payroll Services,0,21096,36061,Finance
+,27,Mar-13,Junior,,Band C,Operational Payroll,Payroll Services,0,21096,36061,Finance
+,27,Mar-13,Junior,,Band C,Transactional Team,Payroll Services,0,21096,36061,Finance
+,27,Mar-13,Junior,,Band C,IT Support,Payroll Services,0,21096,36061,Finance
+,27,Mar-13,Junior,,Band C,Business Compliance,Payroll Services,0,21096,36061,Finance
+,27,Mar-13,Junior,,Band C,Customer Service and Change,Payroll Services,0,21096,36061,Finance
+,27,Mar-13,Junior,,Band D,Customer Service and Change,Payroll Services,0,17513,28000,Finance
+,27,Mar-13,Junior,,Band D,Business Compliance Team,Payroll Services,0,17513,28000,Finance
+,27,Mar-13,Junior,,Band D,Systems and Operational Support,Payroll Services,0,17513,28000,Finance
+,27,Mar-13,Junior,,Band D,IT Support,Payroll Services,0,17513,28000,Finance
+,27,Mar-13,Junior,,Band D,Business Support and Finance,Payroll Services,0,17513,28000,Finance
+,27,Mar-13,Junior,,Band D,Operational Payroll,Payroll Services,0,17513,28000,Finance
+,27,Mar-13,Junior,,Band D,Continuous Improvement and Overpayments,Payroll Services,0,17513,28000,Finance
+,27,Mar-13,Junior,,Band D,Transactional Team,Payroll Services,0,17513,28000,Finance
+,27,Mar-13,Junior,,Band D,Data Integrity,Payroll Services,0,17513,28000,Finance
+,27,Mar-13,Junior,,Band D,Reconciliation Team,Payroll Services,0,17513,28000,Finance
+,27,Mar-13,Junior,,Band E,IT Support,Payroll Services,0,15935,22250,Finance
+,27,Mar-13,Junior,,Band E,Data Integrity,Payroll Services,0,15935,22250,Finance
+,27,Mar-13,Junior,,Band E,Operational Payroll,Payroll Services,0,15935,22250,Finance
+,27,Mar-13,Junior,,Band E,Change and Customer Service Team,Payroll Services,0,15935,22250,Finance
+,27,Mar-13,Junior,,Band E,Business Support and Finance,Payroll Services,0,15935,22250,Finance
+,27,Mar-13,Junior,,Band E,Systems and Operational Support,Payroll Services,0,15935,22250,Finance
+,27,Mar-13,Junior,,Band E,Transactional Team,Payroll Services,0,15935,22250,Finance
+,27,Mar-13,Junior,,Band E,Reconciliation Team,Payroll Services,0,15935,22250,Finance
+,27,Mar-13,Junior,,Band E,Business Compliance Team,Payroll Services,0,15935,22250,Finance
+,27,Mar-13,Junior,,Band F,Transactional Team,Payroll Services,0,13894,18700,Finance
+,27,Mar-13,Junior,,Band F,Business Compliance Team,Payroll Services,0,13894,18700,Finance
+,27,Mar-13,Junior,,Band A,Head of SMO Operations,Project and Service Management Organisation,0,42034,67969,Finance
+,27,Mar-13,Junior,,Band A,Service Manager,Project and Service Management Organisation,0,42034,67969,Finance
+,27,Mar-13,Junior,,Band A,Program Coordinator,Project and Service Management Organisation,0,42034,67969,Programme and Project Management (PPM)
+,27,Mar-13,Junior,,Band A,Service Support Manager,Project and Service Management Organisation,0,42034,67969,Programme and Project Management (PPM)
+,27,Mar-13,Junior,,Band A,Project Lead - P2P,Project and Service Management Organisation,0,42034,67969,Programme and Project Management (PPM)
+,27,Mar-13,Junior,,Band A,Project Lead - General Ledger,Project and Service Management Organisation,0,42034,67969,Programme and Project Management (PPM)
+,27,Mar-13,Junior,,Band A,Project Lead – Financial Reporting.,Project and Service Management Organisation,0,42034,67969,Programme and Project Management (PPM)
+,27,Mar-13,Junior,,Band B,Cash Management Manager,Project and Service Management Organisation,0,29634,44964,Finance
+,27,Mar-13,Junior,,Band B,Change Control Manager,Project and Service Management Organisation,0,29634,44964,Programme and Project Management (PPM)
+,27,Mar-13,Junior,,Band B,Service Performance Manager,Project and Service Management Organisation,0,29634,44964,Finance
+,27,Mar-13,Junior,,Band C,Service Performance Manager,Project and Service Management Organisation,0,21096,36061,Finance
+,27,Mar-13,Junior,,Band C,Data Management Team Manager,Project and Service Management Organisation,0,21096,36061,Finance
+,27,Mar-13,Junior,,Band C,MoJ HQ Transaction Team Leader,Project and Service Management Organisation,0,21096,36061,Finance
+,27,Mar-13,Junior,,Band D,Finance Transaction Officer,Project and Service Management Organisation,0,17513,28000,Finance
+,27,Mar-13,Junior,,Band D,Data Management Team,Project and Service Management Organisation,0,17513,28000,Finance
+,27,Mar-13,Junior,,Band D,Personal Assistant,Project and Service Management Organisation,0,17513,28000,Finance
+,27,Mar-13,Junior,,Band A,Head of Finance,Phoenix Finance and Purchase to Pay Services,0,42034,67969,Finance
+,27,Mar-13,Junior,,Band B,Service Manager/Team Leader,Phoenix Finance and Purchase to Pay Services,0,29634,44964,Finance
+,27,Mar-13,Junior,,Band C,SME,Phoenix Finance and Purchase to Pay Services,0,21096,36061,Finance
+,27,Mar-13,Junior,,Band D,Customer Service Exec Officer,Phoenix Finance and Purchase to Pay Services,0,17513,28000,Finance
+,27,Mar-13,Junior,,Band E,Customer Service Admin Officer,Phoenix Finance and Purchase to Pay Services,0,15935,22250,Finance
+,27,Mar-13,Junior,,Band F,Customer Service Admin Officer,Phoenix Finance and Purchase to Pay Services,0,13894,18700,Finance
+,33,Mar-13,Junior,,Band A,Policy manager,Justice Reform Delivery and Services,0,42034,67969,Policy
+,33,Mar-13,Junior,,Band B,Policy officer,Justice Reform Delivery and Services,0,29634,44964,Policy
+,33,Mar-13,Junior,,Band C,Policy officer,Justice Reform Delivery and Services,0,21096,36061,Policy
+,33,Mar-13,Junior,,Band D,Policy officer,Justice Reform Delivery and Services,0,17513,28000,Policy
+,33,Mar-13,Junior,,Band E,Policy assistant,Justice Reform Delivery and Services,0,15935,22250,Policy
+,33,Mar-13,Junior,,Fast Streamer,Policy officer,Justice Reform Delivery and Services,0,27000,43400,Policy
+,119,Mar-13,Junior,,Band A,Head of Resourcing,Capacity Group,0,42034,67969,Human Resources
+,119,Mar-13,Junior,,Band B,Fast Stream Grade Manager,Capacity Group,0,29634,44964,Human Resources
+,119,Mar-13,Junior,,Band B,Resourcing Team member,Capacity Group,0,29634,44964,Human Resources
+,119,Mar-13,Junior,,Fast Streamer,Resourcing Team member,Capacity Group,0,27000,43400,Human Resources
+,119,Mar-13,Junior,,Band B,Career Coach/Adviser,Capacity Group,0,29634,44964,Human Resources
+,119,Mar-13,Junior,,Band C,Career Coach/Adviser,Capacity Group,0,21096,36061,Human Resources
+,119,Mar-13,Junior,,Band D,Career Coach/Adviser,Capacity Group,0,17513,28000,Human Resources
+,119,Mar-13,Junior,,Band B,Programme Manager,Capacity Group,0,29634,44964,Human Resources
+,119,Mar-13,Junior,,Fast Streamer,Project Manager,Capacity Group,0,27000,43400,Human Resources
+,119,Mar-13,Junior,,Fast Streamer,Project Manager,Capacity Group,0,27000,43400,Human Resources
+,119,Mar-13,Junior,,Band B,Project Team member,Capacity Group,0,29634,44964,Human Resources
+,119,Mar-13,Junior,,Band C,Project Team member,Capacity Group,0,21096,36061,Human Resources
+,119,Mar-13,Junior,,Band A,Head of Strategic Workforce Planning,Capacity Group,0,42034,67969,Human Resources
+,119,Mar-13,Junior,,Band B,Strategic Workforce Planning team member,Capacity Group,0,29634,44964,Human Resources
+,119,Mar-13,Junior,,Band C,Strategic Workforce Planning team member,Capacity Group,0,21096,36061,Human Resources
+,346,Mar-13,Junior,,Band A,HRBP,Human Resources,0,42034,67969,Human Resources
+,346,Mar-13,Junior,,Band B,HRBP,Human Resources,0,29634,44964,Human Resources
+,346,Mar-13,Junior,,Fast Streamer,HRBP,Human Resources,0,27000,43400,Human Resources
+,324,Mar-13,Junior,,Band A,Head of Reward,"Reward, Employee Relations and Policy",0,42034,67969,Human Resources
+,324,Mar-13,Junior,,Band B,Senior Reward Policy Adviser,"Reward, Employee Relations and Policy",0,29634,44964,Human Resources
+,324,Mar-13,Junior,,Band B,Senior Performance and Reward Adviser,"Reward, Employee Relations and Policy",0,29634,44964,Human Resources
+,324,Mar-13,Junior,,Band B,Staff Pension Adviser,"Reward, Employee Relations and Policy",0,29634,44964,Human Resources
+,324,Mar-13,Junior,,Fast Streamer,Reward Adviser,"Reward, Employee Relations and Policy",0,27000,43400,Human Resources
+,324,Mar-13,Junior,,Band C,Reward Adviser/Modeller,"Reward, Employee Relations and Policy",0,21096,36061,Human Resources
+,324,Mar-13,Junior,,Band C,Reward Adviser,"Reward, Employee Relations and Policy",0,21096,36061,Human Resources
+,324,Mar-13,Junior,,Band A,Head of HR Policy,"Reward, Employee Relations and Policy",0,42034,67969,Human Resources
+,324,Mar-13,Junior,,Band B,Senior Policy Adviser,"Reward, Employee Relations and Policy",0,29634,44964,Human Resources
+,324,Mar-13,Junior,,Band A,Head of MoJ Employee Relations,"Reward, Employee Relations and Policy",0,42034,67969,Human Resources
+,324,Mar-13,Junior,,Band B,Senior ER Manager,"Reward, Employee Relations and Policy",0,29634,44964,Human Resources
+,324,Mar-13,Junior,,Band B,Policy & Employee Relations Manager,"Reward, Employee Relations and Policy",0,29634,44964,Human Resources
+,324,Mar-13,Junior,,Band D,Employee Relations Adviser,"Reward, Employee Relations and Policy",0,17513,28000,Human Resources
+,180,Mar-13,Junior,,Band A,Programme Director,MOJ ICT Project and Programme Delivery,0,42034,67969,Programme and Project Management (PPM)
+,180,Mar-13,Junior,,Band A,Programme Manager,MOJ ICT Project and Programme Delivery,0,42034,67969,Programme and Project Management (PPM)
+,180,Mar-13,Junior,,Band A,Project Director,MOJ ICT Project and Programme Delivery,0,42034,67969,Programme and Project Management (PPM)
+,41,Mar-13,Junior,,Band A,Private Secretary,Finance and Corporate Services,0,42034,67969,Programme and Project Management (PPM)
+,70,Mar-13,Junior,,Band A,Head of Audit Operations,Internal Audit and Assurance,0,42034,67969,Internal Audit
+,70,Mar-13,Junior,,Band A,Head of risk management and assurance,Internal Audit and Assurance,0,42034,67969,Internal Audit
+,70,Mar-13,Junior,,Band A,Head of MQPL,Internal Audit and Assurance,0,42034,67969,Social Research
+,70,Mar-13,Junior,,Band C,Programme Support Manager,Internal Audit and Assurance,0,21096,36061,Internal Audit
+,70,Mar-13,Junior,,Band B,Staff Officer,Internal Audit and Assurance,0,29634,44964,Internal Audit
+,58,Mar-13,Junior,,Band A,Communication Business Partner,Communications,0,42034,67969,Communications
+,58,Mar-13,Junior,,Band B,Communication Advisor,Communications,0,29634,44964,Communications
+,58,Mar-13,Junior,,Band B,Evaluation and Insight Advisor,Communications,0,29634,44964,Communications
+,58,Mar-13,Junior,,Band C,Evaluation and Insight Analyst,Communications,0,21096,36061,Communications
+,58,Mar-13,Junior,,Band C,Communication Support Officer,Communications,0,21096,36061,Communications
+,58,Mar-13,Junior,,Band A,Design Team Lead,Communications,0,42034,67969,Communications
+,58,Mar-13,Junior,,Band C,Designer,Communications,0,21096,36061,Communications
+,58,Mar-13,Junior,,Band A,Content Lead,Communications,0,42034,67969,Communications
+,58,Mar-13,Junior,,Band B,Content Designer,Communications,0,29634,44964,Communications
+,58,Mar-13,Junior,,Band C,Content producer,Communications,0,21096,36061,Communications
+,45,Mar-13,Junior,,Band A,Deputy Principal Private Secretary,Private Office,0,42034,67969,Policy
+,45,Mar-13,Junior,,Band A,Private Secretary,Private Office,0,42034,67969,Policy
+,45,Mar-13,Junior,,Band A,Speechwriter & Private Secretary,Private Office,0,42034,67969,Policy
+,45,Mar-13,Junior,,Band A,Head of Parliamentary Branch,Private Office,0,42034,67969,Policy
+,45,Mar-13,Junior,,Band B,Deputy Head of Parliamentary Branch,Private Office,0,29634,44964,Policy
+,45,Mar-13,Junior,,Band C,Assistant Private Secretary,Private Office,0,21096,36061,Policy
+,45,Mar-13,Junior,,Band C,Diary Secretary to the Secretary of State,Private Office,0,21096,36061,Policy
+,45,Mar-13,Junior,,Band C,Parliamentary Clerk,Private Office,0,21096,36061,Policy
+,45,Mar-13,Junior,,Band D,Diary Secretary,Private Office,0,17513,28000,Policy
+,45,Mar-13,Junior,,Band D,Parliamentary Clerk,Private Office,0,17513,28000,Policy
+,45,Mar-13,Junior,,Band D,Head of Ministerial Support Team,Private Office,0,17513,28000,Policy
+,45,Mar-13,Junior,,Band E,Parliamentary Clerk,Private Office,0,15935,22250,Policy
+,45,Mar-13,Junior,,Band E,Correspondence Clerk,Private Office,0,15935,22250,Policy
+,344,Mar-13,Junior,,Band A,Head of Information Assurance Delivery,ICT Information Assurance,0,42034,67969,Information Technology
+,344,Mar-13,Junior,,Band A,"Head of Governance, Reporting & Compliance",ICT Information Assurance,0,42034,67969,Information Technology
+,344,Mar-13,Junior,,Band A,Head of Security Architecture & Project Delivery,ICT Information Assurance,0,42034,67969,Information Technology
+,344,Mar-13,Junior,,Band A,Domain Architect,ICT Information Assurance,0,42034,67969,Information Technology
+,344,Mar-13,Junior,,Band A,Head of Accreditation,ICT Information Assurance,0,42034,67969,Information Technology
+,344,Mar-13,Junior,,Band C,Crypto Custodian,ICT Information Assurance,0,21096,36061,Information Technology
+,344,Mar-13,Junior,,Band B,IA Security Architect,ICT Information Assurance,0,29634,44964,Information Technology
+,344,Mar-13,Junior,,Band A,CPG IA Lead,ICT Information Assurance,0,42034,67969,Information Technology
+,344,Mar-13,Junior,,Band B,IA Governance Analyst,ICT Information Assurance,0,29634,44964,Information Technology
+,344,Mar-13,Junior,,Band C,IA Governance Analyst,ICT Information Assurance,0,21096,36061,Information Technology
+,344,Mar-13,Junior,,Band A,Senior Design Authority,ICT Information Assurance,0,42034,67969,Information Technology
+,344,Mar-13,Junior,,Band A,Lead Accreditor,ICT Information Assurance,0,42034,67969,Information Technology
+,344,Mar-13,Junior,,Band B,Accreditor,ICT Information Assurance,0,29634,44964,Information Technology
+,344,Mar-13,Junior,,Band A,Judicial Pension Scheme Administrator,Judicial Reward and Pensions Reform,0,42034,67969,Policy
+,329,Mar-13,Junior,,Band B,Judicial Pay Lead,Judicial Reward and Pensions Reform,0,29634,44964,Policy
+,329,Mar-13,Junior,,Band B,Judicial Pension Scheme Finance Manager,Judicial Reward and Pensions Reform,0,29634,44964,Finance
+,329,Mar-13,Junior,,Band C,Judicial Pension and Pay Manager,Judicial Reward and Pensions Reform,0,21096,36061,Human Resources
+,329,Mar-13,Junior,,Band D,Judicial Pension and Pay Delivery Lead,Judicial Reward and Pensions Reform,0,17513,28000,Human Resources
+,329,Mar-13,Junior,,Band D,Judicial Pension Scheme Finance Officer,Judicial Reward and Pensions Reform,0,17513,28000,Finance
+,329,Mar-13,Junior,,Band E,Judicial Pension and Pay Delivery Support,Judicial Reward and Pensions Reform,0,15935,22250,Human Resources
+,329,Mar-13,Junior,,Band E,Judicial Pensions Scheme Finance Support,Judicial Reward and Pensions Reform,0,15935,22250,Finance
+,52,Mar-13,Junior,,Band A,Programme Manager,Shared Services Progamme,0,42034,67969,Programme and Project Management (PPM)
+,52,Mar-13,Junior,,Band A,Project Delivery Managers,Shared Services Progamme,0,42034,67969,Programme and Project Management (PPM)
+,52,Mar-13,Junior,,Band A,Solution Architects,Shared Services Progamme,0,42034,67969,Programme and Project Management (PPM)
+,52,Mar-13,Junior,,Band C,Solution Architects,Shared Services Progamme,0,21096,36061,Programme and Project Management (PPM)
+,52,Mar-13,Junior,,Band A,Technical Architect,Shared Services Progamme,0,42034,67969,Programme and Project Management (PPM)
+,52,Mar-13,Junior,,Band A,Finance and Business Case Lead,Shared Services Progamme,0,42034,67969,Programme and Project Management (PPM)
+,52,Mar-13,Junior,,Band A,Business Change & Communications Manager,Shared Services Progamme,0,42034,67969,Programme and Project Management (PPM)
+,52,Mar-13,Junior,,Band A,Business Change Lead,Shared Services Progamme,0,42034,67969,Programme and Project Management (PPM)
+,52,Mar-13,Junior,,Band C,Change Managers,Shared Services Progamme,0,21096,36061,Programme and Project Management (PPM)
+,52,Mar-13,Junior,,Band A,Communications Lead,Shared Services Progamme,0,42034,67969,Communications
+,52,Mar-13,Junior,,Band B,Communications Manager,Shared Services Progamme,0,29634,44964,Communications
+,52,Mar-13,Junior,,Band C,Communications Co-ordinator,Shared Services Progamme,0,21096,36061,Communications
+,52,Mar-13,Junior,,Band D,Executive Assistant,Shared Services Progamme,0,17513,28000,Programme and Project Management (PPM)
+,52,Mar-13,Junior,,Band B,Commercial Managers,Shared Services Progamme,0,29634,44964,Procurement
+,52,Mar-13,Junior,,Band A,Procurement Lead,Shared Services Progamme,0,42034,67969,Procurement
+,52,Mar-13,Junior,,Band B,Financial Manager,Shared Services Progamme,0,29634,44964,Finance
+,49,Mar-13,Junior,,Band A,Head of Corporate Office,communications,0,42034,67969,Finance
+,322,Mar-13,Junior,,Band A,Team Leader,Knowledge and Information Management,0,42034,67969,Operational delivery
+,322,Mar-13,Junior,,Band A,Team Leader,Knowledge and Information Management,0,42034,67969,Knowledge and Information Management (KIM)
+,322,Mar-13,Junior,,Band B,Team Leader,Knowledge and Information Management,0,29634,44964,Operational delivery
+,322,Mar-13,Junior,,Band B,Team Leader,Knowledge and Information Management,0,29634,44964,Knowledge and Information Management (KIM)
+,322,Mar-13,Junior,,Band C,Managers,Knowledge and Information Management,0,21096,36061,Operational delivery
+,322,Mar-13,Junior,,Band C,Librarians,Knowledge and Information Management,0,21096,36061,Knowledge and Information Management (KIM)
+,322,Mar-13,Junior,,Band D,Officers,Knowledge and Information Management,0,17513,28000,Operational delivery
+,322,Mar-13,Junior,,Band D,Assistant librarians,Knowledge and Information Management,0,17513,28000,Knowledge and Information Management (KIM)
+,322,Mar-13,Junior,,Band E,Administrative officer,Knowledge and Information Management,0,15935,22250,Operational delivery
+,322,Mar-13,Junior,,Band F,Administrative assistance,Knowledge and Information Management,0,13894,18700,Operational delivery
+,126,Mar-13,Junior,,Band A,Policy Adviser,Sentencing Policy,0,42034,67969,Policy
+,126,Mar-13,Junior,,Band A,Policy Manager,Sentencing Policy,0,42034,67969,Policy
+,126,Mar-13,Junior,,Band A,Policy Adviser,Sentencing Policy,0,42034,67969,Policy
+,126,Mar-13,Junior,,Band A,Policy Adviser,Sentencing Policy,0,42034,67969,Policy
+,126,Mar-13,Junior,,Band A,Policy Adviser,Sentencing Policy,0,42034,67969,Policy
+,126,Mar-13,Junior,,Band A,Policy Adviser,Sentencing Policy,0,42034,67969,Policy
+,126,Mar-13,Junior,,Band A,Policy Adviser,Sentencing Policy,0,42034,67969,Policy
+,126,Mar-13,Junior,,Band A,Policy Adviser,Sentencing Policy,0,42034,67969,Policy
+,126,Mar-13,Junior,,Band A,Policy Adviser,Sentencing Policy,0,42034,67969,Policy
+,126,Mar-13,Junior,,Band A,Policy Adviser,Sentencing Policy,0,42034,67969,Policy
+,126,Mar-13,Junior,,Band A,Policy Adviser,Sentencing Policy,0,42034,67969,Policy
+,126,Mar-13,Junior,,Band A,Policy Adviser,Sentencing Policy,0,42034,67969,Policy
+,126,Mar-13,Junior,,Band A,Policy Adviser,Sentencing Policy,0,42034,67969,Policy
+,126,Mar-13,Junior,,Band A,Policy Adviser,Sentencing Policy,0,42034,67969,Policy
+,126,Mar-13,Junior,,Band B,Policy Adviser,Sentencing Policy,0,29634,44964,Policy
+,126,Mar-13,Junior,,Band B,Policy Adviser,Sentencing Policy,0,29634,44964,Policy
+,126,Mar-13,Junior,,Band B,Policy Adviser,Sentencing Policy,0,29634,44964,Policy
+,126,Mar-13,Junior,,Band B,Policy Adviser,Sentencing Policy,0,29634,44964,Policy
+,126,Mar-13,Junior,,Band B,Policy Adviser,Sentencing Policy,0,29634,44964,Policy
+,126,Mar-13,Junior,,Band B,Policy Adviser,Sentencing Policy,0,29634,44964,Policy
+,126,Mar-13,Junior,,Band B,Policy Adviser,Sentencing Policy,0,29634,44964,Policy
+,126,Mar-13,Junior,,Band B,Policy Adviser,Sentencing Policy,0,29634,44964,Policy
+,126,Mar-13,Junior,,Band C,Policy Adviser,Sentencing Policy,0,21096,36061,Policy
+,126,Mar-13,Junior,,Band C,Policy Adviser,Sentencing Policy,0,21096,36061,Policy
+,126,Mar-13,Junior,,Band C,Policy Adviser,Sentencing Policy,0,21096,36061,Policy
+,126,Mar-13,Junior,,Band C,Policy Adviser,Sentencing Policy,0,21096,36061,Policy
+,126,Mar-13,Junior,,Band C,Policy Adviser,Sentencing Policy,0,21096,36061,Policy
+,126,Mar-13,Junior,,Band D,Correspondence Manager,Sentencing Policy,0,17513,28000,Policy
+,126,Mar-13,Junior,,Band D,Policy Adviser,Sentencing Policy,0,17513,28000,Policy
+,126,Mar-13,Junior,,Band D,Policy Adviser,Sentencing Policy,0,17513,28000,Policy
+,126,Mar-13,Junior,,Band D,Policy Adviser,Sentencing Policy,0,17513,28000,Policy
+,126,Mar-13,Junior,,Band D,Policy Adviser,Sentencing Policy,0,17513,28000,Policy
+,126,Mar-13,Junior,,Band D,Policy Adviser,Sentencing Policy,0,17513,28000,Policy
+,126,Mar-13,Junior,,Band E,Finance Officer,Sentencing Policy,0,15935,22250,Policy
+,178,Mar-13,Junior,,Band A,Architecture Manager,Architecture and Assurance,0,42034,67969,Information Technology
+,178,Mar-13,Junior,,Band A,Architect,Architecture and Assurance,0,42034,67969,Information Technology
+,178,Mar-13,Junior,,Band A,Architect (contract post),Architecture and Assurance,0,42034,67969,Information Technology
+,178,Mar-13,Junior,,Band B,Architect,Architecture and Assurance,0,29634,44964,Information Technology
+,82,Mar-13,Junior,,Band A,Strategy Manager,"MoJ ICT Architecture, Technology & Information Assurance",0,42034,67969,Information Technology
+,82,Mar-13,Junior,,Band A,Enterprise Architect,"MoJ ICT Architecture, Technology & Information Assurance",0,42034,67969,Information Technology
+,82,Mar-13,Junior,,Band A,Technology & Innovation Manager,"MoJ ICT Architecture, Technology & Information Assurance",0,42034,67969,Information Technology
+,82,Mar-13,Junior,,Band B,Technology Strategist,"MoJ ICT Architecture, Technology & Information Assurance",0,29634,44964,Information Technology
+,115,Mar-13,Junior,,Band A,Policy Adviser,Reducing Reoffending,0,42034,67969,Policy
+,115,Mar-13,Junior,,Band A,Policy Adviser,Reducing Reoffending,0,42034,67969,Policy
+,115,Mar-13,Junior,,Band A,Programme Manager,Reducing Reoffending,0,42034,67969,Policy
+,115,Mar-13,Junior,,Band A,Policy Adviser,Reducing Reoffending,0,42034,67969,Policy
+,115,Mar-13,Junior,,Band A,Policy Adviser,Reducing Reoffending,0,42034,67969,Policy
+,115,Mar-13,Junior,,Band A,Policy Adviser,Reducing Reoffending,0,42034,67969,Policy
+,115,Mar-13,Junior,,Band B,Policy Adviser,Reducing Reoffending,0,29634,44964,Policy
+,115,Mar-13,Junior,,Band B,Policy Adviser,Reducing Reoffending,0,29634,44964,Policy
+,115,Mar-13,Junior,,Band B,Policy Adviser,Reducing Reoffending,0,29634,44964,Policy
+,115,Mar-13,Junior,,Band C,Policy Support,Reducing Reoffending,0,21096,36061,Policy
+,115,Mar-13,Junior,,Band C,Policy Adviser,Reducing Reoffending,0,21096,36061,Policy
+,115,Mar-13,Junior,,Band C,Policy Adviser,Reducing Reoffending,0,21096,36061,Policy
+,115,Mar-13,Junior,,Band D,Policy Support,Reducing Reoffending,0,17513,28000,Policy
+,115,Mar-13,Junior,,Band D,Executive Assistant,Reducing Reoffending,0,17513,28000,Policy
+,181,Mar-13,Junior,,Band A,Programme Manager,Delivery Management - Portfolio Management,0,42034,67969,Information Technology
+,181,Mar-13,Junior,,Band A,Senior Project Manager,Delivery Management - Portfolio Management,0,42034,67969,Information Technology
+,181,Mar-13,Junior,,Band B,Project Manager,Delivery Management - Portfolio Management,0,29634,44964,Information Technology
+,181,Mar-13,Junior,,Band C,Project Coordinator,Delivery Management - Portfolio Management,0,21096,36061,Information Technology
+,181,Mar-13,Junior,,Band D,Project Support,Delivery Management - Portfolio Management,0,17513,28000,Information Technology
+,333,Mar-13,Junior,,Band A,Team leader/ Branch Head,Information Rights and Devolution,0,42034,67969,Policy
+,333,Mar-13,Junior,,Band B,Senior Policy Adviser,Information Rights and Devolution,0,29634,44964,Policy
+,333,Mar-13,Junior,,Band C,Policy Adviser,Information Rights and Devolution,0,21096,36061,Policy
+,333,Mar-13,Junior,,Fast Streamer,Policy Adviser,Information Rights and Devolution,0,27000,43400,Policy
+,333,Mar-13,Junior,,Band D,Executive Assistant,Information Rights and Devolution,0,17513,28000,Policy
+,215,Mar-13,Junior,,Band A,Policy Manager,Civil and Family Justice Policy,0,42034,67969,Policy
+,215,Mar-13,Junior,,Band B,Policy Officer,Civil and Family Justice Policy,0,29634,44964,Policy
+,215,Mar-13,Junior,,Band C,Policy Officer,Civil and Family Justice Policy,0,21096,36061,Policy
+,215,Mar-13,Junior,,Band D,Policy Support,Civil and Family Justice Policy,0,17513,28000,Policy
+,215,Mar-13,Junior,,Band E,Policy Support,Civil and Family Justice Policy,0,15935,22250,Policy
+,140,Mar-13,Junior,,Band A,Policy Team Leader,Human Rights and Security Policy,0,42034,67969,Policy
+,140,Mar-13,Junior,,Band B,Senior Policy Manager,Human Rights and Security Policy,0,29634,44964,Policy
+,140,Mar-13,Junior,,Band C,Policy Officer,Human Rights and Security Policy,0,21096,36061,Policy
+,140,Mar-13,Junior,,Band D,Policy Support Officer,Human Rights and Security Policy,0,17513,28000,Policy
+,165,Mar-13,Junior,,Band A,Regional Asset Manager,Asset Management Unit,0,42034,67969,Property and Asset Management
+,165,Mar-13,Junior,,Band A,Head of ED Property Information,Asset Management Unit,0,42034,67969,Property and Asset Management
+,165,Mar-13,Junior,,Band A,Head of Estate Management,Asset Management Unit,0,42034,67969,Property and Asset Management
+,165,Mar-13,Junior,,Band A,Head of Custodial Operations,Asset Management Unit,0,42034,67969,Property and Asset Management
+,165,Mar-13,Junior,,Band A,"Head of Corporate Health & Safety, Security & Business Continuity",Asset Management Unit,0,42034,67969,Property and Asset Management
+,165,Mar-13,Junior,,Band A,Head of Sustainable Development,Asset Management Unit,0,42034,67969,Property and Asset Management
+,165,Mar-13,Junior,,Band A,Head of Non-Custodial FM,Asset Management Unit,0,42034,67969,Property and Asset Management
+,165,Mar-13,Junior,,Band A,Budget Monitoring Manager,Asset Management Unit,0,42034,67969,Property and Asset Management
+,165,Mar-13,Junior,,Band A,Estate Surveyor,Asset Management Unit,0,42034,67969,Property and Asset Management
+,165,Mar-13,Junior,,Band A,Project Manager,Asset Management Unit,0,42034,67969,Property and Asset Management
+,165,Mar-13,Junior,,Band A,Senior Facilities Manager,Asset Management Unit,0,42034,67969,Property and Asset Management
+,165,Mar-13,Junior,,Band A,Head of Health & Safety,Asset Management Unit,0,42034,67969,Property and Asset Management
+,165,Mar-13,Junior,,Band A,Deputy Head of Security & Business Continuity,Asset Management Unit,0,42034,67969,Property and Asset Management
+,165,Mar-13,Junior,,Band A,Deputy Head of Non-Custodial FM,Asset Management Unit,0,42034,67969,Property and Asset Management
+,165,Mar-13,Junior,,Band A,Regional Facilities Delivery Managers,Asset Management Unit,0,42034,67969,Property and Asset Management
+,165,Mar-13,Junior,,Band B,Senior Asset Manager,Asset Management Unit,0,29634,44964,Property and Asset Management
+,165,Mar-13,Junior,,Band B,Contract Delivery Manager,Asset Management Unit,0,29634,44964,Property and Asset Management
+,165,Mar-13,Junior,,Band B,CAD Manager,Asset Management Unit,0,29634,44964,Property and Asset Management
+,165,Mar-13,Junior,,Band B,TIS Property Systems,Asset Management Unit,0,29634,44964,Property and Asset Management
+,165,Mar-13,Junior,,Band B,National PAM & Property Data Manager,Asset Management Unit,0,29634,44964,Property and Asset Management
+,165,Mar-13,Junior,,Band B,Asset Manager,Asset Management Unit,0,29634,44964,Property and Asset Management
+,165,Mar-13,Junior,,Band B,CAFM Manager,Asset Management Unit,0,29634,44964,Property and Asset Management
+,165,Mar-13,Junior,,Band B,Maintenance Assurance Advisor,Asset Management Unit,0,29634,44964,Property and Asset Management
+,165,Mar-13,Junior,,Band B,Technical Locking Manager,Asset Management Unit,0,29634,44964,Property and Asset Management
+,165,Mar-13,Junior,,Band B,Finance & Compliance,Asset Management Unit,0,29634,44964,Property and Asset Management
+,165,Mar-13,Junior,,Band B,Senior H&S Advisor,Asset Management Unit,0,29634,44964,Property and Asset Management
+,165,Mar-13,Junior,,Band B,SD Water Manager,Asset Management Unit,0,29634,44964,Property and Asset Management
+,165,Mar-13,Junior,,Band B,SD Comms Manager,Asset Management Unit,0,29634,44964,Property and Asset Management
+,165,Mar-13,Junior,,Band B,Deputy Head of Sustainable Development,Asset Management Unit,0,29634,44964,Property and Asset Management
+,165,Mar-13,Junior,,Band B,SD Energy Manager,Asset Management Unit,0,29634,44964,Property and Asset Management
+,165,Mar-13,Junior,,Band B,Probation Liaison Manager,Asset Management Unit,0,29634,44964,Property and Asset Management
+,165,Mar-13,Junior,,Band B,Estate Manager,Asset Management Unit,0,29634,44964,Property and Asset Management
+,165,Mar-13,Junior,,Band B,Senior Facilities Delivery Manager,Asset Management Unit,0,29634,44964,Property and Asset Management
+,165,Mar-13,Junior,,Band B,Customer Service Manager,Asset Management Unit,0,29634,44964,Property and Asset Management
+,165,Mar-13,Junior,,Band C,Facilities Manager,Asset Management Unit,0,21096,36061,Property and Asset Management
+,165,Mar-13,Junior,,Band C,Data Manager,Asset Management Unit,0,21096,36061,Property and Asset Management
+,165,Mar-13,Junior,,Band C,Information Officer,Asset Management Unit,0,21096,36061,Property and Asset Management
+,165,Mar-13,Junior,,Band C,Staff Officer,Asset Management Unit,0,21096,36061,Property and Asset Management
+,165,Mar-13,Junior,,Band C,Judges Lodgings,Asset Management Unit,0,21096,36061,Property and Asset Management
+,165,Mar-13,Junior,,Band C,CAD Operator,Asset Management Unit,0,21096,36061,Property and Asset Management
+,165,Mar-13,Junior,,Band C,Senior H&S Officer,Asset Management Unit,0,21096,36061,Property and Asset Management
+,165,Mar-13,Junior,,Band C,Assistant Security Officer,Asset Management Unit,0,21096,36061,Property and Asset Management
+,165,Mar-13,Junior,,Band C,Energy Manager,Asset Management Unit,0,21096,36061,Property and Asset Management
+,165,Mar-13,Junior,,Band C,Facilities Delivery Manager,Asset Management Unit,0,21096,36061,Property and Asset Management
+,165,Mar-13,Junior,,Band C,Finance Manager,Asset Management Unit,0,21096,36061,Property and Asset Management
+,165,Mar-13,Junior,,Band C,Contracts Manager,Asset Management Unit,0,21096,36061,Property and Asset Management
+,165,Mar-13,Junior,,Band D,Estate Support,Asset Management Unit,0,17513,28000,Property and Asset Management
+,165,Mar-13,Junior,,Band D,CAFM Co-ordinator,Asset Management Unit,0,17513,28000,Property and Asset Management
+,165,Mar-13,Junior,,Band D,Diary Manager,Asset Management Unit,0,17513,28000,Property and Asset Management
+,165,Mar-13,Junior,,Band D,Vetting Supervisor,Asset Management Unit,0,17513,28000,Property and Asset Management
+,165,Mar-13,Junior,,Band D,Energy Officer,Asset Management Unit,0,17513,28000,Property and Asset Management
+,165,Mar-13,Junior,,Band D,Assistant Facilities Delivery Manager,Asset Management Unit,0,17513,28000,Property and Asset Management
+,165,Mar-13,Junior,,Band D,Finance Officer,Asset Management Unit,0,17513,28000,Property and Asset Management
+,165,Mar-13,Junior,,Band D,Assistant Workplace Manager,Asset Management Unit,0,17513,28000,Property and Asset Management
+,165,Mar-13,Junior,,Band D,Helpdesk Manager,Asset Management Unit,0,17513,28000,Property and Asset Management
+,165,Mar-13,Junior,,Band D,Judges Lodgings,Asset Management Unit,0,17513,28000,Property and Asset Management
+,165,Mar-13,Junior,,Band E,Judges Lodgings,Asset Management Unit,0,15935,22250,Property and Asset Management
+,165,Mar-13,Junior,,Band E,Storeman,Asset Management Unit,0,15935,22250,Property and Asset Management
+,165,Mar-13,Junior,,Band E,Estate Support,Asset Management Unit,0,15935,22250,Property and Asset Management
+,165,Mar-13,Junior,,Band E,Messenger,Asset Management Unit,0,15935,22250,Property and Asset Management
+,165,Mar-13,Junior,,Band E,Stationery Clerk,Asset Management Unit,0,15935,22250,Property and Asset Management
+,165,Mar-13,Junior,,Band E,Helpdesk Operator,Asset Management Unit,0,15935,22250,Property and Asset Management
+,165,Mar-13,Junior,,Band F,Judges Lodgings,Asset Management Unit,0,13894,18700,Property and Asset Management
+,165,Mar-13,Junior,,Band F,Storeman,Asset Management Unit,0,13894,18700,Property and Asset Management
+,165,Mar-13,Junior,,Band F,Messenger,Asset Management Unit,0,13894,18700,Property and Asset Management
+,65,Mar-13,Junior,,Band A,Head of Reporting,Financial Reporting and Control,0,42034,67969,Finance
+,65,Mar-13,Junior,,Band A,Head of Taxation,Financial Reporting and Control,0,42034,67969,Tax Professionals
+,65,Mar-13,Junior,,Band A,Senior Accountants,Financial Reporting and Control,0,42034,67969,Finance
+,65,Mar-13,Junior,,Band B,Accountants,Financial Reporting and Control,0,29634,44964,Finance
+,65,Mar-13,Junior,,Band B,Tax Specialists,Financial Reporting and Control,0,29634,44964,Tax Professionals
+,65,Mar-13,Junior,,Band C,Finance Staff,Financial Reporting and Control,0,21096,36061,Finance
+,65,Mar-13,Junior,,Band E,Clerical Support,Financial Reporting and Control,0,15935,22250,Finance
+,349,Mar-13,Junior,,Band A,Senior Policy Adviser,Youth Justice Policy Unit,0,42034,67969,Policy
+,349,Mar-13,Junior,,Band B,Policy Adviser,Youth Justice Policy Unit,0,29634,44964,Policy
+,349,Mar-13,Junior,,Fast Streamer,Policy Adviser,Youth Justice Policy Unit,0,27000,43400,Policy
+,349,Mar-13,Junior,,Band C,Policy Support Officer,Youth Justice Policy Unit,0,21096,36061,Policy
+,349,Mar-13,Junior,,Band D,Policy Support Officer,Youth Justice Policy Unit,0,17513,28000,Policy
+,349,Mar-13,Junior,,Band E,Personal Secretary,Youth Justice Policy Unit,0,15935,22250,Policy
+,157,Mar-13,Junior,,Band A,Senior lawyer (direct report),Criminal Law Team - Legal Advisory,0,42034,67969,Law
+,157,Mar-13,Junior,,Band A,Senior lawyer (direct report),Criminal Law Team - Legal Advisory,0,42034,67969,Law
+,157,Mar-13,Junior,,Band A,Senior lawyer (direct report),Criminal Law Team - Legal Advisory,0,42034,67969,Law
+,157,Mar-13,Junior,,Band A,Senior lawyer (direct report),Criminal Law Team - Legal Advisory,0,42034,67969,Law
+,157,Mar-13,Junior,,Band A,Lawyer,Criminal Law Team - Legal Advisory,0,42034,67969,Law
+,157,Mar-13,Junior,,Band A,Lawyer,Criminal Law Team - Legal Advisory,0,42034,67969,Law
+,157,Mar-13,Junior,,Band B,Legal Officer,Criminal Law Team - Legal Advisory,0,29634,44964,Law
+,157,Mar-13,Junior,,Band D,Legal trainee,Criminal Law Team - Legal Advisory,0,17513,28000,Law
+,220,Mar-13,Junior,,Band A,Policy Manager,Judicial Policy,0,42034,67969,Policy
+,220,Mar-13,Junior,,Band B,Senior Policy Adviser,Judicial Policy,0,29634,44964,Policy
+,220,Mar-13,Junior,,Band C,Policy Officer,Judicial Policy,0,21096,36061,Policy
+,220,Mar-13,Junior,,Band D,Policy Officer,Judicial Policy,0,17513,28000,Policy
+,177,Mar-13,Junior,,Band A,Briefing Manager,Strategy Programme Development Unit,0,42034,67969,Knowledge and Information Management (KIM)
+,177,Mar-13,Junior,,Band B,Briefing Manager,Strategy Programme Development Unit,0,29634,44964,Knowledge and Information Management (KIM)
+,177,Mar-13,Junior,,Band C,Briefing Officer,Strategy Programme Development Unit,0,21096,36061,Knowledge and Information Management (KIM)
+,177,Mar-13,Junior,,Band D,Briefing Officer,Strategy Programme Development Unit,0,17513,28000,Knowledge and Information Management (KIM)
+,177,Mar-13,Junior,,Band E,Administrative Officer,Strategy Programme Development Unit,0,15935,22250,Knowledge and Information Management (KIM)
+,177,Mar-13,Junior,,Band A,Senior Programme Developer,Strategy Programme Development Unit,0,42034,67969,Property and Asset Management
+,177,Mar-13,Junior,,Band B,Programme Developer,Strategy Programme Development Unit,0,29634,44964,Property and Asset Management
+,177,Mar-13,Junior,,Band A,"Head of Major Sites, Town Planning and Disposals",Strategy Programme Development Unit,0,42034,67969,Property and Asset Management
+,177,Mar-13,Junior,,Band B,Senior Planner,Strategy Programme Development Unit,0,29634,44964,Property and Asset Management
+,177,Mar-13,Junior,,Band C,Planning and Site Acquisition,Strategy Programme Development Unit,0,21096,36061,Property and Asset Management
+,177,Mar-13,Junior,,Band A,Asset Realisation Programme Manager,Strategy Programme Development Unit,0,42034,67969,Property and Asset Management
+,177,Mar-13,Junior,,Band A,Senior Strategy Development Manager,Strategy Programme Development Unit,0,42034,67969,Property and Asset Management
+,177,Mar-13,Junior,,Band B,Strategy Development Manager,Strategy Programme Development Unit,0,29634,44964,Property and Asset Management
+,177,Mar-13,Junior,,Band B,Senior Strategy Development Manager,Strategy Programme Development Unit,0,29634,44964,Property and Asset Management
+,177,Mar-13,Junior,,Band C,Community Asset Transfer Manager,Strategy Programme Development Unit,0,21096,36061,Property and Asset Management
+,159,Mar-13,Junior,,Band A,Lawyer,Civil and Family Law,0,42034,67969,Law
+,159,Mar-13,Junior,,Band A,Senior Lawyer,Civil and Family Law,0,42034,67969,Law
+,177,Mar-13,Junior,,Band A,Senior Programme Manager,Programme Management and Support,0,42034,67969,Programme and Project Management (PPM)
+,177,Mar-13,Junior,,Band A,Programme Manager,Programme Management and Support,0,42034,67969,Programme and Project Management (PPM)
+,177,Mar-13,Junior,,Band A,Assurance and Governance Support Manager,Programme Management and Support,0,42034,67969,Programme and Project Management (PPM)
+,177,Mar-13,Junior,,Band A,Programme Manager Support,Programme Management and Support,0,42034,67969,Programme and Project Management (PPM)
+,177,Mar-13,Junior,,Band B,Delivery Planner,Programme Management and Support,0,29634,44964,Programme and Project Management (PPM)
+,177,Mar-13,Junior,,Band B,Programme Manager Support,Programme Management and Support,0,29634,44964,Programme and Project Management (PPM)
+,177,Mar-13,Junior,,Band B,Project Support Manager,Programme Management and Support,0,29634,44964,Programme and Project Management (PPM)
+,177,Mar-13,Junior,,Band B,Programme Office Manager,Programme Management and Support,0,29634,44964,Programme and Project Management (PPM)
+,177,Mar-13,Junior,,Band B,Principal Private Secretary,Programme Management and Support,0,29634,44964,Programme and Project Management (PPM)
+,177,Mar-13,Junior,,Band C,Programme Support Officer,Programme Management and Support,0,21096,36061,Programme and Project Management (PPM)
+,177,Mar-13,Junior,,Band C,Private Secretary,Programme Management and Support,0,21096,36061,Programme and Project Management (PPM)
+,177,Mar-13,Junior,,Band D,Assurance and Governance Support,Programme Management and Support,0,17513,28000,Programme and Project Management (PPM)
+,177,Mar-13,Junior,,Band D,Programme Support,Programme Management and Support,0,17513,28000,Programme and Project Management (PPM)
+,177,Mar-13,Junior,,Band D,Private Secretary,Programme Management and Support,0,17513,28000,Programme and Project Management (PPM)
+,177,Mar-13,Junior,,Fast Streamer,Programme Support Officer,Programme Management and Support,0,27000,43400,Programme and Project Management (PPM)
+,72,Mar-13,Junior,,Band A,Senior Lawyer,Information and Human Rights Law,0,42034,67969,Law
+,72,Mar-13,Junior,,Band A,Senior Lawyer,Information and Human Rights Law,0,42034,67969,Law
+,72,Mar-13,Junior,,Band A,Lawyer,Information and Human Rights Law,0,42034,67969,Law
+,72,Mar-13,Junior,,Band B,Legal Officer,Information and Human Rights Law,0,29634,44964,Law
+,72,Mar-13,Junior,,Band D,Legal Trainee,Information and Human Rights Law,0,17513,28000,Law
+,73,Mar-13,Junior,,Band A,Senior Policy Adviser,Justice Policy Group,0,42034,67969,Policy
+,73,Mar-13,Junior,,Band B,Senior Policy Adviser,Justice Policy Group,0,29634,44964,Policy
+,73,Mar-13,Junior,,Band C,Policy Adviser,Justice Policy Group,0,21096,36061,Policy
+,73,Mar-13,Junior,,Band D,Policy Support Officer,Justice Policy Group,0,17513,28000,Policy
+,73,Mar-13,Junior,,Fast Streamer,Policy Adviser,Justice Policy Group,0,27000,43400,Policy
+,107,Mar-13,Junior,,Band A,Senior Statistician,Corporate Performance Group,0,42034,67969,Statisticians
+,107,Mar-13,Junior,,Band A,Senior Social Researcher,Corporate Performance Group,0,42034,67969,Social Research
+,107,Mar-13,Junior,,Band A,Senior Economist,Corporate Performance Group,0,42034,67969,Economics
+,107,Mar-13,Junior,,Band A,Senior Operational Researcher,Corporate Performance Group,0,42034,67969,Operational Research
+,107,Mar-13,Junior,,Band B,Senior Statistician,Corporate Performance Group,0,29634,44964,Statisticians
+,107,Mar-13,Junior,,Band B,Senior Social Researcher,Corporate Performance Group,0,29634,44964,Social Research
+,107,Mar-13,Junior,,Band B,Senior Operational Researcher,Corporate Performance Group,0,29634,44964,Operational Research
+,107,Mar-13,Junior,,Band C,Social Researcher,Corporate Performance Group,0,21096,36061,Social Research
+,107,Mar-13,Junior,,Band D,Private Secretary,Corporate Performance Group,0,17513,28000,Planning
+,107,Mar-13,Junior,,Fast Streamer,Economist,Corporate Performance Group,0,27000,43400,Economics
+,334,Mar-13,Junior,,Band A,Policy Adviser,Justice Policy Group,0,42034,67969,Policy
+,334,Mar-13,Junior,,Band B,Policy Adviser,Justice Policy Group,0,29634,44964,Policy
+,334,Mar-13,Junior,,Fast Streamer,Policy Adviser,Justice Policy Group,0,27000,43400,Policy
+,334,Mar-13,Junior,,Band C,Policy Adviser,Justice Policy Group,0,21096,36061,Policy
+,334,Mar-13,Junior,,Band D,Policy Adviser,Justice Policy Group,0,17513,28000,Policy
+,334,Mar-13,Junior,,Band E,Policy Adviser,Justice Policy Group,0,15935,22250,Policy
+,78,Mar-13,Junior,,Band A,Transition Manager,Corporate Performance Group,0,42034,67969,Information Technology
+,78,Mar-13,Junior,,Band A,Architect / IA / Service Manager,Corporate Performance Group,0,42034,67969,Information Technology
+,78,Mar-13,Junior,,Band A,Commercial Manager,Corporate Performance Group,0,42034,67969,Procurement
+,78,Mar-13,Junior,,Band B,Transition Analyst,Corporate Performance Group,0,29634,44964,Information Technology
+,78,Mar-13,Junior,,Band B,Service Analyst,Corporate Performance Group,0,29634,44964,Information Technology
+,78,Mar-13,Junior,,Band B,Commercial Support,Corporate Performance Group,0,29634,44964,Procurement
+,78,Mar-13,Junior,,Band B,PSO Manager,Corporate Performance Group,0,29634,44964,Programme and Project Management (PPM)
+,78,Mar-13,Junior,,Band C,Transition Support,Corporate Performance Group,0,21096,36061,Information Technology
+,78,Mar-13,Junior,,Band C,PSO Support,Corporate Performance Group,0,21096,36061,Programme and Project Management (PPM)
+,49,Mar-13,Junior,,Band A,Senior HR Manager,Corporate Performance Group,0,42034,67969,Human Resources
+,49,Mar-13,Junior,,Band B,Senior HR Manager,Corporate Performance Group,0,29634,44964,Human Resources
+,49,Mar-13,Junior,,Band C,HR Officer,Corporate Performance Group,0,21096,36061,Human Resources
+,49,Mar-13,Junior,,Band D,HR Officer,Corporate Performance Group,0,17513,28000,Human Resources
+,49,Mar-13,Junior,,Band E,HR Support Officer,Corporate Performance Group,0,15935,22250,Human Resources
+,49,Mar-13,Junior,,Band F,HR Support Officer,Corporate Performance Group,0,13894,18700,Human Resources
+,73,Mar-13,Junior,,Band A,Senior Operational Manager,Corporate Performance Group,0,42034,67969,Operational Delivery
+,73,Mar-13,Junior,,Band B,Senior Operational Manager,Corporate Performance Group,0,29634,44964,Operational Delivery
+,73,Mar-13,Junior,,Band C,Operational Manager,Corporate Performance Group,0,21096,36061,Operational Delivery
+,73,Mar-13,Junior,,Band D,Operational Manager,Corporate Performance Group,0,17513,28000,Operational Delivery
+,73,Mar-13,Junior,,Band E,Operations Support Officer,Corporate Performance Group,0,15935,22250,Operational Delivery
+,73,Mar-13,Junior,,Band F,Operations Support Officer,Corporate Performance Group,0,13894,18700,Operational Delivery
+,314,Mar-13,Junior,,Band A,Senior Legal Adviser,Her Majesty's Courts and Tribunals Service (HMCTS),0,42034,67969,Law
+,314,Mar-13,Junior,,Band A,Legal Adviser,Her Majesty's Courts and Tribunals Service (HMCTS),0,42034,67969,Law
+,314,Mar-13,Junior,,Band A,Senior Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,42034,67969,Operational Delivery
+,314,Mar-13,Junior,,Band B,Legal Adviser,Her Majesty's Courts and Tribunals Service (HMCTS),0,29634,44964,Law
+,314,Mar-13,Junior,,Band B,Senior Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,29634,44964,Operational Delivery
+,314,Mar-13,Junior,,Band C,Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,21096,36061,Operational Delivery
+,314,Mar-13,Junior,,Band D,Operations Support Officer,Her Majesty's Courts and Tribunals Service (HMCTS),0,17513,28000,Operational Delivery
+,314,Mar-13,Junior,,Band D,Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,17513,28000,Operational Delivery
+,314,Mar-13,Junior,,Band E,Operations Support Officer,Her Majesty's Courts and Tribunals Service (HMCTS),0,15935,22250,Operational Delivery
+,314,Mar-13,Junior,,Band F,Operations Support Officer,Her Majesty's Courts and Tribunals Service (HMCTS),0,13894,18700,Operational Delivery
+,314,Mar-13,Junior,,Band A,Senior Legal Adviser,Her Majesty's Courts and Tribunals Service (HMCTS),0,42034,67969,Law
+,314,Mar-13,Junior,,Band A,Senior Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,42034,67969,Operational Delivery
+,314,Mar-13,Junior,,Band B,Legal Adviser,Her Majesty's Courts and Tribunals Service (HMCTS),0,29634,44964,Law
+,314,Mar-13,Junior,,Band B,Senior Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,29634,44964,Operational Delivery
+,314,Mar-13,Junior,,Band C,Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,21096,36061,Operational Delivery
+,314,Mar-13,Junior,,Band D,Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,17513,28000,Operational Delivery
+,314,Mar-13,Junior,,Band D,Operations Support Officer,Her Majesty's Courts and Tribunals Service (HMCTS),0,17513,28000,Operational Delivery
+,311,Mar-13,Junior,,Band E,Operations Support Officer,Her Majesty's Courts and Tribunals Service (HMCTS),0,15935,22250,Operational Delivery
+,311,Mar-13,Junior,,Band F,Operations Support Officer,Her Majesty's Courts and Tribunals Service (HMCTS),0,13894,18700,Operational Delivery
+,306,Mar-13,Junior,,Band A,Senior Legal Adviser,Her Majesty's Courts and Tribunals Service (HMCTS),0,42034,67969,Law
+,306,Mar-13,Junior,,Band A,Senior Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,42034,67969,Operational Delivery
+,306,Mar-13,Junior,,Band B,Legal Adviser,Her Majesty's Courts and Tribunals Service (HMCTS),0,29634,44964,Law
+,306,Mar-13,Junior,,Band B,Senior Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,29634,44964,Operational Delivery
+,306,Mar-13,Junior,,Band D,Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,17513,28000,Operational Delivery
+,306,Mar-13,Junior,,Band D,Operations Support Officer,Her Majesty's Courts and Tribunals Service (HMCTS),0,17513,28000,Operational Delivery
+,306,Mar-13,Junior,,Band E,Operations Support Officer,Her Majesty's Courts and Tribunals Service (HMCTS),0,15935,22250,Operational Delivery
+,306,Mar-13,Junior,,Band F,Operations Support Officer,Her Majesty's Courts and Tribunals Service (HMCTS),0,13894,18700,Operational Delivery
+,306,Mar-13,Junior,,Band C,Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,21096,36061,Operational Delivery
+,306,Mar-13,Junior,,Band A,Senior Legal Adviser,Her Majesty's Courts and Tribunals Service (HMCTS),0,42034,67969,Law
+,306,Mar-13,Junior,,Band A,Senior Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,42034,67969,Operational Delivery
+,306,Mar-13,Junior,,Band B,Legal Adviser,Her Majesty's Courts and Tribunals Service (HMCTS),0,29634,44964,Law
+,306,Mar-13,Junior,,Band B,Senior Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,29634,44964,Operational Delivery
+,306,Mar-13,Junior,,Band C,Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,21096,36061,Operational Delivery
+,306,Mar-13,Junior,,Band D,Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,17513,28000,Operational Delivery
+,306,Mar-13,Junior,,Band D,Operations Support Officer,Her Majesty's Courts and Tribunals Service (HMCTS),0,17513,28000,Operational Delivery
+,303,Mar-13,Junior,,Band E,Operations Support Officer,Her Majesty's Courts and Tribunals Service (HMCTS),0,15935,22250,Operational Delivery
+,303,Mar-13,Junior,,Band F,Operations Support Officer,Her Majesty's Courts and Tribunals Service (HMCTS),0,13894,18700,Operational Delivery
+,50,Mar-13,Junior,,Band A,Senior Legal Adviser,Her Majesty's Courts and Tribunals Service (HMCTS),0,42034,67969,Law
+,50,Mar-13,Junior,,Band A,Senior Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,42034,67969,Operational Delivery
+,50,Mar-13,Junior,,Band B,Senior Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,29634,44964,Operational Delivery
+,50,Mar-13,Junior,,Band C,Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,21096,36061,Operational Delivery
+,50,Mar-13,Junior,,Band C,Operations Support Officer,Her Majesty's Courts and Tribunals Service (HMCTS),0,21096,36061,Operational Delivery
+,50,Mar-13,Junior,,Band D,Operations Support Officer,Her Majesty's Courts and Tribunals Service (HMCTS),0,17513,28000,Operational Delivery
+,50,Mar-13,Junior,,Band D,Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,17513,28000,Operational Delivery
+,50,Mar-13,Junior,,Band E,Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,15935,22250,Operational Delivery
+,50,Mar-13,Junior,,Band E,Operations Support Officer,Her Majesty's Courts and Tribunals Service (HMCTS),0,15935,22250,Operational Delivery
+,50,Mar-13,Junior,,Band F,Operations Support Officer,Her Majesty's Courts and Tribunals Service (HMCTS),0,13894,18700,Operational Delivery
+,2,Mar-13,Junior,,Band A,Senior Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,42034,67969,Operational Delivery
+,4,Mar-13,Junior,,Band D,Operations Support Officer,Her Majesty's Courts and Tribunals Service (HMCTS),0,17513,28000,Operational Delivery
+,13,Mar-13,Junior,,Band A,Senior Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,42034,67969,Operational Delivery
+,13,Mar-13,Junior,,Band B,Senior Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,29634,44964,Operational Delivery
+,44,Mar-13,Junior,,Band A,Senior Finance Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,42034,67969,Finance
+,44,Mar-13,Junior,,Band A,Senior Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,42034,67969,Operational Delivery
+,44,Mar-13,Junior,,Band B,Senior Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,29634,44964,Operational Delivery
+,44,Mar-13,Junior,,Band C,Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,21096,36061,Operational Delivery
+,44,Mar-13,Junior,,Band D,Finance Support Officer,Her Majesty's Courts and Tribunals Service (HMCTS),0,17513,28000,Finance
+,44,Mar-13,Junior,,Band D,Operations Support Officer,Her Majesty's Courts and Tribunals Service (HMCTS),0,17513,28000,Operational Delivery
+,44,Mar-13,Junior,,Band E,Operations Support Officer,Her Majesty's Courts and Tribunals Service (HMCTS),0,15935,22250,Operational Delivery
+,44,Mar-13,Junior,,Band F,Operations Support Officer,Her Majesty's Courts and Tribunals Service (HMCTS),0,13894,18700,Operational Delivery
+,48,Mar-13,Junior,,Band A,Senior Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,42034,67969,Operational Delivery
+,48,Mar-13,Junior,,Band B,Legal Adviser,Her Majesty's Courts and Tribunals Service (HMCTS),0,29634,44964,Law
+,48,Mar-13,Junior,,Band B,Senior Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,29634,44964,Operational Delivery
+,48,Mar-13,Junior,,Band C,Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,21096,36061,Operational Delivery
+,48,Mar-13,Junior,,Band D,Operations Support Officer,Her Majesty's Courts and Tribunals Service (HMCTS),0,17513,28000,Operational Delivery
+,48,Mar-13,Junior,,Band D,Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,17513,28000,Operational Delivery
+,48,Mar-13,Junior,,Band E,Finance Support Officer,Her Majesty's Courts and Tribunals Service (HMCTS),0,15935,22250,Finance
+,48,Mar-13,Junior,,Band E,Operations Support Officer,Her Majesty's Courts and Tribunals Service (HMCTS),0,15935,22250,Operational Delivery
+,48,Mar-13,Junior,,Band F,Operations Support Officer,Her Majesty's Courts and Tribunals Service (HMCTS),0,13894,18700,Operational Delivery
+,315,Mar-13,Junior,,Band A,Senior Legal Adviser,Her Majesty's Courts and Tribunals Service (HMCTS),0,42034,67969,Law
+,315,Mar-13,Junior,,Band A,Senior Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,42034,67969,Operational Delivery
+,315,Mar-13,Junior,,Band B,Legal Adviser,Her Majesty's Courts and Tribunals Service (HMCTS),0,29634,44964,Law
+,315,Mar-13,Junior,,Band B,Senior Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,29634,44964,Operational Delivery
+,315,Mar-13,Junior,,Band C,Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,21096,36061,Operational Delivery
+,315,Mar-13,Junior,,Band C,Operations Support Officer,Her Majesty's Courts and Tribunals Service (HMCTS),0,21096,36061,Operational Delivery
+,315,Mar-13,Junior,,Band D,Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,17513,28000,Operational Delivery
+,315,Mar-13,Junior,,Band D,Operations Support Officer,Her Majesty's Courts and Tribunals Service (HMCTS),0,17513,28000,Operational Delivery
+,318,Mar-13,Junior,,Band E,Operations Support Officer,Her Majesty's Courts and Tribunals Service (HMCTS),0,15935,22250,Operational Delivery
+,318,Mar-13,Junior,,Band A,Senior Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,42034,67969,Operational Delivery
+,318,Mar-13,Junior,,Band B,Senior Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,29634,44964,Operational Delivery
+,318,Mar-13,Junior,,Band B,Legal Adviser,Her Majesty's Courts and Tribunals Service (HMCTS),0,29634,44964,Law
+,318,Mar-13,Junior,,Band C,Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,21096,36061,Operational Delivery
+,318,Mar-13,Junior,,Band D,Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,17513,28000,Operational Delivery
+,318,Mar-13,Junior,,Band D,Operations Support Officer,Her Majesty's Courts and Tribunals Service (HMCTS),0,17513,28000,Operational Delivery
+,318,Mar-13,Junior,,Band E,Operations Support Officer,Her Majesty's Courts and Tribunals Service (HMCTS),0,15935,22250,Operational Delivery
+,318,Mar-13,Junior,,Fast Streamer,Fastreamer,Her Majesty's Courts and Tribunals Service (HMCTS),0,27000,43400,Operational Delivery
+,319,Mar-13,Junior,,Band B,Senior Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,29634,44964,Operational Delivery
+,319,Mar-13,Junior,,Band C,Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,21096,36061,Operational Delivery
+,319,Mar-13,Junior,,Band D,Operations Support Officer,Her Majesty's Courts and Tribunals Service (HMCTS),0,17513,28000,Operational Delivery
+,188,Mar-13,Junior,,Band A,Senior Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,42034,67969,Operational Delivery
+,188,Mar-13,Junior,,Band B,Senior Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,29634,44964,Operational Delivery
+,188,Mar-13,Junior,,Band C,Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,21096,36061,Operational Delivery
+,188,Mar-13,Junior,,Band D,Operations Support Officer,Her Majesty's Courts and Tribunals Service (HMCTS),0,17513,28000,Operational Delivery
+,188,Mar-13,Junior,,Band E,Operations Support Officer,Her Majesty's Courts and Tribunals Service (HMCTS),0,15935,22250,Operational Delivery
+,48,Mar-13,Junior,,Band A,Senior HR Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,42034,67969,Human Resources
+,48,Mar-13,Junior,,Band B,Senior HR Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,29634,44964,Human Resources
+,48,Mar-13,Junior,,Band C,HR Officer,Her Majesty's Courts and Tribunals Service (HMCTS),0,21096,36061,Human Resources
+,48,Mar-13,Junior,,Band D,HR Officer,Her Majesty's Courts and Tribunals Service (HMCTS),0,17513,28000,Human Resources
+,48,Mar-13,Junior,,Band E,HR Officer,Her Majesty's Courts and Tribunals Service (HMCTS),0,15935,22250,Human Resources
+,2,Mar-13,Junior,,Band F,Diary Secretary,Her Majesty's Courts and Tribunals Service (HMCTS),0,13894,18700,Operational Delivery
+,309,Mar-13,Junior,,Band F,Operations Support Officer,Her Majesty's Courts and Tribunals Service (HMCTS),0,13894,18700,Operational Delivery
+,309,Mar-13,Junior,,Band A,Senior Legal Adviser,Her Majesty's Courts and Tribunals Service (HMCTS),0,42034,67969,Law
+,309,Mar-13,Junior,,Band A,Senior Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,42034,67969,Operational Delivery
+,309,Mar-13,Junior,,Band B,Legal Adviser,Her Majesty's Courts and Tribunals Service (HMCTS),0,29634,44964,Law
+,309,Mar-13,Junior,,Band B,Senior Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,29634,44964,Operational Delivery
+,309,Mar-13,Junior,,Band C,Trainee Legal Advisor,Her Majesty's Courts and Tribunals Service (HMCTS),0,21096,36061,Law
+,309,Mar-13,Junior,,Band C,Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,21096,36061,Operational Delivery
+,309,Mar-13,Junior,,Band D,Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,17513,28000,Operational Delivery
+,309,Mar-13,Junior,,Band D,Operations Support Officer,Her Majesty's Courts and Tribunals Service (HMCTS),0,17513,28000,Operational Delivery
+,309,Mar-13,Junior,,Band E,Operations Support Officer,Her Majesty's Courts and Tribunals Service (HMCTS),0,15935,22250,Operational Delivery
+,309,Mar-13,Junior,,Band F,Operations Support Officer,Her Majesty's Courts and Tribunals Service (HMCTS),0,13894,18700,Operational Delivery
+,302,Mar-13,Junior,,Fast Streamer,Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,27000,43400,Operational Delivery
+,302,Mar-13,Junior,,Band A,Senior Legal Adviser,Her Majesty's Courts and Tribunals Service (HMCTS),0,42034,67969,Law
+,302,Mar-13,Junior,,Band A,Senior Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,42034,67969,Operational Delivery
+,302,Mar-13,Junior,,Band B,Legal Adviser,Her Majesty's Courts and Tribunals Service (HMCTS),0,29634,44964,Law
+,302,Mar-13,Junior,,Band B,Senior Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,29634,44964,Operational Delivery
+,302,Mar-13,Junior,,Band C,Trainee Legal Advisor,Her Majesty's Courts and Tribunals Service (HMCTS),0,21096,36061,Law
+,302,Mar-13,Junior,,Band D,Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,17513,28000,Operational Delivery
+,302,Mar-13,Junior,,Band D,Operations Support Officer,Her Majesty's Courts and Tribunals Service (HMCTS),0,17513,28000,Operational Delivery
+,302,Mar-13,Junior,,Band E,Operations Support Officer,Her Majesty's Courts and Tribunals Service (HMCTS),0,15935,22250,Operational Delivery
+,302,Mar-13,Junior,,Band F,Operations Support Officer,Her Majesty's Courts and Tribunals Service (HMCTS),0,13894,18700,Operational Delivery
+,302,Mar-13,Junior,,Fast Streamer,Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,27000,43400,Operational Delivery
+,302,Mar-13,Junior,,Band C,Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,21096,36061,Operational Delivery
+,50,Mar-13,Junior,,Fast Streamer,Fastreamer,Her Majesty's Courts and Tribunals Service (HMCTS),0,27000,43400,Operational Delivery
+,301,Mar-13,Junior,,Band A,Senior Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,42034,67969,Operational Delivery
+,301,Mar-13,Junior,,Band A,Senior Policy Adviser,Her Majesty's Courts and Tribunals Service (HMCTS),0,42034,67969,Policy
+,301,Mar-13,Junior,,Band B,Senior Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,29634,44964,Operational Delivery
+,301,Mar-13,Junior,,Band C,Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,21096,36061,Operational Delivery
+,301,Mar-13,Junior,,Band D,Operations Support Officer,Her Majesty's Courts and Tribunals Service (HMCTS),0,17513,28000,Operational Delivery
+,301,Mar-13,Junior,,Fast Streamer,Fastreamer,Her Majesty's Courts and Tribunals Service (HMCTS),0,27000,43400,Operational Delivery
+,317,Mar-13,Junior,,Band A,Senior Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,42034,67969,Operational Delivery
+,317,Mar-13,Junior,,Band B,Senior Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,29634,44964,Operational Delivery
+,317,Mar-13,Junior,,Band C,Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,21096,36061,Operational Delivery
+,317,Mar-13,Junior,,Band D,Operations Support Officer,Her Majesty's Courts and Tribunals Service (HMCTS),0,17513,28000,Operational Delivery
+,317,Mar-13,Junior,,Band E,Operations Support Officer,Her Majesty's Courts and Tribunals Service (HMCTS),0,15935,22250,Operational Delivery
+,4,Mar-13,Junior,,Band B,Senior Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,29634,44964,Operational Delivery
+,188,Mar-13,Junior,,Fast Streamer,Fastreamer,Her Majesty's Courts and Tribunals Service (HMCTS),0,27000,43400,Operational Delivery
+,315,Mar-13,Junior,,Fast Streamer,Fastreamer,Her Majesty's Courts and Tribunals Service (HMCTS),0,27000,43400,Operational Delivery
+,317,Mar-13,Junior,,Band F,Operations Support Officer,Her Majesty's Courts and Tribunals Service (HMCTS),0,13894,18700,Operational Delivery
+,43,Mar-13,Junior,,Band A,Senior Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,42034,67969,Operational Delivery
+,43,Mar-13,Junior,,Band B,Senior Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,29634,44964,Operational Delivery
+,43,Mar-13,Junior,,Band C,Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,21096,36061,Operational Delivery
+,43,Mar-13,Junior,,Band D,Operations Support Officer,Her Majesty's Courts and Tribunals Service (HMCTS),0,17513,28000,Operational Delivery
+,43,Mar-13,Junior,,Band E,Operations Support Officer,Her Majesty's Courts and Tribunals Service (HMCTS),0,15935,22250,Operational Delivery
+,14,Mar-13,Junior,,Band A,Senior Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,42034,67969,Information Technology
+,14,Mar-13,Junior,,Band B,Senior Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,29634,44964,Information Technology
+,14,Mar-13,Junior,,Band C,Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,21096,36061,Information Technology
+,14,Mar-13,Junior,,Band D,Operations Support Officer,Her Majesty's Courts and Tribunals Service (HMCTS),0,17513,28000,Information Technology
+,4,Mar-13,Junior,,Band A,Senior Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,42034,67969,Operational Delivery
+,4,Mar-13,Junior,,Band C,Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,21096,36061,Operational Delivery
+,304,Mar-13,Junior,,Fast Streamer,Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,27000,43400,Operational Delivery
+,304,Mar-13,Junior,,Fast Streamer,Fastreamer,Her Majesty's Courts and Tribunals Service (HMCTS),0,27000,43400,Operational Delivery
+,317,Mar-13,Junior,,Fast Streamer,Fastreamer,Her Majesty's Courts and Tribunals Service (HMCTS),0,27000,43400,Operational Delivery
+,319,Mar-13,Junior,,Band E,Operations Support Officer,Her Majesty's Courts and Tribunals Service (HMCTS),0,15935,22250,Operational Delivery
+,319,Mar-13,Junior,,Band F,Operations Support Officer,Her Majesty's Courts and Tribunals Service (HMCTS),0,13894,18700,Operational Delivery
+,343,Mar-13,Junior,,Band A,Senior Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,42034,67969,Operational Delivery
+,343,Mar-13,Junior,,Band B,Senior Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,29634,44964,Operational Delivery
+,343,Mar-13,Junior,,Band C,Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,21096,36061,Operational Delivery
+,343,Mar-13,Junior,,Band D,Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,17513,28000,Operational Delivery
+,343,Mar-13,Junior,,Band D,Operations Support Officer,Her Majesty's Courts and Tribunals Service (HMCTS),0,17513,28000,Operational Delivery
+,343,Mar-13,Junior,,Band E,Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,15935,22250,Operational Delivery
+,343,Mar-13,Junior,,Band E,Operations Support Officer,Her Majesty's Courts and Tribunals Service (HMCTS),0,15935,22250,Operational Delivery
+,343,Mar-13,Junior,,Band F,Operations Support Officer,Her Majesty's Courts and Tribunals Service (HMCTS),0,13894,18700,Operational Delivery
+,343,Mar-13,Junior,,Fast Streamer,Fastreamer,Her Majesty's Courts and Tribunals Service (HMCTS),0,27000,43400,Operational Delivery
+,319,Mar-13,Junior,,Band A,Senior Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,42034,67969,Operational Delivery
+,319,Mar-13,Junior,,Band B,Senior Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,29634,44964,Operational Delivery
+,319,Mar-13,Junior,,Band C,Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,21096,36061,Operational Delivery
+,319,Mar-13,Junior,,Band D,Operations Support Officer,Her Majesty's Courts and Tribunals Service (HMCTS),0,17513,28000,Operational Delivery
+,48,Mar-13,Junior,,Band A,Senior Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,42034,67969,Operational Delivery
+,48,Mar-13,Junior,,Band B,Senior Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,29634,44964,Operational Delivery
+,48,Mar-13,Junior,,Band C,Operational Manager,Her Majesty's Courts and Tribunals Service (HMCTS),0,21096,36061,Operational Delivery
+,41,Mar-13,Junior,,Band D,Operations Support Officer,Her Majesty's Courts and Tribunals Service (HMCTS),0,17513,28000,Operational Delivery
+,41,Mar-13,Junior,,Band A,Practice & Compliance,Office of the Public Guardian (OPG),0,42034,67969,Operational Delivery
+,41,Mar-13,Junior,,Band B,Practice & Compliance,Office of the Public Guardian (OPG),0,29634,44964,Operational Delivery
+,41,Mar-13,Junior,,Band C,Practice & Compliance,Office of the Public Guardian (OPG),0,21096,36061,Operational Delivery
+,41,Mar-13,Junior,,Band D,Practice & Compliance,Office of the Public Guardian (OPG),0,17513,28000,Operational Delivery
+,41,Mar-13,Junior,,Band E,Practice & Compliance,Office of the Public Guardian (OPG),0,15935,22250,Operational Delivery
+,41,Mar-13,Junior,,Band A,Strategy & Business Development,Office of the Public Guardian (OPG),0,42034,67969,Operational Delivery
+,41,Mar-13,Junior,,Band B,Strategy & Business Development,Office of the Public Guardian (OPG),0,29634,44964,Operational Delivery
+,41,Mar-13,Junior,,Band C,Strategy & Business Development,Office of the Public Guardian (OPG),0,21096,36061,Operational Delivery
+,41,Mar-13,Junior,,Band D,Strategy & Business Development,Office of the Public Guardian (OPG),0,17513,28000,Operational Delivery
+,41,Mar-13,Junior,,Fast Streamer,Strategy & Business Development,Office of the Public Guardian (OPG),0,27000,43400,Operational Delivery
+,41,Mar-13,Junior,,Band E,Strategy & Business Development,Office of the Public Guardian (OPG),0,15935,22250,Operational Delivery
+,41,Mar-13,Junior,,Band A,Corporate Services,Office of the Public Guardian (OPG),0,42034,67969,Operational Delivery
+,41,Mar-13,Junior,,Band B,Corporate Services,Office of the Public Guardian (OPG),0,29634,44964,Operational Delivery
+,41,Mar-13,Junior,,Band C,Corporate Services,Office of the Public Guardian (OPG),0,21096,36061,Operational Delivery
+,41,Mar-13,Junior,,Band D,Corporate Services,Office of the Public Guardian (OPG),0,17513,28000,Operational Delivery
+,41,Mar-13,Junior,,Band E,Corporate Services,Office of the Public Guardian (OPG),0,15935,22250,Operational Delivery
+,41,Mar-13,Junior,,Band A,CEO,Office of the Public Guardian (OPG),0,42034,67969,Operational Delivery
+,41,Mar-13,Junior,,Band C,CEO,Office of the Public Guardian (OPG),0,21096,36061,Operational Delivery
+,41,Mar-13,Junior,,Band D,CEO,Office of the Public Guardian (OPG),0,17513,28000,Operational Delivery
+,41,Mar-13,Junior,,Band E,CEO,Office of the Public Guardian (OPG),0,15935,22250,Operational Delivery
+,41,Mar-13,Junior,,Band A,Transformation,Office of the Public Guardian (OPG),0,42034,67969,Operational Delivery
+,41,Mar-13,Junior,,Band B,Transformation,Office of the Public Guardian (OPG),0,29634,44964,Operational Delivery
+,41,Mar-13,Junior,,Band C,Transformation,Office of the Public Guardian (OPG),0,21096,36061,Operational Delivery
+,41,Mar-13,Junior,,Band D,Transformation,Office of the Public Guardian (OPG),0,17513,28000,Operational Delivery
+,41,Mar-13,Junior,,Fast Streamer,Transformation,Office of the Public Guardian (OPG),0,27000,43400,Operational Delivery
+,41,Mar-13,Junior,,Band A,Operations,Office of the Public Guardian (OPG),0,42034,67969,Operational Delivery
+,41,Mar-13,Junior,,Band B,Operations,Office of the Public Guardian (OPG),0,29634,44964,Operational Delivery
+,41,Mar-13,Junior,,Band C,Operations,Office of the Public Guardian (OPG),0,21096,36061,Operational Delivery
+,41,Mar-13,Junior,,Band D,Operations,Office of the Public Guardian (OPG),0,17513,28000,Operational Delivery
+,41,Mar-13,Junior,,Band E,Operations,Office of the Public Guardian (OPG),0,15935,22250,Operational Delivery
+,41,Mar-13,Junior,,Band F,Operations,Office of the Public Guardian (OPG),0,13894,18700,Operational Delivery
+,84,Mar-13,Junior,,Band A,Senior Procurement Officer,Corporate Performance Group,0,42034,67969,Procurement
+,84,Mar-13,Junior,,Band B,Senior Procurement Officer,Corporate Performance Group,0,29634,44964,Procurement
+,84,Mar-13,Junior,,Band D,Procurement Officer,Corporate Performance Group,0,17513,28000,Procurement
+,85,Mar-13,Junior,,Band E,Admin Support officer,Corporate Performance Group,0,15935,22250,Procurement
+,85,Mar-13,Junior,,Band A,Transport,Corporate Performance Group,0,42034,67969,Procurement
+,85,Mar-13,Junior,,Band B,Senior Procurement Officer,Corporate Performance Group,0,29634,44964,Procurement
+,85,Mar-13,Junior,,Band B,Transport,Corporate Performance Group,0,29634,44964,Procurement
+,85,Mar-13,Junior,,Band C,Procurement Officer,Corporate Performance Group,0,21096,36061,Procurement
+,85,Mar-13,Junior,,Band C,Transport,Corporate Performance Group,0,21096,36061,Procurement
+,85,Mar-13,Junior,,Band D,Procurement Officer,Corporate Performance Group,0,17513,28000,Procurement
+,85,Mar-13,Junior,,Band D,Transport,Corporate Performance Group,0,17513,28000,Procurement
+,85,Mar-13,Junior,,Band E,Procurement Support Officer,Corporate Performance Group,0,15935,22250,Procurement
+,85,Mar-13,Junior,,Band E,Transport,Corporate Performance Group,0,15935,22250,Procurement
+,85,Mar-13,Junior,,Band F,Transport,Corporate Performance Group,0,13894,18700,Procurement
+,85,Mar-13,Junior,,Band D,Transport,Corporate Performance Group,0,17513,28000,Procurement
+,217,Mar-13,Junior,,Band A,Senior Procurement Officer,Corporate Performance Group,0,42034,67969,Procurement
+,217,Mar-13,Junior,,Band D,Senior Procurement Officer,Corporate Performance Group,0,17513,28000,Procurement
+,327,Mar-13,Junior,,Band A,Programme Manager,Corporate Performance Group,0,42034,67969,Information Technology
+,327,Mar-13,Junior,,Band B,Programme Manager,Corporate Performance Group,0,29634,44964,Information Technology
+,327,Mar-13,Junior,,Band C,Programme Support Officer,Corporate Performance Group,0,21096,36061,Information Technology
+,327,Mar-13,Junior,,Band D,Programme Support Officer,Corporate Performance Group,0,17513,28000,Information Technology
+,327,Mar-13,Junior,,Band D,Programme Support Officer,Corporate Performance Group,0,17513,28000,Information Technology
