@@ -2,31 +2,21 @@ var d3 = require('d3');
 var _ = require('lodash');
 var fs = require('fs');
 
-// function checkData(data) {
-//     allIds = data.map(d => d.id);
-//     allIds = _.uniq(allIds);
-
-//     allParentIds = data.map(d => d.parentId);
-//     allParentIds = _.uniq(allParentIds);
-    
-//     // console.log(allIds, allParentIds);
-
-//     console.log('data length', data.length, 'allIds length', allIds.length);
-
-//     allParentIds.forEach(id => {
-//         if(!_.includes(allIds,  id)) {
-//             console.log('no parent for', id);
-//         }
-//     });
-// }
-
 function cullCols(data) {
     let ret = data.map(d => {
         return {
             date: d['Back to Index'],
-            level: d['Senior/Junior'],
             id: d['Post Unique Reference'],
-            parentId: d['Reports to Senior Post']
+            parentId: d['Reports to Senior Post'],
+            level: d['Senior/Junior'],
+            name: d['Name'],
+            grade: d['Grade (or equivalent)'],
+            jobTitle: d['Job Title'],
+            unit: d['Unit'],
+            salaryCostOfReports: +d['Salary Cost of Reports (£)'],
+            payFloor: d['Actual Pay Floor (£)'],
+            payCeil: d['Actual Pay Ceiling (£)'],
+            professionalOccupationalGroup: d['Professional/Occupational Group']
         };
     });
 
@@ -36,9 +26,10 @@ function cullCols(data) {
 function capitaliseRootId(data) {
     let ret = data.map(d => {
         return {
-            date: d.date,
-            level: d.level,
-            id: d.id,
+            ...d, 
+            // date: d.date,
+            // level: d.level,
+            // id: d.id,
             parentId: d.parentId.toUpperCase() === 'XX' ? 'XX' : d.parentId
         };
     });
@@ -54,15 +45,22 @@ function getSingleDate(data) {
     return ret;
 }
 
+// function removeDateColumn(data) {
+//     data.forEach(d => {
+//         delete d.date;
+//     });
+// }
+
 function fixCircularRelations(data) {
     // In some cases e.g. DCMS Mar-15, some parentIds === id
     // In these cases, change parentId to 'XX'
     // Not sure if this is correct, but it at least allows tree to be created
     let ret = data.map(d => {
         return {
-            date: d.date,
-            level: d.level,
-            id: d.id,
+            ...d,
+            // date: d.date,
+            // level: d.level,
+            // id: d.id,
             parentId: d.id === d.parentId ? 'XX' : d.parentId
         };
     });
@@ -85,8 +83,8 @@ function addUniqueRoot(data) {
     }
 
     data.unshift({
-        date: '',
-        level: '',
+        // date: '',
+        // level: '',
         id: 'root',
         parentId: 'XX'
     });
@@ -117,7 +115,7 @@ function filterOutDuplicateIds(data) {
 function filterOutRowsWithMissingParent(data) {
     // If a row's parent doesn't exist, filter out
     let allIds = data.map(d => d.id);
-    console.log('allIds', allIds, _.includes(allIds, '405'))
+    // console.log('allIds', allIds, _.includes(allIds, '405'))
     allIds = _.uniq(allIds);
     allIds.push('XX');
 
@@ -130,9 +128,10 @@ function rewriteXXToBlank(data) {
     // XX represents root in the data, but D3's stratify requires root to be ''
     let ret = data.map(d => {
         return {
-            date: d.date,
-            level: d.level,
-            id: d.id,
+            ...d,
+            // date: d.date,
+            // level: d.level,
+            // id: d.id,
             parentId: d.parentId === 'XX' ? '' : d.parentId
         };
     });
@@ -140,15 +139,23 @@ function rewriteXXToBlank(data) {
     return ret;
 }
 
+function flattenInfo(data) {
+    let ret = data.map(d => {
+        return {
+        };
+    });
+}
+
 fs.readdir('csv', (err, files) => {
     files.forEach(file => {
         var f = fs.readFileSync('csv/' + file, 'utf8');
         var data = d3.csvParse(f);
 
-        console.log(file);
+        // console.log(file);
 
         data = cullCols(data);
         data = getSingleDate(data);
+        // removeDateColumn(data);
 
         data = capitaliseRootId(data);
         data = fixCircularRelations(data);
