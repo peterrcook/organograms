@@ -1,5 +1,4 @@
-var treeLayout = d3.tree()
-    .size([2 * Math.PI, 1]);
+var treeLayout = d3.tree();
 
 function ptFromAngDis(a, d) {
     var x = d * Math.sin(a);
@@ -8,11 +7,37 @@ function ptFromAngDis(a, d) {
     return {x: x, y: y};
 }
 
+function getRoot(data) {
+    let stratify = d3.stratify()
+        .id(d => d.id)
+        .parentId(d => d.parentId);
+
+    let root = stratify(data);
+
+    return root;
+}
+
 function applyTreeLayout(root) {
+    var size = 0.5 * Math.min(state.width, state.height) - 20;
+    treeLayout
+        .size([2 * Math.PI, size]);
     treeLayout(root);
 }
 
-function computeLinkPositions(root) {
+function getNodes(root) {
+    var nodes = root.descendants().map(function(d) {
+        var pt = ptFromAngDis(d.x, d.y);
+        return {
+            x: pt.x,
+            y: pt.y,
+            data: d.data
+        };
+    });
+
+    return nodes;
+}
+
+function getLinks(root) {
     console.log(root.links());
 
     var links = root.links().map(function(d) {

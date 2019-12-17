@@ -6,11 +6,11 @@ function updateBitmapCanvas() {
     if(!state.selectedId) {
         d3.select('#chart')
             // .transition()
-            .style('opacity', 0)
-            .on('end', function() {
-                d3.select(this)
+            // .style('opacity', 0)
+            // .on('end', function() {
+            //     d3.select(this)
                     .style('display', 'none');
-            });
+            // });
         return;
     }
 

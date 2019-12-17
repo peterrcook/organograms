@@ -10,7 +10,7 @@ var state = {
     bitmapTransform: d3.zoomIdentity,
     vectorTransform: d3.zoomIdentity,
 
-    size: 400,
+    voronoi: null,
 
     vectorUpdateTimer: null
 }
@@ -34,8 +34,9 @@ function action(type, args) {
         state.root = getRoot(state.data);
         applyTreeLayout(state.root);
 
-        state.nodes = state.root.descendants();
-        state.links = computeLinkPositions(state.root);
+        state.nodes = getNodes(state.root);
+        state.links = getLinks(state.root);
+        state.voronoi = updateVoronoi(state.nodes);
 
         updateAndCopyVectorCanvas();
         updateGallery();

@@ -35,16 +35,10 @@ function updateVectorCanvas() {
 
     vectorCtx.translate(0.5 * state.width, 0.5 * state.height);
 
-    var size = 0.5 * Math.min(state.width, state.height) - padding;
-    vectorCtx.scale(size, size);
-    vectorCtx.lineWidth /= size;
-    radius /= size;
-
     // Nodes
     state.nodes.forEach(d => {
-        var pt = ptFromAngDis(d.x, d.y);
         vectorCtx.beginPath();
-        vectorCtx.arc(pt.x, pt.y, radius, 0, twoPi);
+        vectorCtx.arc(d.x, d.y, radius, 0, twoPi);
         vectorCtx.fill();
     });
 
