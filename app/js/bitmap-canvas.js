@@ -26,6 +26,14 @@ function updateBitmapCanvas() {
 
     bitmapCtx.clearRect(0, 0, state.width, state.height);
 
+    var vt = state.vectorTransform;
+    var bt = state.bitmapTransform;
+
+    var k = bt.k;
+    var x = bt.x;
+    var y = bt.y;
+    bitmapCtx.drawImage(vectorNoTransformCanvas, 0, 0, state.width, state.height, x, y, state.width * k, state.height * k);
+
     // Now find transform 'delta' that takes us from vector-canvas's 
     // image (transformed by vt) to the original image transformed by bt
 
@@ -35,8 +43,6 @@ function updateBitmapCanvas() {
     // [delta][vt][vtInv] = [bt][vtInv]
     // so:
     // [delta] = [bt][vtInv]
-    var vt = state.vectorTransform;
-    var bt = state.bitmapTransform;
 
     var vMatrix = math.matrix([
         [vt.k, 0, vt.x],
@@ -53,11 +59,10 @@ function updateBitmapCanvas() {
 
     var delta = math.multiply(bMatrix, vMatrixInv);
 
-    var k = delta._data[0][0];
-    var x = delta._data[0][2];
-    var y = delta._data[1][2];
+    k = delta._data[0][0];
+    x = delta._data[0][2];
+    y = delta._data[1][2];
 
-   
     bitmapCtx.drawImage(vectorCanvas, 0, 0, state.width, state.height, x, y, state.width * k, state.height * k);
     console.timeEnd('updateBitmapCanvas');
 }

@@ -38,7 +38,10 @@ function action(type, args) {
         state.links = getLinks(state.root);
         state.voronoi = updateVoronoi(state.nodes);
 
-        updateAndCopyVectorCanvas();
+        // updateAndCopyVectorCanvas();
+        updateVectorCanvas();
+        updateVectorNoTransformCanvas();
+        updateBitmapCanvas();
         updateGallery();
         break;
     case 'updateZoomTransform':

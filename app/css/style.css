@@ -42,7 +42,7 @@ canvas {
     left: 0;
 }
 
-#vector-canvas {
+#vector-canvas, #vector-no-transform-canvas {
     display: none;
 }
 

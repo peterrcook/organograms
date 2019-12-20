@@ -17,14 +17,17 @@ function updateVectorCanvas() {
 
     var padding = 20;
 
+    vectorCtx.save();
+
+    // Paint black background, so that vectorNoTransformCanvas (which has been copied to bitmapCanvas)
+    // gets overwritten (otherwise it can look blurry)
+    vectorCtx.fillStyle = '#000';
+    vectorCtx.fillRect(0, 0, state.width, state.height);
 
     vectorCtx.fillStyle = "#aaa";
     vectorCtx.lineWidth = 1;
     var radius = 2;
 
-    vectorCtx.save();
-
-    vectorCtx.clearRect(0, 0, state.width, state.height);
 
     var t = state.vectorTransform;
     vectorCtx.translate(t.x, t.y);
