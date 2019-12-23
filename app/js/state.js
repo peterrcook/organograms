@@ -16,7 +16,7 @@ var state = {
 }
 
 function action(type, args) {
-    console.log('action', type, args);
+    // console.log('action', type, args);
     switch(type) {
     case 'selectDepartment':
         state.selectedId = args.id;
@@ -49,7 +49,7 @@ function action(type, args) {
         updateBitmapCanvas();
 
         window.clearTimeout(state.vectorUpdateTimer);
-        state.vectorUpdateTimer = window.setTimeout(updateAndCopyVectorCanvas, 500);
+        state.vectorUpdateTimer = window.setTimeout(updateAndCopyVectorCanvas, 300);
         break;
     case 'resize':
         state.width = window.innerWidth;
