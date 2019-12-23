@@ -6,6 +6,10 @@ body {
   margin: 0;
 }
 
+#wrapper {
+    position: relative;
+}
+
 .gallery {
     width: 100%;
     display: flex;
@@ -44,6 +48,19 @@ canvas {
 
 #vector-canvas, #vector-no-transform-canvas {
     display: none;
+}
+
+#info-panel {
+    position: fixed;
+    left: 1rem;
+    top: 1rem;
+    font-size: 1rem;
+    line-height: 1.25rem;
+    width: 20rem;
+    height: 20rem;
+    border: 1px solid rgba(50, 50, 50, 0.8);
+    background-color: rgba(10, 10, 10, 0.8);
+    color: #ccc;
 }
 
 @media screen and (min-width: 30em) and (max-width: 60em) {

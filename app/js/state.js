@@ -11,6 +11,7 @@ var state = {
     vectorTransform: d3.zoomIdentity,
 
     voronoi: null,
+    hoveredData: null,
 
     vectorUpdateTimer: null
 }
@@ -57,6 +58,10 @@ function action(type, args) {
         break;
     case 'setVectorTransform':
         state.vectorTransform = args.transform;
+        break;
+    case 'setHoveredItem':
+        state.hoveredData = args.itemData;
+        updateInfoPanel();
         break;
     default:
         console.log('Unknown action', type);
