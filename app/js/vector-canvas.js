@@ -1,8 +1,14 @@
+// Vector canvas is where we draw the individual nodes and links
+
 var twoPi = 2 * Math.PI;
 
 var vectorCanvas = d3.select('#vector-canvas').node();
 var vectorCtx = vectorCanvas.getContext('2d');
 
+var circleColour = '#eee';
+var linkColour = '#aaa';
+
+var radiusScale = d3.scaleLinear().domain([1, 20]).range([2, 6]);
 
 function updateVectorCanvas() {
     console.time('update');
@@ -24,21 +30,23 @@ function updateVectorCanvas() {
     vectorCtx.fillStyle = '#000';
     vectorCtx.fillRect(0, 0, state.width, state.height);
 
-    vectorCtx.fillStyle = "#aaa";
-    vectorCtx.lineWidth = 1;
-    var radius = 2;
-
-
+    // Apply zoom transform
     var t = state.vectorTransform;
     vectorCtx.translate(t.x, t.y);
     vectorCtx.scale(t.k, t.k);
 
+    // Calculate radius (the radius adapts to the zoom level)
+    var radius = radiusScale(t.k);
+
+    // Scale line width and circle radius back to how they'd look without zoom transform
+    // otherwise they get too big
     vectorCtx.lineWidth = 1 / t.k;
     radius /= t.k;
 
     vectorCtx.translate(0.5 * state.width, 0.5 * state.height);
 
     // Nodes
+    vectorCtx.fillStyle = circleColour;
     state.nodes.forEach(d => {
         vectorCtx.beginPath();
         vectorCtx.arc(d.x, d.y, radius, 0, twoPi);
@@ -47,7 +55,7 @@ function updateVectorCanvas() {
 
     
     // Links
-    vectorCtx.strokeStyle = "#aaa";
+    vectorCtx.strokeStyle = linkColour;
     state.links.forEach(d => {
         var c = d.cubic;
         vectorCtx.beginPath();
