@@ -3,10 +3,10 @@ var _ = require('lodash');
 var fs = require('fs');
 
 function cullCols(data) {
-    let ret = data.map(d => {
+    let ret = data.map((d, i) => {
         return {
             date: d['Back to Index'],
-            id: d['Post Unique Reference'],
+            id: d['Post Unique Reference'] || "uid-" + i,
             parentId: d['Reports to Senior Post'],
             level: d['Senior/Junior'],
             name: d['Name'],
