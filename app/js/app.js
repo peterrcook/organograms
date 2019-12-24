@@ -13,10 +13,12 @@ function handleMousemove() {
 
     var pos = state.bitmapTransform.invert([d3.event.x, d3.event.y]);
     
-    var item = state.voronoi.find(pos[0], pos[1]);
+    var item = state.voronoi.find(pos[0], pos[1], 10);
+
+    console.log('item', item);
 
     action('setHoveredItem', {
-        itemData: item.data.data
+        item: item
     });
 
     // console.log(item.data.data);

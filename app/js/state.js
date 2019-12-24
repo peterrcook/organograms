@@ -46,6 +46,7 @@ function action(type, args) {
         updateGallery();
         break;
     case 'updateZoomTransform':
+        state.hoveredData = null;
         state.bitmapTransform = args.transform;
         updateBitmapCanvas();
 
@@ -60,8 +61,12 @@ function action(type, args) {
         state.vectorTransform = args.transform;
         break;
     case 'setHoveredItem':
-        state.hoveredData = args.itemData;
-        updateInfoPanel();
+        var prevHoveredData = state.hoveredData;
+        state.hoveredData = args.item ? args.item.data.data : null;
+        if(prevHoveredData !== state.hoveredData) {
+            updateInfoPanel();
+            updateHighlight();
+        }
         break;
     default:
         console.log('Unknown action', type);
