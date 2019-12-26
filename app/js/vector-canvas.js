@@ -45,15 +45,6 @@ function updateVectorCanvas() {
 
     vectorCtx.translate(0.5 * state.width, 0.5 * state.height);
 
-    // Nodes
-    vectorCtx.fillStyle = circleColour;
-    state.nodes.forEach(d => {
-        vectorCtx.beginPath();
-        vectorCtx.arc(d.x, d.y, radius, 0, twoPi);
-        vectorCtx.fill();
-    });
-
-    
     // Links
     vectorCtx.strokeStyle = linkColour;
     state.links.forEach(d => {
@@ -62,6 +53,14 @@ function updateVectorCanvas() {
         vectorCtx.moveTo(c.p0.x, c.p0.y);
         vectorCtx.bezierCurveTo(c.p1.x, c.p1.y, c.p2.x, c.p2.y, c.p3.x, c.p3.y);
         vectorCtx.stroke();
+    });
+
+    // Nodes
+    vectorCtx.fillStyle = circleColour;
+    state.nodes.forEach(d => {
+        vectorCtx.beginPath();
+        vectorCtx.arc(d.x, d.y, radius, 0, twoPi);
+        vectorCtx.fill();
     });
 
     vectorCtx.restore();
