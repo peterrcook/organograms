@@ -2,6 +2,10 @@ var d3 = require('d3');
 var _ = require('lodash');
 var fs = require('fs');
 
+function removeCommas(d) {
+    return d.replace(/,/g, '');
+}
+
 function cullCols(data) {
     let ret = data.map((d, i) => {
         return {
@@ -14,9 +18,9 @@ function cullCols(data) {
             jobTitle: d['Job Title'],
             unit: d['Unit'],
             salaryCostOfReports: +d['Salary Cost of Reports (£)'],
-            payFloor: d['Actual Pay Floor (£)'],
-            payCeil: d['Actual Pay Ceiling (£)'],
-            professionalOccupationalGroup: d['Professional/Occupational Group']
+            payFloor: removeCommas(d['Actual Pay Floor (£)']),
+            payCeil: removeCommas(d['Actual Pay Ceiling (£)']),
+            professionalOccupationalGroup: d['Professional/Occupational Group'].trim()
         };
     });
 

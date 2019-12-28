@@ -1,115 +1,115 @@
 id,parentId,date,level,name,grade,jobTitle,unit,salaryCostOfReports,payFloor,payCeil,professionalOccupationalGroup
 root,,,,,,,,,,,
-CLG001,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Business Rates and Valuation",Permanent Secretary,0,0,0, 
-CLG002,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Communities and Neighbourhood",Permanent Secretary,0,0,0, 
-CLG003,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Planning Environment",Permanent Secretary,0,0,0, 
-CLG004,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Programme Team",Permanent Secretary,0,0,0, 
-CLG005,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Community Action",Permanent Secretary,0,0,0, 
-CLG006,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Local Government Strategy and Decentralisation",Permanent Secretary,0,0,0, 
-CLG007,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Thames Gateway and the Olympics; East London Legacy",Permanent Secretary,0,0,0, 
-CLG008,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Programme Team",Permanent Secretary,0,0,0, 
-CLG009,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Private Sector Housing",Permanent Secretary,0,0,0, 
-CLG010,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Housing Supply",Permanent Secretary,0,0,0, 
-CLG011,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Fire and Resilience Research and Statistics",Permanent Secretary,0,0,0, 
-CLG012,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Cohesion and Faiths",Permanent Secretary,0,0,0, 
-CLG013,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Economic and Social Policy",Permanent Secretary,0,0,0, 
-CLG014,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Big Society",Permanent Secretary,0,0,0, 
-CLG015,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Social Housing Management and Performance",Permanent Secretary,0,0,0, 
-CLG016,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Programme Team",Permanent Secretary,0,0,0, 
-CLG017,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Accountability",Permanent Secretary,0,0,0, 
-CLG018,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Olympic Games and Park Legacy",Permanent Secretary,0,0,0, 
-CLG019,root,Sep-14,Senior,ELIMINATED,SCS2,"Director, Chief Scientific Adviser",Permanent Secretary,0,0,0, 
-CLG020,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Thames Gateway",Permanent Secretary,0,0,0, 
-CLG021,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, European Regional Development Fund Delivery and Strategic Rick and Programme Management",Permanent Secretary,0,0,0, 
-CLG022,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Economic Partnerships and Cities",Permanent Secretary,0,0,0, 
-CLG023,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Programme Team",Permanent Secretary,0,0,0, 
-CLG024,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Programme Management for People, Capability and Change",Permanent Secretary,0,0,0, 
-CLG025,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Planning Development Plans",Permanent Secretary,0,0,0, 
-CLG026,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Chief Statistician, Data Collection, Analysis and Accountancy",Permanent Secretary,0,0,0, 
-CLG027,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Decentralisation Team",Permanent Secretary,0,0,0, 
-CLG028,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Business Relationship Management",Permanent Secretary,0,0,0, 
-CLG029,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Legal",Permanent Secretary,0,0,0, 
-CLG030,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Regeneration, Disadvantage and Economic Policy",Permanent Secretary,0,0,0, 
-CLG031,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Transparency and the Citizen",Permanent Secretary,0,0,0, 
-CLG032,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Firecontrol",Permanent Secretary,0,0,0, 
-CLG033,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Housing, Markets and Planning Analysis",Permanent Secretary,0,0,0, 
-CLG034,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Local Government Finance, Strategy, Revenue Capital",Permanent Secretary,0,0,0, 
-CLG035,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Housing Analysis and Surveys Division",Permanent Secretary,0,0,0, 
-CLG036,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Spending Review",Permanent Secretary,0,0,0, 
-CLG037,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Sustainable Buildings and Climate Change Directorate",Permanent Secretary,0,0,0, 
-CLG038,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Programme Team",Permanent Secretary,0,0,0, 
-CLG039,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Housing and Land",Permanent Secretary,0,0,0, 
-CLG040,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Geographical and Statistical Evidence",Permanent Secretary,0,0,0, 
-CLG041,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Communities and Neighbourhood Directorate",Permanent Secretary,0,0,0, 
-CLG042,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Fire and Resilience Programme Integration",Permanent Secretary,0,0,0, 
-CLG043,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director Housing, Care and Support",Permanent Secretary,0,0,0, 
-CLG044,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Fire, Finance and Performance and Emergencies Management",Permanent Secretary,0,0,0, 
-CLG045,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Maximising Operational Productivity",Permanent Secretary,0,0,0, 
-CLG046,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Affordable Housing",Permanent Secretary,0,0,0, 
-CLG047,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Sustainable Buildings",Permanent Secretary,0,0,0, 
-CLG048,root,Sep-14,Senior,ELIMINATED,SCS1,Principal Private Secretary,Permanent Secretary,0,0,0, 
-CLG049,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Fire and Rescue Development",Permanent Secretary,0,0,0, 
-CLG050,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Knowledge Management",Permanent Secretary,0,0,0, 
-CLG051,root,Sep-14,Senior,ELIMINATED,SCS1,"Deptuy Director, Programme Team",Permanent Secretary,0,0,0, 
-CLG052,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Finance Business Partnering, Planning and Reporting",Permanent Secretary,0,0,0, 
-CLG053,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Communities Analysis",Permanent Secretary,0,0,0, 
-CLG054,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Productivity and Service Transformation",Permanent Secretary,0,0,0, 
-CLG055,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Planning Development Management",Permanent Secretary,0,0,0, 
-CLG056,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Housing Strategy and Cross-Cutting Policy",Permanent Secretary,0,0,0, 
-CLG057,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Head of News and External Communications",Permanent Secretary,0,0,0, 
-CLG058,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Renewing Neighbourhoods",Permanent Secretary,0,0,0, 
-CLG059,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, HR Policy",Permanent Secretary,0,0,0, 
-CLG060,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Climate Change and Sustainable Development",Permanent Secretary,0,0,0, 
-CLG062,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Assets",Permanent Secretary,0,0,0, 
-CLG063,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, TSA, HCA Sponsorship",Permanent Secretary,0,0,0, 
-CLG064,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Programme Team",Permanent Secretary,0,0,0, 
-CLG065,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Local Authority Housing Finance and Decent Housing",Permanent Secretary,0,0,0, 
-CLG066,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Constitutional and European Law",Permanent Secretary,0,0,0, 
-CLG067,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director Workforce, Pay and Pensions",Permanent Secretary,0,0,0, 
-CLG068,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Property Asset Management",Permanent Secretary,0,0,0, 
-CLG069,root,Sep-14,Senior,ELIMINATED,SCS2,"Director, Communities and Neighbourhoods, Big Society",Permanent Secretary,0,0,0, 
-CLG070,root,Sep-14,Senior,ELIMINATED,SCS2,"Director, Local Government Finance",Permanent Secretary,0,0,0, 
-CLG071,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Legal, Local Government",Permanent Secretary,0,0,0, 
-CLG072,root,Sep-14,Senior,ELIMINATED,SCS2,"Director, Fire and Resilience",Permanent Secretary,0,0,0, 
-CLG073,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Race Equality",Permanent Secretary,0,0,0, 
-CLG074,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Housing Growth Programme",Permanent Secretary,0,0,0, 
-CLG075,root,Sep-14,Senior,ELIMINATED,SCS2,"Director, ERDF and Emergencies Management",Permanent Secretary,0,0,0, 
-CLG076,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Finance",Permanent Secretary,0,0,0, 
-CLG077,root,Sep-14,Senior,ELIMINATED,SCS2,"Director, Subtainable Buildings and Climate Change",Permanent Secretary,0,0,0, 
-CLG078,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Regeneration",Permanent Secretary,0,0,0, 
-CLG079,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Democracy",Permanent Secretary,0,0,0, 
-CLG080,root,Sep-14,Senior,ELIMINATED,SCS2,"Director, Thames Gateway and Regeneration",Permanent Secretary,0,0,0, 
-CLG081,root,Sep-14,Senior,ELIMINATED,SCS2,"Director, Analytical Services",Permanent Secretary,0,0,0, 
-CLG082,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, European Policy and Programmes",Permanent Secretary,0,0,0, 
-CLG083,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Corporate Procurement",Permanent Secretary,0,0,0, 
-CLG084,root,Sep-14,Senior,ELIMINATED,SCS1,Chief Planner,Permanent Secretary,0,0,0, 
-CLG085,root,Sep-14,Senior,ELIMINATED,SCS2,"Director, Legal Services",Permanent Secretary,0,0,0, 
-CLG086,root,Sep-14,Senior,ELIMINATED,SCS2,"Director, National Housing and Planning Advice Unit",Permanent Secretary,0,0,0, 
-CLG087,root,Sep-14,Senior,ELIMINATED,SCS2,"Director, Strategy and Innovation",Permanent Secretary,0,0,0, 
-CLG088,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Employment, Commercial and Specialist Drafting",Permanent Secretary,0,0,0, 
-CLG089,root,Sep-14,Senior,ELIMINATED,SCS2,"Director, Capability and Change",Permanent Secretary,0,0,0, 
-CLG090,root,Sep-14,Senior,ELIMINATED,SCS2,"Director, Communications",Permanent Secretary,0,0,0, 
-CLG091,root,Sep-14,Senior,ELIMINATED,SCS2,"Director, Programme Team",Permanent Secretary,0,0,0, 
-CLG092,root,Sep-14,Senior,ELIMINATED,SCS2,"Director, Housing Growth, Markets and Strategy",Permanent Secretary,0,0,0, 
-CLG093,root,Sep-14,Senior,ELIMINATED,SCS2,"Director, Planning",Permanent Secretary,0,0,0, 
-CLG094,root,Sep-14,Senior,ELIMINATED,SCS3,"Director General, Communities",Permanent Secretary,0,0,0, 
-CLG095,root,Sep-14,Senior,ELIMINATED,SCS3,"Director General, Regions and Communities",Permanent Secretary,0,0,0, 
-CLG096,root,Sep-14,Senior,ELIMINATED,SCS2,"Director, Chief Fire and Rescue Adviser",Permanent Secretary,0,0,0, 
-CLG097,root,Sep-14,Senior,ELIMINATED,SCS3,"Director General, Housing and Planning",Permanent Secretary,0,0,0, 
-CLG103,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Business Relationship Management",Permanent Secretary,0,0,0, 
-CLG114,root,Sep-14,Senior,ELIMINATED,SCS2,"Director, London Policy",Permanent Secretary,0,0,0, 
-CLG115,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, London Policy",Permanent Secretary,0,0,0, 
-CLG116,root,Sep-14,Senior,ELIMINATED,SCS2,"Director, Local Government and Economic Growth",Permanent Secretary,0,0,0, 
-CLG117,root,Sep-14,Senior,ELIMINATED,SCS1,"Director, Housing Standards, Homelessness and Support",Permanent Secretary,0,0,0, 
-CLG118,root,Sep-14,Senior,ELIMINATED,SCS3,"Director General, Local Government Efficiency, Finance and Policy",Permanent Secretary,0,0,0, 
-CLG119,root,Sep-14,Senior,ELIMINATED,SCS3,"Director General, Finance and Corporate Services",Permanent Secretary,0,0,0, 
-CLG120,root,Sep-14,Senior,ELIMINATED,SCS3,"Director General, People Capability and Change",Permanent Secretary,0,0,0, 
-CLG121,root,Sep-14,Senior,ELIMINATED,SCS4,Permanent Secretary,Permanent Secretary,0,0,0, 
-CLG122,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Corporate Delivery",Permanent Secretary,0,0,0, 
-CLG123,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Repossessions and Homelessness",Permanent Secretary,0,0,0, 
-CLG124,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Economic Development, Decentralisation and Neighbourhoods Analysis",Permanent Secretary,0,0,0, 
-CLG129,root,Sep-14,Senior,ELIMINATED,SCS1,"Acting Deputy Director, Planning Major Infrastructure",Permanent Secretary,0,0,0, 
-CLG130,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Head of Corporate Communications",Permanent Secretary,0,0,0, 
+CLG001,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Business Rates and Valuation",Permanent Secretary,0,0,0,
+CLG002,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Communities and Neighbourhood",Permanent Secretary,0,0,0,
+CLG003,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Planning Environment",Permanent Secretary,0,0,0,
+CLG004,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Programme Team",Permanent Secretary,0,0,0,
+CLG005,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Community Action",Permanent Secretary,0,0,0,
+CLG006,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Local Government Strategy and Decentralisation",Permanent Secretary,0,0,0,
+CLG007,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Thames Gateway and the Olympics; East London Legacy",Permanent Secretary,0,0,0,
+CLG008,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Programme Team",Permanent Secretary,0,0,0,
+CLG009,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Private Sector Housing",Permanent Secretary,0,0,0,
+CLG010,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Housing Supply",Permanent Secretary,0,0,0,
+CLG011,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Fire and Resilience Research and Statistics",Permanent Secretary,0,0,0,
+CLG012,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Cohesion and Faiths",Permanent Secretary,0,0,0,
+CLG013,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Economic and Social Policy",Permanent Secretary,0,0,0,
+CLG014,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Big Society",Permanent Secretary,0,0,0,
+CLG015,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Social Housing Management and Performance",Permanent Secretary,0,0,0,
+CLG016,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Programme Team",Permanent Secretary,0,0,0,
+CLG017,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Accountability",Permanent Secretary,0,0,0,
+CLG018,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Olympic Games and Park Legacy",Permanent Secretary,0,0,0,
+CLG019,root,Sep-14,Senior,ELIMINATED,SCS2,"Director, Chief Scientific Adviser",Permanent Secretary,0,0,0,
+CLG020,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Thames Gateway",Permanent Secretary,0,0,0,
+CLG021,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, European Regional Development Fund Delivery and Strategic Rick and Programme Management",Permanent Secretary,0,0,0,
+CLG022,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Economic Partnerships and Cities",Permanent Secretary,0,0,0,
+CLG023,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Programme Team",Permanent Secretary,0,0,0,
+CLG024,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Programme Management for People, Capability and Change",Permanent Secretary,0,0,0,
+CLG025,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Planning Development Plans",Permanent Secretary,0,0,0,
+CLG026,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Chief Statistician, Data Collection, Analysis and Accountancy",Permanent Secretary,0,0,0,
+CLG027,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Decentralisation Team",Permanent Secretary,0,0,0,
+CLG028,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Business Relationship Management",Permanent Secretary,0,0,0,
+CLG029,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Legal",Permanent Secretary,0,0,0,
+CLG030,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Regeneration, Disadvantage and Economic Policy",Permanent Secretary,0,0,0,
+CLG031,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Transparency and the Citizen",Permanent Secretary,0,0,0,
+CLG032,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Firecontrol",Permanent Secretary,0,0,0,
+CLG033,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Housing, Markets and Planning Analysis",Permanent Secretary,0,0,0,
+CLG034,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Local Government Finance, Strategy, Revenue Capital",Permanent Secretary,0,0,0,
+CLG035,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Housing Analysis and Surveys Division",Permanent Secretary,0,0,0,
+CLG036,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Spending Review",Permanent Secretary,0,0,0,
+CLG037,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Sustainable Buildings and Climate Change Directorate",Permanent Secretary,0,0,0,
+CLG038,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Programme Team",Permanent Secretary,0,0,0,
+CLG039,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Housing and Land",Permanent Secretary,0,0,0,
+CLG040,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Geographical and Statistical Evidence",Permanent Secretary,0,0,0,
+CLG041,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Communities and Neighbourhood Directorate",Permanent Secretary,0,0,0,
+CLG042,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Fire and Resilience Programme Integration",Permanent Secretary,0,0,0,
+CLG043,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director Housing, Care and Support",Permanent Secretary,0,0,0,
+CLG044,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Fire, Finance and Performance and Emergencies Management",Permanent Secretary,0,0,0,
+CLG045,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Maximising Operational Productivity",Permanent Secretary,0,0,0,
+CLG046,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Affordable Housing",Permanent Secretary,0,0,0,
+CLG047,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Sustainable Buildings",Permanent Secretary,0,0,0,
+CLG048,root,Sep-14,Senior,ELIMINATED,SCS1,Principal Private Secretary,Permanent Secretary,0,0,0,
+CLG049,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Fire and Rescue Development",Permanent Secretary,0,0,0,
+CLG050,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Knowledge Management",Permanent Secretary,0,0,0,
+CLG051,root,Sep-14,Senior,ELIMINATED,SCS1,"Deptuy Director, Programme Team",Permanent Secretary,0,0,0,
+CLG052,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Finance Business Partnering, Planning and Reporting",Permanent Secretary,0,0,0,
+CLG053,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Communities Analysis",Permanent Secretary,0,0,0,
+CLG054,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Productivity and Service Transformation",Permanent Secretary,0,0,0,
+CLG055,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Planning Development Management",Permanent Secretary,0,0,0,
+CLG056,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Housing Strategy and Cross-Cutting Policy",Permanent Secretary,0,0,0,
+CLG057,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Head of News and External Communications",Permanent Secretary,0,0,0,
+CLG058,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Renewing Neighbourhoods",Permanent Secretary,0,0,0,
+CLG059,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, HR Policy",Permanent Secretary,0,0,0,
+CLG060,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Climate Change and Sustainable Development",Permanent Secretary,0,0,0,
+CLG062,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Assets",Permanent Secretary,0,0,0,
+CLG063,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, TSA, HCA Sponsorship",Permanent Secretary,0,0,0,
+CLG064,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Programme Team",Permanent Secretary,0,0,0,
+CLG065,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Local Authority Housing Finance and Decent Housing",Permanent Secretary,0,0,0,
+CLG066,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Constitutional and European Law",Permanent Secretary,0,0,0,
+CLG067,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director Workforce, Pay and Pensions",Permanent Secretary,0,0,0,
+CLG068,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Property Asset Management",Permanent Secretary,0,0,0,
+CLG069,root,Sep-14,Senior,ELIMINATED,SCS2,"Director, Communities and Neighbourhoods, Big Society",Permanent Secretary,0,0,0,
+CLG070,root,Sep-14,Senior,ELIMINATED,SCS2,"Director, Local Government Finance",Permanent Secretary,0,0,0,
+CLG071,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Legal, Local Government",Permanent Secretary,0,0,0,
+CLG072,root,Sep-14,Senior,ELIMINATED,SCS2,"Director, Fire and Resilience",Permanent Secretary,0,0,0,
+CLG073,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Race Equality",Permanent Secretary,0,0,0,
+CLG074,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Housing Growth Programme",Permanent Secretary,0,0,0,
+CLG075,root,Sep-14,Senior,ELIMINATED,SCS2,"Director, ERDF and Emergencies Management",Permanent Secretary,0,0,0,
+CLG076,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Finance",Permanent Secretary,0,0,0,
+CLG077,root,Sep-14,Senior,ELIMINATED,SCS2,"Director, Subtainable Buildings and Climate Change",Permanent Secretary,0,0,0,
+CLG078,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Regeneration",Permanent Secretary,0,0,0,
+CLG079,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Democracy",Permanent Secretary,0,0,0,
+CLG080,root,Sep-14,Senior,ELIMINATED,SCS2,"Director, Thames Gateway and Regeneration",Permanent Secretary,0,0,0,
+CLG081,root,Sep-14,Senior,ELIMINATED,SCS2,"Director, Analytical Services",Permanent Secretary,0,0,0,
+CLG082,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, European Policy and Programmes",Permanent Secretary,0,0,0,
+CLG083,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Corporate Procurement",Permanent Secretary,0,0,0,
+CLG084,root,Sep-14,Senior,ELIMINATED,SCS1,Chief Planner,Permanent Secretary,0,0,0,
+CLG085,root,Sep-14,Senior,ELIMINATED,SCS2,"Director, Legal Services",Permanent Secretary,0,0,0,
+CLG086,root,Sep-14,Senior,ELIMINATED,SCS2,"Director, National Housing and Planning Advice Unit",Permanent Secretary,0,0,0,
+CLG087,root,Sep-14,Senior,ELIMINATED,SCS2,"Director, Strategy and Innovation",Permanent Secretary,0,0,0,
+CLG088,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Employment, Commercial and Specialist Drafting",Permanent Secretary,0,0,0,
+CLG089,root,Sep-14,Senior,ELIMINATED,SCS2,"Director, Capability and Change",Permanent Secretary,0,0,0,
+CLG090,root,Sep-14,Senior,ELIMINATED,SCS2,"Director, Communications",Permanent Secretary,0,0,0,
+CLG091,root,Sep-14,Senior,ELIMINATED,SCS2,"Director, Programme Team",Permanent Secretary,0,0,0,
+CLG092,root,Sep-14,Senior,ELIMINATED,SCS2,"Director, Housing Growth, Markets and Strategy",Permanent Secretary,0,0,0,
+CLG093,root,Sep-14,Senior,ELIMINATED,SCS2,"Director, Planning",Permanent Secretary,0,0,0,
+CLG094,root,Sep-14,Senior,ELIMINATED,SCS3,"Director General, Communities",Permanent Secretary,0,0,0,
+CLG095,root,Sep-14,Senior,ELIMINATED,SCS3,"Director General, Regions and Communities",Permanent Secretary,0,0,0,
+CLG096,root,Sep-14,Senior,ELIMINATED,SCS2,"Director, Chief Fire and Rescue Adviser",Permanent Secretary,0,0,0,
+CLG097,root,Sep-14,Senior,ELIMINATED,SCS3,"Director General, Housing and Planning",Permanent Secretary,0,0,0,
+CLG103,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Business Relationship Management",Permanent Secretary,0,0,0,
+CLG114,root,Sep-14,Senior,ELIMINATED,SCS2,"Director, London Policy",Permanent Secretary,0,0,0,
+CLG115,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, London Policy",Permanent Secretary,0,0,0,
+CLG116,root,Sep-14,Senior,ELIMINATED,SCS2,"Director, Local Government and Economic Growth",Permanent Secretary,0,0,0,
+CLG117,root,Sep-14,Senior,ELIMINATED,SCS1,"Director, Housing Standards, Homelessness and Support",Permanent Secretary,0,0,0,
+CLG118,root,Sep-14,Senior,ELIMINATED,SCS3,"Director General, Local Government Efficiency, Finance and Policy",Permanent Secretary,0,0,0,
+CLG119,root,Sep-14,Senior,ELIMINATED,SCS3,"Director General, Finance and Corporate Services",Permanent Secretary,0,0,0,
+CLG120,root,Sep-14,Senior,ELIMINATED,SCS3,"Director General, People Capability and Change",Permanent Secretary,0,0,0,
+CLG121,root,Sep-14,Senior,ELIMINATED,SCS4,Permanent Secretary,Permanent Secretary,0,0,0,
+CLG122,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Corporate Delivery",Permanent Secretary,0,0,0,
+CLG123,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Repossessions and Homelessness",Permanent Secretary,0,0,0,
+CLG124,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Economic Development, Decentralisation and Neighbourhoods Analysis",Permanent Secretary,0,0,0,
+CLG129,root,Sep-14,Senior,ELIMINATED,SCS1,"Acting Deputy Director, Planning Major Infrastructure",Permanent Secretary,0,0,0,
+CLG130,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Head of Corporate Communications",Permanent Secretary,0,0,0,
 CLG131,root,Sep-14,Senior,BOB KERSLAKE,SCS4,Head of the Civil Service and Permanent Secretary,Permanent Secretary,700000,190000,194999,Policy
 CLG132,CLG131,Sep-14,Senior,HELEN EDWARDS,SCS3,Director General of Localism Group and Deputy Permanent Secretary,Localism,564632,165000,169999,Policy
 CLG133,CLG131,Sep-14,Senior,PETER SCHOFIELD,SCS3,"Director General, Neighbourhoods Group",Neighbourhoods,636941,130000,134999,Policy
@@ -118,24 +118,24 @@ CLG135,CLG132,Sep-14,Senior,PATRICK WHITE,SCS2,"Director, Local Government Polic
 CLG136,CLG132,Sep-14,Senior,MATTHEW STYLE,SCS2,"Director, Local Government Finance",Localism,354989.58,85000,89999,Policy
 CLG137,CLG132,Sep-14,Senior,SARAH BENIOFF,SCS2,"Director, Integration and Community Rights",Localism,657040.6,90000,94999,Policy
 CLG138,CLG132,Sep-14,Senior,NEIL O'CONNOR,SCS2,"Director, Fire, Resilience and Emergencies",Localism,1136844.77,85000,89999,Policy
-CLG139,root,Sep-14,Senior,ELIMINATED,SCS2,Chief Fire & Rescue Adviser,Localism,0,0,0, 
+CLG139,root,Sep-14,Senior,ELIMINATED,SCS2,Chief Fire & Rescue Adviser,Localism,0,0,0,
 CLG140,CLG133,Sep-14,Senior,TERRIE ALAFAT,SCS2,"Director, Housing",Neighbourhoods,435899.3,105000,109999,Policy
-CLG141,root,Sep-14,Senior,ELIMINATED,SCS2,"Director, Homelessness and Support, Building Standards and Climate Chnge",Neighbourhoods,0,0,0, 
+CLG141,root,Sep-14,Senior,ELIMINATED,SCS2,"Director, Homelessness and Support, Building Standards and Climate Chnge",Neighbourhoods,0,0,0,
 CLG142,CLG133,Sep-14,Senior,RUTH STANIER,SCS2,"Director, Planning",Neighbourhoods,687396.48,85000,89999,Planning
-CLG143,root,Sep-14,Senior,ELIMINATED,SCS2,"Director, Local Economies, Regeneration and European Programmes",Neighbourhoods,0,0,0, 
+CLG143,root,Sep-14,Senior,ELIMINATED,SCS2,"Director, Local Economies, Regeneration and European Programmes",Neighbourhoods,0,0,0,
 CLG144,CLG134,Sep-14,Senior,DAVID ROSSINGTON,SCS2,"Director, Finance",Finance and Corporate Services,393224,110000,114999,Finance
 CLG145,CLG134,Sep-14,Senior,JON WHITFIELD,SCS2,"Director, Internal Audit",Finance and Corporate Services,100000,0,0,Internal Audit
 CLG146,CLG134,Sep-14,Senior,DAWN BRODRICK,SCS2,"Director, People, Capability and Change",Finance and Corporate Services,1942890.43,95000,99999,Human Resources
 CLG147,CLG134,Sep-14,Senior,DENISE FOWLER,SCS2,"Director, Legal",Finance and Corporate Services,0,0,0,Law
-CLG148,root,Sep-14,Senior,ELIMINATED,SCS2,"Director, Communication",Finance and Corporate Services,0,0,0, 
+CLG148,root,Sep-14,Senior,ELIMINATED,SCS2,"Director, Communication",Finance and Corporate Services,0,0,0,
 CLG149,CLG134,Sep-14,Senior,STEPHEN ALDRIDGE,SCS2,"Director, Analysis and Innovation, Chief Analyst and Chief Economist",Finance and Corporate Services,416929,100000,104999,Economics
-CLG150,root,Sep-14,Senior,ELIMINATED,SCS2,"Director, Chief Scientific Adviser",Finance and Corporate Services,0,0,0, 
-CLG151,root,Sep-14,Senior,ELIMINATED,SCS2,"Director, Business Change",Finance and Corporate Services,0,0,0, 
-CLG152,root,Sep-14,Senior,ELIMINATED,SCS2,"Director, GO Network and ERDF Closure Programmes",Finance and Corporate Services,0,0,0, 
-CLG153,root,Sep-14,Senior,ELIMINATED,SCS2,"Director, Strategy and Performance","Strategy, Comms and Private Offices",0,0,0, 
+CLG150,root,Sep-14,Senior,ELIMINATED,SCS2,"Director, Chief Scientific Adviser",Finance and Corporate Services,0,0,0,
+CLG151,root,Sep-14,Senior,ELIMINATED,SCS2,"Director, Business Change",Finance and Corporate Services,0,0,0,
+CLG152,root,Sep-14,Senior,ELIMINATED,SCS2,"Director, GO Network and ERDF Closure Programmes",Finance and Corporate Services,0,0,0,
+CLG153,root,Sep-14,Senior,ELIMINATED,SCS2,"Director, Strategy and Performance","Strategy, Comms and Private Offices",0,0,0,
 CLG154,CLG242,Sep-14,Senior,N/D,SCS1,Principal Private Secretary,"Strategy, Comms and Private Offices",1533143.66,N/A,N/A,Policy
-CLG155,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Local Government Strategy",Localism,0,0,0, 
-CLG156,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Local Government - Whitehall Networks",Localism,0,0,0, 
+CLG155,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Local Government Strategy",Localism,0,0,0,
+CLG156,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Local Government - Whitehall Networks",Localism,0,0,0,
 CLG157,CLG135,Sep-14,Senior,N/D,SCS1,"Deputy Director, Transparency and Accountability",Localism,711401.2,N/A,N/A,Policy
 CLG158,CLG135,Sep-14,Senior,N/D,SCS1,"Deputy Director, Public Service Transformation",Localism,478480.84,0,0,Policy
 CLG159,CLG135,Sep-14,Senior,N/D,SCS1,"Deputy Director, Democracy",Localism,620210.12,N/A,N/A,Policy
@@ -147,45 +147,45 @@ CLG164,CLG136,Sep-14,Senior,N/D,SCS1,"Deputy Director, Strategy, Revenue & Capit
 CLG165,CLG136,Sep-14,Senior,N/D,SCS1,"Deputy Director, Analysis and Data",Localism,924593,N/A,N/A,Statisticians
 CLG166,CLG137,Sep-14,Senior,N/D,SCS1,"Deputy Director, Decentralisation and Neighbourhood Planning",Localism,434926,N/A,N/A,Policy
 CLG167,CLG137,Sep-14,Senior,N/D,SCS1,"Deputy Director, Big Society and Community Rights",Localism,740445.85,N/A,N/A,Policy
-CLG168,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Big Society Delivery",Localism,0,0,0, 
+CLG168,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Big Society Delivery",Localism,0,0,0,
 CLG169,CLG137,Sep-14,Senior,N/D,SCS1,"Deputy Director, Integration and Faith",Localism,1147323.96,N/A,N/A,Policy
 CLG170,CLG138,Sep-14,Senior,N/D,SCS1,"Deputy Director, National Resilience and Fire Programmes",Localism,1023833,N/A,N/A,Policy
 CLG171,CLG138,Sep-14,Senior,N/D,SCS1,"Deputy Director, Resilience and Emergencies Management",Localism,1957436.82,N/A,N/A,Policy
 CLG172,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, National Fire Policy",Localism,0,0,0,
-CLG173,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Fire Service College and Analysis",Localism,0,0,0, 
-CLG174,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Future of FiReControl",Localism,0,0,0, 
+CLG173,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Fire Service College and Analysis",Localism,0,0,0,
+CLG174,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Future of FiReControl",Localism,0,0,0,
 CLG175,CLG140,Sep-14,Senior,N/D,SCS1,"Deputy Director, Housing Strategy and Markets",Neighbourhoods,977650.66,N/A,N/A,Policy
 CLG176,CLG140,Sep-14,Senior,N/D,SCS1,"Deputy Director, Affordable Housing Regulation and Investment",Neighbourhoods,1116216.8,N/A,N/A,Policy
 CLG177,CLG140,Sep-14,Senior,N/D,SCS1,"Deputy Director, Affordable Housing Management and Standards",Neighbourhoods,664813.49,N/A,N/A,Policy
 CLG178,CLG140,Sep-14,Senior,N/D,SCS1,"Deputy Director, Private Sector Property",Neighbourhoods,1422712.7,N/A,N/A,Policy
-CLG179,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, HCA and TSA Reform and Sponsorship",Neighbourhoods,0,0,0, 
-CLG180,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Transition Projects",Neighbourhoods,0,0,0, 
+CLG179,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, HCA and TSA Reform and Sponsorship",Neighbourhoods,0,0,0,
+CLG180,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Transition Projects",Neighbourhoods,0,0,0,
 CLG181,CLG134,Sep-14,Senior,N/D,SCS1,"Deputy Director, Welfare Reform",Finance and Corporate Services,522132.8,N/A,N/A,Policy
 CLG182,CLG140,Sep-14,Senior,N/D,SCS1,"Deputy Director, Homelessness and Support",Neighbourhoods,810091.83,N/A,N/A,Policy
-CLG183,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Climate Change and Sustainable Buildings",Neighbourhoods,0,0,0, 
+CLG183,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Climate Change and Sustainable Buildings",Neighbourhoods,0,0,0,
 CLG184,CLG244,Sep-14,Senior,N/D,SCS1,"Deputy Director, Building Regulations and Standards",Neighbourhoods,1033909,N/A,N/A,Policy
-CLG185,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, HRA Reform and Decent Homes",Neighbourhoods,0,0,0, 
+CLG185,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, HRA Reform and Decent Homes",Neighbourhoods,0,0,0,
 CLG186,CLG142,Sep-14,Senior,N/D,SCS1A,"Deputy Director, Chief Planner",Neighbourhoods,1790630.08,N/A,N/A,Planning
 CLG187,CLG142,Sep-14,Senior,N/D,SCS1,"Deputy Director, Economic and Social Planning",Neighbourhoods,739498.66,N/A,N/A,Planning
 CLG188,CLG142,Sep-14,Senior,N/D,SCS1,"Deputy Director, Development Plans",Neighbourhoods,1666833.72,N/A,N/A,Planning
 CLG189,CLG142,Sep-14,Senior,N/D,SCS1,"Deputy Director, Development Management",Neighbourhoods,786688.83,N/A,N/A,Planning
 CLG190,CLG142,Sep-14,Senior,N/D,SCS1,"Deputy Director, Infrastructure and Environment",Neighbourhoods,888690,N/A,N/A,Planning
-CLG191,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Major Infrastructure Planning",Neighbourhoods,0,0,0, 
+CLG191,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Major Infrastructure Planning",Neighbourhoods,0,0,0,
 CLG192,CLG251,Sep-14,Senior,N/D,SCS1,"Deputy Director, Cities and Local Growth Unit",Neighbourhoods,688428.1,N/A,N/A,Policy
-CLG193,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Local Growth and Regeneration Implementation",Neighbourhoods,0,0,0, 
+CLG193,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Local Growth and Regeneration Implementation",Neighbourhoods,0,0,0,
 CLG194,CLG245,Sep-14,Senior,N/D,SCS1,"Deputy Director, European Regional Development Fund: Policy and Strategy",Neighbourhoods,1202800.4,N/A,N/A,Policy
-CLG195,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Olympics and Legacy",Neighbourhoods,0,0,0, 
-CLG196,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, RDA and Thurrock Transition",Neighbourhoods,0,0,0, 
+CLG195,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Olympics and Legacy",Neighbourhoods,0,0,0,
+CLG196,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, RDA and Thurrock Transition",Neighbourhoods,0,0,0,
 CLG197,CLG144,Sep-14,Senior,N/D,SCS1,"Deputy Director, Finance Shared Services",Finance and Corporate Services,2605931.95,N/A,N/A,Finance
 CLG198,CLG144,Sep-14,Senior,N/D,SCS1,"Deputy Director, Corporate Finance",Finance and Corporate Services,719449,N/A,N/A,Finance
-CLG199,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Procurement",Finance and Corporate Services,0,0,0, 
-CLG200,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Efficiency, Shared Services and ALB Reform",Finance and Corporate Services,0,0,0, 
+CLG199,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Procurement",Finance and Corporate Services,0,0,0,
+CLG200,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Efficiency, Shared Services and ALB Reform",Finance and Corporate Services,0,0,0,
 CLG201,CLG144,Sep-14,Senior,N/D,SCS1,"Deputy Director, Chief Information Officer (IT) and Technology Leader",Finance and Corporate Services,1865672.62,N/A,N/A,Information Technology
 CLG202,CLG144,Sep-14,Senior,N/D,SCS1,"Deputy Director, Estates Management",Finance and Corporate Services,464517,0,0,Property and asset management
-CLG203,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Knowledge Management",Finance and Corporate Services,0,0,0, 
+CLG203,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Knowledge Management",Finance and Corporate Services,0,0,0,
 CLG204,CLG145,Sep-14,Senior,N/D,SCS1A,"Deputy Director, Internal Audit",Finance and Corporate Services,2188458.27,N/A,N/A,Internal Audit
 CLG205,CLG146,Sep-14,Senior,N/D,SCS1,"Deputy Director, Organisational Effectiveness",Finance and Corporate Services,273986.4,N/A,N/A,Human Resources
-CLG206,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Restructuring",Finance and Corporate Services,0,0,0, 
+CLG206,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Restructuring",Finance and Corporate Services,0,0,0,
 CLG207,CLG146,Sep-14,Senior,N/D,SCS1,"Deputy Director, HR Strategy and Policy",Finance and Corporate Services,546633,N/A,N/A,Human Resources
 CLG208,CLG147,Sep-14,Senior,N/D,SCS1,"Deputy Director, Local Government and Fire Law",Finance and Corporate Services,0,0,0,Law
 CLG209,CLG147,Sep-14,Senior,N/D,SCS1,"Deputy Director, Housing, Building and Land Law",Finance and Corporate Services,0,0,0,Law
@@ -195,17 +195,17 @@ CLG212,CLG147,Sep-14,Senior,N/D,SCS1,"Deputy Director, Planning Casework (includ
 CLG213,CLG242,Sep-14,Senior,N/D,SCS1,"Deputy Director, External Communications",Finance and Corporate Services,864947.61,N/A,N/A,Communications
 CLG214,CLG242,Sep-14,Senior,N/D,SCS1,"Deputy Director, Digital and Corporate Communications",Finance and Corporate Services,553165,N/A,N/A,Communications
 CLG215,CLG149,Sep-14,Senior,N/D,SCS1,"Deputy Director, Neighbourhoods Analysis",Finance and Corporate Services,1019152.58,N/A,N/A,Economics
-CLG216,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Innovation",Finance and Corporate Services,0,0,0, 
+CLG216,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Innovation",Finance and Corporate Services,0,0,0,
 CLG217,CLG149,Sep-14,Senior,N/D,SCS1,"Deputy Director, Strategic Analysis",Finance and Corporate Services,820071.63,N/A,N/A,Economics
 CLG218,CLG149,Sep-14,Senior,N/D,SCS1,"Deputy Director, Strategic Statistics",Finance and Corporate Services,1148969.69,N/A,N/A,Statisticians
-CLG219,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Government Office Closure Programme",Finance and Corporate Services,0,0,0, 
-CLG220,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Government Office Implementation",Finance and Corporate Services,0,0,0, 
+CLG219,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Government Office Closure Programme",Finance and Corporate Services,0,0,0,
+CLG220,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Government Office Implementation",Finance and Corporate Services,0,0,0,
 CLG221,CLG146,Sep-14,Senior,N/D,SCS1,"Deputy Director, Change",Finance and Corporate Services,404700,N/A,N/A,Policy
 CLG222,CLG134,Sep-14,Senior,N/D,SCS1,"Deputy Director, Corporate Performance",Finance and Corporate Services,585200.46,N/A,N/A,Programme and Project Management (PPM)
-CLG223,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Localism Bill","Strategy, Comms and Private Offices",0,0,0, 
+CLG223,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Localism Bill","Strategy, Comms and Private Offices",0,0,0,
 CLG224,CLG134,Sep-14,Senior,N/D,SCS1,"Deputy Director, Localities and London",Finance and Corporate Services,896531.3,N/A,N/A,Policy
-CLG225,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Strategy 1","Strategy, Comms and Private Offices",0,0,0, 
-CLG226,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Strategy 2","Strategy, Comms and Private Offices",0,0,0, 
+CLG225,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Strategy 1","Strategy, Comms and Private Offices",0,0,0,
+CLG226,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Strategy 2","Strategy, Comms and Private Offices",0,0,0,
 CLG227,CLG245,Sep-14,Senior,N/D,SCS1,"Deputy Director, European Regional Development Fund: Programme Delivery",Neighbourhoods,7271295.49,N/A,N/A,Operational Delivery
 CLG228,CLG138,Sep-14,Senior,N/D,SCS1,"Deputy Director, Chief Fire and Rescue Adviser",Localism,87667,N/A,N/A,Policy
 CLG229,CLG131,Sep-14,Senior,LOUISE CASEY,SCS3,"Director General, Troubled Families Team",Troubled Families,200000,130000,134999,Policy
@@ -213,13 +213,13 @@ CLG230,CLG229,Sep-14,Senior,JOSEPH TUKE,SCS2,"Director, Troubled Families",Troub
 CLG231,CLG230,Sep-14,Senior,N/D,SCS1,"Deputy Director, Troubled Families",Troubled Families,0,0,0,Policy
 CLG232,CLG144,Sep-14,Senior,N/D,SCS1,"Deputy Director, Finance Business Partnering",Finance and Corporate Services,627276,N/A,N/A,Finance
 CLG233,CLG242,Sep-14,Senior,N/D,SCS1,"Deputy Director, Strategy ","Strategy, Comms and Private Offices",562728.4,N/A,N/A,Policy
-CLG234,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Tackling Extremism and Hate Crime",Localism,0,0,0, 
+CLG234,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Tackling Extremism and Hate Crime",Localism,0,0,0,
 CLG235,CLG136,Sep-14,Senior,N/D,SCS1,"Deputy Director, Council Tax",Localism,466785,N/A,N/A,Policy
 CLG236,CLG230,Sep-14,Senior,N/D,SCS1,"Deputy Director, Troubled Families",Troubled Families,0,N/A,N/A,Policy
 CLG237,CLG230,Sep-14,Senior,N/D,SCS1,"Deputy Director, Troubled Families",Troubled Families,0,N/A,N/A,Policy
 CLG238,CLG133,Sep-14,Senior,ANDREW STANFORD,SCS2,"Director, Private Rented Sector Taskforce",Neighbourhoods,100000,N/A,N/A,Policy
 CLG239,CLG140,Sep-14,Senior,N/D,SCS1,"Deputy Director, Housing Growth",Neighbourhoods,762741.44,N/A,N/A,Policy
-CLG240,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Expanding Private Rented Sector",Neighbourhoods,0,0,0, 
+CLG240,root,Sep-14,Senior,ELIMINATED,SCS1,"Deputy Director, Expanding Private Rented Sector",Neighbourhoods,0,0,0,
 CLG241,CLG244,Sep-14,Senior,N/D,SCS1,"Deputy Director, Physical Regeneration",Neighbourhoods,277754.08,N/A,N/A,Policy
 CLG242,CLG131,Sep-14,Senior,DAVID HILL,SCS2,"Director, Strategy, Commnication and Private Office","Strategy, Comms and Private Offices",600012.95,85000,89999,Policy
 CLG243,CLG244,Sep-14,Senior,N/D,SCS1,"Deputy Director, Public Sector Land and Enterprise Zones",Neighbourhoods,1016686.5,N/A,N/A,Policy
