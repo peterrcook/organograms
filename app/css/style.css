@@ -18,6 +18,10 @@ body {
 
 .gallery .item {
     flex-basis: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 5rem;
 }
 
 .gallery .item:hover {
@@ -26,6 +30,16 @@ body {
 
 .gallery .item img {
     width: 100%;
+}
+
+.gallery .item .label {
+    text-transform: uppercase;
+    color: #aaa;
+    text-align: center;
+    max-width: 75%;
+    padding-top: 1rem;
+    font-weight: bold;
+    line-height: 1.05rem;
 }
 
 #chart {
