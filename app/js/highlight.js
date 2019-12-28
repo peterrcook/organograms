@@ -16,19 +16,22 @@ function updateHighlight() {
     // Calculate radius (the radius adapts to the zoom level)
     var radius = radiusScale(t.k);
     radius /= t.k;
-    radius *= 1.5;
+    radius += 5 / t.k;
+
+    var lineWidth = 1 / t.k;
 
     bitmapCtx.translate(0.5 * state.width, 0.5 * state.height);
 
     // Nodes
-    bitmapCtx.fillStyle = 'yellow';
+    bitmapCtx.strokeStyle = '#fff';
+    bitmapCtx.lineWidth = lineWidth;
     state.nodes.forEach(d => {
         if(d.data.id !== hoveredId) {
             return;
         }
         bitmapCtx.beginPath();
         bitmapCtx.arc(d.x, d.y, radius, 0, twoPi);
-        bitmapCtx.fill();
+        bitmapCtx.stroke();
     });
 
     bitmapCtx.restore();
