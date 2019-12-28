@@ -6,34 +6,29 @@ function updateInfoPanel() {
         items = [
             {
                 name: 'Job title',
-                id: 'jobTitle'
+                value: data.jobTitle
             },
             {
-                name: 'Unit',
-                id: 'unit'
-            },
-            {
-                name: 'Group',
-                id: 'professionalOccupationalGroup'
+                name: 'Unit / Group',
+                value: data.unit + (data.professionalOccupationalGroup !== '' ? ' / ' + data.professionalOccupationalGroup : '')
             },
             {
                 name: 'Level',
-                id: 'level'
+                value: data.level
             },
             {
                 name: 'Name',
-                id: 'name'
+                value: data.name
             },
             {
-                name: 'Pay floor',
-                id: 'payFloor'
-            },
-            {
-                name: 'Pay ceiling',
-                id: 'payCeil'
+                name: 'Pay range',
+                // TODO: Check where 0 in data originates from
+                value: data.payCeil === '0' ? 'Unknown' : '£' + data.payFloor + ' - ' + data.payCeil
             }
         ];
     }
+
+    console.log(data);
 
     d3.select('#info-panel')
         .style('display', data ? 'block' : 'none')
@@ -43,6 +38,6 @@ function updateInfoPanel() {
         .join('tr')
         .classed('item', true)
         .html(function(d) {
-            return '<td class="key">' + d.name.toUpperCase() + ':</td><td>' + data[d.id].toUpperCase() + '</td>';
+            return '<td class="key">' + d.name.toUpperCase() + ':</td><td>' + d.value.toUpperCase() + '</td>';
         });
 }
