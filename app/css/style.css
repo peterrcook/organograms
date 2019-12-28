@@ -16,12 +16,16 @@ body {
     flex-wrap: wrap;
 }
 
-.gallery img {
-    width: 100%;
+.gallery .item {
+    flex-basis: 100%;
 }
 
-.gallery img:hover {
+.gallery .item:hover {
     opacity: 0.75;
+}
+
+.gallery .item img {
+    width: 100%;
 }
 
 #chart {
@@ -72,13 +76,13 @@ canvas {
 }
 
 @media screen and (min-width: 30em) and (max-width: 60em) {
-    .gallery img {
-        width: 50%;
+    .gallery .item {
+        flex-basis: 50%;
     }
 }
 
 @media screen and (min-width: 60em) {
-    .gallery img {
-        width: 25%;
+    .gallery .item {
+        flex-basis: 25%;
     }
 }
