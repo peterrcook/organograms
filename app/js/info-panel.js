@@ -35,7 +35,9 @@ function updateInfoPanel() {
         ];
     }
 
-    d3.select('#info-panel tbody')
+    d3.select('#info-panel')
+        .style('display', data ? 'block' : 'none')
+        .select('tbody')
         .selectAll('.item')
         .data(items)
         .join('tr')

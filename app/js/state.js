@@ -25,10 +25,12 @@ function action(type, args) {
         break;
     case 'deselect':
         state.selectedId = null;
+        state.hoveredData = null;
         state.bitmapTransform = d3.zoomIdentity;
         state.vectorTransform = d3.zoomIdentity;
         updateBitmapCanvas();
         updateGallery();
+        updateInfoPanel();
         break;
     case 'newData':
         state.data = args.data;
