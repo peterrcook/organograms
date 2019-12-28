@@ -24,7 +24,7 @@ body {
     margin-bottom: 5rem;
 }
 
-.gallery .item:hover {
+.gallery .item:hover img {
     opacity: 0.75;
 }
 
@@ -40,6 +40,11 @@ body {
     padding-top: 1rem;
     font-weight: bold;
     line-height: 1.05rem;
+    text-shadow: #fff 0 0 4rem;
+}
+
+.gallery .item:hover .label {
+    text-shadow: #fff 0 0 1.5rem;
 }
 
 #chart {
