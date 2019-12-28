@@ -35,12 +35,12 @@ function updateInfoPanel() {
         ];
     }
 
-    d3.select('#info-panel')
+    d3.select('#info-panel tbody')
         .selectAll('.item')
         .data(items)
-        .join('div')
+        .join('tr')
         .classed('item', true)
         .html(function(d) {
-            return d.name + ': ' + data[d.id];
+            return '<td class="key">' + d.name.toUpperCase() + ':</td><td>' + data[d.id].toUpperCase() + '</td>';
         });
 }
