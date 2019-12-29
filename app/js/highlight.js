@@ -32,7 +32,7 @@ function updateHighlight() {
             return;
         }
 
-        bitmapCtx.fillStyle = '#278ea5';
+        bitmapCtx.fillStyle = '#278ea5'; // From https://colorhunt.co/palette/132247
         bitmapCtx.beginPath();
         bitmapCtx.arc(d.x, d.y, radius, 0, twoPi);
         bitmapCtx.fill();
