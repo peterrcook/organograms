@@ -10,6 +10,27 @@ body {
     position: relative;
 }
 
+#header {
+    margin: 3rem 0;
+}
+
+#header h1, #header h2 {
+    font-weight: 100;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0;
+}
+
+#header h1 {
+    margin: 0.5rem 0 0;
+    font-size: 1.5rem;
+}
+
+#header h2 {
+    font-size: 0.75rem;
+    letter-spacing: 0.33rem;
+}
+
 .gallery {
     width: 100%;
     display: flex;
@@ -25,13 +46,13 @@ body {
     cursor: pointer;
 }
 
-.gallery .item:hover img {
-    opacity: 0.75;
+.gallery .item img {
+    width: 100%;
     transition: opacity 0.3s;
 }
 
-.gallery .item img {
-    width: 100%;
+.gallery .item:hover img {
+    opacity: 0.75;
     transition: opacity 0.3s;
 }
 
