@@ -84,8 +84,18 @@ body {
 #chart .close-button {
     position: fixed;
     top: 1rem;
-    right: 2rem;
-    text-align: right;
+    right: 1rem;
+    transition: opacity 0.3s;
+}
+
+#chart .close-button path {
+    stroke-width: 3;
+    stroke: #ccc;
+}
+
+#chart .close-button:hover {
+    opacity: 0.5;
+    transition: opacity 0.3s;
 }
 
 canvas {

@@ -92,7 +92,11 @@
       <canvas id="bitmap-canvas"></canvas>
       <canvas id="vector-canvas"></canvas>
       <canvas id="vector-no-transform-canvas"></canvas>
-      <div class="close-button" onclick="closeChart()">CLOSE</div>
+      <div class="close-button" onclick="closeChart()">
+        <svg width="20" height="20">
+          <path d="M-10,0 l20,0 M0,-10 l-0,20" transform="translate(10,10)rotate(45)" />
+        </svg>
+      </div>
     </div>
     <div id="info-panel">
       <table>
