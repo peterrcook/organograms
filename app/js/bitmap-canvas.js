@@ -24,7 +24,8 @@ function updateBitmapCanvas() {
         .attr('width', state.width)
         .attr('height', state.height);
 
-    bitmapCtx.clearRect(0, 0, state.width, state.height);
+    bitmapCtx.fillStyle = '#000';
+    bitmapCtx.fillRect(0, 0, state.width, state.height);
 
     var vt = state.vectorTransform;
     var bt = state.bitmapTransform;
