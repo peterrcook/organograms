@@ -113,29 +113,27 @@ canvas {
     top: 1rem;
     padding: 0.5rem;
     font-size: 1rem;
-    line-height: 1.5rem;
-    min-width: 25rem;
+    box-sizing: border-box;
+    min-width: calc(100vw - 2rem);
+    max-width: calc(100vw - 2rem);
     background-color: rgba(0, 0, 0, 0.75);
     color: #ccc;
     pointer-events: none;
     transition: opacity 0.3s;
 }
 
-#info-panel td {
-    vertical-align: middle;
+#info-panel .item {
+    margin-bottom: 0.75rem;
+    line-height: 1.25rem;
 }
 
-#info-panel td:first-child {
-    font-size: 0.6rem;
+#info-panel .item .key {
+    font-size: 0.75rem;
+    line-height: 0.75rem;
     font-weight: bold;
-    text-align: right;
-    min-width: 5rem;
     color: #999;
 }
 
-#info-panel td:last-child {
-    text-shadow: #fff 0 0 5rem;
-}
 
 @media screen and (min-width: 30em) and (max-width: 60em) {
     .gallery .item {
@@ -146,5 +144,9 @@ canvas {
 @media screen and (min-width: 60em) {
     .gallery .item {
         flex-basis: 25%;
+    }
+
+    #info-panel {
+        min-width: calc(50vw - 1rem);
     }
 }

@@ -32,12 +32,11 @@ function updateInfoPanel() {
 
     d3.select('#info-panel')
         .style('display', data ? 'block' : 'none')
-        .select('tbody')
         .selectAll('.item')
         .data(items)
-        .join('tr')
+        .join('div')
         .classed('item', true)
         .html(function(d) {
-            return '<td class="key">' + d.name.toUpperCase() + ':</td><td>' + d.value.toUpperCase() + '</td>';
+            return '<div class="key">' + d.name.toUpperCase() + '</div><div>' + d.value.toUpperCase() + '</div>';
         });
 }
