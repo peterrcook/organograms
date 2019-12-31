@@ -31,4 +31,10 @@ function init() {
     action('resize');
 }
 
+var debouncedResize = _.debounce(function() {
+    action('resize');
+}, 500);
+
+window.onresize = debouncedResize;
+
 init();

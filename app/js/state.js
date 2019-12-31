@@ -24,6 +24,7 @@ function action(type, args) {
         loadData();
         break;
     case 'deselect':
+        state.data = null;
         state.selectedId = null;
         state.hoveredData = null;
         state.bitmapTransform = d3.zoomIdentity;
@@ -41,7 +42,6 @@ function action(type, args) {
         state.links = getLinks(state.root);
         state.voronoi = updateVoronoi(state.nodes);
 
-        // updateAndCopyVectorCanvas();
         updateVectorCanvas();
         updateVectorNoTransformCanvas();
         updateBitmapCanvas();
@@ -59,6 +59,20 @@ function action(type, args) {
     case 'resize':
         state.width = window.innerWidth;
         state.height = window.innerHeight;
+
+        if(state.data) {
+            // If we use a normalised size of [2 * Math.PI, 1] in the tree layout
+            // we won't need to recompute the tree here.
+            applyTreeLayout(state.root);
+
+            state.nodes = getNodes(state.root);
+            state.links = getLinks(state.root);
+            state.voronoi = updateVoronoi(state.nodes);
+
+            updateVectorCanvas();
+            updateVectorNoTransformCanvas();
+            updateBitmapCanvas();
+        }
         break;
     case 'setVectorTransform':
         state.vectorTransform = args.transform;
