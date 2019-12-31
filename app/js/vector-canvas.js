@@ -11,8 +11,6 @@ var linkColour = '#aaa';
 var radiusScale = d3.scaleLinear().domain([1, 20]).range([2, 6]);
 
 function updateVectorCanvas() {
-    console.time('update');
-
     action('setVectorTransform', {
         transform: state.bitmapTransform
     });
@@ -64,8 +62,6 @@ function updateVectorCanvas() {
     });
 
     vectorCtx.restore();
-
-    console.timeEnd('update');
 }
 
 function updateAndCopyVectorCanvas() {
