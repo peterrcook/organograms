@@ -48,7 +48,7 @@ body {
 
 .gallery .item img {
     width: 100%;
-    transition: opacity 0.3s;
+    /* transition: opacity 0.3s; not smooth on Chrome - I don't know why */
 }
 
 .gallery .item:hover img {
