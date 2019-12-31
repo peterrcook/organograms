@@ -46,6 +46,7 @@ function action(type, args) {
         updateVectorNoTransformCanvas();
         updateBitmapCanvas();
         updateGallery();
+        resetZoom();
         break;
     case 'updateZoomTransform':
         state.hoveredData = null;
