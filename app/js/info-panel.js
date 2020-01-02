@@ -28,10 +28,11 @@ function updateInfoPanel() {
         ];
     }
 
-    console.log(data);
+    d3.select('#info-panel .title')
+        .text(state.selectedId ? datasets[state.selectedId].name : '');
 
-    d3.select('#info-panel')
-        .style('display', data ? 'block' : 'none')
+    d3.select('#info-panel .items')
+        // .style('display', data ? 'block' : 'none')
         .selectAll('.item')
         .data(items)
         .join('div')

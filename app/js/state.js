@@ -45,6 +45,7 @@ function action(type, args) {
         updateVectorCanvas();
         updateVectorNoTransformCanvas();
         updateBitmapCanvas();
+        updateInfoPanel();
         updateGallery();
         resetZoom();
         break;

@@ -107,7 +107,6 @@ canvas {
 }
 
 #info-panel {
-    display: none;
     position: fixed;
     left: 1rem;
     top: 1rem;
@@ -119,6 +118,10 @@ canvas {
     color: #ccc;
     pointer-events: none;
     transition: opacity 0.3s;
+}
+
+#info-panel .items {
+    margin-top: 1rem;
 }
 
 #info-panel .item {
