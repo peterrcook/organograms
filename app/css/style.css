@@ -120,6 +120,12 @@ canvas {
     transition: opacity 0.3s;
 }
 
+#info-panel .title {
+    color: #ccc;
+    font-weight: bold;
+    text-shadow: #eee 0 0 1rem;
+}
+
 #info-panel .items {
     margin-top: 1rem;
 }
