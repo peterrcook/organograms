@@ -15,13 +15,9 @@ function handleMousemove() {
     
     var item = state.voronoi.find(pos[0], pos[1], 10);
 
-    console.log('item', item);
-
     action('setHoveredItem', {
         item: item
     });
-
-    // console.log(item.data.data);
 }
 
 function init() {
