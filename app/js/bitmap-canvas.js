@@ -2,7 +2,6 @@ var bitmapCanvas = d3.select('#bitmap-canvas').node();
 var bitmapCtx = bitmapCanvas.getContext('2d');
 
 function updateBitmapCanvas() {
-    console.time('updateBitmapCanvas');
     if(!state.selectedId) {
         d3.select('#chart')
             .style('display', 'none');
