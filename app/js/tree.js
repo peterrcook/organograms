@@ -38,8 +38,6 @@ function getNodes(root) {
 }
 
 function getLinks(root) {
-    console.log(root.links());
-
     var links = root.links().map(function(d) {
         var ang0 = d.source.x;
         var dis0 = d.source.y;
