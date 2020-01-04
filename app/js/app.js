@@ -20,9 +20,16 @@ function handleMousemove() {
     });
 }
 
+function handleHelpButtonClick() {
+    action('showHelp');
+}
+
 function init() {
     d3.select('#chart')
         .on('mousemove', handleMousemove);
+
+    d3.select('#help-button')
+        .on('click', handleHelpButtonClick);
 
     action('resize');
 }

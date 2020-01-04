@@ -1,6 +1,7 @@
 var state = {
     width: null,
     height: null,
+    showHelp: false,
 
     selectedId: null,
     data: null,
@@ -85,6 +86,10 @@ function action(type, args) {
             updateInfoPanel();
             updateHighlight();
         }
+        break;
+    case 'showHelp':
+        state.showHelp = true;
+        updateHelpPanel();
         break;
     default:
         console.log('Unknown action', type);
