@@ -5,19 +5,12 @@ function updateBitmapCanvas() {
     console.time('updateBitmapCanvas');
     if(!state.selectedId) {
         d3.select('#chart')
-            // .transition()
-            // .style('opacity', 0)
-            // .on('end', function() {
-            //     d3.select(this)
-                    .style('display', 'none');
-            // });
+            .style('display', 'none');
         return;
     }
 
     d3.select('#chart')
         .style('display', 'inline')
-        // .transition()
-        // .duration(1000)
         .style('opacity', 1);
 
     d3.select('#bitmap-canvas')
@@ -65,6 +58,5 @@ function updateBitmapCanvas() {
     y = delta._data[1][2];
 
     bitmapCtx.drawImage(vectorCanvas, 0, 0, state.width, state.height, x, y, state.width * k, state.height * k);
-    console.timeEnd('updateBitmapCanvas');
 }
 
