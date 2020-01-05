@@ -10,8 +10,8 @@
 </head>
 
 <body>
-  <div id="wrapper">
-    <div id="gallery">
+  <div id="wrapper" class="gallery-active">
+    <div id="gallery" class="panel">
       <div class="header">
         <h1>Organograms</h1>
         <h2>UK Government</h2>
@@ -91,7 +91,7 @@
         </div>
       </div>
     </div>
-    <div id="chart">
+    <div id="chart" class="panel">
       <canvas id="bitmap-canvas"></canvas>
       <canvas id="vector-canvas"></canvas>
       <canvas id="vector-no-transform-canvas"></canvas>
@@ -108,7 +108,7 @@
     <div id="help-button">
       <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M0 0h24v24H0z" fill="none"/><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 15h-2v-6h2v6zm0-8h-2V7h2v2z"/></svg>
     </div>
-    <div id="help-panel">
+    <div id="help" class="panel">
       HELP!
     </div>
   </div>
@@ -117,7 +117,7 @@
   <script src="js/lodash.min.js"></script>
   <script src="js/math.min.js"></script>
 
-  <script src="js/gallery.js"></script>
+  <script src="js/panel.js"></script>
   <script src="js/bitmap-canvas.js"></script>
   <script src="js/vector-canvas.js"></script>
   <script src="js/vector-no-transform-canvas.js"></script>
@@ -125,7 +125,6 @@
   <script src="js/voronoi.js"></script>
   <script src="js/highlight.js"></script>
   <script src="js/info-panel.js"></script>
-  <script src="js/help-panel.js"></script>
   <script src="js/data.js"></script>
   <script src="js/state.js"></script>
   <script src="js/zoom.js"></script>

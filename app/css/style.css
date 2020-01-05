@@ -10,6 +10,22 @@ body {
     position: relative;
 }
 
+#wrapper .panel {
+    display: none;
+}
+
+#wrapper.gallery-active #gallery {
+    display: block;
+}
+
+#wrapper.chart-active #chart {
+    display: block;
+}
+
+#wrapper.help-active #help {
+    display: block;
+}
+
 #gallery {
     width: 100%;
 }
@@ -78,8 +94,6 @@ body {
     position: fixed;
     top: 0;
     left: 0;
-    opacity: 0;
-    display: none;
     background-color: #000;
 }
 
@@ -160,19 +174,8 @@ canvas {
     opacity: 0.5;
 }
 
-#help-panel {
-    display: none;
-    background-color: #000;
-    position: fixed;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
+#help {
     padding: 2rem;
-}
-
-#help-panel.active {
-    display: block;
 }
 
 @media screen and (min-width: 30em) and (max-width: 60em) {

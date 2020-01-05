@@ -31,7 +31,7 @@ function action(type, args) {
         state.bitmapTransform = d3.zoomIdentity;
         state.vectorTransform = d3.zoomIdentity;
         updateBitmapCanvas();
-        updateGallery();
+        updatePanels();
         updateInfoPanel();
         break;
     case 'newData':
@@ -47,7 +47,7 @@ function action(type, args) {
         updateVectorNoTransformCanvas();
         updateBitmapCanvas();
         updateInfoPanel();
-        updateGallery();
+        updatePanels();
         resetZoom();
         break;
     case 'updateZoomTransform':
@@ -89,7 +89,7 @@ function action(type, args) {
         break;
     case 'showHelp':
         state.showHelp = true;
-        updateHelpPanel();
+        updatePanels();
         break;
     default:
         console.log('Unknown action', type);
