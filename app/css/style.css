@@ -31,13 +31,13 @@ body {
     letter-spacing: 0.33rem;
 }
 
-.gallery {
+#gallery {
     width: 100%;
     display: flex;
     flex-wrap: wrap;
 }
 
-.gallery .item {
+#gallery .item {
     flex-basis: 100%;
     display: flex;
     flex-direction: column;
@@ -46,16 +46,16 @@ body {
     cursor: pointer;
 }
 
-.gallery .item img {
+#gallery .item img {
     width: 100%;
     /* transition: opacity 0.3s; not smooth on Chrome - I don't know why */
 }
 
-.gallery .item:hover img {
+#gallery .item:hover img {
     opacity: 0.75;
 }
 
-.gallery .item .label {
+#gallery .item .label {
     text-transform: uppercase;
     color: #aaa;
     text-align: center;
@@ -66,7 +66,7 @@ body {
     text-shadow: #fff 0 0 6rem;
 }
 
-.gallery .item:hover .label {
+#gallery .item:hover .label {
     color: #eee;
     text-shadow: #fff 0 0 1.5rem;
 }
@@ -173,13 +173,13 @@ canvas {
 }
 
 @media screen and (min-width: 30em) and (max-width: 60em) {
-    .gallery .item {
+    #gallery .item {
         flex-basis: 50%;
     }
 }
 
 @media screen and (min-width: 60em) {
-    .gallery .item {
+    #gallery .item {
         flex-basis: 25%;
     }
 }
