@@ -91,6 +91,10 @@ function action(type, args) {
         state.showHelp = true;
         updatePanels();
         break;
+    case 'hideHelp':
+        state.showHelp = false;
+        updatePanels();
+        break;
     default:
         console.log('Unknown action', type);
     }

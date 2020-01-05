@@ -6,6 +6,10 @@ function closeChart() {
     action('deselect');
 }
 
+function closeHelp() {
+    action('hideHelp');
+}
+
 function handleMousemove() {
     if(!state.selectedId) {
         return;

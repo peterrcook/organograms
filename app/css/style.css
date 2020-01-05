@@ -6,6 +6,22 @@ body {
   margin: 0;
 }
 
+.close-button {
+    position: fixed;
+    top: 1.5rem;
+    right: 1.5rem;
+    transition: opacity 0.3s;
+}
+
+.close-button path {
+    stroke-width: 3;
+    stroke: #ccc;
+}
+
+.close-button:hover {
+    opacity: 0.5;
+}
+
 #wrapper {
     position: relative;
 }
@@ -97,22 +113,6 @@ body {
     background-color: #000;
 }
 
-#chart .close-button {
-    position: fixed;
-    top: 1.5rem;
-    right: 1.5rem;
-    transition: opacity 0.3s;
-}
-
-#chart .close-button path {
-    stroke-width: 3;
-    stroke: #ccc;
-}
-
-#chart .close-button:hover {
-    opacity: 0.5;
-}
-
 canvas {
     position: absolute;
     top: 0;
@@ -164,6 +164,10 @@ canvas {
     bottom: 1rem;
     right: 1rem;
     transition: opacity 0.3s;
+}
+
+.help-active #help-button {
+    display: none;
 }
 
 #help-button svg {
