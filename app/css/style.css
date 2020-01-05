@@ -1,6 +1,6 @@
 body {
   font-family: 'Lato', sans-serif;
-  font-size: 12px;
+  font-size: 1rem;
   background-color: #000;
   color: #fff;
   margin: 0;
@@ -180,6 +180,30 @@ canvas {
 
 #help {
     padding: 2rem;
+}
+
+#help .header {
+    margin: 2rem 0;
+}
+
+#help .header h1, #help .header h2 {
+    font-weight: 100;
+    text-align: center;
+    margin: 0;
+}
+
+#help .header h1 {
+    margin: 1rem 0 0.25rem;
+    font-size: 1.75rem;
+    text-transform: uppercase;
+}
+
+#help .header h2 {
+    font-size: 1.1rem;
+    font-style: italic;
+    max-width: 30rem;
+    margin: 0.5rem auto;
+    text-align: center;
 }
 
 @media screen and (min-width: 30em) and (max-width: 60em) {
