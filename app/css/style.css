@@ -10,29 +10,32 @@ body {
     position: relative;
 }
 
-#header {
+#gallery {
+    width: 100%;
+}
+
+#gallery .header {
     margin: 3rem 0;
 }
 
-#header h1, #header h2 {
+#gallery .header h1, #gallery .header h2 {
     font-weight: 100;
     text-align: center;
     text-transform: uppercase;
     margin: 0;
 }
 
-#header h1 {
+#gallery .header h1 {
     margin: 1rem 0 0.25rem;
     font-size: 1.75rem;
 }
 
-#header h2 {
+#gallery .header h2 {
     font-size: 0.75rem;
     letter-spacing: 0.33rem;
 }
 
-#gallery {
-    width: 100%;
+#gallery .items {
     display: flex;
     flex-wrap: wrap;
 }
