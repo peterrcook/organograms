@@ -6,6 +6,16 @@ body {
   margin: 0;
 }
 
+a, a:visited {
+    color: #ccc;
+    text-decoration: underline;
+    transition: opacity 0.3s;
+}
+
+a:hover {
+    opacity: 0.5;
+}
+
 .close-button {
     position: fixed;
     top: 1.5rem;
@@ -24,6 +34,8 @@ body {
 
 #wrapper {
     position: relative;
+    max-width: 80rem;
+    margin: 0 auto;
 }
 
 #wrapper .panel {
@@ -91,6 +103,7 @@ body {
 }
 
 #gallery .item .label {
+    font-size: 0.9rem;
     text-transform: uppercase;
     color: #aaa;
     text-align: center;
@@ -205,6 +218,13 @@ canvas {
     margin: 0.5rem auto;
     text-align: center;
 }
+
+#help .content {
+    font-size: 1rem;
+    max-width: 50rem;
+    margin: 0 auto;
+}
+
 
 @media screen and (min-width: 30em) and (max-width: 60em) {
     #gallery .item {
