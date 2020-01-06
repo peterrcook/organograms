@@ -1,10 +1,10 @@
 const fs = require('fs');
 const d3 = require('d3');
 
-const size = 400;
+const size = 250;
 
 const { createCanvas } = require('canvas');
-const canvas = createCanvas(800, 800);
+const canvas = createCanvas(size * 2, size * 2);
 const ctx = canvas.getContext('2d');
 
 
@@ -50,7 +50,7 @@ function update(root) {
 
     
     // Links
-    ctx.strokeStyle = "#777";
+    ctx.strokeStyle = "#555";
     root.links().forEach(d => {
         var ang0 = d.source.x;
         var dis0 = d.source.y;
