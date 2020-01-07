@@ -225,6 +225,12 @@ canvas {
     margin: 0 auto;
 }
 
+#help .content img {
+    display: block;
+    margin: 3rem auto;
+    max-width: 100%;
+}
+
 
 @media screen and (min-width: 30em) and (max-width: 60em) {
     #gallery .item {
