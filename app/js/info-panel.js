@@ -21,7 +21,7 @@ function getItemsHtml() {
         {
             name: 'Pay range',
             // TODO: Check where 0 in data originates from
-            value: data.payCeil === '0' ? 'Unknown' : '£' + data.payFloor + ' - ' + data.payCeil
+            value: data.payCeil === '' ? '' : data.payCeil === '0' ? 'Unknown' : '£' + data.payFloor + ' - ' + data.payCeil
         }
     ];
 
@@ -41,8 +41,6 @@ function updateInfoPanel() {
 
     d3.select('#info-panel .title')
         .text(state.selectedId ? datasets[state.selectedId].name : '');
-
-    // var chartHelpText = '<div>Click and drag to pan<div><div>Scroll up/down to zoom</div><div>Use pinch and drag gestures on touchscreens</div><div>Hover over a circle for more information</div>';
 
     d3.select('#info-panel .items')
         .html(data ? getItemsHtml() : '');
