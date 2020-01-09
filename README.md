@@ -1,6 +1,6 @@
 # Organograms
 
-This app presents a gallery of organograms. Click an organogram to explore it. Pan and zoom using usual mouse or touch gestures.
+This app presents a [gallery of organograms](https://app.peterrcook.com/ukgov-organograms). Click an organogram to explore it. Pan and zoom using usual mouse or touch gestures.
 
 ## Architecture
 
@@ -18,4 +18,4 @@ The entry point is `app/js/app.js`. State is handled by `app/js/state.js`. It us
 
 `image-generation` is where the static gallery images are created.
 
-`wrangling` is where the [data](https://www.instituteforgovernment.org.uk/blog/hacking-organograms-unlocking-government-data) is cleaned and filtered. I've tried to keep this to a minimum but have had to make a few assumptions.
+`wrangling` is where the [data](https://www.instituteforgovernment.org.uk/sites/default/files/Departmental_organograms_gov.uk_data.gov_.uk_4_7_2017.xlsx) (from [here](https://www.instituteforgovernment.org.uk/blog/hacking-organograms-unlocking-government-data)) is cleaned and filtered. I've tried to keep this to a minimum but have had to make a few assumptions.
