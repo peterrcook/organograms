@@ -14,7 +14,7 @@ wrangling/
 
 `app` contains the front-end app which is built using JavaScript. Libraries include D3 (mainly for generating the tree structure). The tree is drawn on a canvas element. Currently no build tools are used. The `.js` files are just loaded one by one...
 
-The entry point is `app/js/app.js`. State is handled by `app/js/state.js`. It uses a flux style pattern (e.g. similar to redux) but without using any additional libraties.
+The entry point is `app/js/app.js`. State is handled by `app/js/state.js`. It uses a flux style pattern (e.g. similar to redux) but without using any additional libraries.
 
 `image-generation` is where the static gallery images are created.
 
