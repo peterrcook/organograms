@@ -2,6 +2,8 @@
 
 This app presents a [gallery of organograms](https://app.peterrcook.com/ukgov-organograms). Click an organogram to explore it. Pan and zoom using usual mouse or touch gestures.
 
+<img src="https://app.peterrcook.com/ukgov-organograms/img/bis.jpg" />
+
 ## Architecture
 
 This repo's directory structure is:
