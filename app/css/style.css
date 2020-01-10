@@ -174,12 +174,12 @@ canvas {
 
 #help-button {
     position: fixed;
-    bottom: 1rem;
-    right: 1rem;
+    top: 1rem;
+    left: 1rem;
     transition: opacity 0.3s;
 }
 
-.help-active #help-button {
+.help-active #help-button, .chart-active #help-button {
     display: none;
 }
 
